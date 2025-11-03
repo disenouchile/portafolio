@@ -170,6 +170,7 @@ h2 {
     align-items: center;
     opacity: 0;
     transition: opacity 0.3s ease;
+    padding: 1rem;
 }
 
 .gallery-item:hover .gallery-overlay {
@@ -179,11 +180,10 @@ h2 {
 .gallery-overlay h3 {
     color: var(--colorMediador);
     font-size: 1.1rem;
-    font-weight: 400;
+    font-weight: 700;
     margin-bottom: 5px;
     letter-spacing: 1px;
-    font-weight: bolder;
-    padding: 0 1.5rem;
+    padding: 0 1rem;
     text-align: center;
 }
 
@@ -191,7 +191,7 @@ h2 {
     color: black;
     font-size: 0.9rem;
     letter-spacing: 1px;
-    padding: 0 1.5rem;
+    padding: 0 1rem;
     text-align: center;
 }
 
