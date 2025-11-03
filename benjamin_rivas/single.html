@@ -47,8 +47,14 @@ const trabajos = [
         id: 2,
         photo: "img/02.webp",
         title: "Trapalanda",
-        course: "Trabajo Final Proyecto II</br>Profesor René Perea",
-        description: "",
+        course: "Proyecto II - 2023</br>Profesor René Perea",
+        description: `
+            <p>Realizado en conjunto con Diego Achondo, Gabriel Castillo, Felipe Gálvez, Sofia Ogaz y Sebastian Partidas.</p>
+            <hr>
+            <p>El proyecto comenzó con la creación de una imagen a partir de croquis hechos a mano de personas, animales y plantas, dando origen a una figura humanoide. A partir de esta forma, desarrollamos personajes y nació Trapalanda, una criatura cuyo origen surgió de una semilla extraterrestre que cayó en un bosque y se fusionó con un cráneo. Con el tiempo, desarrolló telequinesis y telepatía, pero fue rechazado por todos los seres vivos, lo que lo llevó a esconderse para evitar asustar a otros.</p>
+            <p>Más adelante, el proyecto tomó un nuevo rumbo al enfocarse en una experiencia sensorial basada en los cinco sentidos. Con este cambio, el personaje evolucionó a un robot en un mundo steampunk postapocalíptico, creado por un científico llamado Thomas York. En esta nueva versión, Trapalanda era una máquina con una inteligencia inquietantemente viva, indomable y peligrosa.</p>
+            <p>La experiencia sumergía al espectador en un entorno guiado por Thomas York, quien lo conducía a través de un mundo caótico lleno de mecanismos y recuerdos fragmentados. Durante el recorrido, se revelaban pistas sobre Trapalanda, desde su estado inactivo hasta su despertar. En el clímax, el científico huía aterrorizado, las luces se apagaban y Trapalanda acechaba al espectador antes de desaparecer en la oscuridad.</p>
+        `,
     },
     {
         id: 3,
@@ -118,7 +124,7 @@ const trabajos = [
                     lugar.innerHTML = `
                         <h3>${trabajo.title}</h3>
                         <h4>${trabajo.course}</h4>
-                        <p>${trabajo.description}</p>
+                        ${trabajo.description}
                         <img src="${trabajo.photo}" alt="${trabajo.title}" loading="lazy">
                     `;
                 } else {

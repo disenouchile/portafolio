@@ -224,6 +224,13 @@ section.single img{
     margin:1rem 0;
 }
 
+section.single hr {
+    border: none;
+    height: 2px;  
+    background-color: #404040; 
+    margin: 1rem 0; 
+}
+
 /* ===================
    About 
    =================== */
@@ -380,4 +387,5 @@ section.single img{
     .mugshot-frame {
         margin-right: 30px;
     }
+    
 }
