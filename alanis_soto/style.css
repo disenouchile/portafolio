@@ -193,7 +193,7 @@ h2 {
 }
 
 .gallery-overlay p {
-    color: black;
+    color: #ffffff;
     font-size: 0.9rem;
     letter-spacing: 1px;
     padding:0 1.5rem;
@@ -247,12 +247,14 @@ section.single img{
 }
 
 .about-text h3 {
+    color: white;
     font-size: 1.2rem;
     font-weight: bold;
     margin-bottom: 1rem;
 }
 
 .about-text p {
+    color: #ffffff;
     font-size: 1rem;
     margin-bottom: 1rem;
     line-height: 1.5;
@@ -266,14 +268,15 @@ section.single img{
 .about-text p a{
     font-weight: bolder;
     font-style: normal;
-    color:rgba(0,0,0,.75);
+    color:rgba(255, 255, 255, 0.75);
 }
 
 .about-text p a:hover{
-    color:rgba(0,0,0,1);
+    color:rgb(255, 255, 255);
 }
 
 .about-text ul{
+    color: white;
     list-style-position: inside;
 }
 
