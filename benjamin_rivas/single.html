@@ -1,0 +1,115 @@
+<!DOCTYPE html>
+<html lang="es">
+    <head>
+        <meta charset="UTF-8" />
+        <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+        <title>Nombre Apellido</title>
+        <link href="style.css" rel="stylesheet" />
+    </head>
+    <body>
+        <header>
+            <h1>Nombre Apellido</h1>
+            <h2>Bachiller General, mención Humanidades y Artes</h2>
+        </header>
+        <main>
+            <div class="container">
+                <nav class="nav">
+                    <a href="index.html">Portafolio</a>
+                    <a href="about.html">Sobre mí</a>
+                </nav>
+                <section class="single" id="aqui">
+                    <h3>Lorem ipsum dolor sit amet</h3>
+                    <h4>ASIGNATURA</h4>
+                    <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Phasellus ac sem ac risus rhoncus tincidunt tempor in augue. Aenean interdum mauris nibh, ut congue nisl iaculis id. Proin leo est, finibus at aliquet non, tincidunt sed ante. Nulla id erat maximus, lacinia ex sit amet, mollis lectus. Praesent mattis elit nec accumsan pellentesque. Sed tempus, purus quis hendrerit eleifend, justo orci lacinia enim, in ultricies neque ipsum eu nunc. Pellentesque scelerisque est eu euismod malesuada. Etiam lorem est, lobortis a lacus id, malesuada gravida quam. Ut gravida velit ac sapien elementum faucibus. A continuación se indican los XXXXX:</p>
+                    <img src="https://anaisvalentina.github.io/primera-nota/img/lahora.webp" loading="lazy">
+                    <img src="https://anaisvalentina.github.io/primera-nota/img/lahora.webp" loading="lazy">
+                    <img src="https://anaisvalentina.github.io/primera-nota/img/lahora.webp" loading="lazy">
+                </section>
+            </div>
+        </main>
+        <footer class="footer">
+            <p>Nombre Apellido © 2025</p>
+            <div class="social-links">
+                <a href="#">GitHub</a>
+                <a href="#">LinkedIn</a>
+            </div>
+        </footer>
+        <script>
+const trabajos = [
+    {
+        id: 1,
+        photo: "img/01.webp",
+        title: "Chaqueta-Abrigo Asimétrica",
+        course: "Trabajo Final Proyecto V</br>Profesor Pablo Nuñez",
+    },
+    {
+        id: 2,
+        photo: "img/02.webp",
+        title: "Trapalanda",
+        course: "Trabajo Final Proyecto II</br>Profesor René Perea",
+    },
+    {
+        id: 3,
+        photo: "img/03.webp",
+        title: "Microorganismo Marino",
+        course: "Trabajo Final Procesos y Prototipos II</br>Profesora Astrid Osorio",
+    },
+    {
+        id: 4,
+        photo: "img/04.webp",
+        title: "Espacio Unipersonal",
+        course: "Trabajo Ergonomía y Factores Humanos</br>Profesor Claudio Ribalta",
+    },
+    {
+        id: 5,
+        photo: "img/05.webp",
+        title: "Atypical Garden",
+        course: "Trabajo Final Proyecto III</br>Profesor Christian Basáez",
+    },
+    {
+        id: 6,
+        photo: "img/06.webp",
+        title: "Rediseño Portada",
+        course: "Trabajo Proyecto I</br>Profesor René Perea",
+    },
+    {
+        id: 7,
+        photo: "img/07.webp",
+        title: "Reinterpretación Vectorial",
+        course: "Trabajo Configuración Visual II</br>Profesor Juan Calderón",
+    },
+    {
+        id: 8,
+        photo: "img/08.webp",
+        title: "Pictograma Quiditch",
+        course: "Trabajo Configuración Visual II</br>Profesor Juan Calderón",
+    },
+];
+
+
+            document.addEventListener('DOMContentLoaded', () => {
+                const params = new URLSearchParams(window.location.search);
+                const id = params.get('id');
+                const lugar = document.querySelector("#aqui");
+
+                if (!id) {
+                    lugar.innerHTML = '<h3>No se especificó un trabajo</h3><p>Por favor, selecciona un trabajo del portafolio.</p>';
+                    return;
+                }
+
+                const trabajo = trabajos.find(t => t.id == id);
+
+                if (trabajo) {
+                    lugar.innerHTML = `
+                        <h3>${trabajo.title}</h3>
+                        <h4>${trabajo.course}</h4>
+                        <p>${trabajo.description}</p>
+                        <img src="${trabajo.photo}" alt="${trabajo.title}" loading="lazy">
+                    `;
+                } else {
+                    lugar.innerHTML = '<h3>Trabajo no encontrado</h3><p>El trabajo solicitado no existe en el portafolio.</p>';
+                }
+            });
+        </script>
+    </body>
+</html>

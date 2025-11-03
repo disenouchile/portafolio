@@ -1,0 +1,121 @@
+    <!DOCTYPE html>
+<html lang="es">
+    <head>
+        <meta charset="UTF-8" />
+        <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+        <title>Benjamín Rivas</title>
+        <link href="style.css" rel="stylesheet" />
+    </head>
+    <body>
+        <header>
+            <h1>Benjamín Rivas</h1>
+            <h2>Bachiller General, mención Humanidades y Artes</h2>
+        </header>
+        <main>
+            <div class="container">
+                <nav class="nav">
+                    <a href="index.html" class="active">Portafolio</a>
+                    <a href="about.html">Sobre mí</a>
+                </nav>
+                <section class="gallery">
+                    <div class="gallery-grid" id="aqui">
+                    </div>
+                </section>
+            </div>
+        </main>
+        <footer class="footer">
+            <p>Nombre Apellido © 2025</p>
+            <div class="social-links">
+                <a href="#">GitHub</a>
+                <a href="#">LinkedIn</a>
+            </div>
+        </footer>
+        <script>
+const trabajos = [
+    {
+        id: 1,
+        photo: "img/01.webp",
+        title: "Chaqueta-Abrigo Asimétrica",
+        course: "Proyecto V",
+    },
+    {
+        id: 2,
+        photo: "img/02.webp",
+        title: "Trapalanda",
+        course: "Proyecto II",
+    },
+    {
+        id: 3,
+        photo: "img/03.webp",
+        title: "Microorganismo Marino",
+        course: "Procesos y Prototipos II",
+    },
+    {
+        id: 4,
+        photo: "img/04.webp",
+        title: "Espacio Unipersonal",
+        course: "Ergonomía y Factores Humanos",
+    },
+    {
+        id: 5,
+        photo: "img/05.webp",
+        title: "Atypical Garden",
+        course: "Proyecto III",
+    },
+    {
+        id: 6,
+        photo: "img/06.webp",
+        title: "Rediseño Portada",
+        course: "Proyecto I",
+    },
+    {
+        id: 7,
+        photo: "img/07.webp",
+        title: "Reinterpretación Vectorial",
+        course: "Configuración Visual II",
+    },
+    {
+        id: 8,
+        photo: "img/08.webp",
+        title: "Pictograma Quiditch",
+        course: "Configuración Visual II",
+    },
+    {
+        id: 9,
+        photo: "img/09.gif",
+        title: "Unión",
+        course: "Proyecto I",
+    },
+];
+
+document.addEventListener('DOMContentLoaded', () => {
+    const lugar = document.querySelector("#aqui");
+
+    trabajos.forEach(t => {
+        const div = document.createElement('div');
+        div.className = 'gallery-item';
+        
+        const a = document.createElement('a');
+        a.href = `single.html?id=${t.id}`;
+        
+        const img = document.createElement('img');
+        img.src = t.photo;
+        img.alt = t.title;
+        img.loading = 'lazy';
+        
+        const overlay = document.createElement('div');
+        overlay.className = 'gallery-overlay';
+        overlay.innerHTML = `<h3></h3><p></p>`;
+        overlay.querySelector('h3').textContent = t.title;
+        overlay.querySelector('p').textContent = t.course;
+        
+        a.append(img, overlay);
+        div.appendChild(a);
+        lugar.appendChild(div);
+    });
+});            
+        </script>
+    </body>
+
+
+</html>
