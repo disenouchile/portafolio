@@ -1,4 +1,6 @@
-# Portafolio de Bachiller General, mención Humanidades y Artes
+# Portafolio 
+
+### Portafolio de Bachiller General, mención Humanidades y Artes
 
 | 🎓 Generación 2025 🎓 | Clase 12 |
 |:----------------|:-----:|
