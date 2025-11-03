@@ -1,0 +1,163 @@
+<!DOCTYPE html>
+<html lang="es">
+    <head>
+        <meta charset="UTF-8" />
+        <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+        <title>Nombre Apellido</title>
+        <link href="style.css" rel="stylesheet" />
+    </head>
+    <body>
+        <header>
+            <h1>María Fernanda García</h1>
+            <h2>Bachiller General, mención Humanidades y Artes</h2>
+        </header>
+        <main>
+            <div class="container">
+                <nav class="nav">
+                    <a href="index.html" class="active">Portafolio</a>
+                    <a href="about.html">Sobre mí</a>
+                </nav>
+                <section class="gallery">
+                    <div class="gallery-grid" id="aqui">
+                    </div>
+                </section>
+            </div>
+        </main>
+        <footer class="footer">
+            <p>Nombre Apellido © 2025</p>
+            <div class="social-links">
+                <a href="#">GitHub</a>
+                <a href="#">LinkedIn</a>
+            </div>
+        </footer>
+        <script>
+const trabajitos = [
+    {
+        id: 1,
+        photo: "https://github.com/marfghid/primera-nota/blob/main/imgs/vinilo%20pro.jpg",
+        title: "Vinilo desde un libro",
+        course: "Proyecto I",
+    },
+    {
+        id: 2,
+        photo: "https://milladincea.github.io/primera-nota/img/foto2.webp",
+        title: "Objeto de Luz",
+        course: "Proyecto I"
+    },
+    {
+        id: 3,
+        photo: "https://milladincea.github.io/primera-nota/img/foto3.webp",
+        title: "Reformulación de un Pictograma Olímpico",
+        course: "Configuración Visual II"
+    },
+    {
+        id: 4,
+        photo: "https://milladincea.github.io/primera-nota/img/foto4.webp",
+        title: "Infografía Sony WALKMAN",
+        course: "Configuración Visual II"
+    },
+    {
+        id: 5,
+        photo: "https://raw.githubusercontent.com/FranciscoPinoAUCh/primera-nota/refs/heads/main/img/foto-3.webp",
+        title: "Infografía Noche de Walpurgis",
+        course: "Lenguaje y Significación"
+    },
+    {
+        id: 6,
+        photo: "https://anaisvalentina.github.io/primera-nota/img//strawffee.webp",
+        title: "Infografía Forensic Architecture",
+        course: "Proyecto III",
+    },
+    {
+        id: 7,
+        photo: "https://milladincea.github.io/primera-nota/img/foto7.webp",
+        title: "Fanzine Forensic Architecture",
+        course: "Proyecto III"
+    },
+    {
+        id: 8,
+        photo: "https://milladincea.github.io/primera-nota/img/foto8.webp",
+        title: "Objeto Gráfico: Sostén",
+        course: "Proyecto III"
+    },
+    {
+        id: 9,
+        photo: "https://gilicvnz.github.io/primera-nota/img/20250907_111211.webp",
+        title: "Infografía Prenda",
+        course: "Proyecto III",
+    },
+    {
+        id: 10,
+        photo: "https://martinaurzua.github.io/primera-nota/img/paulita.webp",
+        title: "Sensacional: Identidad Gráfica",
+        course: "Procesos y Prototipos I"
+    },
+    {
+        id: 11,
+        photo: "https://martinaurzua.github.io/primera-nota/img/cebolla.webp",
+        title: "Sensacional: Packaging e Infografía",
+        course: "Procesos y Prototipos I"
+    },
+    {
+        id: 12,
+        photo: "https://martinaurzua.github.io/primera-nota/img/ensamble.webp",
+        title: "Vitaboost: Propuesta y Desarrollo",
+        course: "Comunicación del Proyecto de Diseño"
+    },
+    {
+        id: 13,
+        photo: "https://martinaurzua.github.io/primera-nota/img/guante.webp",
+        title: "Taburete Render",
+        course: "Herramientas Computacionales"
+    },
+    {
+        id: 14,
+        photo: "https://github.com/lenapereoso/primera-nota/blob/main/img/fto7.webp?raw=true",
+        title: "Máscara Render",
+        course: "Herramientas Computacionales"
+    },
+    {
+        id: 15,
+        photo: "https://martinaurzua.github.io/primera-nota/img/simbolo.webp",
+        title: "Lámpara Lottie",
+        course: "Procesos y Prototipos II"
+    },
+    {
+        id: 16,
+        photo: "https://raw.githubusercontent.com/valentinatroncoso/primera-nota/refs/heads/main/imagenes%20finales/se%C3%B1aletica.webp",
+        title: "Propuesta Gráfica y Material de Imprenta",
+        course: "Transversal FAU: Primavera 2025",
+    }           
+];
+
+document.addEventListener('DOMContentLoaded', () => {
+    const lugar = document.querySelector("#aqui");
+
+    trabajitos.forEach(t => {
+        const div = document.createElement('div');
+        div.className = 'gallery-item';
+        
+        const a = document.createElement('a');
+        a.href = `single.html?id=${t.id}`;
+        
+        const img = document.createElement('img');
+        img.src = t.photo;
+        img.alt = t.title;
+        img.loading = 'lazy';
+        
+        const overlay = document.createElement('div');
+        overlay.className = 'gallery-overlay';
+        overlay.innerHTML = `<h3></h3><p></p>`;
+        overlay.querySelector('h3').textContent = t.title;
+        overlay.querySelector('p').textContent = t.course;
+        
+        a.append(img, overlay);
+        div.appendChild(a);
+        lugar.appendChild(div);
+    });
+});            
+        </script>
+    </body>
+
+
+</html>
