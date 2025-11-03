@@ -1,33 +1,33 @@
 # Portafolio de Bachiller General, mención Humanidades y Artes
 
-| 🎓 Generación 2025 🎓 | 
-|:----------------| 
-| https://disenouchile.github.io/portafolio/alanis_soto |
-| https://disenouchile.github.io/portafolio/anais_aedo |
-| https://disenouchile.github.io/portafolio/angelina_caviedes |
-| https://disenouchile.github.io/portafolio/antonia_lara |
-| https://disenouchile.github.io/portafolio/antonia_mardones |
-| https://disenouchile.github.io/portafolio/antonia_solar |
-| https://disenouchile.github.io/portafolio/ayline_marin |
-| https://disenouchile.github.io/portafolio/bastian_petric |
-| https://disenouchile.github.io/portafolio/benjamin_rivas |
-| https://disenouchile.github.io/portafolio/camila_calquin |
-| https://disenouchile.github.io/portafolio/carol_alvarez |
-| https://disenouchile.github.io/portafolio/catalyna_dunsmore |
-| https://disenouchile.github.io/portafolio/claudio_abarca |
-| https://disenouchile.github.io/portafolio/constanza_ortega |
-| https://disenouchile.github.io/portafolio/diego_vera |
-| https://disenouchile.github.io/portafolio/fernanda_garcia |
-| https://disenouchile.github.io/portafolio/francisco_pino |
-| https://disenouchile.github.io/portafolio/giulia_pepe |
-| https://disenouchile.github.io/portafolio/javier_castillo |
-| https://disenouchile.github.io/portafolio/martina_araos |
-| https://disenouchile.github.io/portafolio/martina_urzua |
-| https://disenouchile.github.io/portafolio/millaray_dinamarca |
-| https://disenouchile.github.io/portafolio/renata_pereira |
-| https://disenouchile.github.io/portafolio/sayen_padilla |
-| https://disenouchile.github.io/portafolio/sofia_parra |
-| https://disenouchile.github.io/portafolio/valentina_avila |
-| https://disenouchile.github.io/portafolio/valentina_troncoso |
-| https://disenouchile.github.io/portafolio/veronica_soto |
-| https://disenouchile.github.io/portafolio/vicente_medina |
+| 🎓 Generación 2025 🎓 | Clase 12 |
+|:----------------|:-----:|
+| https://disenouchile.github.io/portafolio/alanis_soto | P | 
+| https://disenouchile.github.io/portafolio/anais_aedo | P | 
+| https://disenouchile.github.io/portafolio/angelina_caviedes | P | 
+| https://disenouchile.github.io/portafolio/antonia_lara | P | 
+| https://disenouchile.github.io/portafolio/antonia_mardones | P | 
+| https://disenouchile.github.io/portafolio/antonia_solar | P | 
+| https://disenouchile.github.io/portafolio/ayline_marin | P | 
+| https://disenouchile.github.io/portafolio/bastian_petric | P | 
+| https://disenouchile.github.io/portafolio/benjamin_rivas | P | 
+| https://disenouchile.github.io/portafolio/camila_calquin | P | 
+| https://disenouchile.github.io/portafolio/carol_alvarez | P | 
+| https://disenouchile.github.io/portafolio/catalyna_dunsmore | P | 
+| https://disenouchile.github.io/portafolio/claudio_abarca | P | 
+| https://disenouchile.github.io/portafolio/constanza_ortega | P | 
+| https://disenouchile.github.io/portafolio/diego_vera | P | 
+| https://disenouchile.github.io/portafolio/fernanda_garcia | P | 
+| https://disenouchile.github.io/portafolio/francisco_pino | P | 
+| https://disenouchile.github.io/portafolio/giulia_pepe | P | 
+| https://disenouchile.github.io/portafolio/javier_castillo | P | 
+| https://disenouchile.github.io/portafolio/martina_araos | P | 
+| https://disenouchile.github.io/portafolio/martina_urzua | P | 
+| https://disenouchile.github.io/portafolio/millaray_dinamarca | P | 
+| https://disenouchile.github.io/portafolio/renata_pereira | P | 
+| https://disenouchile.github.io/portafolio/sayen_padilla | P | 
+| https://disenouchile.github.io/portafolio/sofia_parra | P | 
+| https://disenouchile.github.io/portafolio/valentina_avila | P | 
+| https://disenouchile.github.io/portafolio/valentina_troncoso | P | 
+| https://disenouchile.github.io/portafolio/veronica_soto | P | 
+| https://disenouchile.github.io/portafolio/vicente_medina | P | 
