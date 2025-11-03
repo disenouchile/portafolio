@@ -5,9 +5,9 @@
    =================== */
 :root {
     --colorPrimario: rgb(208, 247, 195);
-    --colorOverlay: rgb(224, 253, 215);
+    --colorOverlay: rgba(224, 253, 215, 0.66);
     --colorSecundario: rgb(255, 209, 226);
-    --colorMediador: rgb(227, 140, 255);
+    --colorMediador: rgb(230, 83, 255);
 }
 
 * {
