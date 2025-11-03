@@ -1,0 +1,163 @@
+<!DOCTYPE html>
+<html lang="es">
+    <head>
+        <meta charset="UTF-8" />
+        <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+        <title>Nombre Apellido</title>
+        <link href="style.css" rel="stylesheet" />
+    </head>
+    <body>
+        <header>
+            <h1>Renata Pereira</h1>
+            <h2>Bachiller General, mención Humanidades y Artes</h2>
+        </header>
+        <main>
+            <div class="container">
+                <nav class="nav">
+                    <a href="index.html" class="active">Portafolio</a>
+                    <a href="about.html">Sobre mí</a>
+                </nav>
+                <section class="gallery">
+                    <div class="gallery-grid" id="aqui">
+                    </div>
+                </section>
+            </div>
+        </main>
+        <footer class="footer">
+            <p>Renata Pereira © 2025</p>
+            <div class="social-links">
+                <a href="#">GitHub</a>
+                <a href="#">LinkedIn</a>
+            </div>
+        </footer>
+        <script>
+const trabajitos = [
+    {
+        id: 1,
+        photo: "https://github.com/lenapereoso/clase-12/blob/main/fotos/IMG_1225.jpeg?raw=true",
+        title: "No tienes que tener todo resuelto",
+        course: "Proyecto III",
+    },
+    {
+        id: 2,
+        photo: "https://github.com/lenapereoso/clase-12/blob/main/fotos/IMG_1244.jpeg?raw=true",
+        title: "Packaging Little Swan",
+        course: "Procesos y Prototipos I"
+    },
+    {
+        id: 3,
+        photo: "https://github.com/lenapereoso/clase-12/blob/main/fotos/IMG_1241.jpeg?raw=truep",
+        title: "Luminaria flor de loto",
+        course: "Procesos y Prototipos II"
+    },
+    {
+        id: 4,
+        photo: "https://github.com/lenapereoso/clase-12/blob/main/fotos/IMG_1240.jpeg?raw=true",
+        title: "Narrativa fotográfica",
+        course: "Proyecto II"
+    },
+    {
+        id: 5,
+        photo: "https://github.com/lenapereoso/clase-12/blob/main/fotos/IMG_1226.jpeg?raw=true",
+        title: "Fuerza florecida",
+        course: "Proyecto III"
+    },
+    {
+        id: 6,
+        photo: "https://github.com/lenapereoso/clase-12/blob/main/fotos/IMG_1224.jpeg?raw=true",
+        title: "No sé si estoy creciendo bien. Fanzine",
+        course: "Proyecto III",
+    },
+    {
+        id: 7,
+        photo: "https://github.com/lenapereoso/clase-12/blob/main/fotos/IMG_1223.jpeg?raw=true",
+        title: "Fragmentos de aceptación",
+        course: "Proyecto III"
+    },
+    {
+        id: 8,
+        photo: "https://github.com/lenapereoso/clase-12/blob/main/fotos/IMG_1246.jpeg?raw=true",
+        title: "Retrato plasticina",
+        course: "Configuración Visual I"
+    },
+    {
+        id: 9,
+        photo: "https://github.com/lenapereoso/clase-12/blob/main/fotos/IMG_1229.jpeg?raw=true",
+        title: "Intervención orgánica",
+        course: "Proyecto II",
+    },
+    {
+        id: 10,
+        photo: "https://github.com/lenapereoso/clase-12/blob/main/fotos/IMG_1247.jpeg?raw=true",
+        title: "Formas dicotómanicas",
+        course: "Proyecto I"
+    },
+    {
+        id: 11,
+        photo: "https://github.com/lenapereoso/clase-12/blob/main/fotos/IMG_1235.jpeg?raw=true",
+        title: "Pieza ajedrez",
+        course: "Proyecto I"
+    },
+    {
+        id: 12,
+        photo: "https://github.com/lenapereoso/clase-12/blob/main/fotos/IMG_1251.jpeg?raw=true",
+        title: "Fantasía industrial",
+        course: "Representación Conceptual"
+    },
+    {
+        id: 13,
+        photo: "https://github.com/lenapereoso/clase-12/blob/main/fotos/IMG_1249.jpeg?raw=true",
+        title: "Zorro de metal",
+        course: "Procesos y Prototipos II"
+    },
+    {
+        id: 14,
+        photo: "https://github.com/lenapereoso/primera-nota/blob/main/img/fto7.webp?raw=true",
+        title: "Cubos en perspectiva y color",
+        course: "Configuración Visual I"
+    },
+    {
+        id: 15,
+        photo: "https://github.com/lenapereoso/clase-12/blob/main/fotos/IMG_1230.jpeg?raw=true",
+        title: "Síntesis animal",
+        course: "Representación Conceptual"
+    },
+    {
+        id: 16,
+        photo: "https://github.com/lenapereoso/clase-12/blob/main/fotos/IMG_1234.jpeg?raw=true",
+        title: "Tiernos invasores",
+        course: "Representación Conceptual",
+    }           
+];
+
+document.addEventListener('DOMContentLoaded', () => {
+    const lugar = document.querySelector("#aqui");
+
+    trabajitos.forEach(t => {
+        const div = document.createElement('div');
+        div.className = 'gallery-item';
+        
+        const a = document.createElement('a');
+        a.href = `single.html?id=${t.id}`;
+        
+        const img = document.createElement('img');
+        img.src = t.photo;
+        img.alt = t.title;
+        img.loading = 'lazy';
+        
+        const overlay = document.createElement('div');
+        overlay.className = 'gallery-overlay';
+        overlay.innerHTML = `<h3></h3><p></p>`;
+        overlay.querySelector('h3').textContent = t.title;
+        overlay.querySelector('p').textContent = t.course;
+        
+        a.append(img, overlay);
+        div.appendChild(a);
+        lugar.appendChild(div);
+    });
+});            
+        </script>
+    </body>
+
+
+</html>
