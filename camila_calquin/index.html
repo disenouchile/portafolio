@@ -1,0 +1,164 @@
+<!DOCTYPE html>
+<html lang="es">
+    <head>
+        <meta charset="UTF-8" />
+        <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+        <title>Camila Calquín</title>
+        <link href="style.css" rel="stylesheet" />
+    </head>
+    <body>
+        <header>
+            <h1>Camila Calquín</h1>
+            <h2>Bachiller General, mención Humanidades y Artes</h2>
+        </header>
+        <main>
+            <div class="container">
+                <nav class="nav">
+                    <a href="index.html" class="active">Portafolio</a>
+                    <a href="about.html">Sobre mí</a>
+                </nav>
+                <section class="gallery">
+                    <div class="gallery-grid" id="aqui">
+                    </div>
+                </section>
+            </div>
+        </main>
+        <footer class="footer">
+            <p>Camila Calquín © 2025</p>
+            <div class="social-links">
+                <a href="#">GitHub</a>
+                <a href="#">LinkedIn</a>
+            </div>
+        </footer>
+        <script>
+const trabajitos = [
+    {
+        id: 1,
+        photo: "https://camila-calquin.github.io/primera-nota/img/alcachofamini.webp",
+        title: "Análisis de la alcachofa",
+        course: "Proyecto I",
+       
+    },
+    {
+        id: 2,
+        photo: "https://camila-calquin.github.io/fotos/hc prueba 2/Gemini_Generated_Image_8s2ur98s2ur98s2u.png",
+        title: "Cápsula del tiempo",
+        course: "Proyecto II",
+    },
+    {
+        id: 3,
+        photo: "https://camila-calquin.github.io/fotos/hc prueba 2/Gemini_Generated_Image_6kb0ca6kb0ca6kb0.png",
+        title: "Ensambles en pino",
+        course: "Procesos y prototipos II",
+    },
+    {
+        id: 4,
+        photo: "https://camila-calquin.github.io/fotos/hc prueba 2/Gemini_Generated_Image_jib6mvjib6mvjib6.png",
+        title: "Identidad Floramor",
+        course: "Procesos y prototipos I",
+    },
+    {
+        id: 5,
+        photo: "https://camila-calquin.github.io/primera-nota/img/graficatelefonomini.webp",
+        title: "Gráfica de teléfono",
+        course: "Configuración visual II",
+    },
+    {
+        id: 6,
+        photo: "https://camila-calquin.github.io/primera-nota/img/kimonomini.webp",
+        title: "Infografía kimono",
+        course: "Proyecto III",
+    },
+    {
+        id: 7,
+        photo: "https://camila-calquin.github.io/primera-nota/img/moddismini.webp",
+        title: "Producto Moddis",
+        course: "Comunicación del proyecto de diseño",
+    },
+    {
+        id: 8,
+        photo: "https://camila-calquin.github.io/primera-nota/img/modulosmini.webp",
+        title: "Módulo",
+        course: "Configuración visual II"
+    },
+    {
+        id: 9,
+        photo: "https://camila-calquin.github.io/fotos/hc prueba 2/Gemini_Generated_Image_fswwoafswwoafsww.png",
+        title: "Residuos de barrio",
+        course: "Proyecto III",
+    },
+    {
+        id: 10,
+        photo: "https://camila-calquin.github.io/fotos/minis/basicosforma.webp",
+        title: "Elementos básicos de la forma",
+        course: "Proyecto I"
+    },
+    {
+        id: 11,
+        photo: "https://camila-calquin.github.io/fotos/minis/gestalt.webp",
+        title: "Leyes de la gestalt",
+        course: "Proyecto I"
+    },
+    {
+        id: 12,
+        photo: "https://camila-calquin.github.io/fotos/minis/logo.webp",
+        title: "Logo personal",
+        course: "Configuración visual I"
+    },
+    {
+        id: 13,
+        photo: "https://camila-calquin.github.io/fotos/minis/metal.webp",
+        title: "Prototipo lámpara de metal",
+        course: "Procesos y prototipos II"
+    },
+    {
+        id: 14,
+        photo: "https://camila-calquin.github.io/fotos/minis/taburete.webp",
+        title: "Taburete de raulí y álamo",
+        course: "Procesos y prototipos II"
+    },
+    {
+        id: 15,
+        photo: "https://camila-calquin.github.io/fotos/minis/transportador.webp",
+        title: "Transportador pieza única",
+        course: "Proyecto IV"
+    },
+    {
+        id: 16,
+        photo: "https://camila-calquin.github.io/fotos/minis/volantin.webp",
+        title: "Volantín con módulo",
+        course: "Proyecto IV",
+    }           
+];
+
+document.addEventListener('DOMContentLoaded', () => {
+    const lugar = document.querySelector("#aqui");
+
+    trabajitos.forEach(t => {
+        const div = document.createElement('div');
+        div.className = 'gallery-item';
+        
+        const a = document.createElement('a');
+        a.href = `single.html?id=${t.id}`;
+        
+        const img = document.createElement('img');
+        img.src = t.photo;
+        img.alt = t.title;
+        img.loading = 'lazy';
+        
+        const overlay = document.createElement('div');
+        overlay.className = 'gallery-overlay';
+        overlay.innerHTML = `<h3></h3><p></p>`;
+        overlay.querySelector('h3').textContent = t.title;
+        overlay.querySelector('p').textContent = t.course;
+        
+        a.append(img, overlay);
+        div.appendChild(a);
+        lugar.appendChild(div);
+    });
+});            
+        </script>
+    </body>
+
+
+</html>
