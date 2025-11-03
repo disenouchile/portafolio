@@ -148,7 +148,7 @@ h2 {
     height: 100%;
     object-fit: cover;
     transition: opacity 0.3s ease;
-    aspect-ratio: 1 / 1;
+    aspect-ratio: 1 / 1.35;
 }
 
 .gallery-item:hover img {
