@@ -5,7 +5,7 @@
    =================== */
 :root {
     --colorPrimario: #6BC7BB;
-    --colorOverlay: rgba(53, 70, 68, 0.46);
+    --colorOverlay: rgba(53, 70, 68, 0.8);
     --colorSecundario: #dfe4e4;
     --colorMediador: #1E3330;
 }
@@ -101,7 +101,7 @@ h2 {
 }
 
 .nav a:hover {
-    color: #dfe4e4;
+    color: #6BC7BB;
     transform: translate(4px, 4px);
     box-shadow: 8px 8px 0 #6BC7BB;
 }
