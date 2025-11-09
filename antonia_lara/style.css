@@ -1,4 +1,9 @@
 @import url("https://fonts.googleapis.com/css2?family=Climate+Crisis&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=Metal+Mania&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=Special+Elite&display=swap");
+
+
+
 
 /* ===================
    Variables y Reset
@@ -54,15 +59,16 @@ main {
    =================== */
 h1,
 h2 {
-    font-family: "Climate Crisis", sans-serif;
-    font-weight: 400;
+     font-family: "Metal Mania", system-ui;
+  font-weight: 1000;
+  font-style: normal;
     line-height: 1.1;
     position: relative;
     z-index: 1;
 }
 
 h1 {
-    font-size: calc(1.2rem + 3vw);
+    font-size: 6rem;
     margin-bottom: 1rem;
     text-transform: uppercase;
 }
@@ -81,9 +87,11 @@ h2 {
 }
 
 .nav a {
-    font-family: "Climate Crisis", sans-serif;
+    font-family: "Metal Mania", system-ui;
+    font-weight: 1000;
+  font-style: normal;
     letter-spacing: 2px;
-    font-size: calc(0.6rem + 0.6vw);
+    font-size: 1.5rem;
     background-color: rgba(156,160,171,9);
     color: rgba(0,0,0,9);
     border: 6px solid #000;
@@ -187,9 +195,9 @@ h2 {
 }
 
 .gallery-overlay p {
-    color: rgba(240,244,245,9);
+    color: rgba(240,244,245,9)
     font-size: 0.9rem;
-    letter-spacing: 1px;
+    letter-spacing:1px;
     padding:0 1.5rem;
     text-align: center;
 }
