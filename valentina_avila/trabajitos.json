@@ -1,15 +1,15 @@
 [
     {
         "id": 1,
-        "photo": "https://raw.githubusercontent.com/anaisvalentina/imagenes/refs/heads/main/te.webp",
-        "title": "La hora de conectarnos",
-        "course": "Proyecto III",
+        "photo": "https://raw.githubusercontent.com/disenouchile/portafolio/main/valentina_avila/Img/Proceso%20y%20Prototipo%20I.webp",
+        "title": "Frumi",
+        "course": "Proceso y prototipo I",
         "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed rutrum hendrerit lorem. Curabitur sodales feugiat libero. Nullam in lorem ut sem tempor accumsan nec vitae lacus. Sed vel finibus ex, quis euismod lorem. Aliquam eget leo sapien. Proin velit diam, suscipit vitae mi vel, laoreet finibus nisl. Pellentesque a purus eleifend, congue ante nec, aliquam risus.",
         "gallery": "https://raw.githubusercontent.com/profesorfaco/herramientas/refs/heads/main/clase-13/gallery.webp"
     },
     {
         "id": 2,
-        "photo": "https://raw.githubusercontent.com/anaisvalentina/imagenes/refs/heads/main/marca.webp",
+        "photo": "https://raw.githubusercontent.com/disenouchile/portafolio/main/valentina_avila/Img/Poyecto%20lV%20(blanco).webp",
         "title": "Marca Personal",
         "course": "Proyecto II",
         "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed rutrum hendrerit lorem. Curabitur sodales feugiat libero. Nullam in lorem ut sem tempor accumsan nec vitae lacus. Sed vel finibus ex, quis euismod lorem. Aliquam eget leo sapien. Proin velit diam, suscipit vitae mi vel, laoreet finibus nisl. Pellentesque a purus eleifend, congue ante nec, aliquam risus.",
@@ -17,7 +17,7 @@
     },
     {
         "id": 3,
-        "photo": "https://raw.githubusercontent.com/anaisvalentina/imagenes/refs/heads/main/cartera.webp",
+        "photo": "https://raw.githubusercontent.com/disenouchile/portafolio/main/valentina_avila/Img/Ergonom%C3%ADa-%20paso%201.webp",
         "title": "Reflaura",
         "course": "Proyecto III",
         "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed rutrum hendrerit lorem. Curabitur sodales feugiat libero. Nullam in lorem ut sem tempor accumsan nec vitae lacus. Sed vel finibus ex, quis euismod lorem. Aliquam eget leo sapien. Proin velit diam, suscipit vitae mi vel, laoreet finibus nisl. Pellentesque a purus eleifend, congue ante nec, aliquam risus.",
@@ -25,7 +25,7 @@
     },
     {
         "id": 4,
-        "photo": "https://raw.githubusercontent.com/anaisvalentina/imagenes/refs/heads/main/fanzine.webp",
+        "photo": "https://raw.githubusercontent.com/disenouchile/portafolio/main/valentina_avila/Img/Proceso%20y%20prototipo%20(blanco).webp",
         "title": "No es violencia, es resistencia",
         "course": "Proyecto III",
         "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed rutrum hendrerit lorem. Curabitur sodales feugiat libero. Nullam in lorem ut sem tempor accumsan nec vitae lacus. Sed vel finibus ex, quis euismod lorem. Aliquam eget leo sapien. Proin velit diam, suscipit vitae mi vel, laoreet finibus nisl. Pellentesque a purus eleifend, congue ante nec, aliquam risus.",
@@ -33,7 +33,7 @@
     },
     {
         "id": 5,
-        "photo": "https://raw.githubusercontent.com/anaisvalentina/imagenes/refs/heads/main/detalle.webp",
+        "photo": "https://raw.githubusercontent.com/disenouchile/portafolio/main/valentina_avila/Img/Proyecto%20II.webp",
         "title": "Perfección",
         "course": "Proyecto I",
         "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed rutrum hendrerit lorem. Curabitur sodales feugiat libero. Nullam in lorem ut sem tempor accumsan nec vitae lacus. Sed vel finibus ex, quis euismod lorem. Aliquam eget leo sapien. Proin velit diam, suscipit vitae mi vel, laoreet finibus nisl. Pellentesque a purus eleifend, congue ante nec, aliquam risus.",
@@ -41,7 +41,7 @@
     },
     {
         "id": 6,
-        "photo": "https://anaisvalentina.github.io/primera-nota/img//strawffee.webp",
+        "photo": "https://raw.githubusercontent.com/disenouchile/portafolio/main/valentina_avila/Img/Proyecto%203.webp",
         "title": "Strawffee",
         "course": "Proyecto II",
         "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed rutrum hendrerit lorem. Curabitur sodales feugiat libero. Nullam in lorem ut sem tempor accumsan nec vitae lacus. Sed vel finibus ex, quis euismod lorem. Aliquam eget leo sapien. Proin velit diam, suscipit vitae mi vel, laoreet finibus nisl. Pellentesque a purus eleifend, congue ante nec, aliquam risus.",
