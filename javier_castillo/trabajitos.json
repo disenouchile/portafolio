@@ -1,17 +1,17 @@
 [
     {
-        id: 1,
-        photo: "https://raw.githubusercontent.com/javvierCC/primera-nota/refs/heads/main/img/tarot.webp",
-        title: "Tarot Tématico",
-        course: "Representación Conceptual",
+        "id": 1,
+        "photo": "https://raw.githubusercontent.com/javvierCC/primera-nota/refs/heads/main/img/tarot.webp",
+        "title": "Tarot Tématico",
+        "course": "Representación Conceptual",
         "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed rutrum hendrerit lorem. Curabitur sodales feugiat libero. Nullam in lorem ut sem tempor accumsan nec vitae lacus. Sed vel finibus ex, quis euismod lorem. Aliquam eget leo sapien. Proin velit diam, suscipit vitae mi vel, laoreet finibus nisl. Pellentesque a purus eleifend, congue ante nec, aliquam risus.",
         "gallery": "https://raw.githubusercontent.com/profesorfaco/herramientas/refs/heads/main/clase-13/gallery.webp"
     },
     {
-        id: 2,
-        photo: "https://raw.githubusercontent.com/javvierCC/primera-nota/refs/heads/main/img/to%20your%20eternity%20comprimido.webp",
-        title: "Portada Vinilo",
-        course: "Proyecto I",
+        "id": 2,
+        "photo": "https://raw.githubusercontent.com/javvierCC/primera-nota/refs/heads/main/img/to%20your%20eternity%20comprimido.webp",
+        "title": "Portada Vinilo",
+        "course": "Proyecto I",
         "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed rutrum hendrerit lorem. Curabitur sodales feugiat libero. Nullam in lorem ut sem tempor accumsan nec vitae lacus. Sed vel finibus ex, quis euismod lorem. Aliquam eget leo sapien. Proin velit diam, suscipit vitae mi vel, laoreet finibus nisl. Pellentesque a purus eleifend, congue ante nec, aliquam risus.",
         "gallery": "https://raw.githubusercontent.com/profesorfaco/herramientas/refs/heads/main/clase-13/gallery.webp"
     },
