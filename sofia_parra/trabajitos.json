@@ -51,7 +51,7 @@
         "id": 9,
         "photo": "https://raw.githubusercontent.com/SofiaParraLunaUCH/fotos/refs/heads/main/fotos/foto%207.jpg",
         "title": "Bocetos análisis de una plata a partir de una semilla",
-        "course": "Proyecto I",
+        "course": "Proyecto I"
     },
     {
         "id": 10,
@@ -93,6 +93,6 @@
         "id": 16,
         "photo": "https://raw.githubusercontent.com/SofiaParraLunaUCH/fotos/refs/heads/main/fotos/foto%2016.png",
         "title": "Logo Juego Olimpico",
-        "course": "Configuración Visual II",
+        "course": "Configuración Visual II"
     }           
 ]
