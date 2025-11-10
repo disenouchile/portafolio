@@ -178,7 +178,7 @@ h2 {
 
 .gallery-overlay h3 {
     color: var(--colorPrimario);
-    font-size: 1.4rem;
+    font-size: 1.1rem;
     font-weight: 400;
     margin-bottom: 5px;
     letter-spacing: 1px;
@@ -189,7 +189,7 @@ h2 {
 
 .gallery-overlay p {
     color: black;
-    font-size: 1.4rem;
+    font-size: 0.9rem;
     letter-spacing: 1px;
     padding:0 1.5rem;
     text-align: center;
