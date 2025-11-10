@@ -3,12 +3,12 @@
     <head>
         <meta charset="UTF-8" />
         <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-        <title>Alanis Soto</title>
+        <title>Nombre Apellido</title>
         <link href="style.css" rel="stylesheet" />
     </head>
     <body>
         <header>
-            <h1>Alanis Soto</h1>
+            <h1>Nombre Apellido</h1>
             <h2>Bachiller General, mención Humanidades y Artes</h2>
         </header>
         <main>
@@ -18,146 +18,64 @@
                     <a href="about.html">Sobre mí</a>
                 </nav>
                 <section class="gallery">
-                    <div class="gallery-grid" id="aqui">
-                    </div>
+                    <div class="gallery-grid" id="aqui"></div>
                 </section>
             </div>
         </main>
         <footer class="footer">
-            <p>Alanis Soto © 2025</p>
+            <p>Nombre Apellido © 2025</p>
             <div class="social-links">
                 <a href="#">GitHub</a>
                 <a href="#">LinkedIn</a>
             </div>
         </footer>
         <script>
-const trabajitos = [
-    {
-        id: 1,
-        photo: "Fotos/moneda.webp",
-        title: "Intervención en Moneda",
-        course: "Proyecto II",
-    },
-    {
-        id: 2,
-        photo: "Fotos/kutral.webp",
-        title: "Ritual kÜtral",
-        course: "Proyecto"
-    },
-    {
-        id: 3,
-        photo: "Fotos/lamina.webp",
-        title: "La unión hace la junta",
-        course: "Proyecto"
-    },
-    {
-        id: 4,
-        photo: "Fotos/ergonomia.webp",
-        title: "Mesa para trabajos",
-        course: "Ergonomia"
-    },
-    {
-        id: 5,
-        photo: "Fotos/mockup.webp",
-        title: "Mockup ilum Bar",
-        course: "Procesos y prototipos I"
-    },
-    {
-        id: 6,
-        photo: "Fotos/Proyecto_2.webp",
-        title: "Diente de leon",
-        course: "Proyecto II",
-    },
-    {
-        id: 7,
-        photo: "Fotos/rp.webp",
-        title: "Venganza",
-        course: "Representación Conceptual"
-    },
-    {
-        id: 8,
-        photo: "Fotos/matriz.webp",
-        title: "Analisis de la Alcachofa",
-        course: "Proyecto I"
-    },
-    {
-        id: 9,
-        photo: "Fotos/proyecto_1.jpeg",
-        title: "Representación 2 colores",
-        course: "Proyecto I",
-    },
-    {
-        id: 10,
-        photo: "Fotos/pyp2.jpeg",
-        title: "Exploración en cartón",
-        course: "Procesos y prototipos II"
-    },
-    {
-        id: 11,
-        photo: "Fotos/samsa.jpeg",
-        title: "Logo Samsa",
-        course: "Proyecto III"
-    },
-    {
-        id: 12,
-        photo: "Fotos/foto de cartas.png",
-        title: "Tarot de Terror",
-        course: "Representación Conceptual"
-    },
-    {
-        id: 13,
-        photo: "Fotos/chupacabras.png",
-        title: "Chupacabras",
-        course: "Proyecto III"
-    },
-    {
-        id: 14,
-        photo: "Fotos/olimpiadas.png",
-        title: "Pictograma Judo",
-        course: "Configuración Visual II"
-    },
-    {
-        id: 15,
-        photo: "Fotos/guatitallena.jpeg",
-        title: "Recetario guatita llena",
-        course: "Proyecto IV"
-    },
-    {
-        id: 16,
-        photo: "Fotos/retrato.png",
-        title: "AutoRetrato collage",
-        course: "Representación Conceptual",
-    }           
-];
+            const portfolio = document.querySelector("#aqui");
 
-document.addEventListener('DOMContentLoaded', () => {
-    const lugar = document.querySelector("#aqui");
+            async function datos(raw) {
+                try {
+                    let consulta = await fetch(raw);
+                    if (consulta.status === 429) {
+                        await new Promise((resolve) => setTimeout(resolve, 2000));
+                        consulta = await fetch(raw);
+                    }
+                    let trabajitos = await consulta.json();
+                    console.log(trabajitos);
 
-    trabajitos.forEach(t => {
-        const div = document.createElement('div');
-        div.className = 'gallery-item';
-        
-        const a = document.createElement('a');
-        a.href = `single.html?id=${t.id}`;
-        
-        const img = document.createElement('img');
-        img.src = t.photo;
-        img.alt = t.title;
-        img.loading = 'lazy';
-        
-        const overlay = document.createElement('div');
-        overlay.className = 'gallery-overlay';
-        overlay.innerHTML = `<h3></h3><p></p>`;
-        overlay.querySelector('h3').textContent = t.title;
-        overlay.querySelector('p').textContent = t.course;
-        
-        a.append(img, overlay);
-        div.appendChild(a);
-        lugar.appendChild(div);
-    });
-});            
+                    trabajitos.forEach((t) => {
+                        const div = document.createElement("div");
+                        div.className = "gallery-item";
+
+                        const a = document.createElement("a");
+                        a.href = `single.html?id=${t.id}`;
+
+                        const img = document.createElement("img");
+                        img.src = t.photo;
+                        img.alt = t.title;
+                        img.loading = "lazy";
+
+                        const overlay = document.createElement("div");
+                        overlay.className = "gallery-overlay";
+                        overlay.innerHTML = `<h3></h3><p></p>`;
+                        overlay.querySelector("h3").textContent = t.title;
+                        overlay.querySelector("p").textContent = t.course;
+
+                        a.append(img, overlay);
+                        div.appendChild(a);
+                        portfolio.appendChild(div);
+                    });
+                } catch (error) {
+                    console.error("Error al cargar los datos:", error);
+                }
+            }
+
+            if (document.readyState === "loading") {
+                document.addEventListener("DOMContentLoaded", () => {
+                    datos("trabajitos.json");
+                });
+            } else {
+                datos("trabajitos.json");
+            }
         </script>
     </body>
-
-
 </html>

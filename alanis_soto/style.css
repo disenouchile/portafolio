@@ -1,13 +1,13 @@
-@import url("https://fonts.googleapis.com/css2?family=Boogaloo&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=Climate+Crisis&display=swap");
 
 /* ===================
    Variables y Reset
    =================== */
 :root {
-    --colorPrimario: rgba(245, 192, 43, 0.9);
-    --colorOverlay: rgba(245, 122, 0, 0.6);
-    --colorSecundario: rgba(53, 89, 161);
-    --colorMediador: rgba(80,77,55);
+    --colorPrimario: rgba(0,255,255,1);
+    --colorOverlay: rgba(0,255,255,0.9);
+    --colorSecundario: rgba(255,255,0,1);
+    --colorMediador: rgba(255,0,255,1);
 }
 
 * {
@@ -52,19 +52,13 @@ main {
 /* ===================
    Header
    =================== */
-h1,.boogaloo-regular {
-  font-family: "Boogaloo", sans-serif;
-  font-weight: 400;
-  font-style: normal;
-}
-
+h1,
 h2 {
-  .boogaloo-regular {
-  font-family: "Boogaloo", sans-serif;
-  font-weight: 400;
-  font-style: normal;
-}
-
+    font-family: "Climate Crisis", sans-serif;
+    font-weight: 400;
+    line-height: 1.1;
+    position: relative;
+    z-index: 1;
 }
 
 h1 {
@@ -193,7 +187,7 @@ h2 {
 }
 
 .gallery-overlay p {
-    color: #ffffff;
+    color: black;
     font-size: 0.9rem;
     letter-spacing: 1px;
     padding:0 1.5rem;
@@ -247,14 +241,12 @@ section.single img{
 }
 
 .about-text h3 {
-    color: white;
     font-size: 1.2rem;
     font-weight: bold;
     margin-bottom: 1rem;
 }
 
 .about-text p {
-    color: #ffffff;
     font-size: 1rem;
     margin-bottom: 1rem;
     line-height: 1.5;
@@ -268,15 +260,14 @@ section.single img{
 .about-text p a{
     font-weight: bolder;
     font-style: normal;
-    color:rgba(255, 255, 255, 0.75);
+    color:rgba(0,0,0,.75);
 }
 
 .about-text p a:hover{
-    color:rgb(255, 255, 255);
+    color:rgba(0,0,0,1);
 }
 
 .about-text ul{
-    color: white;
     list-style-position: inside;
 }
 
@@ -391,4 +382,13 @@ section.single img{
     .mugshot-frame {
         margin-right: 30px;
     }
+}
+
+#alerta{
+    text-align: center;
+}
+
+#alerta p{
+    font-size:110%;
+    font-weight: bold;
 }
