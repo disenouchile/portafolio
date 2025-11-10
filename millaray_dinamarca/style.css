@@ -1,13 +1,13 @@
-@import url("https://fonts.googleapis.com/css2?family=Climate+Crisis&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=Bebas+Neue&family=Jost:ital,wght@0,100..900;1,100..900&family=Rubik+Mono+One&display=swap");
 
 /* ===================
    Variables y Reset
    =================== */
 :root {
-    --colorPrimario: rgba(0,255,255,1);
-    --colorOverlay: rgba(0,255,255,0.9);
-    --colorSecundario: rgba(255,255,0,1);
-    --colorMediador: rgba(242,87,160,1);
+    --colorPrimario: rgba(242,235,196,1);
+    --colorOverlay: rgba(242,29,29,0.9);
+    --colorSecundario: rgb(255, 202, 221);
+    --colorMediador: rgba(217,35,101,1);
 }
 
 * {
@@ -20,7 +20,8 @@
    Base
    =================== */
 body {
-    font-family: "Helvetica", "Arial", sans-serif;
+    font-family: "Jost", sans-serif;
+    font-optical-sizing: auto;
     line-height: 1.6;
     color: rgba(0,0,0,.9);
     background-color: #000;
@@ -54,7 +55,7 @@ main {
    =================== */
 h1,
 h2 {
-    font-family: "Climate Crisis", sans-serif;
+    font-family: "Bebas Neue", sans-serif;
     font-weight: 400;
     line-height: 1.1;
     position: relative;
@@ -62,13 +63,13 @@ h2 {
 }
 
 h1 {
-    font-size: calc(1.2rem + 3vw);
+    font-size: 3rem;
     margin-bottom: 1rem;
     text-transform: uppercase;
 }
 
 h2 {
-    font-size: calc(0.9rem + 0.9vw);
+    font-size: 1.4rem;
     margin-bottom: 30px;
 }
 
@@ -81,13 +82,13 @@ h2 {
 }
 
 .nav a {
-    font-family: "Climate Crisis", sans-serif;
+    font-family: "Bebas Neue", sans-serif;
     letter-spacing: 2px;
-    font-size: calc(0.6rem + 0.6vw);
+    font-size: 1.1rem;
     background-color: var(--colorMediador);
     color: rgba(0,0,0,.9);
-    border: 6px solid #000;
-    padding: 25px 50px;
+    border: 5px solid #000;
+    padding: 20px 45px;
     text-transform: uppercase;
     cursor: pointer;
     box-shadow: 12px 12px 0 #000;
@@ -176,8 +177,8 @@ h2 {
 }
 
 .gallery-overlay h3 {
-    color: var(--colorMediador);
-    font-size: 1.1rem;
+    color: var(--colorPrimario);
+    font-size: 1.4rem;
     font-weight: 400;
     margin-bottom: 5px;
     letter-spacing: 1px;
@@ -188,7 +189,7 @@ h2 {
 
 .gallery-overlay p {
     color: black;
-    font-size: 0.9rem;
+    font-size: 1.4rem;
     letter-spacing: 1px;
     padding:0 1.5rem;
     text-align: center;
