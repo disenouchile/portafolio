@@ -3,12 +3,12 @@
     <head>
         <meta charset="UTF-8" />
         <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-        <title>Ayline Marín</title>
+        <title>Nombre Apellido</title>
         <link href="style.css" rel="stylesheet" />
     </head>
     <body>
         <header>
-            <h1>Ayline Marín</h1>
+            <h1>Nombre Apellido</h1>
             <h2>Bachiller General, mención Humanidades y Artes</h2>
         </header>
         <main>
@@ -18,20 +18,18 @@
                     <a href="about.html">Sobre mí</a>
                 </nav>
                 <section class="gallery">
-                    <div class="gallery-grid" id="aqui">
-                    </div>
+                    <div class="gallery-grid" id="aqui"></div>
                 </section>
             </div>
         </main>
         <footer class="footer">
-            <p>Ayline Marín © 2025</p>
+            <p>Nombre Apellido © 2025</p>
             <div class="social-links">
                 <a href="#">GitHub</a>
                 <a href="#">LinkedIn</a>
             </div>
         </footer>
         <script>
-
             const portfolio = document.querySelector("#aqui");
 
             async function datos(raw) {
@@ -73,11 +71,11 @@
 
             if (document.readyState === "loading") {
                 document.addEventListener("DOMContentLoaded", () => {
-                    datos("https://raw.githubusercontent.com/disenouchile/portafolio/refs/heads/main/portafolio/ayline_marin/trabajitos.json");
+                    datos("https://raw.githubusercontent.com/disenouchile/portafolio/refs/heads/main/ayline_marin/trabajitos.json");
                 });
             } else {
-                datos("https://raw.githubusercontent.com/disenouchile/portafolio/refs/heads/main/portafolio/ayline_marin/trabajitos.json");
+                datos("https://raw.githubusercontent.com/disenouchile/portafolio/refs/heads/main/ayline_marin/trabajitos.json");
             }
         </script>
-
+    </body>
 </html>
