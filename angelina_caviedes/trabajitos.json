@@ -1,257 +1,130 @@
 [
-    {
-        "id":1,
-        "photo": "https://gilicvnz.github.io/primera-nota/img/20250505_112837 (4).webp",
-        "title": "Cuente de Barista",
-        "course": "Ergonomia",
-        "description": "Descripcion pendiente de el trabajo",
-        "gallery": ""
-    },
-    {
-        id: 2,
-        "photo": "https://gilicvnz.github.io/primera-nota/img/20250505_112837 (2) (1).webp",
-        "title": "No Pareces",
-        "course": "Proyecto III",
-        "description": "Descripcion pendiente de el trabajo",
-        "gallery": ""
-    },
-    {
-        id: 3,
-        "photo":  "https://gilicvnz.github.io/primera-nota/img/20250505_112837 (1) (1).webp",
-        "title": "Cartas Tarot Anne with an E",
-        "course": "Representación Conceptual",
-        "description": "Descripcion pendiente de el trabajo",
-        "gallery": ""
-    },
-    {
-        id: 4,
-        "photo": "https://gilicvnz.github.io/primera-nota/img/20241011_125617.webp",
-        "title": "Historytelling",
-        "course": "Proyecto II",
-        "description": "Descripcion pendiente de el trabajo",
-        "gallery": ""
-    },
-    {
-        id: 5,
-        "photo":  "https://gilicvnz.github.io/primera-nota/img/20250613_112906 (1) (1).webp",
-        "title": "La ropa no tiene género, dicen",
-        "course": "Proyecto III",
-        "description": "Descripcion pendiente de el trabajo",
-        "gallery": ""
-    },
-    {
-        id: 6,
-        "photo":  "https://gilicvnz.github.io/primera-nota/img/20250718_121830 (1) (1).webp",
-        "title": "Drákora",
-        "course": "Proyecto III",
-        "description": "Descripcion pendiente de el trabajo",
-        "gallery": ""
-    },
-    {
-        id: 7,
-        "photo":  "https://gilicvnz.github.io/primera-nota/img/20250907_111211.webp",
-        "title": "Pavo real",
-        "course": "Procesos y Prototipos II",
-        "description": "Descripcion pendiente de el trabajo",
-        "gallery": ""
-    },
-    {
-        id: 8,
-        "photo": "https://milladincea.github.io/primera-nota/img/foto8.webp",
-        "title": "Ocarina Lune",
-        "course": "Proyecto III"
-        [
-    {
-        "id":1,
-        "photo": "https://gilicvnz.github.io/primera-nota/img/20250505_112837 (4).webp",
-        "title": "Cuente de Barista",
-        "course": "Ergonomia",
-        "description": "Descripcion pendiente de el trabajo",
-        "gallery": ""
-    },
-    {
-        id: 2,
-        "photo": "https://gilicvnz.github.io/primera-nota/img/20250505_112837 (2) (1).webp",
-        "title": "No Pareces",
-        "course": "Proyecto III",
-        "description": "Descripcion pendiente de el trabajo",
-        "gallery": ""
-    },
-    {
-        id: 3,
-        "photo":  "https://gilicvnz.github.io/primera-nota/img/20250505_112837 (1) (1).webp",
-        "title": "Cartas Tarot Anne with an E",
-        "course": "Representación Conceptual",
-        "description": "Descripcion pendiente de el trabajo",
-        "gallery": ""
-    },
-    {
-        id: 4,
-        "photo": "https://gilicvnz.github.io/primera-nota/img/20241011_125617.webp",
-        "title": "Historytelling",
-        "course": "Proyecto II",
-        "description": "Descripcion pendiente de el trabajo",
-        "gallery": ""
-    },
-    {
-        id: 5,
-        "photo":  "https://gilicvnz.github.io/primera-nota/img/20250613_112906 (1) (1).webp",
-        "title": "La ropa no tiene género, dicen",
-        "course": "Proyecto III",
-        "description": "Descripcion pendiente de el trabajo",
-        "gallery": ""
-    },
-    {
-        id: 6,
-        "photo":  "https://gilicvnz.github.io/primera-nota/img/20250718_121830 (1) (1).webp",
-        "title": "Drákora",
-        "course": "Proyecto III",
-        "description": "Descripcion pendiente de el trabajo",
-        "gallery": ""
-    },
-    {
-        id: 7,
-        "photo":  "https://gilicvnz.github.io/primera-nota/img/20250907_111211.webp",
-        "title": "Pavo real",
-        "course": "Procesos y Prototipos II",
-        "description": "Descripcion pendiente de el trabajo",
-        "gallery": ""
-    },
-    {
-        id: 8,
-        "photo": "https://milladincea.github.io/primera-nota/img/foto8.webp",
-        "title": "Ocarina Lune",
-        "course": "Proyecto III"
-        "description": "Descripcion pendiente de el trabajo",
-    },
-    {
-        id: 9,
-        "photo": "https://gilicvnz.github.io/primera-nota/img/20250907_111211.webp",
-        "title": "Pavo real",
-        "course": "Procesos y Prototipos II",
-        "description": "Descripcion pendiente de el trabajo",
-        "gallery": ""
-    },
-    {
-        id: 10,
-        "photo": "https://martinaurzua.github.io/primera-nota/img/paulita.webp",
-        "title": "Identidad",
-        "course": "Proyecto II"
-        "description": "Descripcion pendiente de el trabajo",
-        "gallery": ""
-    },
-    {
-        id: 11,
-        "photo": "https://martinaurzua.github.io/primera-nota/img/cebolla.webp",
-        "title": "Biomímesis",
-        "course": "Proyecto II"
-        "description": "Descripcion pendiente de el trabajo",
-        "gallery": ""
-    },
-    {
-        id: 12,
-        "photo": "https://martinaurzua.github.io/primera-nota/img/ensamble.webp",
-        "title": "Ensambles en Madera",
-        "course": "Procesos y Prototipos II"
-        "description": "Descripcion pendiente de el trabajo",
-        "gallery": ""
-    },
-    {
-        id: 13,
-        "photo": "https://martinaurzua.github.io/primera-nota/img/guante.webp",
-        "title": "Guante Tactimo",
-        "course": "Ergonomía y Factores Humanos"
-        "description": "Descripcion pendiente de el trabajo",
-        "gallery": ""
-    },
-    {
-        id: 14,
-        "photo": "https://github.com/lenapereoso/primera-nota/blob/main/img/fto7.webp?raw=true",
-        "title": "Cubos en perspectiva y color",
-        "course": "Configuración Visual I"
-        "description": "Descripcion pendiente de el trabajo",
-        "gallery": ""
-    },
-    {
-        id: 15,
-        "photo": "https://martinaurzua.github.io/primera-nota/img/simbolo.webp",
-        "title": "Símbolo",
-        "course": "Configuración Visual I"
-        "description": "Descripcion pendiente de el trabajo",
-        "gallery": ""
-    },
-    {
-        id: 16,
-        "photo": "https://raw.githubusercontent.com/valentinatroncoso/primera-nota/refs/heads/main/imagenes%20finales/se%C3%B1aletica.webp",
-        "title": "Señaletica",
-        "course": "Ergonomia y Factores Humanos",
-        "description": "Descripcion pendiente de el trabajo",
-        "gallery": ""
-    }           
-];
-    },
-    {
-        id: 9,
-        "photo": "https://gilicvnz.github.io/primera-nota/img/20250907_111211.webp",
-        "title": "Pavo real",
-        "course": "Procesos y Prototipos II",
-        "description": "Descripcion pendiente de el trabajo",
-        "gallery": ""
-    },
-    {
-        id: 10,
-        "photo": "https://martinaurzua.github.io/primera-nota/img/paulita.webp",
-        "title": "Identidad",
-        "course": "Proyecto II"
-        "description": "Descripcion pendiente de el trabajo",
-        "gallery": ""
-    },
-    {
-        id: 11,
-        "photo": "https://martinaurzua.github.io/primera-nota/img/cebolla.webp",
-        "title": "Biomímesis",
-        "course": "Proyecto II"
-        "description": "Descripcion pendiente de el trabajo",
-        "gallery": ""
-    },
-    {
-        id: 12,
-        "photo": "https://martinaurzua.github.io/primera-nota/img/ensamble.webp",
-        "title": "Ensambles en Madera",
-        "course": "Procesos y Prototipos II"
-        "description": "Descripcion pendiente de el trabajo",
-        "gallery": ""
-    },
-    {
-        id: 13,
-        "photo": "https://martinaurzua.github.io/primera-nota/img/guante.webp",
-        "title": "Guante Tactimo",
-        "course": "Ergonomía y Factores Humanos"
-        "description": "Descripcion pendiente de el trabajo",
-        "gallery": ""
-    },
-    {
-        id: 14,
-        "photo": "https://github.com/lenapereoso/primera-nota/blob/main/img/fto7.webp?raw=true",
-        "title": "Cubos en perspectiva y color",
-        "course": "Configuración Visual I"
-        "description": "Descripcion pendiente de el trabajo",
-        "gallery": ""
-    },
-    {
-        id: 15,
-        "photo": "https://martinaurzua.github.io/primera-nota/img/simbolo.webp",
-        "title": "Símbolo",
-        "course": "Configuración Visual I"
-        "description": "Descripcion pendiente de el trabajo",
-        "gallery": ""
-    },
-    {
-        id: 16,
-        "photo": "https://raw.githubusercontent.com/valentinatroncoso/primera-nota/refs/heads/main/imagenes%20finales/se%C3%B1aletica.webp",
-        "title": "Señaletica",
-        "course": "Ergonomia y Factores Humanos",
-        "description": "Descripcion pendiente de el trabajo",
-        "gallery": ""
-    }           
-];
+  {
+    "id": 1,
+    "photo": "https://gilicvnz.github.io/primera-nota/img/20250505_112837 (4).webp",
+    "title": "Cuente de Barista",
+    "course": "Ergonomia",
+    "description": "Descripcion pendiente de el trabajo",
+    "gallery": ""
+  },
+  {
+    "id": 2,
+    "photo": "https://gilicvnz.github.io/primera-nota/img/20250505_112837 (2) (1).webp",
+    "title": "No Pareces",
+    "course": "Proyecto III",
+    "description": "Descripcion pendiente de el trabajo",
+    "gallery": ""
+  },
+  {
+    "id": 3,
+    "photo": "https://gilicvnz.github.io/primera-nota/img/20250505_112837 (1) (1).webp",
+    "title": "Cartas Tarot Anne with an E",
+    "course": "Representación Conceptual",
+    "description": "Descripcion pendiente de el trabajo",
+    "gallery": ""
+  },
+  {
+    "id": 4,
+    "photo": "https://gilicvnz.github.io/primera-nota/img/20241011_125617.webp",
+    "title": "Historytelling",
+    "course": "Proyecto II",
+    "description": "Descripcion pendiente de el trabajo",
+    "gallery": ""
+  },
+  {
+    "id": 5,
+    "photo": "https://gilicvnz.github.io/primera-nota/img/20250613_112906 (1) (1).webp",
+    "title": "La ropa no tiene género, dicen",
+    "course": "Proyecto III",
+    "description": "Descripcion pendiente de el trabajo",
+    "gallery": ""
+  },
+  {
+    "id": 6,
+    "photo": "https://gilicvnz.github.io/primera-nota/img/20250718_121830 (1) (1).webp",
+    "title": "Drákora",
+    "course": "Proyecto III",
+    "description": "Descripcion pendiente de el trabajo",
+    "gallery": ""
+  },
+  {
+    "id": 7,
+    "photo": "https://gilicvnz.github.io/primera-nota/img/20250907_111211.webp",
+    "title": "Pavo real",
+    "course": "Procesos y Prototipos II",
+    "description": "Descripcion pendiente de el trabajo",
+    "gallery": ""
+  },
+  {
+    "id": 8,
+    "photo": "https://milladincea.github.io/primera-nota/img/foto8.webp",
+    "title": "Ocarina Lune",
+    "course": "Proyecto III",
+    "description": "Descripcion pendiente de el trabajo",
+    "gallery": ""
+  },
+  {
+    "id": 9,
+    "photo": "https://gilicvnz.github.io/primera-nota/img/20250907_111211.webp",
+    "title": "Pavo real",
+    "course": "Procesos y Prototipos II",
+    "description": "Descripcion pendiente de el trabajo",
+    "gallery": ""
+  },
+  {
+    "id": 10,
+    "photo": "https://martinaurzua.github.io/primera-nota/img/paulita.webp",
+    "title": "Identidad",
+    "course": "Proyecto II",
+    "description": "Descripcion pendiente de el trabajo",
+    "gallery": ""
+  },
+  {
+    "id": 11,
+    "photo": "https://martinaurzua.github.io/primera-nota/img/cebolla.webp",
+    "title": "Biomímesis",
+    "course": "Proyecto II",
+    "description": "Descripcion pendiente de el trabajo",
+    "gallery": ""
+  },
+  {
+    "id": 12,
+    "photo": "https://martinaurzua.github.io/primera-nota/img/ensamble.webp",
+    "title": "Ensambles en Madera",
+    "course": "Procesos y Prototipos II",
+    "description": "Descripcion pendiente de el trabajo",
+    "gallery": ""
+  },
+  {
+    "id": 13,
+    "photo": "https://martinaurzua.github.io/primera-nota/img/guante.webp",
+    "title": "Guante Tactimo",
+    "course": "Ergonomía y Factores Humanos",
+    "description": "Descripcion pendiente de el trabajo",
+    "gallery": ""
+  },
+  {
+    "id": 14,
+    "photo": "https://github.com/lenapereoso/primera-nota/blob/main/img/fto7.webp?raw=true",
+    "title": "Cubos en perspectiva y color",
+    "course": "Configuración Visual I",
+    "description": "Descripcion pendiente de el trabajo",
+    "gallery": ""
+  },
+  {
+    "id": 15,
+    "photo": "https://martinaurzua.github.io/primera-nota/img/simbolo.webp",
+    "title": "Símbolo",
+    "course": "Configuración Visual I",
+    "description": "Descripcion pendiente de el trabajo",
+    "gallery": ""
+  },
+  {
+    "id": 16,
+    "photo": "https://raw.githubusercontent.com/valentinatroncoso/primera-nota/refs/heads/main/imagenes%20finales/se%C3%B1aletica.webp",
+    "title": "Señaletica",
+    "course": "Ergonomia y Factores Humanos",
+    "description": "Descripcion pendiente de el trabajo",
+    "gallery": ""
+  }
+]
