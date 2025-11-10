@@ -1,0 +1,81 @@
+<!DOCTYPE html>
+<html lang="es">
+    <head>
+        <meta charset="UTF-8" />
+        <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+        <title>Nombre Apellido</title>
+        <link href="style.css" rel="stylesheet" />
+    </head>
+    <body>
+        <header>
+            <h1>Nombre Apellido</h1>
+            <h2>Bachiller General, mención Humanidades y Artes</h2>
+        </header>
+        <main>
+            <div class="container">
+                <nav class="nav">
+                    <a href="index.html" class="active">Portafolio</a>
+                    <a href="about.html">Sobre mí</a>
+                </nav>
+                <section class="gallery">
+                    <div class="gallery-grid" id="aqui"></div>
+                </section>
+            </div>
+        </main>
+        <footer class="footer">
+            <p>Nombre Apellido © 2025</p>
+            <div class="social-links">
+                <a href="#">GitHub</a>
+                <a href="#">LinkedIn</a>
+            </div>
+        </footer>
+        <script>
+            const portfolio = document.querySelector("#aqui");
+
+            async function datos(raw) {
+                try {
+                    let consulta = await fetch(raw);
+                    if (consulta.status === 429) {
+                        await new Promise((resolve) => setTimeout(resolve, 2000));
+                        consulta = await fetch(raw);
+                    }
+                    let trabajitos = await consulta.json();
+                    console.log(trabajitos);
+
+                    trabajitos.forEach((t) => {
+                        const div = document.createElement("div");
+                        div.className = "gallery-item";
+
+                        const a = document.createElement("a");
+                        a.href = `single.html?id=${t.id}`;
+
+                        const img = document.createElement("img");
+                        img.src = t.photo;
+                        img.alt = t.title;
+                        img.loading = "lazy";
+
+                        const overlay = document.createElement("div");
+                        overlay.className = "gallery-overlay";
+                        overlay.innerHTML = `<h3></h3><p></p>`;
+                        overlay.querySelector("h3").textContent = t.title;
+                        overlay.querySelector("p").textContent = t.course;
+
+                        a.append(img, overlay);
+                        div.appendChild(a);
+                        portfolio.appendChild(div);
+                    });
+                } catch (error) {
+                    console.error("Error al cargar los datos:", error);
+                }
+            }
+
+            if (document.readyState === "loading") {
+                document.addEventListener("DOMContentLoaded", () => {
+                    datos("https://raw.githubusercontent.com/profesorfaco/herramientas/refs/heads/main/clase-13/trabajitos.json");
+                });
+            } else {
+                datos("https://raw.githubusercontent.com/profesorfaco/herramientas/refs/heads/main/clase-13/trabajitos.json");
+            }
+        </script>
+    </body>
+</html>
