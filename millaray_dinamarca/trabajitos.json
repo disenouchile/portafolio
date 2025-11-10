@@ -5,7 +5,7 @@
         "title": "Afiche de Ratón",
         "course": "Proyecto I",
         "description":"oli",
-        "gallery": "x"
+        "gallery": "https://raw.githubusercontent.com/milladincea/portafolio/main/img/proyecto1.webp"
     
     },
     {
@@ -14,7 +14,7 @@
         "title": "Reina Pop",
         "course": "Proyecto I",
         "description":"oli",
-        "gallery": "x"
+        "gallery": "https://raw.githubusercontent.com/milladincea/portafolio/main/img/proyecto12.webp"
     },
     {
         "id": 3,
@@ -22,7 +22,7 @@
         "title": "Pokemones",
         "course": "Lenguaje y Significación",
         "description":"oli",
-        "gallery": "x"
+        "gallery": "https://raw.githubusercontent.com/milladincea/portafolio/main/img/lengysign.webp"
     },
     {
         "id": 4,
@@ -30,7 +30,7 @@
         "title": "Sol de Invierno",
         "course": "Configuración Visual I",
         "description":"oli",
-        "gallery": "x"
+        "gallery": "https://raw.githubusercontent.com/milladincea/portafolio/main/img/confi11.webp"
     },
     {
         "id": 5,
@@ -38,7 +38,7 @@
         "title": "Montaje Final Proyecto I",
         "course": "Proyecto I",
         "description":"oli",
-        "gallery": "x"
+        "gallery": "https://raw.githubusercontent.com/milladincea/portafolio/main/img/montaje1.webp"
     },
     {
         "id": 6,
@@ -46,7 +46,7 @@
         "title": "Ichikohi",
         "course": "Proyecto II",
         "description":"oli",
-        "gallery": "x"
+        "gallery": "https://raw.githubusercontent.com/milladincea/portafolio/main/img/proyecto21.webp"
     },
     {
         "id": 7,
@@ -54,7 +54,7 @@
         "title": "Ícono Breaking JJOO",
         "course": "Configuración Visual II",
         "description":"oli",
-        "gallery": "x"
+        "gallery": "https://raw.githubusercontent.com/milladincea/portafolio/main/img/confi2.webp"
     },
     {
         "id": 8,
@@ -62,7 +62,7 @@
         "title": "Cartas Alicia Oscura",
         "course": "Representación Conceptual",
         "description":"oli",
-        "gallery": "x"
+        "gallery": "https://raw.githubusercontent.com/milladincea/portafolio/main/img/repreconc.webp"
     },
     {
         "id": 9,
@@ -70,7 +70,7 @@
         "title": "Tu copa, su silueta",
         "course": "Comunicación del Proyecto de Diseño",
         "description":"oli",
-        "gallery": "x"
+        "gallery": "https://raw.githubusercontent.com/milladincea/portafolio/main/img/comunicaciondelproyecto.webp"
     },
     {
         "id": 10,
@@ -78,7 +78,7 @@
         "title": "Montaje Final Proyecto II",
         "course": "Proyecto II",
         "description":"oli",
-        "gallery": "x"
+        "gallery": "https://raw.githubusercontent.com/milladincea/portafolio/main/img/montaje2.webp"
     },
     {
         "id": 11,
@@ -86,7 +86,7 @@
         "title": "(Inside)",
         "course": "Proyecto III",
         "description":"oli",
-        "gallery": "x"
+        "gallery": "https://raw.githubusercontent.com/milladincea/portafolio/main/img/proyecto3.webp"
     },
     {
         "id": 12,
@@ -94,7 +94,7 @@
         "title": "Frumis",
         "course": "Procesos y Prototipos I",
         "description":"oli",
-        "gallery": "x"
+        "gallery": "https://raw.githubusercontent.com/milladincea/portafolio/main/img/pyp1.webp"
     },
     {
         "id": 13,
@@ -102,7 +102,7 @@
         "title": "Ekun: Propuesta de Señaléticas",
         "course": "Ergonomía y Factores Humanos",
         "description":"oli",
-        "gallery": "x"
+        "gallery": "https://raw.githubusercontent.com/milladincea/portafolio/main/img/ergo.webp"
     },
     {
         "id": 14,
@@ -110,7 +110,7 @@
         "title": "Ami: Transportador de Picnic",
         "course": "Proyecto IV",
         "description":"oli",
-        "gallery": "x"
+        "gallery": "https://raw.githubusercontent.com/milladincea/portafolio/main/img/proyecto4.webp"
     },
     {
         "id": 15,
@@ -118,7 +118,7 @@
         "title": "Luminaria de Metal",
         "course": "Procesos y Prototipos II",
         "description":"oli",
-        "gallery": "x"
+        "gallery": "https://raw.githubusercontent.com/milladincea/portafolio/main/img/pyp2.webp"
     },
     {
         "id": 16,
@@ -126,6 +126,6 @@
         "title": "Máscara de Conejo",
         "course": "Herramientas Computacionales",
         "description":"oli",
-        "gallery": "x"
+        "gallery": "https://raw.githubusercontent.com/milladincea/portafolio/main/img/hhcc2.webp"
     } 
 ]
