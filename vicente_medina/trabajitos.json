@@ -5,7 +5,7 @@
         "title": "Alter-life",
         "course": "Proyecto III",
         "description": "Descripción pendiente",
-        "gallery":""
+        "gallery": ""
     },
     {
         "id": 2,
@@ -13,7 +13,7 @@
         "title": "Branding marca ficticia",
         "course": "Procesos y Prototipos I",
         "description": "Descripción pendiente",
-        "gallery":""
+        "gallery": ""
     },
     {
         "id": 3,
@@ -21,7 +21,7 @@
         "title": "Logo Personal",
         "course": "Procesos y Prototipos I",
         "description": "Descripción pendiente",
-        "gallery":""
+        "gallery": ""
     },
     {
         "id": 4,
@@ -29,7 +29,7 @@
         "title": "Autorretrato",
         "course": "Representación Conceptual",
         "description": "Descripción pendiente",
-        "gallery":""
+        "gallery": ""
     },
     {
         "id": 5,
@@ -37,7 +37,7 @@
         "title": "Composición con recortes de cartulinas impresas con fotos de la FAU",
         "course": "Proyecto I",
         "description": "Descripción pendiente",
-        "gallery":""
+        "gallery": ""
     },
     {
         "id": 6,
@@ -45,7 +45,7 @@
         "title": "Strawffee",
         "course": "Proyecto II",
         "description": "Descripción pendiente",
-        "gallery":""
+        "gallery": ""
     },
     {
         "id": 7,
@@ -53,7 +53,7 @@
         "title": "Imagen de Marca Frumis",
         "course": "Procesos y Prototipos I",
         "description": "Descripción pendiente",
-        "gallery":""
+        "gallery": ""
     },
     {
         "id": 8,
@@ -61,7 +61,7 @@
         "title": "Ocarina Lune",
         "course": "Proyecto III",
         "description": "Descripción pendiente",
-        "gallery":""
+        "gallery": ""
     },
     {
         "id": 9,
@@ -69,7 +69,7 @@
         "title": "Pavo real",
         "course": "Procesos y Prototipos II",
         "description": "Descripción pendiente",
-        "gallery":""
+        "gallery": ""
     },
     {
         "id": 10,
@@ -77,7 +77,7 @@
         "title": "ad",
         "course": "Proyecto II",
         "description": "Descripción pendiente",
-        "gallery":""
+        "gallery": ""
     },
     {
         "id": 11,
@@ -85,7 +85,7 @@
         "title": "Biomímesis",
         "course": "Proyecto II",
         "description": "Descripción pendiente",
-        "gallery":""
+        "gallery": ""
     },
     {
         "id": 12,
@@ -93,7 +93,7 @@
         "title": "Ensambles en Madera",
         "course": "Procesos y Prototipos II",
         "description": "Descripción pendiente",
-        "gallery":""
+        "gallery": ""
     },
     {
         "id": 13,
@@ -101,7 +101,7 @@
         "title": "Guante Tactimo",
         "course": "Ergonomía y Factores Humanos",
         "description": "Descripción pendiente",
-        "gallery":""
+        "gallery": ""
     },
     {
         "id": 14,
@@ -109,7 +109,7 @@
         "title": "Cubos en perspectiva y color",
         "course": "Configuración Visual I",
         "description": "Descripción pendiente",
-        "gallery":""
+        "gallery": ""
     },
     {
         "id": 15,
@@ -117,7 +117,7 @@
         "title": "Símbolo",
         "course": "Configuración Visual I",
         "description": "Descripción pendiente",
-        "gallery":""
+        "gallery": ""
     },
     {
         "id": 16,
@@ -125,6 +125,6 @@
         "title": "Señaletica",
         "course": "Ergonomia y Factores Humanos",
         "description": "Descripción pendiente",
-        "gallery":""
-    }           
+        "gallery": ""
+    }
 ]
