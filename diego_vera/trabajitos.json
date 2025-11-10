@@ -1,42 +1,42 @@
 [
-    {
+   {
         "id": 1,
         "photo": "img/1.png",
         "title": "Como es arriba, es abajo",
-        "course": "Configuración Visual I",
-        "description": "a",
-        "gallery": "a"
+        "course": "Proyecto III",
+        "description": "Representacion de la <em>iluminacion y la introspección</em> por medio del uso de la contraforma en cartulinas roja y negra. Donde la figura superior representa la iluminacion con <em>disco en la cabeza</em>, triangulos con puntas hacia afuera de la circunferencia, <em>sosteniendo una esfera armilar</em>, que en el arte simboliza la <em>sabiduria</em> y la propia <em>iluminación</em>. Por otra parte, la figura inferior representa la <em>introspección</em> por medio de un diseño identico al superior, con <em>colores invertidos</em> y las puntas del disco apuntando hacia el centro y una <em>estrella contenida en una circunferencia</em>.",
+       "gallery":"a"
     },
     {
         "id": 2,
         "photo": "img/2.png",
         "title": "Metamorfosis",
-        "course": "Proyecto I",
-        "description": "a",
-        "gallery": "a"
+        "course": "Configuración Visual II",
+        "description": "Representacion de la <em>transformación</em> que implica la metamorfosis por medio del collage. Opté por el significado más directo del concepto, con una <em>cambio físico de la forma</em> ",
+       "gallery":"a"
     },
     {
         "id": 3,
         "photo": "img/3.png",
         "title": "Conexión",
-        "course": "Representación Conceptual",
-        "description": "a",
-        "gallery": "a"
+        "course": "Proyecto II",
+        "description": "Representación del concepto de la <em>conexión</em> por medio de la contraforma. El trabajo esta inspirado en los <em>enlaces</em> presentes en los elementos y compuestos químicos, particularmente en los <em>rubíes</em>, donde el <em>color rojo se debe a la presencia del flúor</em>, y de la misma forma la figuras, siendo <em>octaedros</em> con sus aristas conectadas con en el centro, corresponden a la <em>estructura química</em> de los rubíes",
+       "gallery":"a"
     },
     {
         "id": 4,
         "photo": "img/4.png",
         "title": "Imagotipo de marca ASBOS",
         "course": "Proyecto II",
-        "description": "a",
-        "gallery": "a"
+        "description": "Imagotipo de una <em>marca personal</em> con concepto de <em>transformación</em>, viendose reflejado en el uso de la <em>rosa negra</em>, que simboliza este concepto. La marca hipotetica busca <em>rediseñar ideas y objetos</em> con el objetivo de <em>personalizarlos</em> acorde al usuario. Toma inspiración del <em>arte y literatura gótica, de fantasía y fantasía oscura</em>.",
+       "gallery":"a"
     },
     {
         "id": 5,
         "photo": "img/5.png",
-        "title": "Frente y reverso de triptico de Don Quijote",
+        "title": "Frente y reverso de tríptico de Don Quijote",
         "course": "Proyecto I",
-        "description": "a",
-        "gallery": "a"
+        "description": "Tríptico basado en el libro de <em>Don Quijote</em>. Busca promover el libro a traves del uso de los elementos más reconocibles, como la <em>frase inicial</em> del libro, los <em>personajes más relevante</em>s.",
+       "gallery":"a"
     }
 ]
