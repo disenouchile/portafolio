@@ -3,7 +3,9 @@
         "id": 1,
         "photo": "https://raw.githubusercontent.com/SofiaParraLunaUCH/clase4/refs/heads/main/img/trabajo%203.webp",
         "title": "Acuareguante",
-        "course": "Guante para pintar con acuarela"
+        "course": "Guante para pintar con acuarela",
+        "description": "",
+        "gallery": ""
     },
     {
         "id": 2,
