@@ -1,15 +1,15 @@
 [
   {
-        id: 1,
+        "id": 1,
         "photo": "https://raw.githubusercontent.com/milladincea/portafolio/main/img/proyecto1.webp",
-        "title": "Afiche Ratón",
+        "title": "AfichIDe Ratón",
         "course": "Proyecto I",
         "description":"oli",
         "gallery": "x"
     
     },
     {
-        id: 2,
+        "id": 2,
         "photo": "https://raw.githubusercontent.com/milladincea/portafolio/main/img/proyecto12.webp",
         "title": "Reina Pop",
         "course": "Proyecto I",
@@ -17,7 +17,7 @@
         "gallery": "x"
     },
     {
-        id: 3,
+        "id": 3,
         "photo": "https://raw.githubusercontent.com/milladincea/portafolio/main/img/lengysign.webp",
         "title": "Pokemones",
         "course": "Lenguaje y Significación",
@@ -25,7 +25,7 @@
         "gallery": "x"
     },
     {
-        id: 4,
+        "id": 4,
         "photo": "https://raw.githubusercontent.com/milladincea/portafolio/main/img/confi11.webp",
         "title": "Sol de Invierno",
         "course": "Configuración Visual I",
@@ -33,7 +33,7 @@
         "gallery": "x"
     },
     {
-        id: 5,
+        "id": 5,
         "photo": "https://raw.githubusercontent.com/milladincea/portafolio/main/img/montaje1.webp",
         "title": "Montaje Final Proyecto I",
         "course": "Proyecto I",
@@ -41,7 +41,7 @@
         "gallery": "x"
     },
     {
-        id: 6,
+        "id": 6,
         "photo": "https://raw.githubusercontent.com/milladincea/portafolio/main/img/proyecto21.webp",
         "title": "Ichikohi",
         "course": "Proyecto II",
@@ -49,7 +49,7 @@
         "gallery": "x"
     },
     {
-        id: 7,
+        "id": 7,
         "photo": "https://raw.githubusercontent.com/milladincea/portafolio/main/img/confi2.webp",
         "title": "Ícono Breaking JJOO",
         "course": "Configuración Visual II",
@@ -57,7 +57,7 @@
         "gallery": "x"
     },
     {
-        id: 8,
+        "id": 8,
         "photo": "https://raw.githubusercontent.com/milladincea/portafolio/main/img/repreconc.webp",
         "title": "Cartas Alicia Oscura",
         "course": "Representación Conceptual",
@@ -65,7 +65,7 @@
         "gallery": "x"
     },
     {
-        id: 9,
+        "id": 9,
         "photo": "https://raw.githubusercontent.com/milladincea/portafolio/main/img/comunicaciondelproyecto.webp",
         "title": "Tu copa, su silueta",
         "course": "Comunicación del Proyecto de Diseño",
@@ -73,7 +73,7 @@
         "gallery": "x"
     },
     {
-        id: 10,
+        "id": 10,
         "photo": "https://raw.githubusercontent.com/milladincea/portafolio/main/img/montaje2.webp",
         "title": "Montaje Final Proyecto II",
         "course": "Proyecto II",
@@ -81,7 +81,7 @@
         "gallery": "x"
     },
     {
-        id: 11,
+        "id": 11,
         "photo": "https://raw.githubusercontent.com/milladincea/portafolio/main/img/proyecto3.webp",
         "title": "(Inside)",
         "course": "Proyecto III",
@@ -89,7 +89,7 @@
         "gallery": "x"
     },
     {
-        id: 12,
+        "id": 12,
         "photo": "https://raw.githubusercontent.com/milladincea/portafolio/main/img/pyp1.webp",
         "title": "Frumis",
         "course": "Procesos y Prototipos I",
@@ -97,7 +97,7 @@
         "gallery": "x"
     },
     {
-        id: 13,
+        "id": 13,
         "photo": "https://raw.githubusercontent.com/milladincea/portafolio/main/img/ergo.webp",
         "title": "Ekun: Propuesta de Señaléticas",
         "course": "Ergonomía y Factores Humanos",
@@ -105,7 +105,7 @@
         "gallery": "x"
     },
     {
-        id: 14,
+        "id": 14,
         "photo": "https://raw.githubusercontent.com/milladincea/portafolio/main/img/proyecto4.webp",
         "title": "Ami: Transportador de Picnic",
         "course": "Proyecto IV",
@@ -113,7 +113,7 @@
         "gallery": "x"
     },
     {
-        id: 15,
+        "id": 15,
         "photo": "https://raw.githubusercontent.com/milladincea/portafolio/main/img/pyp2.webp",
         "title": "Luminaria de Metal",
         "course": "Procesos y Prototipos II",
@@ -121,7 +121,7 @@
         "gallery": "x"
     },
     {
-        id: 16,
+        "id": 16,
         "photo": "https://raw.githubusercontent.com/milladincea/portafolio/main/img/hhcc2.webp",
         "title": "Máscara de Conejo",
         "course": "Herramientas Computacionales",
