@@ -223,6 +223,12 @@ section.single h4{
     margin-bottom: 3rem;
 }
 
+section.single h5{
+    text-align: center;
+    font-size: calc(1rem + 0.5vw);
+    margin-bottom: 3rem;
+}
+
 section.single p, section.single ul{
     width:min(95%, 800px);
     margin:1rem auto;
