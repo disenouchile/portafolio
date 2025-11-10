@@ -383,3 +383,12 @@ section.single img{
         margin-right: 30px;
     }
 }
+
+#alerta{
+    text-align: center;
+}
+
+#alerta p{
+    font-size:110%;
+    font-weight: bold;
+}
