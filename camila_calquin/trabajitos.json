@@ -1,33 +1,33 @@
 [
     {
-        id: 1,
-        photo: "https://camila-calquin.github.io/primera-nota/img/alcachofamini.webp",
-        title: "Análisis de la alcachofa",
-        course: "Proyecto I",
+        "id": 1,
+        "photo": "https://camila-calquin.github.io/primera-nota/img/alcachofamini.webp",
+        "title": "Análisis de la alcachofa",
+        "ourse": "Proyecto I",
         "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed rutrum hendrerit lorem. Curabitur sodales feugiat libero. Nullam in lorem ut sem tempor accumsan nec vitae lacus. Sed vel finibus ex, quis euismod lorem. Aliquam eget leo sapien. Proin velit diam, suscipit vitae mi vel, laoreet finibus nisl. Pellentesque a purus eleifend, congue ante nec, aliquam risus.",
         "gallery": "https://raw.githubusercontent.com/profesorfaco/herramientas/refs/heads/main/clase-13/gallery.webp"
     },
     {
-        id: 2,
-        photo: "https://camila-calquin.github.io/fotos/hc prueba 2/Gemini_Generated_Image_8s2ur98s2ur98s2u.png",
-        title: "Cápsula del tiempo",
-        course: "Proyecto II",
+        "id": 2,
+        "photo": "https://camila-calquin.github.io/fotos/hc prueba 2/Gemini_Generated_Image_8s2ur98s2ur98s2u.png",
+        "title": "Cápsula del tiempo",
+        "course": "Proyecto II",
         "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed rutrum hendrerit lorem. Curabitur sodales feugiat libero. Nullam in lorem ut sem tempor accumsan nec vitae lacus. Sed vel finibus ex, quis euismod lorem. Aliquam eget leo sapien. Proin velit diam, suscipit vitae mi vel, laoreet finibus nisl. Pellentesque a purus eleifend, congue ante nec, aliquam risus.",
         "gallery": "https://raw.githubusercontent.com/profesorfaco/herramientas/refs/heads/main/clase-13/gallery.webp"
     },
     {
-        id: 3,
-        photo: "https://camila-calquin.github.io/fotos/hc prueba 2/Gemini_Generated_Image_6kb0ca6kb0ca6kb0.png",
-        title: "Ensambles en pino",
-        course: "Procesos y prototipos II",
+        "id": 3,
+        "photo": "https://camila-calquin.github.io/fotos/hc prueba 2/Gemini_Generated_Image_6kb0ca6kb0ca6kb0.png",
+        "title": "Ensambles en pino",
+        "course": "Procesos y prototipos II",
         "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed rutrum hendrerit lorem. Curabitur sodales feugiat libero. Nullam in lorem ut sem tempor accumsan nec vitae lacus. Sed vel finibus ex, quis euismod lorem. Aliquam eget leo sapien. Proin velit diam, suscipit vitae mi vel, laoreet finibus nisl. Pellentesque a purus eleifend, congue ante nec, aliquam risus.",
         "gallery": "https://raw.githubusercontent.com/profesorfaco/herramientas/refs/heads/main/clase-13/gallery.webp"
     },
     {
-        id: 4,
-        photo: "https://camila-calquin.github.io/fotos/hc prueba 2/Gemini_Generated_Image_jib6mvjib6mvjib6.png",
-        title: "Identidad Floramor",
-        course: "Procesos y prototipos I",
+        "id": 4,
+        "photo": "https://camila-calquin.github.io/fotos/hc prueba 2/Gemini_Generated_Image_jib6mvjib6mvjib6.png",
+        "title": "Identidad Floramor",
+        "course": "Procesos y prototipos I",
         "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed rutrum hendrerit lorem. Curabitur sodales feugiat libero. Nullam in lorem ut sem tempor accumsan nec vitae lacus. Sed vel finibus ex, quis euismod lorem. Aliquam eget leo sapien. Proin velit diam, suscipit vitae mi vel, laoreet finibus nisl. Pellentesque a purus eleifend, congue ante nec, aliquam risus.",
         "gallery": "https://raw.githubusercontent.com/profesorfaco/herramientas/refs/heads/main/clase-13/gallery.webp"
     },
