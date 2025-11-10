@@ -3,7 +3,7 @@
         "id": 1,
         "photo": "https://raw.githubusercontent.com/disenouchile/portafolio/refs/heads/main/alanis_soto/Fotos/moneda.webp",
         "title": "Intervención en Moneda",
-        "course": "Proyecto II",
+        "course": "Proyecto II"
     },
     {
         "id": 2,
@@ -33,7 +33,7 @@
         "id": 6,
         "photo": "https://raw.githubusercontent.com/disenouchile/portafolio/refs/heads/main/alanis_soto/Fotos/Proyecto_2.webp",
         "title": "Diente de leon",
-        "course": "Proyecto II",
+        "course": "Proyecto II"
     },
     {
         "id": 7,
@@ -51,7 +51,7 @@
         "id": 9,
         "photo": "https://raw.githubusercontent.com/disenouchile/portafolio/refs/heads/main/alanis_soto/Fotos/proyecto_1.jpeg",
         "title": "Representación 2 colores",
-        "course": "Proyecto I",
+        "course": "Proyecto I"
     },
     {
         "id": 10,
@@ -93,6 +93,7 @@
         "id": 16,
         "photo": "https://raw.githubusercontent.com/disenouchile/portafolio/refs/heads/main/alanis_soto/Fotos/retrato.png",
         "title": "AutoRetrato collage",
-        "course": "Representación Conceptual",
+        "course": "Representación Conceptual"
     }           
 ]
+
