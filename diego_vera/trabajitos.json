@@ -1,19 +1,19 @@
 [
    {
         "id": 1,
-        "photo": "img/1.png",
+        "photo": "https://raw.githubusercontent.com/dv29ast/img/refs/heads/main/img/1.webp",
         "title": "Como es arriba, es abajo",
         "course": "Proyecto III",
         "description": "Representacion de la <em>iluminacion y la introspección</em> por medio del uso de la contraforma en cartulinas roja y negra. Donde la figura superior representa la iluminacion con <em>disco en la cabeza</em>, triangulos con puntas hacia afuera de la circunferencia, <em>sosteniendo una esfera armilar</em>, que en el arte simboliza la <em>sabiduria</em> y la propia <em>iluminación</em>. Por otra parte, la figura inferior representa la <em>introspección</em> por medio de un diseño identico al superior, con <em>colores invertidos</em> y las puntas del disco apuntando hacia el centro y una <em>estrella contenida en una circunferencia</em>.",
-       "gallery":"a"
+       "gallery":"https://raw.githubusercontent.com/dv29ast/img/refs/heads/main/img/1.webp"
     },
     {
         "id": 2,
-        "photo": "img/2.png",
+        "photo": "https://dv29ast.github.io/img/2.png",
         "title": "Metamorfosis",
         "course": "Configuración Visual II",
         "description": "Representacion de la <em>transformación</em> que implica la metamorfosis por medio del collage. Opté por el significado más directo del concepto, con una <em>cambio físico de la forma</em> ",
-       "gallery":"a"
+       "gallery":"https://dv29ast.github.io/img/2.png"
     },
     {
         "id": 3,
