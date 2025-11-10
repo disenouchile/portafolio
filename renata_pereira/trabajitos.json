@@ -1,0 +1,130 @@
+[
+    {
+        "id": 1,
+        "photo": "https://github.com/lenapereoso/clase-12/blob/main/fotos/IMG_1225.jpeg?raw=true",
+        "title": "No tienes que tener todo resuelto",
+        "course": "Proyecto III",
+        "description": "descripcion pendiente",
+	"gallery": "nada"
+    },
+    {
+        "id": 2,
+        "photo": "https://github.com/lenapereoso/clase-12/blob/main/fotos/IMG_1244.jpeg?raw=true",
+        "title": "Packaging Little Swan",
+        "course": "Procesos y Prototipos I",
+        "description": "descripcion pendiente",
+	"gallery": "nada"
+    },
+    {
+        "id": 3,
+        "photo": "https://github.com/lenapereoso/clase-12/blob/main/fotos/IMG_1241.jpeg?raw=truep",
+        "title": "Luminaria flor de loto",
+        "course": "Procesos y Prototipos II",
+        "description": "descripcion pendiente",
+	"gallery": "nada"
+    },
+    {
+        "id": 4,
+        "photo": "https://github.com/lenapereoso/clase-12/blob/main/fotos/IMG_1240.jpeg?raw=true",
+        "title": "Narrativa fotográfica",
+        "course": "Proyecto II",
+        "description": "descripcion pendiente",
+	"gallery": "nada"
+    },
+    {
+        "id": 5,
+        "photo": "https://github.com/lenapereoso/clase-12/blob/main/fotos/IMG_1226.jpeg?raw=true",
+        "title": "Fuerza florecida",
+        "course": "Proyecto III",
+        "description": "descripcion pendiente",
+	"gallery": "nada"
+    },
+    {
+        "id": 6,
+        "photo": "https://github.com/lenapereoso/clase-12/blob/main/fotos/IMG_1224.jpeg?raw=true",
+        "title": "No sé si estoy creciendo bien. Fanzine",
+        "course": "Proyecto III",
+        "description": "descripcion pendiente",
+	"gallery": "nada"
+    },
+    {
+        "id": 7,
+        "photo": "https://github.com/lenapereoso/clase-12/blob/main/fotos/IMG_1223.jpeg?raw=true",
+        "title": "Fragmentos de aceptación",
+        "course": "Proyecto III",
+        "description": "descripcion pendiente",
+	"gallery": "nada"
+    },
+    {
+        "id": 8,
+        "photo": "https://github.com/lenapereoso/clase-12/blob/main/fotos/IMG_1246.jpeg?raw=true",
+        "title": "Retrato plasticina",
+        "course": "Configuración Visual I",
+        "description": "descripcion pendiente",
+	"gallery": "nada"
+    },
+    {
+        "id": 9,
+        "photo": "https://github.com/lenapereoso/clase-12/blob/main/fotos/IMG_1229.jpeg?raw=true",
+        "title": "Intervención orgánica",
+        "course": "Proyecto II",
+        "description": "descripcion pendiente",
+	"gallery": "nada"
+    },
+    {
+        "id": 10,
+        "photo": "https://github.com/lenapereoso/clase-12/blob/main/fotos/IMG_1247.jpeg?raw=true",
+        "title": "Formas dicotómanicas",
+        "course": "Proyecto I",
+        "description": "descripcion pendiente",
+	"gallery": "nada"
+    },
+    {
+        "id": 11,
+        "photo": "https://github.com/lenapereoso/clase-12/blob/main/fotos/IMG_1235.jpeg?raw=true",
+        "title": "Pieza ajedrez",
+        "course": "Proyecto I",
+        "description": "descripcion pendiente",
+	"gallery": "nada"
+    },
+    {
+        "id": 12,
+        "photo": "https://github.com/lenapereoso/clase-12/blob/main/fotos/IMG_1251.jpeg?raw=true",
+        "title": "Fantasía industrial",
+        "course": "Representación Conceptual",
+        "description": "descripcion pendiente",
+	"gallery": "nada"
+    },
+    {
+        "id": 13,
+        "photo": "https://github.com/lenapereoso/clase-12/blob/main/fotos/IMG_1249.jpeg?raw=true",
+        "title": "Zorro de metal",
+        "course": "Procesos y Prototipos II",
+        "description": "descripcion pendiente",
+	"gallery": "nada"
+    },
+    {
+        "id": 14,
+        "photo": "https://github.com/lenapereoso/primera-nota/blob/main/img/fto7.webp?raw=true",
+        "title": "Cubos en perspectiva y color",
+        "course": "Configuración Visual I",
+        "description": "descripcion pendiente",
+	"gallery": "nada"
+    },
+    {
+        "id": 15,
+        "photo": "https://github.com/lenapereoso/clase-12/blob/main/fotos/IMG_1230.jpeg?raw=true",
+        "title": "Síntesis animal",
+        "course": "Representación Conceptual",
+        "description": "descripcion pendiente",
+	"gallery": "nada"
+    },
+    {
+        "id": 16,
+        "photo": "https://github.com/lenapereoso/clase-12/blob/main/fotos/IMG_1234.jpeg?raw=true",
+        "title": "Tiernos invasores",
+        "course": "Representación Conceptual",
+        "description": "descripcion pendiente",
+	"gallery": "nada"
+    }           
+]
