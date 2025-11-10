@@ -4,10 +4,10 @@
    Variables y Reset
    =================== */
 :root {
-    --colorPrimario: rgb(132, 221, 245, 1);
-    --colorOverlay: rgba(132, 221, 245,0.9);
-    --colorSecundario: rgba(183, 159, 211,1);
-    --colorMediador: rgb(194, 124, 206);
+    --colorPrimario: rgba(0,255,255,1);
+    --colorOverlay: rgba(0,255,255,0.9);
+    --colorSecundario: rgba(255,255,0,1);
+    --colorMediador: rgba(255,0,255,1);
 }
 
 * {
@@ -382,4 +382,13 @@ section.single img{
     .mugshot-frame {
         margin-right: 30px;
     }
+}
+
+#alerta{
+    text-align: center;
+}
+
+#alerta p{
+    font-size:110%;
+    font-weight: bold;
 }
