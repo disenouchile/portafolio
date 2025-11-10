@@ -154,10 +154,19 @@ document.addEventListener('DOMContentLoaded', () => {
         a.append(img, overlay);
         div.appendChild(a);
         lugar.appendChild(div);
-    });
-});            
+      });
+                } catch (error) {
+                    console.error("Error al cargar los datos:", error);
+                }
+            }
+
+            if (document.readyState === "loading") {
+                document.addEventListener("DOMContentLoaded", () => {
+                    datos("https://raw.githubusercontent.com/profesorfaco/herramientas/refs/heads/main/clase-13/trabajitos.json");
+                });
+            } else {
+                datos("https://raw.githubusercontent.com/profesorfaco/herramientas/refs/heads/main/clase-13/trabajitos.json");
+            }
         </script>
     </body>
-
-
 </html>
