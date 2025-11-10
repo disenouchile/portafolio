@@ -1,7 +1,7 @@
 [
     {
         "id": 1,
-        "photo": "https://github.com/antonialarah/cuarta-nota/blob/main/Gemini_Generated_Image_rm6w27rm6w27rm6w.png?raw=true",
+        "photo": "https://github.com/antonialarah/primera-nota/blob/main/img/INTENSIDAD%20(1).webp?raw=true",
         "title": "INTENSIDAD, OBJETO DE PAPEL",
         "course": "Proyecto I",
         "description": "descripcion pendiente de mi trabajo",
@@ -20,7 +20,7 @@
         "photo": "https://github.com/antonialarah/cuarta-nota/blob/main/bjknkjn.webp?raw=true",
         "title": "PORTADA VINILO TWENTY ONE PILOTS X DEATH NOTE",
         "course": "Proyecto I",
-        "description":"Diseño conceptual de la portada de un álbum de vinilo para Death Note, reimaginado con la estética y el tono de la banda Twenty One Pilots, tomando como inspiración directa la paleta de colores (amarillo y negro) y la composición sombría y minimalista de la portada de su álbum Trench."
+        "description": "descripcion pendiente de mi trabajo",
         "gallery": "https://github.com/antonialarah/primera-nota/blob/main/img/INTENSIDAD%20(1).webp?raw=true"
     },
     {
@@ -126,5 +126,5 @@
         "course": "Herramientas computacionales",
         "description": "descripcion pendiente de mi trabajo",
         "gallery": "https://github.com/antonialarah/primera-nota/blob/main/img/INTENSIDAD%20(1).webp?raw=true"
-    }
+    }           
 ]
