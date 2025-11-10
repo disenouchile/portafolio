@@ -1,0 +1,42 @@
+[
+    {
+        "id": 1,
+        "photo": "img/1.png",
+        "title": "Como es arriba, es abajo",
+        "course": "Configuración Visual I",
+        "description": "a",
+        "gallery": "a"
+    },
+    {
+        "id": 2,
+        "photo": "img/2.png",
+        "title": "Metamorfosis",
+        "course": "Proyecto I",
+        "description": "a",
+        "gallery": "a"
+    },
+    {
+        "id": 3,
+        "photo": "img/3.png",
+        "title": "Conexión",
+        "course": "Representación Conceptual",
+        "description": "a",
+        "gallery": "a"
+    },
+    {
+        "id": 4,
+        "photo": "img/4.png",
+        "title": "Imagotipo de marca ASBOS",
+        "course": "Proyecto II",
+        "description": "a",
+        "gallery": "a"
+    },
+    {
+        "id": 5,
+        "photo": "img/5.png",
+        "title": "Frente y reverso de triptico de Don Quijote",
+        "course": "Proyecto I",
+        "description": "a",
+        "gallery": "a"
+    }
+]
