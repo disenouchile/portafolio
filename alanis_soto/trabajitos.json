@@ -3,97 +3,130 @@
         "id": 1,
         "photo": "https://raw.githubusercontent.com/disenouchile/portafolio/refs/heads/main/alanis_soto/Fotos/moneda.webp",
         "title": "Intervención en Moneda",
-        "course": "Proyecto II"
+        "course": "Proyecto II",
+        "description": "",
+        "gallery": ""
     },
     {
         "id": 2,
         "photo": "https://raw.githubusercontent.com/disenouchile/portafolio/refs/heads/main/alanis_soto/Fotos/kutral.webp",
         "title": "Ritual kÜtral",
-        "course": "Proyecto"
+        "course": "Proyecto",
+        "description": "",
+        "gallery": ""
     },
     {
         "id": 3,
         "photo": "https://raw.githubusercontent.com/disenouchile/portafolio/refs/heads/main/alanis_soto/Fotos/lamina.webp",
         "title": "La unión hace la junta",
-        "course": "Proyecto"
+        "course": "Proyecto",
+        "description": "",
+        "gallery": ""
     },
     {
         "id": 4,
         "photo": "https://raw.githubusercontent.com/disenouchile/portafolio/refs/heads/main/alanis_soto/Fotos/ergonomia.webp",
         "title": "Mesa para trabajos",
-        "course": "Ergonomia"
+        "course": "Ergonomia",
+        "description": "",
+        "gallery": ""
     },
     {
         "id": 5,
         "photo": "https://raw.githubusercontent.com/disenouchile/portafolio/refs/heads/main/alanis_soto/Fotos/mockup.webp",
         "title": "Mockup ilum Bar",
-        "course": "Procesos y prototipos I"
+        "course": "Procesos y prototipos I",
+        "description": "",
+        "gallery": ""
     },
     {
         "id": 6,
         "photo": "https://raw.githubusercontent.com/disenouchile/portafolio/refs/heads/main/alanis_soto/Fotos/Proyecto_2.webp",
         "title": "Diente de leon",
-        "course": "Proyecto II"
+        "course": "Proyecto II",
+        "description": "",
+        "gallery": ""
     },
     {
         "id": 7,
         "photo": "https://raw.githubusercontent.com/disenouchile/portafolio/refs/heads/main/alanis_soto/Fotos/rp.webp",
         "title": "Venganza",
-        "course": "Representación Conceptual"
+        "course": "Representación Conceptual",
+        "description": "",
+        "gallery": ""
     },
     {
         "id": 8,
         "photo": "https://raw.githubusercontent.com/disenouchile/portafolio/refs/heads/main/alanis_soto/Fotos/matriz.webp",
         "title": "Analisis de la Alcachofa",
-        "course": "Proyecto I"
+        "course": "Proyecto I",
+        "description": "",
+        "gallery": ""
     },
     {
         "id": 9,
         "photo": "https://raw.githubusercontent.com/disenouchile/portafolio/refs/heads/main/alanis_soto/Fotos/proyecto_1.jpeg",
         "title": "Representación 2 colores",
-        "course": "Proyecto I"
+        "course": "Proyecto I",
+        "description": "",
+        "gallery": ""
     },
     {
         "id": 10,
         "photo": "https://raw.githubusercontent.com/disenouchile/portafolio/refs/heads/main/alanis_soto/Fotos/pyp2.jpeg",
         "title": "Exploración en cartón",
-        "course": "Procesos y prototipos II"
+        "course": "Procesos y prototipos II",
+        "description": "",
+        "gallery": ""
     },
     {
         "id": 11,
         "photo": "https://raw.githubusercontent.com/disenouchile/portafolio/refs/heads/main/alanis_soto/Fotos/samsa.jpeg",
         "title": "Logo Samsa",
-        "course": "Proyecto III"
+        "course": "Proyecto III",
+        "description": "",
+        "gallery": ""
     },
     {
         "id": 12,
         "photo": "https://raw.githubusercontent.com/disenouchile/portafolio/refs/heads/main/alanis_soto/Fotos/foto de cartas.png",
         "title": "Tarot de Terror",
-        "course": "Representación Conceptual"
+        "course": "Representación Conceptual",
+        "description": "",
+        "gallery": ""
     },
     {
         "id": 13,
         "photo": "https://raw.githubusercontent.com/disenouchile/portafolio/refs/heads/main/alanis_soto/Fotos/chupacabras.png",
         "title": "Chupacabras",
-        "course": "Proyecto III"
+        "course": "Proyecto III",
+        "description": "",
+        "gallery": ""
     },
     {
         "id": 14,
         "photo": "https://raw.githubusercontent.com/disenouchile/portafolio/refs/heads/main/alanis_soto/Fotos/olimpiadas.png",
         "title": "Pictograma Judo",
-        "course": "Configuración Visual II"
+        "course": "Configuración Visual II",
+        "description": "",
+        "gallery": ""
     },
     {
         "id": 15,
         "photo": "https://raw.githubusercontent.com/disenouchile/portafolio/refs/heads/main/alanis_soto/Fotos/guatitallena.jpeg",
         "title": "Recetario guatita llena",
-        "course": "Proyecto IV"
+        "course": "Proyecto IV",
+        "description": "",
+        "gallery": ""
     },
     {
         "id": 16,
         "photo": "https://raw.githubusercontent.com/disenouchile/portafolio/refs/heads/main/alanis_soto/Fotos/retrato.png",
         "title": "AutoRetrato collage",
-        "course": "Representación Conceptual"
+        "course": "Representación Conceptual",
+        "description": "",
+        "gallery": ""
     }           
 ]
+
 
