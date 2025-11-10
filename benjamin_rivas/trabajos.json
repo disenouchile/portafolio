@@ -1,0 +1,101 @@
+[
+    {
+        "id": 1,
+        "photo": "https://raw.githubusercontent.com/benjaminrivasm/herramientas-computacionales/refs/heads/main/img-portafolio/chaqueta.webp",
+        "title": "Chaqueta-Abrigo Asimétrica",
+        "course": "Proyecto V - 2025",
+        "professor": "Pablo Nuñez",
+        "description": "<p>El proyecto parte de la deconstrucción del corset como símbolo de control y formalidad. En lugar de replicar su función restrictiva, la propuesta busca reinterpretar sus códigos desde una mirada contemporánea, enfocándose en cómo la estructura puede existir sin imponer disciplina sobre el cuerpo.</p><p>A partir de esa idea, se desarrolla una chaqueta que combina la elegancia rígida de un abrigo victoriano con la materialidad cotidiana y resistente de la mezclilla negra. El cruce delantero asimétrico desplaza el eje tradicional de la prenda, mientras que la cola posterior dividida prolonga la silueta y genera una sensación de movimiento.</p><p>Las costuras visibles, el entalle y los detalles estructurales funcionan como rastros de un pasado disciplinario, mientras que la asimetría introduce un gesto de libertad. El resultado es una pieza que habita la tensión entre lo formal y lo disidente, cuestionando la relación entre estructura, cuerpo y expresión.</p><p><b>La pieza fue modelada por Tihare Madariaga.</b></p>",
+        "gallery": "https://raw.githubusercontent.com/benjaminrivasm/herramientas-computacionales/refs/heads/main/img-portafolio/chaqueta.webp"
+    },
+    {
+        "id": 2,
+        "photo": "https://raw.githubusercontent.com/benjaminrivasm/herramientas-computacionales/refs/heads/main/img-portafolio/trapalanda.webp",
+        "title": "Trapalanda",
+        "course": "Proyecto II - 2023",
+        "professor": "René Perea",
+        "description": "<p><b>Realizado en conjunto con Diego Achondo, Gabriel Castillo, Felipe Gálvez, Sofia Ogaz y Sebastian Partidas.</b></p><p>El proyecto comenzó creando una imagen a partir de croquis de seres vivos, que llevó a una figura humanoide y luego a personajes. De ahí nació Trapalanda, una criatura originada por una semilla extraterrestre que cayó en un bosque y se fusionó con un cráneo. Con el tiempo desarrolló telequinesis y telepatía, pero fue rechazado por todo ser vivo, obligándolo a esconderse.</p><p>Más adelante, el proyecto cambió hacia una experiencia sensorial basada en los cinco sentidos. Trapalanda evolucionó entonces a un robot en un mundo steampunk postapocalíptico, creado por el científico Thomas York, transformandose en una máquina con una inteligencia inquietante e indomable.</p><p>La experiencia llevaba al espectador por un entorno guiado por York, lleno de caos, mecanismos y recuerdos rotos. Poco a poco surgían pistas sobre Trapalanda, desde su letargo hasta su despertar. En el clímax, el científico huía aterrado, las luces se apagaban y Trapalanda acechaba al público antes de desvanecerse en la oscuridad.</p>",
+        "gallery": "https://raw.githubusercontent.com/benjaminrivasm/herramientas-computacionales/refs/heads/main/img-portafolio/trapalanda.webp"
+    },
+    {
+        "id": 3,
+        "photo": "https://raw.githubusercontent.com/benjaminrivasm/herramientas-computacionales/refs/heads/main/img-portafolio/tardigrado.webp",
+        "title": "Microorganismo Marino",
+        "course": "Procesos y Prototipos II - 2024",
+        "professor": "Astrid Osorio",
+        "description": "<p>El proyecto se basa en la observación y simplificación del tardígrado, un organismo microscópico reconocido por su cuerpo segmentado y lleno de pliegues. A partir de esas arrugas, la pieza se construye alternando secciones de madera y resina, utilizando esa repetición para traducir su textura de manera clara y directa. Como parte del proceso, se desarrolló la planimetría de cada pieza para definir sus proporciones.</p><p>La madera se trabajó mediante cortes, devastado y lijado para definir los volúmenes principales. La resina se obtuvo a partir de moldes impresos en 3D, en PLA, donde fue vertida antes de lijarse y pulirse. En su interior se incorporó musgo sintético para sugerir un vestigio reciente de alimentación.</p><p>Para sostener la escultura, se diseñó una estructura metálica tipo giroscopio cuadrado. Su rotación permite que la pieza quede suspendida, evocando el movimiento flotante del tardígrado en su entorno acuático. El resultado es una composición tridimensional que combina madera, metal y resina para reinterpretar la esencia del microorganismo desde una materialidad tangible.</p>",
+        "gallery": "https://raw.githubusercontent.com/benjaminrivasm/herramientas-computacionales/refs/heads/main/img-portafolio/tardigrado.webp"
+    },
+    {
+        "id": 4,
+        "photo": "https://raw.githubusercontent.com/benjaminrivasm/herramientas-computacionales/refs/heads/main/img-portafolio/unipersonal.webp",
+        "title": "Espacio Unipersonal",
+        "course": "Ergonomía y Factores Humanos - 2024",
+        "professor": "Claudio Ribalta",
+        "description": "<p>El proyecto consiste en el diseño de un escritorio unipersonal adaptado a mis actividades cotidianas y a mis propias medidas antropométricas. Las dimensiones finales se definieron considerando alturas, alcances y apoyos necesarios para mantener una postura cómoda y estable.</p><p>El escritorio se concibe como un espacio que acompaña cuatro actividades principales: trabajar en el computador, construir prototipos y maquetas, realizar manualidades y bocetar. Cada una de ellas exige posturas y ritmos distintos, por lo que la geometría del mueble responde a esos cambios de posición y al alcance natural del brazo.</p><p>El resultado es un espacio de trabajo que se ajusta a mis movimientos y hábitos diarios, permitiendo transitar entre tareas digitales y manuales sin reorganizar el entorno. El proyecto incluye la planimetría completa del escritorio y una maqueta/prototipo que valida la propuesta desde su materialidad.</p>",
+        "gallery": "https://raw.githubusercontent.com/benjaminrivasm/herramientas-computacionales/refs/heads/main/img-portafolio/unipersonal.webp"
+    },
+    {
+        "id": 5,
+        "photo": "https://raw.githubusercontent.com/benjaminrivasm/herramientas-computacionales/refs/heads/main/img-portafolio/garden.webp",
+        "title": "Atypical Garden",
+        "course": "Proyecto III - 2024",
+        "professor": "Christian Basáez",
+        "description": "<p><b>Realizado en conjunto con Gabriel Aguilera, Sofía Castillo, Constanza González y Fernanda Pacheco.</b></p><p>El proyecto parte de la idea de crear un espacio de desconexión para estudiantes que enfrentan momentos de estrés académico. A partir de esa necesidad, se desarrolla un jardín atípico donde elementos naturales reinterpretados a gran escala generan una experiencia lúdica y envolvente.</p><p>Inspirado en mundos fantásticos como Alicia en el País de las Maravillas y en recorridos inmersivos basados en la alteración de la escala, el proyecto invita al usuario a explorar libremente y a relacionarse con objetos fuera de lo común. El objetivo es ofrecer una pausa emocional, permitiendo que la interacción con estas piezas ayude a despejar la mente y recuperar una sensación de calma.</p>",
+        "gallery": "https://raw.githubusercontent.com/benjaminrivasm/herramientas-computacionales/refs/heads/main/img-portafolio/garden.webp"
+    },
+    {
+        "id": 6,
+        "photo": "https://raw.githubusercontent.com/benjaminrivasm/herramientas-computacionales/refs/heads/main/img-portafolio/alice.webp",
+        "title": "Rediseño Portada",
+        "course": "Proyecto I - 2023",
+        "professor": "René Perea",
+        "description": "<p>El proyecto consiste en el rediseño de la portada de Alicia en el País de las Maravillas, explorando cómo un mismo relato puede ser interpretado visualmente desde dos lenguajes gráficos distintos. Para esto se trabajó con las estéticas de Tim Burton y Camille Rose Garcia, analizando sus códigos formales y la manera en que cada uno construye atmósferas y personajes.</p><p>El ejercicio se centró en comprender y apropiarse de estos estilos sin perder la esencia del libro, desarrollando dos portadas que siguen siendo coherentes con la historia, pero filtradas a través de cada mirada estética. El objetivo fue ejercitar la lectura visual del referente y la capacidad de traducción gráfica de un clásico literario.</p>",
+        "gallery": "https://raw.githubusercontent.com/benjaminrivasm/herramientas-computacionales/refs/heads/main/img-portafolio/alice.webp"
+    },
+    {
+        "id": 7,
+        "photo": "https://raw.githubusercontent.com/benjaminrivasm/herramientas-computacionales/refs/heads/main/img-portafolio/macintosh.webp",
+        "title": "Reinterpretación Vectorial",
+        "course": "Configuración Visual II - 2024",
+        "professor": "Juan Calderón",
+        "description": "<p>El proyecto consiste en la reinterpretación vectorial de una fotografía del Macintosh 128k, trasladando la imagen original a un lenguaje gráfico construido únicamente a partir de formas y trazos en Illustrator.</p><p>El enfoque estuvo en mantener la fidelidad del objeto, respetando su iluminación, proporciones y volumen, mientras se traducía cada detalle a una composición limpia y precisa. El resultado es una versión digital que conserva la esencia del dispositivo y resalta la claridad del trabajo vectorial.</p><p></p>",
+        "gallery": "https://raw.githubusercontent.com/benjaminrivasm/herramientas-computacionales/refs/heads/main/img-portafolio/macintosh.webp"
+    },
+    {
+        "id": 8,
+        "photo": "https://raw.githubusercontent.com/benjaminrivasm/herramientas-computacionales/refs/heads/main/img-portafolio/quidditch.webp",
+        "title": "Pictograma Quiditch",
+        "course": "Configuración Visual II - 2024",
+        "professor": "Juan Calderón",
+        "description": "<p>El proyecto consiste en desarrollar un pictograma basado en el quidditch, un deporte ficticio que permitió explorar la síntesis visual sin quedar limitado por referentes tradicionales. A partir de imágenes y símbolos asociados a la disciplina, se trabajó un proceso de abstracción para identificar sus elementos más representativos.</p><p>El resultado es un pictograma simple y directo que interpreta el deporte desde una síntesis gráfica limpia y reconocible.</p>",
+        "gallery": "https://raw.githubusercontent.com/benjaminrivasm/herramientas-computacionales/refs/heads/main/img-portafolio/quidditch.webp"
+    },
+    {
+        "id": 9,
+        "photo": "https://raw.githubusercontent.com/benjaminrivasm/herramientas-computacionales/refs/heads/main/img-portafolio/union2.webp",
+        "title": "Unión",
+        "course": "Proyecto I - 2023",
+        "professor": "René Perea",
+        "description": "<p><b>Realizado en conjunto con Carla Cruz</b></p><p>El proyecto consiste en la abstracción del concepto de “Unión”, explorando cómo formas independientes pueden percibirse como una sola figura cuando se observan desde un punto específico. A partir de la idea de kinesfera, entendida como el espacio que rodea a cada elemento y que se amplía al interactuar, se trabajó la relación entre los conceptos de “Conjunto” y “Unidad”.</p><p>En pareja, se desarrolló una composición tridimensional cuyos elementos parecen separados desde la mayoría de los ángulos, pero se alinean visualmente en una perspectiva precisa, revelando una única forma coherente. La pieza busca mostrar cómo la unión depende tanto de la relación entre las partes como del punto de vista del observador.</p>",
+        "gallery": "https://raw.githubusercontent.com/benjaminrivasm/herramientas-computacionales/refs/heads/main/img-portafolio/union2.webp"
+    },
+    {
+        "id": 10,
+        "photo": "https://raw.githubusercontent.com/benjaminrivasm/herramientas-computacionales/refs/heads/main/img-portafolio/germinador.webp",
+        "title": "Germinador Subvida",
+        "course": "Proyecto VI - 2025",
+        "professor": "Carlota Durán",
+        "description": "<p>El proyecto explora la arcilla como material capaz de regular humedad, porosidad y capilaridad para diseñar un germinador funcional para semillas como chía o linaza. El objetivo era comprender cómo el material podía conducir agua de manera eficiente y sostenible.</p><p>A partir de diversas referencias, decidí situar el proyecto en el mundo fungi, ya que los hongos dependen de la humedad y de la circulación subterránea de nutrientes. Dentro de este universo, el micelio se volvió el eje conceptual por su capacidad de distribuir lo necesario para que la vida brote, algo que dialoga directamente con el funcionamiento de un germinador.</p><p>Con esta idea se desarrolló Subvida: una semiesfera de arcilla con textura inspirada en el micelio, una base bruñida para controlar filtraciones y un recipiente superior desde donde el agua se distribuye por capilaridad. Las semillas se disponen sobre la superficie texturizada, reforzando el paralelo entre la red del micelo y la red viva que emerge al germinar.</p>",
+        "gallery": "https://raw.githubusercontent.com/benjaminrivasm/herramientas-computacionales/refs/heads/main/img-portafolio/germinador.webp"
+    },
+    {
+        "id": 11,
+        "photo": "https://raw.githubusercontent.com/benjaminrivasm/herramientas-computacionales/refs/heads/main/img-portafolio/escalera.webp",
+        "title": "Escalera de Autoconocimiento",
+        "course": "Proyecto III - 2024",
+        "professor": "Christian Basáez",
+        "description": "<p>El proyecto consiste en diseñar una escalera que funcionara como representación personal. En mi caso, se trabajó la idea de recorrido y variación, entendiendo el camino como una serie de avances, caídas y recuperaciones que forman parte del propio proceso de crecimiento.</p><p>La pieza inicia con una escalera regular que llega a la parte superior de una roca, desde donde se produce una caída que obliga a retomar el recorrido desde el suelo. A partir de ahí aparece una escalera de cuerda que asciende hacia una roca más alta, simbolizando una subida más compleja y menos estable que las anteriores.</p><p>El trayecto culmina en una plataforma de madera que da paso a un nuevo tramo de escalones regulares y, finalmente, a un ascensor. Este último elemento refleja el momento en que me encontraba al terminar el proyecto, una etapa en la que el avance volvía a sentirse claro y estable después de distintas subidas y caídas.</p>",
+        "gallery": "https://raw.githubusercontent.com/benjaminrivasm/herramientas-computacionales/refs/heads/main/img-portafolio/escalera.webp"
+    }
+]
