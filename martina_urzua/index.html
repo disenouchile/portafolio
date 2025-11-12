@@ -3,106 +3,80 @@
     <head>
         <meta charset="UTF-8" />
         <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-        <meta name="description" content="Detalle del proyecto de Martina Urzúa - Portafolio de Bachiller">
-        <title>Proyecto - Martina Urzúa</title>
+        <title>@urzuando</title>
         <link href="style.css" rel="stylesheet" />
     </head>
     <body>
         <header>
-            <h1>Martina Urzúa</h1>
+            <h1>Martina Urzúa Bravo</h1>
             <h2>Bachiller General, mención Humanidades y Artes</h2>
         </header>
         <main>
             <div class="container">
-                <nav class="nav" aria-label="Navegación principal">
-                    <a href="index.html">Portafolio</a>
+                <nav class="nav">
+                    <a href="index.html" class="active">Portafolio</a>
                     <a href="about.html">Sobre mí</a>
                 </nav>
-                <section class="single" id="project-container">
-                    <!-- Contenido cargado dinámicamente -->
+                <section class="gallery">
+                    <div class="gallery-grid" id="aqui"></div>
                 </section>
             </div>
         </main>
         <footer class="footer">
-            <p>Martina Urzúa © 2025</p>
+            <p>Martina Urzúa Bravo © 2025</p>
             <div class="social-links">
-                <a href="#" aria-label="GitHub">GitHub</a>
-                <a href="#" aria-label="LinkedIn">LinkedIn</a>
+                <a href="www.linkedin.com/in/martina-urzúa-772938395" class="social-links">LinkedIn</a>
+                <a href="https://github.com/martinaurzua" class="social-links">GitHub</a>
+                <a href="https://www.instagram.com/urzuando/" class="social-links">Instagram</a>
             </div>
         </footer>
         <script>
-            const trabajitos = [
-                {
-                    id: 1,
-                    photo: "https://anaisvalentina.github.io/primera-nota/img/lahora.webp",
-                    title: "La hora de conectarnos",
-                    course: "Proyecto III",
-                    description: "Proyecto enfocado en la conexión digital y las interacciones humanas en entornos virtuales. Desarrollé una plataforma que facilita la comunicación sincrónica mediante interfaces intuitivas."
-                },
-                {
-                    id: 2,
-                    photo: "https://milladincea.github.io/primera-nota/img/foto2.webp",
-                    title: "Collage Sensaciones",
-                    course: "Configuración Visual II",
-                    description: "Exploración de texturas y emociones a través de la técnica del collage. Combiné materiales diversos para representar estados emocionales específicos."
-                },
-                // ... AGREGAR DESCRIPCIONES A TODOS LOS TRABAJOS
-                {
-                    id: 16,
-                    photo: "https://raw.githubusercontent.com/valentinatroncoso/primera-nota/refs/heads/main/imagenes%20finales/se%C3%B1aletica.webp",
-                    title: "Señalética",
-                    course: "Ergonomía y Factores Humanos",
-                    description: "Sistema de señalización diseñado para mejorar la navegación y accesibilidad en espacios públicos universitarios."
-                }          
-            ];
+            const portfolio = document.querySelector("#aqui");
 
-            document.addEventListener('DOMContentLoaded', () => {
-                const params = new URLSearchParams(window.location.search);
-                const id = params.get('id');
-                const container = document.querySelector("#project-container");
+            async function datos(raw) {
+                try {
+                    let consulta = await fetch(raw);
+                    if (consulta.status === 429) {
+                        await new Promise((resolve) => setTimeout(resolve, 2000));
+                        consulta = await fetch(raw);
+                    }
+                    let trabajitos = await consulta.json();
+                    console.log(trabajitos);
 
-                if (!id) {
-                    container.innerHTML = `
-                        <div class="error-message">
-                            <h3>No se especificó un trabajo</h3>
-                            <p>Por favor, selecciona un trabajo del portafolio.</p>
-                            <a href="index.html" class="btn-primary">Volver al portafolio</a>
-                        </div>
-                    `;
-                    return;
+                    trabajitos.forEach((t) => {
+                        const div = document.createElement("div");
+                        div.className = "gallery-item";
+
+                        const a = document.createElement("a");
+                        a.href = `single.html?id=${t.id}`;
+
+                        const img = document.createElement("img");
+                        img.src = t.photo;
+                        img.alt = t.title;
+                        img.loading = "lazy";
+
+                        const overlay = document.createElement("div");
+                        overlay.className = "gallery-overlay";
+                        overlay.innerHTML = `<h3></h3><p></p>`;
+                        overlay.querySelector("h3").textContent = t.title;
+                        overlay.querySelector("p").textContent = t.course;
+
+                        a.append(img, overlay);
+                        div.appendChild(a);
+                        portfolio.appendChild(div);
+                    });
+                } catch (error) {
+                    console.error("Error al cargar los datos:", error);
                 }
+            }
 
-                const trabajo = trabajitos.find(t => t.id == id);
-
-                if (trabajo) {
-                    container.innerHTML = `
-                        <article class="project-detail">
-                            <header class="project-header">
-                                <h3>${trabajo.title}</h3>
-                                <h4>${trabajo.course}</h4>
-                            </header>
-                            <div class="project-content">
-                                <p>${trabajo.description}</p>
-                                <div class="project-gallery">
-                                    <img src="${trabajo.photo}" alt="${trabajo.title}" loading="lazy">
-                                    <!-- Puedes agregar más imágenes si el proyecto las tiene -->
-                                </div>
-                            </div>
-                            <footer class="project-footer">
-                                <a href="index.html" class="btn-primary">← Volver al portafolio</a>
-                            </footer>
-                        </article>
-                    `;
-                } else {
-                    container.innerHTML = `
-                        <div class="error-message">
-                            <h3>Trabajo no encontrado</h3>
-                            <p>El trabajo solicitado no existe en el portafolio.</p>
-                            <a href="index.html" class="btn-primary">Volver al portafolio</a>
-                        </div>
-                    `;
-                }
-            });
+            if (document.readyState === "loading") {
+                document.addEventListener("DOMContentLoaded", () => {
+                    datos("https://raw.githubusercontent.com/profesorfaco/herramientas/refs/heads/main/clase-13/trabajitos.json");
+                });
+            } else {
+                datos("https://raw.githubusercontent.com/profesorfaco/herramientas/refs/heads/main/clase-13/trabajitos.json");
+            }
         </script>
     </body>
 </html>
