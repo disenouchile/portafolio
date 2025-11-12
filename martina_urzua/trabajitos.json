@@ -1,33 +1,11 @@
-/*
-cafetera + grafica
-postal de metal
-volantín
-beto
-
-logo TODOS
-afiche rata enorme
-fanzine + afiche
-timbre
-
-fotos hermano
-taburete
-kido packaging
-bucle
-
-starOn + lámina
-guante + lámina
-camara vectorial
-pieza de ajedrez
-*/
 [
     {
         "id": 1,
-        "photo": "https://martinaurzua.github.io/fotitos/foto1.webp",
-        "title": "Bosui",
-        "course": "Proyecto II",
-        "description": "Este proyecto fue una exploración académica de la biomímesis, donde el desafío era traducir la estructura de un elemento natural en un objeto de diseño funcional y estético. Comencé con un análisis científico profundo de una cebolla, plasmado en una lámina de observación que descomponía su geometría, texturas y patrones, prestando especial atención a la superposición de sus capas. Tomando la síntesis de estas capas concéntricas y su curvatura como concepto central, diseñé las piezas de una cafetera pour-over en Adobe Illustrator. Estas piezas digitales, que reflejan la fluidez y la forma orgánica del bulbo, fueron fabricadas con corte láser en acrílico translúcido y luego ensambladas meticulosamente para crear este prototipo volumétrico y funcional. Para mí, el mayor aprendizaje fue dominar el proceso completo: desde la observación analógica y la abstracción de formas naturales, hasta la preparación de archivos digitales precisos y la materialización de un objeto físico con un fuerte carácter orgánico.",
-        "gallery": "https://martinaurzua.github.io/fotitos/foto2.webp"
-        "https://martinaurzua.github.io/fotitos/foto8.webp"
+        "photo": "https://raw.githubusercontent.com/anaisvalentina/imagenes/refs/heads/main/te.webp",
+        "title": "La hora de conectarnos",
+        "course": "Proyecto III",
+        "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed rutrum hendrerit lorem. Curabitur sodales feugiat libero. Nullam in lorem ut sem tempor accumsan nec vitae lacus. Sed vel finibus ex, quis euismod lorem. Aliquam eget leo sapien. Proin velit diam, suscipit vitae mi vel, laoreet finibus nisl. Pellentesque a purus eleifend, congue ante nec, aliquam risus.",
+        "gallery": "https://raw.githubusercontent.com/profesorfaco/herramientas/refs/heads/main/clase-13/gallery.webp"
     },
     {
         "id": 2,
