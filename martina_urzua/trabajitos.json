@@ -5,7 +5,7 @@
         "title": "Bosui",
         "course": "Proyecto II",
         "description": "Este proyecto fue una exploración académica de la biomímesis, donde el desafío era traducir la estructura de un elemento natural en un objeto de diseño funcional y estético. Comencé con un análisis científico profundo de una cebolla, plasmado en una lámina de observación que descomponía su geometría, texturas y patrones, prestando especial atención a la superposición de sus capas. Tomando la síntesis de estas capas concéntricas y su curvatura como concepto central, diseñé las piezas de una cafetera pour-over en Adobe Illustrator. Estas piezas digitales, que reflejan la fluidez y la forma orgánica del bulbo, fueron fabricadas con corte láser en acrílico translúcido y luego ensambladas meticulosamente para crear este prototipo volumétrico y funcional. Para mí, el mayor aprendizaje fue dominar el proceso completo: desde la observación analógica y la abstracción de formas naturales, hasta la preparación de archivos digitales precisos y la materialización de un objeto físico con un fuerte carácter orgánico.",
-        "gallery": "https://martinaurzua.github.io/fotitos/foto2.webp"
+        "gallery": "https://martinaurzua.github.io/fotitos/foto2.webp",
         "https://martinaurzua.github.io/fotitos/foto8.webp"
     },
     {
@@ -29,9 +29,9 @@
         "photo": "https://martinaurzua.github.io/fotitos/foto10.webp",
         "title": "Beto",
         "course": "Proyecto III",
-        "description": ""Beto" es un objeto conceptual que explora la intersección entre la herencia, el oficio y la identidad personal, materializado en madera y metal. El proyecto nace como un homenaje a mi abuelo, un mueblista que me dio la libertad de explorar en su taller y sembró en mí la vocación por el diseño. La pieza representa una mano dividida en dos: una parte más trabajada, que simboliza su experiencia y oficio; y otra más nueva, que me representa como diseñadora emergente. El metal se integra con la madera para crear un diálogo visual entre lo tradicional y lo contemporáneo. Este proyecto fue un ejercicio de diseño conceptual y exploración de materiales, enfocado en cómo un objeto puede encarnar la emoción, la memoria y la conexión entre dos generaciones de creadores.",
-        "gallery": "https://martinaurzua.github.io/fotitos/foto6.webp"
-"https://martinaurzua.github.io/fotitos/foto5.webp"
+        "description": "Beto es un objeto conceptual que explora la intersección entre la herencia, el oficio y la identidad personal, materializado en madera y metal. El proyecto nace como un homenaje a mi abuelo, un mueblista que me dio la libertad de explorar en su taller y sembró en mí la vocación por el diseño. La pieza representa una mano dividida en dos: una parte más trabajada, que simboliza su experiencia y oficio; y otra más nueva, que me representa como diseñadora emergente. El metal se integra con la madera para crear un diálogo visual entre lo tradicional y lo contemporáneo. Este proyecto fue un ejercicio de diseño conceptual y exploración de materiales, enfocado en cómo un objeto puede encarnar la emoción, la memoria y la conexión entre dos generaciones de creadores.",
+        "gallery": "https://martinaurzua.github.io/fotitos/foto6.webp",
+"https://martinaurzua.github.io/fotitos/foto5.webp",
 "https://martinaurzua.github.io/fotitos/foto7.webp"
     },
     {
@@ -47,8 +47,7 @@
         "photo": "https://martinaurzua.github.io/fotitos/foto3.webp",
         "title": "Macho Blanco",
         "course": "Proyecto I",
-        "description": "Este proyecto es un ejercicio de síntesis gráfica e ilustración conceptual basado en el cuento "Una rata enorme" de la escritora Carmen Montellano Tolosa. El texto narra, en clave de sátira, la irrupción de una rata "superlativa" en el baño de un lujoso apartamento en una "gran ciudad de Norteamérica". El animal es descrito con "pelos amarillos anaranjados en la cabeza" y una cola corta; al verse en el espejo, "se ve a sí misma reflejada" y piensa: "Soy el más bello, soy un macho blanco". Sintiéndose con el "poder de comer, de mandar y gobernar a su antojo", la rata se vuelve cada vez más "gorda, robusta, satisfecha y empoderada", mientras la comunidad es incapaz de tomar "acciones concretas para deshacerse del animal".
-Interpreté esta clara alegoría política y centré mi concepto en la maldad y la figura de Donald Trump. El diseño final es una ilustración minimalista, evolucionada desde bocetos a tiralíneas hasta esta composición final, que utiliza planos de color puros y una estética de recorte (paper-cut) para capturar la naturaleza amenazante del personaje con la máxima simpleza visual.",
+        "description": "Este proyecto es un ejercicio de síntesis gráfica e ilustración conceptual basado en el cuento Una rata enorme de la escritora Carmen Montellano Tolosa. El texto narra, en clave de sátira, la irrupción de una rata superlativa en el baño de un lujoso apartamento en una gran ciudad de Norteamérica. El animal es descrito con pelos amarillos anaranjados en la cabeza y una cola corta; al verse en el espejo, se ve a sí misma reflejada y piensa: Soy el más bello, soy un macho blanco. Sintiéndose con el poder de comer, de mandar y gobernar a su antojo, la rata se vuelve cada vez más gorda, robusta, satisfecha y empoderada, mientras la comunidad es incapaz de tomar acciones concretas para deshacerse del animal. Interpreté esta clara alegoría política y centré mi concepto en la maldad y la figura de Donald Trump. El diseño final es una ilustración minimalista, evolucionada desde bocetos a tiralíneas hasta esta composición final, que utiliza planos de color puros y una estética de recorte (paper-cut) para capturar la naturaleza amenazante del personaje con la máxima simpleza visual.",
        
     },
     {
@@ -56,8 +55,8 @@ Interpreté esta clara alegoría política y centré mi concepto en la maldad y 
         "photo": "https://martinaurzua.github.io/fotitos/foto4.webp",
         "title": "¿Y si mi milagro es vivir sin miedo?",
         "course": "Proyecto III",
-        "description": ""¿Y si mi milagro es vivir sin miedo?" es un proyecto de diseño editorial e ilustración que funciona como una exploración profundamente personal. A través de un fanzine y un póster complementario, el proyecto utiliza ilustraciones propias trabajadas en capas para cuestionar y reflexionar sobre la experiencia de crecer siendo queer en entornos religiosos. Fue un proceso introspectivo, donde el diseño gráfico se convirtió en una herramienta de catarsis y expresión para articular emociones complejas, tanto difíciles como luminosas. La frase que da título al proyecto no es solo una pregunta, sino una declaración conceptual: una invitación a imaginar una vida auténtica y libre, donde el amor propio también es reconocido como sagrado.",
-        "gallery": "https://martinaurzua.github.io/fotitos/foto12.webp"
+        "description": "¿Y si mi milagro es vivir sin miedo?, es un proyecto de diseño editorial e ilustración que funciona como una exploración profundamente personal. A través de un fanzine y un póster complementario, el proyecto utiliza ilustraciones propias trabajadas en capas para cuestionar y reflexionar sobre la experiencia de crecer siendo queer en entornos religiosos. Fue un proceso introspectivo, donde el diseño gráfico se convirtió en una herramienta de catarsis y expresión para articular emociones complejas, tanto difíciles como luminosas. La frase que da título al proyecto no es solo una pregunta, sino una declaración conceptual: una invitación a imaginar una vida auténtica y libre, donde el amor propio también es reconocido como sagrado.",
+        "gallery": "https://martinaurzua.github.io/fotitos/foto12.webp",
 "https://martinaurzua.github.io/fotitos/foto11.webp"
     },
     {
@@ -74,9 +73,9 @@ Interpreté esta clara alegoría política y centré mi concepto en la maldad y 
         "title": "Crónica de una Ruptura",
         "course": "Configuración Visual I",
         "collab": "con Diego Urzúa",
-        "description": "Este proyecto es un ensayo fotográfico centrado en el storytelling visual y la iluminación conceptual. El desafío técnico consistía en utilizar la composición y tres temperaturas de color distintas (cálida, neutra y fría) para construir una narrativa coherente. Mi concepto explora la intimidad de la soledad tras una ruptura; las imágenes retratan a un hombre en los espacios que antes compartía con su pareja. La variación de la luz no es solo técnica, sino emocional: la luz cálida evoca la nostalgia de la memoria, la luz fría subraya el vacío del presente y la luz neutra captura la cruda realidad del "loop". Las fotografías buscan capturar al sujeto en este bucle infinito de introspección —escuchando música, bebiendo vino— habitando los recuerdos de un espacio que ha perdido su significado original.",
-        "gallery": "https://martinaurzua.github.io/fotitos/foto13.webp"
-"https://martinaurzua.github.io/fotitos/foto14.webp"
+        "description": "Este proyecto es un ensayo fotográfico centrado en el storytelling visual y la iluminación conceptual. El desafío técnico consistía en utilizar la composición y tres temperaturas de color distintas (cálida, neutra y fría) para construir una narrativa coherente. Mi concepto explora la intimidad de la soledad tras una ruptura; las imágenes retratan a un hombre en los espacios que antes compartía con su pareja. La variación de la luz no es solo técnica, sino emocional: la luz cálida evoca la nostalgia de la memoria, la luz fría subraya el vacío del presente y la luz neutra captura la cruda realidad del loop. Las fotografías buscan capturar al sujeto en este bucle infinito de introspección —escuchando música, bebiendo vino— habitando los recuerdos de un espacio que ha perdido su significado original.",
+        "gallery": "https://martinaurzua.github.io/fotitos/foto13.webp",
+"https://martinaurzua.github.io/fotitos/foto14.webp",
 "https://martinaurzua.github.io/fotitos/foto15.webp"
     },
     {
@@ -125,8 +124,8 @@ Interpreté esta clara alegoría política y centré mi concepto en la maldad y 
         "title": "Máscara 3D",
         "course": "Herramientas Computacionales",
         "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed rutrum hendrerit lorem. Curabitur sodales feugiat libero. Nullam in lorem ut sem tempor accumsan nec vitae lacus. Sed vel finibus ex, quis euismod lorem. Aliquam eget leo sapien. Proin velit diam, suscipit vitae mi vel, laoreet finibus nisl. Pellentesque a purus eleifend, congue ante nec, aliquam risus.",
-        "gallery": "https://martinaurzua.github.io/fotitos/foto18.webp"
-"https://martinaurzua.github.io/fotitos/foto19.webp"
+        "gallery": "https://martinaurzua.github.io/fotitos/foto18.webp",
+"https://martinaurzua.github.io/fotitos/foto19.webp",
 "https://martinaurzua.github.io/fotitos/foto20.webp"
 
     },
