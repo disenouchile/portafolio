@@ -220,7 +220,7 @@ section.single h3{
 section.single h4{
     text-align: center;
     font-size: calc(1rem + 1vw);
-    margin-bottom: 3rem;
+    margin-bottom: 0;
 }
 
 section.single h5{
