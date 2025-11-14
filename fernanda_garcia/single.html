@@ -8,7 +8,7 @@
     </head>
     <body>
         <header>
-            <h1>Nombre Apellido</h1>
+            <h1>María Fernanda García</h1>
             <h2>Bachiller General, mención Humanidades y Artes</h2>
         </header>
         <main>
@@ -35,128 +35,42 @@
             </div>
         </footer>
         <script>
-const trabajitos = [
-      {
-        id: 1,
-        photo: "https://github.com/marfghid/primera-nota/blob/main/imgs/vinilo%20pro.jpg",
-        title: "Vinilo desde un libro",
-        course: "Proyecto I",
-    },
-    {
-        id: 2,
-        photo: "https://milladincea.github.io/primera-nota/img/foto2.webp",
-        title: "Objeto de Luz",
-        course: "Proyecto I"
-    },
-    {
-        id: 3,
-        photo: "https://milladincea.github.io/primera-nota/img/foto3.webp",
-        title: "Reformulación de un Pictograma Olímpico",
-        course: "Configuración Visual II"
-    },
-    {
-        id: 4,
-        photo: "https://milladincea.github.io/primera-nota/img/foto4.webp",
-        title: "Infografía Sony WALKMAN",
-        course: "Configuración Visual II"
-    },
-    {
-        id: 5,
-        photo: "https://raw.githubusercontent.com/FranciscoPinoAUCh/primera-nota/refs/heads/main/img/foto-3.webp",
-        title: "Infografía Noche de Walpurgis",
-        course: "Lenguaje y Significación"
-    },
-    {
-        id: 6,
-        photo: "https://anaisvalentina.github.io/primera-nota/img//strawffee.webp",
-        title: "Infografía Forensic Architecture",
-        course: "Proyecto III",
-    },
-    {
-        id: 7,
-        photo: "https://milladincea.github.io/primera-nota/img/foto7.webp",
-        title: "Fanzine Forensic Architecture",
-        course: "Proyecto III"
-    },
-    {
-        id: 8,
-        photo: "https://milladincea.github.io/primera-nota/img/foto8.webp",
-        title: "Objeto Gráfico: Sostén",
-        course: "Proyecto III"
-    },
-    {
-        id: 9,
-        photo: "https://gilicvnz.github.io/primera-nota/img/20250907_111211.webp",
-        title: "Infografía Prenda",
-        course: "Proyecto III",
-    },
-    {
-        id: 10,
-        photo: "https://martinaurzua.github.io/primera-nota/img/paulita.webp",
-        title: "Sensacional: Identidad Gráfica",
-        course: "Procesos y Prototipos I"
-    },
-    {
-        id: 11,
-        photo: "https://martinaurzua.github.io/primera-nota/img/cebolla.webp",
-        title: "Sensacional: Packaging e Infografía",
-        course: "Procesos y Prototipos I"
-    },
-    {
-        id: 12,
-        photo: "https://martinaurzua.github.io/primera-nota/img/ensamble.webp",
-        title: "Vitaboost: Propuesta y Desarrollo",
-        course: "Comunicación del Proyecto de Diseño"
-    },
-    {
-        id: 13,
-        photo: "https://martinaurzua.github.io/primera-nota/img/guante.webp",
-        title: "Taburete Render",
-        course: "Herramientas Computacionales"
-    },
-    {
-        id: 14,
-        photo: "https://github.com/lenapereoso/primera-nota/blob/main/img/fto7.webp?raw=true",
-        title: "Máscara Render",
-        course: "Herramientas Computacionales"
-    },
-    {
-        id: 15,
-        photo: "https://martinaurzua.github.io/primera-nota/img/simbolo.webp",
-        title: "Lámpara Lottie",
-        course: "Procesos y Prototipos II"
-    },
-    {
-        id: 16,
-        photo: "https://raw.githubusercontent.com/valentinatroncoso/primera-nota/refs/heads/main/imagenes%20finales/se%C3%B1aletica.webp",
-        title: "Propuesta Gráfica y Material de Imprenta",
-        course: "Transversal FAU: Primavera 2025",
-    }           
-];
+async function cargarTrabajo(raw, id) {
+                try {
+                    let consulta = await fetch(raw);
+                    if (consulta.status === 429) {
+                        await new Promise((resolve) => setTimeout(resolve, 2000));
+                        consulta = await fetch(raw);
+                    }
+                    let trabajitos = await consulta.json();
+                    console.log(trabajitos);
 
+                    const lugar = document.querySelector("#aqui");
+                    const trabajo = trabajitos.find((t) => t.id == id);
 
-            document.addEventListener('DOMContentLoaded', () => {
+                    if (trabajo) {
+                        lugar.innerHTML = `
+                <h3>${trabajo.title}</h3>
+                <h4>${trabajo.course}</h4>
+                <p>${trabajo.description}</p>
+                <img src="${trabajo.gallery}" alt="${trabajo.title}" loading="lazy">
+            `;
+                    } else {
+                        lugar.innerHTML = "<h3>Trabajo no encontrado</h3><p>El trabajo solicitado no existe en el portafolio.</p>";
+                    }
+                    }
+
+            document.addEventListener("DOMContentLoaded", () => {
                 const params = new URLSearchParams(window.location.search);
-                const id = params.get('id');
+                const id = params.get("id");
                 const lugar = document.querySelector("#aqui");
 
                 if (!id) {
-                    lugar.innerHTML = '<h3>No se especificó un trabajo</h3><p>Por favor, selecciona un trabajo del portafolio.</p>';
+                    lugar.innerHTML = "<div id='alerta'><p>Por favor, selecciona un trabajo del <a href='index.html'>portafolio</a>.</p></div>";
                     return;
                 }
 
-                const trabajo = trabajitos.find(t => t.id == id);
-
-                if (trabajo) {
-                    lugar.innerHTML = `
-                        <h3>${trabajo.title}</h3>
-                        <h4>${trabajo.course}</h4>
-                        <p>${trabajo.description}</p>
-                        <img src="${trabajo.photo}" alt="${trabajo.title}" loading="lazy">
-                    `;
-                } else {
-                    lugar.innerHTML = '<h3>Trabajo no encontrado</h3><p>El trabajo solicitado no existe en el portafolio.</p>';
-                }
+                cargarTrabajo("https://raw.githubusercontent.com/disenouchile/portafolio/refs/heads/main/sayen_padilla/trabajitos.json", id);
             });
         </script>
     </body>
