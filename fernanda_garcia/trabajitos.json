@@ -1,1 +1,131 @@
+[
+    {
+        "id": 1,
+        "photo": "https://github.com/ronnistp/portafolio/blob/main/Kiki.webp?raw=true",
+        "title": "Kiki - Luminaria",
+        "course": "Procesos y Prototipos II",
+        "description": "Descripción pendiente del trabajo.",
+        "gallery": "https://raw.githubusercontent.com/profesorfaco/herramientas/refs/heads/main/clase-13/gallery.webp"
+    },
+    {
+        "id": 2,
+        "photo": "https://github.com/ronnistp/portafolio/blob/main/Gato.webp?raw=true",
+        "title": "Gato Angora - Planos plegados",
+        "course": "Procesos y Prototipos II",
+        "description": "Descripción pendiente del trabajo.",
+        "gallery": "https://raw.githubusercontent.com/profesorfaco/herramientas/refs/heads/main/clase-13/gallery.webp"
+    },
+    {
+        "id": 3,
+        "photo": "https://github.com/ronnistp/portafolio/blob/main/Bolso%20Residual.webp?raw=true",
+        "title": "Fragmenta - Diseño Residual",
+        "course": "Proyecto III",
+        "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed rutrum hendrerit lorem. Curabitur sodales feugiat libero. Nullam in lorem ut sem tempor accumsan nec vitae lacus. Sed vel finibus ex, quis euismod lorem. Aliquam eget leo sapien. Proin velit diam, suscipit vitae mi vel, laoreet finibus nisl. Pellentesque a purus eleifend, congue ante nec, aliquam risus.",
+        "gallery": "https://raw.githubusercontent.com/profesorfaco/herramientas/refs/heads/main/clase-13/gallery.webp"
+    },
+    {
+        "id": 4,
+        "photo": "https://github.com/ronnistp/portafolio/blob/main/Infografia%20Movimineto.webp?raw=true",
+        "title": "Black Lives Matter - Infografía",
+        "course": "Herramientas Computacionales",
+        "description": "Descripción pendiente del trabajo.",
+        "gallery": "https://raw.githubusercontent.com/profesorfaco/herramientas/refs/heads/main/clase-13/gallery.webp"
+    },
+    {
+        "id": 5,
+        "photo": "https://github.com/ronnistp/portafolio/blob/main/Fanzine.webp?raw=true",
+        "title": "Say Their Names - Fanzine",
+        "course": "Comunicación del Proyecto de Diseño",
+        "description": "Descripción pendiente del trabajo.",
+        "gallery": "https://raw.githubusercontent.com/profesorfaco/herramientas/refs/heads/main/clase-13/gallery.webp"
+    },
+    {
+        "id": 6,
+        "photo": "https://raw.githubusercontent.com/evorakie/primera-nota/refs/heads/main/img/lesbinfo.webp",
+        "title": "Sensacional: Packaging",
+        "course": "Proceso y Prototipos I",
+        "description":  "Descripción pendiente del trabajo.",
+        "gallery": "https://raw.githubusercontent.com/profesorfaco/herramientas/refs/heads/main/clase-13/gallery.webp"
+    },
+    {
+        "id": 7,
+        "photo": "https://raw.githubusercontent.com/evorakie/primera-nota/refs/heads/main/img/sensacional.webp",
+        "title": "Sensacional: Identidad Gráfica",
+        "course": "Procesos y Prototipos I",
+        "description": "Descripción pendiente del trabajo.",
+        "gallery": "https://raw.githubusercontent.com/profesorfaco/herramientas/refs/heads/main/clase-13/gallery.webp"
+    },
+    {
+        "id": 8,
+        "photo": "https://raw.githubusercontent.com/evorakie/Portafolio-Fotos/refs/heads/main/IMG/LA%20BALADA%20DE%20UNA%20ESTRELLA.webp",
+        "title": "Fanzine Forensic Architecture",
+        "course": "Proyecto III",
+        "description":  "Descripción pendiente del trabajo.",
+        "gallery": "https://raw.githubusercontent.com/profesorfaco/herramientas/refs/heads/main/clase-13/gallery.webp"
+    },
+    {
+        "id": 9,
+        "photo": "https://raw.githubusercontent.com/evorakie/Portafolio-Fotos/refs/heads/main/IMG/ROBOT.webp",
+        "title": "Infografía Forensic Architecture",
+        "course": "Proyecto III",
+        "description":  "Descripción pendiente del trabajo.",
+        "gallery": "https://raw.githubusercontent.com/profesorfaco/herramientas/refs/heads/main/clase-13/gallery.webp"
+    },
+    {
+        "id": 10,
+        "photo": "https://raw.githubusercontent.com/evorakie/Portafolio-Fotos/refs/heads/main/IMG/SINTESIS.webp",
+        "title": "Objeto Gráfico: Prenda",
+        "course": "Proyecto III",
+        "description":  "Descripción pendiente del trabajo.",
+        "gallery": "https://raw.githubusercontent.com/profesorfaco/herramientas/refs/heads/main/clase-13/gallery.webp"
+    },
+    {
+        "id": 11,
+        "photo": "https://raw.githubusercontent.com/evorakie/Portafolio-Fotos/refs/heads/main/IMG/MAGICAKE%20(1).webp",
+        "title": "Infografía Prenda",
+        "course": "Proyecto III",
+        "description":  "Descripción pendiente del trabajo.",
+        "gallery": "https://raw.githubusercontent.com/profesorfaco/herramientas/refs/heads/main/clase-13/gallery.webp"
+    },
+    {
+        "id": 12,
+        "photo": "https://raw.githubusercontent.com/evorakie/Portafolio-Fotos/refs/heads/main/IMG/FANTASI%CC%81AMONARQUICA.webp",
+        "title": "Infografía SONY Walkman",
+        "course": "Configuración Visual II",
+        "description":  "Descripción pendiente del trabajo.",
 
+        "gallery": "https://raw.githubusercontent.com/profesorfaco/herramientas/refs/heads/main/clase-13/gallery.webp"
+    },
+    {
+        "id": 13,
+        "photo": "https://raw.githubusercontent.com/evorakie/Portafolio-Fotos/refs/heads/main/IMG/ILUSORIA2.webp",
+        "title": "Pictograma Olímpico Paría 2024",
+        "course": "Configuración Visual II",
+        "description":  "Descripción pendiente del trabajo.",
+        "gallery": "https://raw.githubusercontent.com/profesorfaco/herramientas/refs/heads/main/clase-13/gallery.webp"
+    },
+    {
+        "id": 14,
+        "photo": "https://raw.githubusercontent.com/evorakie/Portafolio-Fotos/refs/heads/main/IMG/A%20PEARL.webp",
+        "title": "Vinilo",
+        "course": "Proyecto I",
+        "description":  "Descripción pendiente del trabajo.",
+        "gallery": "https://raw.githubusercontent.com/profesorfaco/herramientas/refs/heads/main/clase-13/gallery.webp"
+    },
+    {
+        "id": 15,
+        "photo": "https://github.com/ronnistp/portafolio/blob/main/Desplegable.webp?raw=true",
+        "title": "Objeto de Luz",
+        "course": "Proyecto I",
+        "description":  "Descripción pendiente del trabajo.",
+        "gallery": "https://raw.githubusercontent.com/profesorfaco/herramientas/refs/heads/main/clase-13/gallery.webp"
+    },
+    {
+        "id": 16,
+        "photo": "https://github.com/ronnistp/portafolio/blob/main/Gemini_Generated_Image_w2zk71w2zk71w2zk.webp?raw=true",
+        "title": "Infografía Noche de Walpurgis",
+        "course": "Lenguaje y Significación",
+        "description":  "Descripción pendiente del trabajo.",
+        "gallery": "https://raw.githubusercontent.com/profesorfaco/herramientas/refs/heads/main/clase-13/gallery.webp"
+    }
+]
