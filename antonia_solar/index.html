@@ -31,131 +31,52 @@
             </div>
         </footer>
         <script>
-const trabajitos = [
-    {
-        id: 1,
-        photo: "https://antoniasolar.github.io/primera-nota/img/Lumina.webp",
-        title: "Diseño de producto (Lúmina)",
-        course: "Proyecto III, con Prof. Pamela Petruska",
-    },
-    {
-        id: 2,
-        photo: "https://antoniasolar.github.io/primera-nota/img/Logo.webp",
-        title: "Diseño de logo-identidad",
-        course: "Proyecto II, con Prof. Paula Ron"
-    },
-    {
-        id: 3,
-        photo: "https://antoniasolar.github.io/primera-nota/img/Jardines.webp",
-        title: "Diseño de portada",
-        course: "Diseño y estética, con Prof. Iván Mendéz"
-    },
-    {
-        id: 4,
-        photo: "https://milladincea.github.io/primera-nota/img/foto4.webp",
-        title: "Autorretrato",
-        course: "Representación Conceptual"
-    },
-    {
-        id: 5,
-        photo: "https://raw.githubusercontent.com/FranciscoPinoAUCh/primera-nota/refs/heads/main/img/foto-3.webp",
-        title: "Composición con recortes de cartulinas impresas con fotos de la FAU",
-        course: "Proyecto I"
-    },
-    {
-        id: 6,
-        photo: "https://anaisvalentina.github.io/primera-nota/img//strawffee.webp",
-        title: "Strawffee",
-        course: "Proyecto II",
-    },
-    {
-        id: 7,
-        photo: "https://milladincea.github.io/primera-nota/img/foto7.webp",
-        title: "Imagen de Marca Frumis",
-        course: "Procesos y Prototipos I"
-    },
-    {
-        id: 8,
-        photo: "https://milladincea.github.io/primera-nota/img/foto8.webp",
-        title: "Ocarina Lune",
-        course: "Proyecto III"
-    },
-    {
-        id: 9,
-        photo: "https://gilicvnz.github.io/primera-nota/img/20250907_111211.webp",
-        title: "Pavo real",
-        course: "Procesos y Prototipos II",
-    },
-    {
-        id: 10,
-        photo: "https://martinaurzua.github.io/primera-nota/img/paulita.webp",
-        title: "Identidad",
-        course: "Proyecto II"
-    },
-    {
-        id: 11,
-        photo: "https://martinaurzua.github.io/primera-nota/img/cebolla.webp",
-        title: "Biomímesis",
-        course: "Proyecto II"
-    },
-    {
-        id: 12,
-        photo: "https://martinaurzua.github.io/primera-nota/img/ensamble.webp",
-        title: "Ensambles en Madera",
-        course: "Procesos y Prototipos II"
-    },
-    {
-        id: 13,
-        photo: "https://martinaurzua.github.io/primera-nota/img/guante.webp",
-        title: "Guante Tactimo",
-        course: "Ergonomía y Factores Humanos"
-    },
-    {
-        id: 14,
-        photo: "https://github.com/lenapereoso/primera-nota/blob/main/img/fto7.webp?raw=true",
-        title: "Cubos en perspectiva y color",
-        course: "Configuración Visual I"
-    },
-    {
-        id: 15,
-        photo: "https://martinaurzua.github.io/primera-nota/img/simbolo.webp",
-        title: "Símbolo",
-        course: "Configuración Visual I"
-    },
-    {
-        id: 16,
-        photo: "https://raw.githubusercontent.com/valentinatroncoso/primera-nota/refs/heads/main/imagenes%20finales/se%C3%B1aletica.webp",
-        title: "Señaletica",
-        course: "Ergonomia y Factores Humanos",
-    }           
-];
+            const portfolio = document.querySelector("#aqui");
 
-document.addEventListener('DOMContentLoaded', () => {
-    const lugar = document.querySelector("#aqui");
+            async function datos(raw) {
+                try {
+                    let consulta = await fetch(raw);
+                    if (consulta.status === 429) {
+                        await new Promise((resolve) => setTimeout(resolve, 2000));
+                        consulta = await fetch(raw);
+                    }
+                    let trabajitos = await consulta.json();
+                    console.log(trabajitos);
 
-    trabajitos.forEach(t => {
-        const div = document.createElement('div');
-        div.className = 'gallery-item';
-        
-        const a = document.createElement('a');
-        a.href = `single.html?id=${t.id}`;
-        
-        const img = document.createElement('img');
-        img.src = t.photo;
-        img.alt = t.title;
-        img.loading = 'lazy';
-        
-        const overlay = document.createElement('div');
-        overlay.className = 'gallery-overlay';
-        overlay.innerHTML = `<h3></h3><p></p>`;
-        overlay.querySelector('h3').textContent = t.title;
-        overlay.querySelector('p').textContent = t.course;
-        
-        a.append(img, overlay);
-        div.appendChild(a);
-        lugar.appendChild(div);
-    });
-});            
+                    trabajitos.forEach((t) => {
+                        const div = document.createElement("div");
+                        div.className = "gallery-item";
+
+                        const a = document.createElement("a");
+                        a.href = `single.html?id=${t.id}`;
+
+                        const img = document.createElement("img");
+                        img.src = t.photo;
+                        img.alt = t.title;
+                        img.loading = "lazy";
+
+                        const overlay = document.createElement("div");
+                        overlay.className = "gallery-overlay";
+                        overlay.innerHTML = `<h3></h3><p></p>`;
+                        overlay.querySelector("h3").textContent = t.title;
+                        overlay.querySelector("p").textContent = t.course;
+
+                        a.append(img, overlay);
+                        div.appendChild(a);
+                        portfolio.appendChild(div);
+                    });
+                } catch (error) {
+                    console.error("Error al cargar los datos:", error);
+                }
+            }
+
+            if (document.readyState === "loading") {
+                document.addEventListener("DOMContentLoaded", () => {
+                    datos("https://raw.githubusercontent.com/disenouchile/portafolio/refs/heads/main/antonia_solar/trabajitos.json");
+                });
+            } else {
+                datos("https://raw.githubusercontent.com/disenouchile/portafolio/refs/heads/main/antonia_solar/trabajitos.json");
+            }
         </script>
     </body>
 
