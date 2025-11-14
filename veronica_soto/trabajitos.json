@@ -110,21 +110,20 @@
         "title": "A pearl - Photoshoot",
         "course": "Proyecto II",
         "description":  "Descripción pendiente del trabajo.",
-
         "gallery": "https://raw.githubusercontent.com/profesorfaco/herramientas/refs/heads/main/clase-13/gallery.webp"
     },
     {
         "id": 15,
-        "photo": "https://raw.githubusercontent.com/evorakie/Portafolio-Fotos/refs/heads/main/IMG/WOTAKOI%2BRV.webp",
-        "title": "Wotakoi+RV - Vinilo",
+        "photo": "https://github.com/ronnistp/portafolio/blob/main/Desplegable.webp?raw=true",
+        "title": "Desplegable de 3 tiempos",
         "course": "Proyecto I",
         "description":  "Descripción pendiente del trabajo.",
         "gallery": "https://raw.githubusercontent.com/profesorfaco/herramientas/refs/heads/main/clase-13/gallery.webp"
     },
     {
         "id": 16,
-        "photo": "https://raw.githubusercontent.com/evorakie/Portafolio-Fotos/refs/heads/main/IMG/MAREA.webp",
-        "title": "Marea - Intervención textil",
+        "photo": "https://github.com/ronnistp/portafolio/blob/main/Gemini_Generated_Image_w2zk71w2zk71w2zk.webp?raw=true",
+        "title": "Elementos básicos de la forma",
         "course": "Proyecto I",
         "description":  "Descripción pendiente del trabajo.",
         "gallery": "https://raw.githubusercontent.com/profesorfaco/herramientas/refs/heads/main/clase-13/gallery.webp"
