@@ -17,7 +17,7 @@
     },
     {
         "id": 3,
-        "photo": "",
+        "photo": "https://raw.githubusercontent.com/evorakie/Portafolio-Fotos/refs/heads/main/IMG/RITUAL%202.webp",
         "title": "Purificación Telúrica - Neoritual",
         "course": "Proyecto IV",
         "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed rutrum hendrerit lorem. Curabitur sodales feugiat libero. Nullam in lorem ut sem tempor accumsan nec vitae lacus. Sed vel finibus ex, quis euismod lorem. Aliquam eget leo sapien. Proin velit diam, suscipit vitae mi vel, laoreet finibus nisl. Pellentesque a purus eleifend, congue ante nec, aliquam risus.",
@@ -25,7 +25,7 @@
     },
     {
         "id": 4,
-        "photo": "https://raw.githubusercontent.com/evorakie/Portafolio-Fotos/refs/heads/main/IMG/RITUAL%202.webp",
+        "photo": "https://raw.githubusercontent.com/evorakie/primera-nota/refs/heads/main/img/topcycle.webp",
         "title": "Topcycle - Diseño Residual",
         "course": "Proyecto III",
         "description": "Descripción pendiente del trabajo.",
@@ -33,7 +33,7 @@
     },
     {
         "id": 5,
-        "photo": "https://github.com/evorakie/primera-nota/blob/main/img/taconinfo.webp",
+        "photo": "https://raw.githubusercontent.com/antonialarah/cuarta-nota/refs/heads/main/tacones.webp",
         "title": "Tacón - Infografía",
         "course": "Proyecto III",
         "description": "Descripción pendiente del trabajo.",
@@ -41,7 +41,7 @@
     },
     {
         "id": 6,
-        "photo": "https://github.com/evorakie/primera-nota/blob/main/img/lesbinfo.webp",
+        "photo": "https://raw.githubusercontent.com/evorakie/primera-nota/refs/heads/main/img/lesbinfo.webp",
         "title": "The Lesbian Avengers - Infografía",
         "course": "Proyecto III",
         "description":  "Descripción pendiente del trabajo.",
