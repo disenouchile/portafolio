@@ -2,16 +2,16 @@
     {
         "id": 1,
         "photo": "https://github.com/antonialarah/primera-nota/blob/main/img/INTENSIDAD%20(1).webp?raw=true",
-        "title": "INTENSIDAD, OBJETO DE PAPEL",
+        "title": "INTENSIDAD",
         "course": "Proyecto I",
         "professor": "Profesor René Perea",
-        "description": "<p>HI.</p><p>LOL.</p>",
+        "description": ""<p>El trabajo se desarrolló a partir de la exploración del concepto de <b>intensidad</b>, buscando traducirlo en una figura tridimensional construida en papel. Desde la observación y el análisis inicial, identifiqué que las formas afiladas y los materiales metálicos suelen transmitir intensidad. Con esa base conceptual, construí una composición en cartulina española negra y cartulina metálica plateada, donde múltiples puntas emergen para expresar visualmente esa sensación.</p><p>La elección del material plateado refuerza la sensación de intensidad gracias a su rigidez y carácter reflectante, generando brillos y contrastes que potencian la percepción del volumen. El resultado constituye un ejercicio de conceptualización y formalización que demuestra la capacidad de problematizar una idea, transformarla en un modelo físico y comunicar visualmente.</p>",",
         "gallery": "https://github.com/antonialarah/primera-nota/blob/main/img/INTENSIDAD%20(1).webp?raw=true"
     },
     {
         "id": 2,
         "photo": "https://github.com/antonialarah/cuarta-nota/blob/main/jsjndknajkd.webp?raw=true",
-        "title": "INTENSIDAD/AGUDO, OBJETO LUMINICO DE PAPEL",
+        "title": "PUNZANTE",
         "course": "Proyecto I",
         "professor": "Profesor René Perea",
         "description": "descripcion pendiente de mi trabajo",
@@ -29,7 +29,7 @@
     {
         "id": 4,
         "photo": "https://milladincea.github.io/primera-nota/img/foto4.webp",
-        "title": "COSTILLAS, INTERVENCIÓN CORPORAL",
+        "title": "R.I.B.S",
         "course": "Proyecto I",
         "professor": "Profesor René Perea",
         "description": "descripcion pendiente de mi trabajo",
