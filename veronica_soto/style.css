@@ -40,7 +40,7 @@ footer {
     border: 5px solid black;
     background-color: var(--colorPrimario);
     text-align: center;
-    padding: 60px 0 40px;
+    padding: 60px 0 32px;
 }
 
 main {
@@ -54,21 +54,21 @@ main {
    =================== */
 h1,
 h2 {
-    font-family: "Climate Crisis", sans-serif;
-    font-weight: 400;
+    font-family: "PT Serif", serif;
+    font-weight: 1067;
     line-height: 1.1;
     position: relative;
     z-index: 1;
 }
 
 h1 {
-    font-size: calc(1.2rem + 3vw);
+    font-size: calc(1.2rem + 4vw);
     margin-bottom: 1rem;
     text-transform: uppercase;
 }
 
 h2 {
-    font-size: calc(0.9rem + 0.9vw);
+    font-size: calc(1rem + 0.9vw);
     margin-bottom: 30px;
 }
 
@@ -81,8 +81,8 @@ h2 {
 }
 
 .nav a {
-    font-family: "Climate Crisis", sans-serif;
-    letter-spacing: 2px;
+    font-family: "PT Serif", serif;
+    letter-spacing: 4px;
     font-size: calc(0.6rem + 0.6vw);
     background-color: var(--colorMediador);
     color: #dfe4e4;
@@ -266,7 +266,7 @@ section.single img{
 }
 
 .about-text p a:hover{
-    color:rgba(0,0,0,1);
+    color:black;
 }
 
 .about-text ul{
@@ -320,7 +320,7 @@ section.single img{
    Footer
    =================== */
 .footer p {
-    color: #444;
+    color: #1E3330;
     font-size: 0.9rem;
 }
 
@@ -369,11 +369,11 @@ section.single img{
     }
 
     .gallery-overlay h3 {
-        font-size: 1rem;
+        font-size: 2rem;
     }
 
     .gallery-overlay p {
-        font-size: 0.8rem;
+        font-size: 1.5rem;
     }
 
     .about-content {
