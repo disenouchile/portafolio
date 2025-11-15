@@ -59,7 +59,7 @@
         "id": 8,
         "photo": "https://camila-calquin.github.io/primera-nota/img/modulosmini.webp",
         "title": "Módulo",
-        "course": "Configuración visual II"
+        "course": "Configuración visual II",
         "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed rutrum hendrerit lorem. Curabitur sodales feugiat libero. Nullam in lorem ut sem tempor accumsan nec vitae lacus. Sed vel finibus ex, quis euismod lorem. Aliquam eget leo sapien. Proin velit diam, suscipit vitae mi vel, laoreet finibus nisl. Pellentesque a purus eleifend, congue ante nec, aliquam risus.",
         "gallery": "https://raw.githubusercontent.com/profesorfaco/herramientas/refs/heads/main/clase-13/gallery.webp"
     },
@@ -75,7 +75,7 @@
         "id": 10,
         "photo": "https://camila-calquin.github.io/fotos/minis/basicosforma.webp",
         "title": "Elementos básicos de la forma",
-        "course": "Proyecto I"
+        "course": "Proyecto I",
         "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed rutrum hendrerit lorem. Curabitur sodales feugiat libero. Nullam in lorem ut sem tempor accumsan nec vitae lacus. Sed vel finibus ex, quis euismod lorem. Aliquam eget leo sapien. Proin velit diam, suscipit vitae mi vel, laoreet finibus nisl. Pellentesque a purus eleifend, congue ante nec, aliquam risus.",
         "gallery": "https://raw.githubusercontent.com/profesorfaco/herramientas/refs/heads/main/clase-13/gallery.webp"
     },
@@ -83,7 +83,7 @@
         "id": 11,
         "photo": "https://camila-calquin.github.io/fotos/minis/gestalt.webp",
         "title": "Leyes de la gestalt",
-        "course": "Proyecto I"
+        "course": "Proyecto I",
         "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed rutrum hendrerit lorem. Curabitur sodales feugiat libero. Nullam in lorem ut sem tempor accumsan nec vitae lacus. Sed vel finibus ex, quis euismod lorem. Aliquam eget leo sapien. Proin velit diam, suscipit vitae mi vel, laoreet finibus nisl. Pellentesque a purus eleifend, congue ante nec, aliquam risus.",
         "gallery": "https://raw.githubusercontent.com/profesorfaco/herramientas/refs/heads/main/clase-13/gallery.webp"
     },
@@ -91,7 +91,7 @@
         "id": 12,
         "photo": "https://camila-calquin.github.io/fotos/minis/logo.webp",
         "title": "Logo personal",
-        "course": "Configuración visual I"
+        "course": "Configuración visual I",
         "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed rutrum hendrerit lorem. Curabitur sodales feugiat libero. Nullam in lorem ut sem tempor accumsan nec vitae lacus. Sed vel finibus ex, quis euismod lorem. Aliquam eget leo sapien. Proin velit diam, suscipit vitae mi vel, laoreet finibus nisl. Pellentesque a purus eleifend, congue ante nec, aliquam risus.",
         "gallery": "https://raw.githubusercontent.com/profesorfaco/herramientas/refs/heads/main/clase-13/gallery.webp"
     },
@@ -99,7 +99,7 @@
         "id": 13,
         "photo": "https://camila-calquin.github.io/fotos/minis/metal.webp",
         "title": "Prototipo lámpara de metal",
-        "course": "Procesos y prototipos II"
+        "course": "Procesos y prototipos II",
         "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed rutrum hendrerit lorem. Curabitur sodales feugiat libero. Nullam in lorem ut sem tempor accumsan nec vitae lacus. Sed vel finibus ex, quis euismod lorem. Aliquam eget leo sapien. Proin velit diam, suscipit vitae mi vel, laoreet finibus nisl. Pellentesque a purus eleifend, congue ante nec, aliquam risus.",
         "gallery": "https://raw.githubusercontent.com/profesorfaco/herramientas/refs/heads/main/clase-13/gallery.webp"
     },
@@ -107,7 +107,7 @@
         "id": 14,
         "photo":  "https://camila-calquin.github.io/fotos/minis/taburete.webp",
         "title": "Taburete de raulí y álamo",
-        "course": "Procesos y prototipos II"
+        "course": "Procesos y prototipos II",
         "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed rutrum hendrerit lorem. Curabitur sodales feugiat libero. Nullam in lorem ut sem tempor accumsan nec vitae lacus. Sed vel finibus ex, quis euismod lorem. Aliquam eget leo sapien. Proin velit diam, suscipit vitae mi vel, laoreet finibus nisl. Pellentesque a purus eleifend, congue ante nec, aliquam risus.",
         "gallery": "https://raw.githubusercontent.com/profesorfaco/herramientas/refs/heads/main/clase-13/gallery.webp"
     },
@@ -115,7 +115,7 @@
         "id": 15,
         "photo": "https://camila-calquin.github.io/fotos/minis/transportador.webp",
         "title": "Transportador pieza única",
-        "course": "Proyecto IV"
+        "course": "Proyecto IV",
         "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed rutrum hendrerit lorem. Curabitur sodales feugiat libero. Nullam in lorem ut sem tempor accumsan nec vitae lacus. Sed vel finibus ex, quis euismod lorem. Aliquam eget leo sapien. Proin velit diam, suscipit vitae mi vel, laoreet finibus nisl. Pellentesque a purus eleifend, congue ante nec, aliquam risus.",
         "gallery": "https://raw.githubusercontent.com/profesorfaco/herramientas/refs/heads/main/clase-13/gallery.webp"
     },
