@@ -1,140 +1,163 @@
+f/*
+1 cafetera + grafica
+2 postal de metal
+3 volantín
+4 beto
+
+5 logo TODOS
+6 afiche rata enorme
+7 fanzine + afiche
+8 timbre
+
+9 kido packaging
+10 taburete
+11 fotos hermano
+12 bucle
+
+13 starOn + lámina
+14 guante + lámina
+15 máscara
+16 pieza de ajedrez
+*/
 [
     {
         "id": 1,
         "photo": "https://martinaurzua.github.io/fotitos/foto1.webp",
         "title": "Bosui",
-        "course": "Proyecto II",
+        "course": "Proyecto II - Prof. Paula Ron",
         "description": "Este proyecto fue una exploración académica de la biomímesis, donde el desafío era traducir la estructura de un elemento natural en un objeto de diseño funcional y estético. Comencé con un análisis científico profundo de una cebolla, plasmado en una lámina de observación que descomponía su geometría, texturas y patrones, prestando especial atención a la superposición de sus capas. Tomando la síntesis de estas capas concéntricas y su curvatura como concepto central, diseñé las piezas de una cafetera pour-over en Adobe Illustrator. Estas piezas digitales, que reflejan la fluidez y la forma orgánica del bulbo, fueron fabricadas con corte láser en acrílico translúcido y luego ensambladas meticulosamente para crear este prototipo volumétrico y funcional. Para mí, el mayor aprendizaje fue dominar el proceso completo: desde la observación analógica y la abstracción de formas naturales, hasta la preparación de archivos digitales precisos y la materialización de un objeto físico con un fuerte carácter orgánico.",
-        "gallery": "https://martinaurzua.github.io/fotitos/foto2.webp",
-        "https://martinaurzua.github.io/fotitos/foto8.webp"
+        "gallery": "https://raw.githubusercontent.com/disenouchile/portafolio/refs/heads/main/martina_urzua/trabajitos.json",
     },
-    {
-        "id": 2,
-        "photo": "https://raw.githubusercontent.com/anaisvalentina/imagenes/refs/heads/main/marca.webp",
-        "title": "Marca Personal",
-        "course": "Proyecto II",
-        "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed rutrum hendrerit lorem. Curabitur sodales feugiat libero. Nullam in lorem ut sem tempor accumsan nec vitae lacus. Sed vel finibus ex, quis euismod lorem. Aliquam eget leo sapien. Proin velit diam, suscipit vitae mi vel, laoreet finibus nisl. Pellentesque a purus eleifend, congue ante nec, aliquam risus.",
-        "gallery": "https://raw.githubusercontent.com/profesorfaco/herramientas/refs/heads/main/clase-13/gallery.webp"
-    },
-    {
+        {
         "id": 3,
-        "photo": "https://raw.githubusercontent.com/anaisvalentina/imagenes/refs/heads/main/cartera.webp",
-        "title": "Reflaura",
-        "course": "Proyecto III",
-        "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed rutrum hendrerit lorem. Curabitur sodales feugiat libero. Nullam in lorem ut sem tempor accumsan nec vitae lacus. Sed vel finibus ex, quis euismod lorem. Aliquam eget leo sapien. Proin velit diam, suscipit vitae mi vel, laoreet finibus nisl. Pellentesque a purus eleifend, congue ante nec, aliquam risus.",
-        "gallery": "https://raw.githubusercontent.com/profesorfaco/herramientas/refs/heads/main/clase-13/gallery.webp"
+        "photo": "",
+        "title": "Volantín",
+        "course": "Proyecto IV - Prof. Macarena Becas",
+        "description": "Este proyecto fue un estudio técnico y riguroso sobre operaciones de simetría geométrica. A partir de un módulo base inicial dividido en tres espacios, apliqué una secuencia programada de operaciones que incluyeron traslación, rotación y reflexión especular. Mi paleta de negro, rosado y amarillo fue una decisión deliberada: el negro actúa como una base estructural de alto contraste, mientras que la alta vibración del rosado y el amarillo maximiza la energía visual y la legibilidad de las formas generadas. Este proceso dio vida a un supermódulo complejo, que se convirtió en la unidad base para construir un patrón por repetición. El resultado final fue el diseño y la construcción de un volantín de 45x45cm, demostrando cómo reglas geométricas simples pueden escalar hasta crear un objeto visualmente dinámico y funcional.",
+        "gallery": "https://raw.githubusercontent.com/disenouchile/portafolio/refs/heads/main/martina_urzua/trabajitos.json"
     },
+{
+        "id": 3,
+        "photo": "https://raw.githubusercontent.com/valentinatroncoso/primera-nota/refs/heads/main/imagenes%20finales/se%C3%B1aletica.webp",
+        "title": "Pieza de Ajedrez",
+        "course": "Proyecto I - Prof. Paula Ron",
+        "description": "Este proyecto fue un ejercicio de diseño conceptual y resumen de formas, para pasar la identidad del trap a una pieza de ajedrez. La elección del peón es la idea central del concepto: esta pieza representa al soldado de a pie, el que surge desde abajo y muestra la historia del trap sobre buscarse la vida y superarse. El peón, como el artista de trap, es el que tiene la capacidad de transformarse y llegar al otro lado del tablero.
+Visualmente, la pieza resume la silueta reconocida del género: chaquetas grandes y bermudas anchas. El cuerpo, hecho en madera torneada, recuerda las divisiones de una chaqueta puffer y también la sensación de lujo de las cadenas. Esto hace contraste con una esfera de resina en la parte superior, que representa la joyería y el sonido moderno de la música.",
+        "gallery": "https://raw.githubusercontent.com/disenouchile/portafolio/refs/heads/main/martina_urzua/trabajitos.json"
+    }
     {
         "id": 4,
         "photo": "https://martinaurzua.github.io/fotitos/foto10.webp",
         "title": "Beto",
-        "course": "Proyecto III",
+        "course": "Proyecto III - Prof. Pamela Gatica",
         "description": "Beto es un objeto conceptual que explora la intersección entre la herencia, el oficio y la identidad personal, materializado en madera y metal. El proyecto nace como un homenaje a mi abuelo, un mueblista que me dio la libertad de explorar en su taller y sembró en mí la vocación por el diseño. La pieza representa una mano dividida en dos: una parte más trabajada, que simboliza su experiencia y oficio; y otra más nueva, que me representa como diseñadora emergente. El metal se integra con la madera para crear un diálogo visual entre lo tradicional y lo contemporáneo. Este proyecto fue un ejercicio de diseño conceptual y exploración de materiales, enfocado en cómo un objeto puede encarnar la emoción, la memoria y la conexión entre dos generaciones de creadores.",
-        "gallery": "https://martinaurzua.github.io/fotitos/foto6.webp",
-"https://martinaurzua.github.io/fotitos/foto5.webp",
-"https://martinaurzua.github.io/fotitos/foto7.webp"
+        "gallery": “https://raw.githubusercontent.com/disenouchile/portafolio/refs/heads/main/martina_urzua/trabajitos.json”,
     },
     {
         "id": 5,
-        "photo": "https://raw.githubusercontent.com/anaisvalentina/imagenes/refs/heads/main/detalle.webp",
-        "title": "Perfección",
-        "course": "Proyecto I",
-        "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed rutrum hendrerit lorem. Curabitur sodales feugiat libero. Nullam in lorem ut sem tempor accumsan nec vitae lacus. Sed vel finibus ex, quis euismod lorem. Aliquam eget leo sapien. Proin velit diam, suscipit vitae mi vel, laoreet finibus nisl. Pellentesque a purus eleifend, congue ante nec, aliquam risus.",
-        "gallery": "https://raw.githubusercontent.com/profesorfaco/herramientas/refs/heads/main/clase-13/gallery.webp"
+        "photo": "https://martinaurzua.github.io/fotitos/foto7.webp",
+        "title": "Marca Personal",
+        "course": "Proyecto II - Prof. Paula Ron",
+        "description": "Este proyecto fue mi introducción al diseño de marca personal y mi primer acercamiento a Adobe Illustrator. El desafío era crear un isotipo (logo) que combinara un animal representativo con un rasgo personal. Elegí el perro por su lealtad y energía, y lo fusioné con mis lentes como rasgo distintivo. El proceso comenzó con bocetos a mano y pruebas físicas en cartulina, evaluando la legibilidad y el impacto del diseño tanto en color como en su versión a blanco y negro. Una vez validado el concepto, el diseño final fue vectorizado en Illustrator y aplicado sobre mockups para mostrar su aplicación en productos reales.",
+        "gallery": "https://raw.githubusercontent.com/disenouchile/portafolio/refs/heads/main/martina_urzua/trabajitos.json",
     },
     {
         "id": 6,
         "photo": "https://martinaurzua.github.io/fotitos/foto3.webp",
         "title": "Macho Blanco",
-        "course": "Proyecto I",
-        "description": "Este proyecto es un ejercicio de síntesis gráfica e ilustración conceptual basado en el cuento Una rata enorme de la escritora Carmen Montellano Tolosa. El texto narra, en clave de sátira, la irrupción de una rata superlativa en el baño de un lujoso apartamento en una gran ciudad de Norteamérica. El animal es descrito con pelos amarillos anaranjados en la cabeza y una cola corta; al verse en el espejo, se ve a sí misma reflejada y piensa: Soy el más bello, soy un macho blanco. Sintiéndose con el poder de comer, de mandar y gobernar a su antojo, la rata se vuelve cada vez más gorda, robusta, satisfecha y empoderada, mientras la comunidad es incapaz de tomar acciones concretas para deshacerse del animal. Interpreté esta clara alegoría política y centré mi concepto en la maldad y la figura de Donald Trump. El diseño final es una ilustración minimalista, evolucionada desde bocetos a tiralíneas hasta esta composición final, que utiliza planos de color puros y una estética de recorte (paper-cut) para capturar la naturaleza amenazante del personaje con la máxima simpleza visual.",
+        "course": "Proyecto I - Prof. Paula Ron",
+        "description": "Este proyecto es un ejercicio de síntesis gráfica e ilustración conceptual basado en el cuento Una rata enorme de la escritora Carmen Montellano Tolosa. El texto narra, en clave de sátira, la irrupción de una rata superlativa en el baño de un lujoso apartamento en una gran ciudad de Norteamérica. El animal es descrito con pelos amarillos anaranjados en la cabeza y una cola corta; al verse en el espejo, se ve a sí misma reflejada y piensa: Soy el más bello, soy un macho blanco. Sintiéndose con el poder de comer, de mandar y gobernar a su antojo, la rata se vuelve cada vez más gorda, robusta, satisfecha y empoderada, mientras la comunidad es incapaz de tomar acciones concretas para deshacerse del animal. Interpreté esta clara alegoría política y centré mi concepto en la maldad y la figura de Donald Trump. El diseño final es una ilustración minimalista, evolucionada desde bocetos a tiralíneas hasta esta composición final, que utiliza planos de color puros y una estética de recorte para capturar la naturaleza amenazante del personaje con la máxima simpleza visual.",
+"gallery": "https://raw.githubusercontent.com/disenouchile/portafolio/refs/heads/main/martina_urzua/trabajitos.json",
        
     },
     {
         "id": 7,
         "photo": "https://martinaurzua.github.io/fotitos/foto4.webp",
         "title": "¿Y si mi milagro es vivir sin miedo?",
-        "course": "Proyecto III",
+        "course": "Proyecto III - Prof. Pamela Gatica",
         "description": "¿Y si mi milagro es vivir sin miedo?, es un proyecto de diseño editorial e ilustración que funciona como una exploración profundamente personal. A través de un fanzine y un póster complementario, el proyecto utiliza ilustraciones propias trabajadas en capas para cuestionar y reflexionar sobre la experiencia de crecer siendo queer en entornos religiosos. Fue un proceso introspectivo, donde el diseño gráfico se convirtió en una herramienta de catarsis y expresión para articular emociones complejas, tanto difíciles como luminosas. La frase que da título al proyecto no es solo una pregunta, sino una declaración conceptual: una invitación a imaginar una vida auténtica y libre, donde el amor propio también es reconocido como sagrado.",
-        "gallery": "https://martinaurzua.github.io/fotitos/foto12.webp",
-"https://martinaurzua.github.io/fotitos/foto11.webp"
+        "gallery": "https://raw.githubusercontent.com/disenouchile/portafolio/refs/heads/main/martina_urzua/trabajitos.json",
     },
     {
         "id": 8,
         "photo": "https://raw.githubusercontent.com/anaisvalentina/imagenes/refs/heads/main/taburete.webp",
-        "title": "Tabuerete para tocador",
-        "course": "Procesos y prototipos II",
+        "title": "Símbolo",
+        "course": "Configuración Visual I - Prof. Leonardo Soto",
         "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed rutrum hendrerit lorem. Curabitur sodales feugiat libero. Nullam in lorem ut sem tempor accumsan nec vitae lacus. Sed vel finibus ex, quis euismod lorem. Aliquam eget leo sapien. Proin velit diam, suscipit vitae mi vel, laoreet finibus nisl. Pellentesque a purus eleifend, congue ante nec, aliquam risus.",
-        "gallery": "https://raw.githubusercontent.com/profesorfaco/herramientas/refs/heads/main/clase-13/gallery.webp"
+        "gallery": "https://raw.githubusercontent.com/disenouchile/portafolio/refs/heads/main/martina_urzua/trabajitos.json"
     },
     {
         "id": 9,
         "photo": "https://martinaurzua.github.io/fotitos/foto16.webp",
-        "title": "Crónica de una Ruptura",
-        "course": "Configuración Visual I",
-        "collab": "con Diego Urzúa",
-        "description": "Este proyecto es un ensayo fotográfico centrado en el storytelling visual y la iluminación conceptual. El desafío técnico consistía en utilizar la composición y tres temperaturas de color distintas (cálida, neutra y fría) para construir una narrativa coherente. Mi concepto explora la intimidad de la soledad tras una ruptura; las imágenes retratan a un hombre en los espacios que antes compartía con su pareja. La variación de la luz no es solo técnica, sino emocional: la luz cálida evoca la nostalgia de la memoria, la luz fría subraya el vacío del presente y la luz neutra captura la cruda realidad del loop. Las fotografías buscan capturar al sujeto en este bucle infinito de introspección —escuchando música, bebiendo vino— habitando los recuerdos de un espacio que ha perdido su significado original.",
-        "gallery": "https://martinaurzua.github.io/fotitos/foto13.webp",
-"https://martinaurzua.github.io/fotitos/foto14.webp",
-"https://martinaurzua.github.io/fotitos/foto15.webp"
+        "title": "Kido",
+        "course": "Procesos y Prototipos I - Prof. Pamela Fuentes",
+        "collab": "con Millaray Dinamarca y Valentina Ávila",
+        "description": "Este proyecto es un ensayo fotográfico centrado en el storytelling visual y la iluminación conceptual. El desafío técnico consistía en utilizar la composición y tres temperaturas de color distintas (cálida, neutra y fría) para construir una narrativa coherente. Mi concepto explora la intimidad de la soledad tras una ruptura; las imágenes retratan a un hombre en los espacios que antes compartía con su pareja. La variación de la luz no es solo técnica, sino emocional: la luz cálida evoca la nostalgia de la memoria, la luz fría subraya el vacío del presente y la luz neutra captura la cruda realidad del loop. Las fotografías buscan capturar al sujeto en este bucle infinito de introspección, escuchando música, bebiendo vino, habitando los recuerdos de un espacio que ha perdido su significado original.",
+        "gallery": "https://raw.githubusercontent.com/disenouchile/portafolio/refs/heads/main/martina_urzua/trabajitos.json"
     },
     {
         "id": 10,
         "photo": "https://martinaurzua.github.io/primera-nota/img/paulita.webp",
-        "title": "Identidad",
-        "course": "Proyecto II",
+        "title": "Taburete",
+        "course": "Procesos y Prototipos II - Prof. Antonio Marín",
+        “collab”: “con Sofía Abarzúa”,
         "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed rutrum hendrerit lorem. Curabitur sodales feugiat libero. Nullam in lorem ut sem tempor accumsan nec vitae lacus. Sed vel finibus ex, quis euismod lorem. Aliquam eget leo sapien. Proin velit diam, suscipit vitae mi vel, laoreet finibus nisl. Pellentesque a purus eleifend, congue ante nec, aliquam risus.",
-        "gallery": "https://raw.githubusercontent.com/profesorfaco/herramientas/refs/heads/main/clase-13/gallery.webp"
+        "gallery": "https://raw.githubusercontent.com/disenouchile/portafolio/refs/heads/main/martina_urzua/trabajitos.json"
     },
     {
         "id": 11,
-        "photo": "https://martinaurzua.github.io/primera-nota/img/cebolla.webp",
-        "title": "Biomímesis",
-        "course": "Proyecto II",
-        "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed rutrum hendrerit lorem. Curabitur sodales feugiat libero. Nullam in lorem ut sem tempor accumsan nec vitae lacus. Sed vel finibus ex, quis euismod lorem. Aliquam eget leo sapien. Proin velit diam, suscipit vitae mi vel, laoreet finibus nisl. Pellentesque a purus eleifend, congue ante nec, aliquam risus.",
-        "gallery": "https://raw.githubusercontent.com/profesorfaco/herramientas/refs/heads/main/clase-13/gallery.webp"
+        "photo": "https://martinaurzua.github.io/fotitos/foto16.webp",
+        "title": "Crónica de una Ruptura",
+        "course": "Configuración Visual I - Prof. Leonardo Soto",
+        "collab": "con Diego Urzúa",
+        "description": "Este proyecto es un ensayo fotográfico centrado en el storytelling visual y la iluminación conceptual. El desafío técnico consistía en utilizar la composición y tres temperaturas de color distintas (cálida, neutra y fría) para construir una narrativa coherente. Mi concepto explora la intimidad de la soledad tras una ruptura; las imágenes retratan a un hombre en los espacios que antes compartía con su pareja. La variación de la luz no es solo técnica, sino emocional: la luz cálida evoca la nostalgia de la memoria, la luz fría subraya el vacío del presente y la luz neutra captura la cruda realidad del loop. Las fotografías buscan capturar al sujeto en este bucle infinito de introspección —escuchando música, bebiendo vino— habitando los recuerdos de un espacio que ha perdido su significado original.",
+        "gallery": "https://raw.githubusercontent.com/disenouchile/portafolio/refs/heads/main/martina_urzua/trabajitos.json"
     },
     {
         "id": 12,
         "photo": "https://martinaurzua.github.io/primera-nota/img/ensamble.webp",
-        "title": "Ensambles en Madera",
-        "course": "Procesos y Prototipos II",
+        "title": "Bucle",
+        "course": "Lenguaje y Significación - Prof. Ignacio Silva",
+        “collab”: “con Angelina Caviedes y María José Quinteros”,
         "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed rutrum hendrerit lorem. Curabitur sodales feugiat libero. Nullam in lorem ut sem tempor accumsan nec vitae lacus. Sed vel finibus ex, quis euismod lorem. Aliquam eget leo sapien. Proin velit diam, suscipit vitae mi vel, laoreet finibus nisl. Pellentesque a purus eleifend, congue ante nec, aliquam risus.",
-        "gallery": "https://raw.githubusercontent.com/profesorfaco/herramientas/refs/heads/main/clase-13/gallery.webp"
+        "gallery": "https://raw.githubusercontent.com/disenouchile/portafolio/refs/heads/main/martina_urzua/trabajitos.json"
     },
     {
         "id": 13,
         "photo": "https://martinaurzua.github.io/primera-nota/img/guante.webp",
-        "title": "Guante Tactimo",
-        "course": "Ergonomía y Factores Humanos",
+        "title": "StarOn",
+        "course": "Proyecto III - Prof. Pamela Gatica",
         "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed rutrum hendrerit lorem. Curabitur sodales feugiat libero. Nullam in lorem ut sem tempor accumsan nec vitae lacus. Sed vel finibus ex, quis euismod lorem. Aliquam eget leo sapien. Proin velit diam, suscipit vitae mi vel, laoreet finibus nisl. Pellentesque a purus eleifend, congue ante nec, aliquam risus.",
-        "gallery": "https://raw.githubusercontent.com/profesorfaco/herramientas/refs/heads/main/clase-13/gallery.webp"
+        "gallery": "https://raw.githubusercontent.com/disenouchile/portafolio/refs/heads/main/martina_urzua/trabajitos.json"
     },
     {
         "id": 14,
         "photo": "https://github.com/lenapereoso/primera-nota/blob/main/img/fto7.webp?raw=true",
-        "title": "Cubos en perspectiva y color",
-        "course": "Configuración Visual I",
+        "title": "Táctimo",
+        "course": "Ergonomía y Factores Humanos - Prof. Claudio Ribalta",
         "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed rutrum hendrerit lorem. Curabitur sodales feugiat libero. Nullam in lorem ut sem tempor accumsan nec vitae lacus. Sed vel finibus ex, quis euismod lorem. Aliquam eget leo sapien. Proin velit diam, suscipit vitae mi vel, laoreet finibus nisl. Pellentesque a purus eleifend, congue ante nec, aliquam risus.",
-        "gallery": "https://raw.githubusercontent.com/profesorfaco/herramientas/refs/heads/main/clase-13/gallery.webp"
+        "gallery": "https://raw.githubusercontent.com/disenouchile/portafolio/refs/heads/main/martina_urzua/trabajitos.json"
     },
     {
         "id": 15,
         "photo": "https://martinaurzua.github.io/fotitos/foto17.webp",
         "title": "Máscara 3D",
-        "course": "Herramientas Computacionales",
+        "course": "Herramientas Computacionales - Prof. FACO",
         "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed rutrum hendrerit lorem. Curabitur sodales feugiat libero. Nullam in lorem ut sem tempor accumsan nec vitae lacus. Sed vel finibus ex, quis euismod lorem. Aliquam eget leo sapien. Proin velit diam, suscipit vitae mi vel, laoreet finibus nisl. Pellentesque a purus eleifend, congue ante nec, aliquam risus.",
         "gallery": "https://martinaurzua.github.io/fotitos/foto18.webp",
 "https://martinaurzua.github.io/fotitos/foto19.webp",
 "https://martinaurzua.github.io/fotitos/foto20.webp"
 
     },
-    {
+{
         "id": 16,
-        "photo": "https://raw.githubusercontent.com/valentinatroncoso/primera-nota/refs/heads/main/imagenes%20finales/se%C3%B1aletica.webp",
-        "title": "Señaletica",
-        "course": "Ergonomia y Factores Humanos",
-        "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed rutrum hendrerit lorem. Curabitur sodales feugiat libero. Nullam in lorem ut sem tempor accumsan nec vitae lacus. Sed vel finibus ex, quis euismod lorem. Aliquam eget leo sapien. Proin velit diam, suscipit vitae mi vel, laoreet finibus nisl. Pellentesque a purus eleifend, congue ante nec, aliquam risus.",
-        "gallery": "https://raw.githubusercontent.com/profesorfaco/herramientas/refs/heads/main/clase-13/gallery.webp"
+        "photo": "https://raw.githubusercontent.com/anaisvalentina/imagenes/refs/heads/main/marca.webp",
+        "title": "Postal de Metal",
+        "course": "Proyecto II - Prof. Paula Ron",
+        "description": "Este proyecto fue un ejercicio de creación conceptual y grabado en metal. El desafío era diseñar un país ideal y su reseña. Mi concepto, Lunaris, se inspiró en mi signo zodiacal, Cáncer, regido por la Luna, y se resume en la frase: Solo quienes siguen su intuición pueden descubrir las islas ocultas bajo la luna Lunaris. Para materializar este mapa imaginario, utilicé la técnica de grabado químico. Primero, dibujé el diseño sobre la placa de metal usando esmalte como reserva (para protegerlo del ácido). Luego, la placa fue sumergida en ácido muriático, que corroyó el metal expuesto, dejando el diseño grabado de forma permanente. La naturaleza indeleble de este proceso químico crea una metáfora perfecta para el concepto: un mapa secreto que solo se revela y queda grabado para siempre para aquellos que confían en su intuición.",
+        "gallery": "https://raw.githubusercontent.com/disenouchile/portafolio/refs/heads/main/martina_urzua/trabajitos.json"
     }
+
+
 ]
+
