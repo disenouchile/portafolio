@@ -2,48 +2,48 @@
     {
         "id": 1,
         "photo": "https://github.com/vicentemedinat/primera-nota/blob/main/img/foto-1.webp?raw=true",
-        "title": "Alter-life",
-        "course": "Proyecto III",
+        "title": "Portada de Disco",
+        "course": "Proyecto I, René Perea",
         "description": "Descripción pendiente",
         "gallery": ""
     },
     {
         "id": 2,
         "photo": "https://github.com/vicentemedinat/primera-nota/blob/main/img/foto-3.webp?raw=true",
-        "title": "Branding marca ficticia",
-        "course": "Procesos y Prototipos I",
+        "title": "Fotografías Tonales",
+        "course": "Configuración Visual I",
         "description": "Descripción pendiente",
         "gallery": ""
     },
     {
         "id": 3,
         "photo": "https://github.com/vicentemedinat/primera-nota/blob/main/img/foto-5.webp?raw=true",
-        "title": "Logo Personal",
-        "course": "Procesos y Prototipos I",
+        "title": "Evolución de Especies",
+        "course": "Proyecto I",
         "description": "Descripción pendiente",
         "gallery": ""
     },
     {
         "id": 4,
         "photo": "https://milladincea.github.io/primera-nota/img/foto4.webp",
-        "title": "Autorretrato",
-        "course": "Representación Conceptual",
+        "title": "Pictograma Juegos Olímpicos",
+        "course": "Configuración Visual II",
         "description": "Descripción pendiente",
         "gallery": ""
     },
     {
         "id": 5,
         "photo": "https://raw.githubusercontent.com/FranciscoPinoAUCh/primera-nota/refs/heads/main/img/foto-3.webp",
-        "title": "Composición con recortes de cartulinas impresas con fotos de la FAU",
-        "course": "Proyecto I",
+        "title": "Infografía Wiimote",
+        "course": "Configuración Visual II",
         "description": "Descripción pendiente",
         "gallery": ""
     },
     {
         "id": 6,
         "photo": "https://anaisvalentina.github.io/primera-nota/img//strawffee.webp",
-        "title": "Strawffee",
-        "course": "Proyecto II",
+        "title": "Afectos Deshechados",
+        "course": "Proyecto III",
         "description": "Descripción pendiente",
         "gallery": ""
     },
