@@ -1,7 +1,7 @@
 [
     {
         "id": 1,
-        "photo": "https://github.com/vicentemedinat/primera-nota/blob/main/img/foto-1.webp?raw=true",
+        "photo": "https://raw.githubusercontent.com/vicentemedinat/repo_para_imagenes/refs/heads/main/img/photo-1.webp",
         "title": "Portada de Disco",
         "course": "Proyecto I",
         "description": "Descripción pendiente",
@@ -9,7 +9,7 @@
     },
     {
         "id": 2,
-        "photo": "https://github.com/vicentemedinat/primera-nota/blob/main/img/foto-3.webp?raw=true",
+        "photo": "https://raw.githubusercontent.com/vicentemedinat/repo_para_imagenes/refs/heads/main/img/photo-2.webp",
         "title": "Fotografías Tonales",
         "course": "Configuración Visual I",
         "description": "Descripción pendiente",
@@ -17,7 +17,7 @@
     },
     {
         "id": 3,
-        "photo": "https://github.com/vicentemedinat/primera-nota/blob/main/img/foto-5.webp?raw=true",
+        "photo": "https://raw.githubusercontent.com/vicentemedinat/repo_para_imagenes/refs/heads/main/img/photo-3.webp",
         "title": "Evolución de Especies",
         "course": "Proyecto I",
         "description": "Descripción pendiente",
@@ -33,7 +33,7 @@
     },
     {
         "id": 5,
-        "photo": "https://raw.githubusercontent.com/FranciscoPinoAUCh/primera-nota/refs/heads/main/img/foto-3.webp",
+        "photo": "https://raw.githubusercontent.com/vicentemedinat/repo_para_imagenes/refs/heads/main/img/photo-5.webp",
         "title": "Infografía Wiimote",
         "course": "Configuración Visual II",
         "description": "Descripción pendiente",
@@ -41,7 +41,7 @@
     },
     {
         "id": 6,
-        "photo": "https://anaisvalentina.github.io/primera-nota/img//strawffee.webp",
+        "photo": "https://raw.githubusercontent.com/vicentemedinat/repo_para_imagenes/refs/heads/main/img/photo-6.webp",
         "title": "Afectos Deshechados",
         "course": "Proyecto III",
         "description": "Descripción pendiente",
@@ -49,7 +49,7 @@
     },
     {
         "id": 7,
-        "photo": "https://milladincea.github.io/primera-nota/img/foto7.webp",
+        "photo": "https://raw.githubusercontent.com/vicentemedinat/repo_para_imagenes/refs/heads/main/img/photo-7.webp",
         "title": "Fanzine: Volver a Mí",
         "course": "Proyecto III",
         "description": "Descripción pendiente",
@@ -57,7 +57,7 @@
     },
     {
         "id": 8,
-        "photo": "https://milladincea.github.io/primera-nota/img/foto8.webp",
+        "photo": "https://raw.githubusercontent.com/vicentemedinat/repo_para_imagenes/refs/heads/main/img/photo-8.webp",
         "title": "Alter-Life",
         "course": "Proyecto III",
         "description": "Descripción pendiente",
@@ -73,7 +73,7 @@
     },
     {
         "id": 10,
-        "photo": "https://martinaurzua.github.io/primera-nota/img/paulita.webp",
+        "photo": "https://raw.githubusercontent.com/vicentemedinat/repo_para_imagenes/refs/heads/main/img/photo-10.webp",
         "title": "Infografía: Analisis de Objeto Tecnológico",
         "course": "Profesos y Prototipos II",
         "description": "Descripción pendiente",
@@ -81,7 +81,7 @@
     },
     {
         "id": 11,
-        "photo": "https://martinaurzua.github.io/primera-nota/img/cebolla.webp",
+        "photo": "https://raw.githubusercontent.com/vicentemedinat/repo_para_imagenes/refs/heads/main/img/photo-11.webp",
         "title": "Ejercicio Apresto: Metales",
         "course": "Procesos y Prototipos II",
         "description": "Descripción pendiente",
@@ -89,7 +89,7 @@
     },
     {
         "id": 12,
-        "photo": "https://martinaurzua.github.io/primera-nota/img/ensamble.webp",
+        "photo": "https://raw.githubusercontent.com/vicentemedinat/repo_para_imagenes/refs/heads/main/img/photo-12.webp",
         "title": "Luminaria",
         "course": "Procesos y Prototipos II",
         "description": "Descripción pendiente",
@@ -97,7 +97,7 @@
     },
     {
         "id": 13,
-        "photo": "https://martinaurzua.github.io/primera-nota/img/guante.webp",
+        "photo": "https://raw.githubusercontent.com/vicentemedinat/repo_para_imagenes/refs/heads/main/img/photo-13.webp",
         "title": "Volantín: Operaciones de Simetría",
         "course": "Proyexto IV",
         "description": "Descripción pendiente",
@@ -105,7 +105,7 @@
     },
     {
         "id": 14,
-        "photo": "https://github.com/lenapereoso/primera-nota/blob/main/img/fto7.webp?raw=true",
+        "photo": "https://raw.githubusercontent.com/vicentemedinat/repo_para_imagenes/refs/heads/main/img/photo-14.webp",
         "title": "Popbox",
         "course": "Proyexto IV",
         "description": "Descripción pendiente",
@@ -113,7 +113,7 @@
     },
     {
         "id": 15,
-        "photo": "https://martinaurzua.github.io/primera-nota/img/simbolo.webp",
+        "photo": "https://raw.githubusercontent.com/vicentemedinat/repo_para_imagenes/refs/heads/main/img/photo-15.webp",
         "title": "Mascara de Papel",
         "course": "Herraientas Computacionales",
         "description": "Descripción pendiente",
