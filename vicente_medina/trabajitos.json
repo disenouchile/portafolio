@@ -50,15 +50,15 @@
     {
         "id": 7,
         "photo": "https://milladincea.github.io/primera-nota/img/foto7.webp",
-        "title": "Imagen de Marca Frumis",
-        "course": "Procesos y Prototipos I",
+        "title": "Fanzine: Volver a Mí",
+        "course": "Proyecto III",
         "description": "Descripción pendiente",
         "gallery": ""
     },
     {
         "id": 8,
         "photo": "https://milladincea.github.io/primera-nota/img/foto8.webp",
-        "title": "Ocarina Lune",
+        "title": "Alter-Life",
         "course": "Proyecto III",
         "description": "Descripción pendiente",
         "gallery": ""
@@ -66,31 +66,31 @@
     {
         "id": 9,
         "photo": "https://gilicvnz.github.io/primera-nota/img/20250907_111211.webp",
-        "title": "Pavo real",
-        "course": "Procesos y Prototipos II",
+        "title": "Branding",
+        "course": "Procesos y Prototipos I",
         "description": "Descripción pendiente",
         "gallery": ""
     },
     {
         "id": 10,
         "photo": "https://martinaurzua.github.io/primera-nota/img/paulita.webp",
-        "title": "ad",
-        "course": "Proyecto II",
+        "title": "Infografía: Analisis de Objeto Tecnológico",
+        "course": "Profesos y Prototipos II",
         "description": "Descripción pendiente",
         "gallery": ""
     },
     {
         "id": 11,
         "photo": "https://martinaurzua.github.io/primera-nota/img/cebolla.webp",
-        "title": "Biomímesis",
-        "course": "Proyecto II",
+        "title": "Ejercicio Apresto: Metales",
+        "course": "Procesos y Prototipos II",
         "description": "Descripción pendiente",
         "gallery": ""
     },
     {
         "id": 12,
         "photo": "https://martinaurzua.github.io/primera-nota/img/ensamble.webp",
-        "title": "Ensambles en Madera",
+        "title": "Luminaria",
         "course": "Procesos y Prototipos II",
         "description": "Descripción pendiente",
         "gallery": ""
@@ -98,32 +98,32 @@
     {
         "id": 13,
         "photo": "https://martinaurzua.github.io/primera-nota/img/guante.webp",
-        "title": "Guante Tactimo",
-        "course": "Ergonomía y Factores Humanos",
+        "title": "Volantín: Operaciones de Simetría",
+        "course": "Proyexto IV",
         "description": "Descripción pendiente",
         "gallery": ""
     },
     {
         "id": 14,
         "photo": "https://github.com/lenapereoso/primera-nota/blob/main/img/fto7.webp?raw=true",
-        "title": "Cubos en perspectiva y color",
-        "course": "Configuración Visual I",
+        "title": "Popbox",
+        "course": "Proyexto IV",
         "description": "Descripción pendiente",
         "gallery": ""
     },
     {
         "id": 15,
         "photo": "https://martinaurzua.github.io/primera-nota/img/simbolo.webp",
-        "title": "Símbolo",
-        "course": "Configuración Visual I",
+        "title": "Mascara de Papel",
+        "course": "Herraientas Computacionales",
         "description": "Descripción pendiente",
         "gallery": ""
     },
     {
         "id": 16,
         "photo": "https://raw.githubusercontent.com/valentinatroncoso/primera-nota/refs/heads/main/imagenes%20finales/se%C3%B1aletica.webp",
-        "title": "Señaletica",
-        "course": "Ergonomia y Factores Humanos",
+        "title": "Taburete de Madera",
+        "course": "Procesos y Prototipos II",
         "description": "Descripción pendiente",
         "gallery": ""
     }
