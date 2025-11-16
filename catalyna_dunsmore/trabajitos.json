@@ -2,39 +2,39 @@
     {
 
 	"id": 1,
-	"photo": "https://github.com/catadunsmore/primera-nota/blob/main/img/foto-02.webp?raw=true",
+	"photo": "https://github.com/catadunsmore/fotosprt/blob/main/Imgprt/1.webp?raw=true",
 	"title": "Luminaria MuseoTaller",
 	"course": "Proyecto III",
     "professor": "Clarisa",
 	"description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed rutrum hendrerit lorem. Curabitur sodales feugiat libero. Nullam in lorem ut sem tempor accumsan nec vitae lacus. Sed vel finibus ex, quis euismod lorem. Aliquam eget leo sapien. Proin velit diam, suscipit vitae mi vel, laoreet finibus nisl. Pellentesque a purus eleifend, congue ante nec, aliquam risus.",
-	"gallery": "https://github.com/catadunsmore/primera-nota/blob/main/img/foto-02.webp?raw=true"
+	"gallery": "https://github.com/catadunsmore/fotosprt/blob/main/Imgprt/1.webp?raw=true"
     },
     {
         "id": 2,
-        "photo": "https://github.com/catadunsmore/primera-nota/blob/main/img/foto-01.webp?raw=true",
+        "photo": "https://github.com/catadunsmore/fotosprt/blob/main/Imgprt/2.webp?raw=true",
         "title": "Objeto de luz",
         "course": "Configuración Visual II",
         "professor":"",
         "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed rutrum hendrerit lorem. Curabitur sodales feugiat libero. Nullam in lorem ut sem tempor accumsan nec vitae lacus. Sed vel finibus ex, quis euismod lorem. Aliquam eget leo sapien. Proin velit diam, suscipit vitae mi vel, laoreet finibus nisl. Pellentesque a purus eleifend, congue ante nec, aliquam risus.",
-	    "gallery": "https://github.com/catadunsmore/primera-nota/blob/main/img/foto-02.webp?raw=true"
+	    "gallery": "https://github.com/catadunsmore/fotosprt/blob/main/Imgprt/2.webp?raw=true"
     },
     {
         "id": 3,
-        "photo": "https://github.com/catadunsmore/primera-nota/blob/main/img/foto-05.webp?raw=true",
+        "photo": "https://github.com/catadunsmore/fotosprt/blob/main/Imgprt/3.webp?raw=true",
         "title": "Cápsula de un objeto atesorable",
         "course": "Proyecto II",
         "professor":"",
         "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed rutrum hendrerit lorem. Curabitur sodales feugiat libero. Nullam in lorem ut sem tempor accumsan nec vitae lacus. Sed vel finibus ex, quis euismod lorem. Aliquam eget leo sapien. Proin velit diam, suscipit vitae mi vel, laoreet finibus nisl. Pellentesque a purus eleifend, congue ante nec, aliquam risus.",
-	    "gallery": "https://github.com/catadunsmore/primera-nota/blob/main/img/foto-02.webp?raw=true"
+	    "gallery": "https://github.com/catadunsmore/fotosprt/blob/main/Imgprt/3.webp?raw=true"
     },
     {
         "id": 4,
-        "photo": "https://github.com/catadunsmore/primera-nota/blob/main/img/foto-06.webp?raw=true",
+        "photo": "https://github.com/catadunsmore/fotosprt/blob/main/Imgprt/4.webp?raw=true",
         "title": "Ciempiés Metal",
         "course": "Procesos y Prototipos II",
         "professor":"",
         "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed rutrum hendrerit lorem. Curabitur sodales feugiat libero. Nullam in lorem ut sem tempor accumsan nec vitae lacus. Sed vel finibus ex, quis euismod lorem. Aliquam eget leo sapien. Proin velit diam, suscipit vitae mi vel, laoreet finibus nisl. Pellentesque a purus eleifend, congue ante nec, aliquam risus.",
-	    "gallery": "https://github.com/catadunsmore/primera-nota/blob/main/img/foto-02.webp?raw=true"
+	    "gallery": "https://github.com/catadunsmore/fotosprt/blob/main/Imgprt/4.webp?raw=true"
     },
     {
         "id": 5,
