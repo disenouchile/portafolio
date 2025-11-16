@@ -45,7 +45,9 @@
                         lugar.innerHTML = `
                 <h3>${trabajo.title}</h3>
                 <h4>${trabajo.course}</h4>
-                <p>${trabajo.description}</p>
+                <h5>${trabajo.professor}</h5>
+                ${trabajo.description}
+                
                 <img src="${trabajo.gallery}" alt="${trabajo.title}" loading="lazy">
             `;
                     } else {
@@ -68,7 +70,7 @@
                     return;
                 }
 
-                cargarTrabajo("https://raw.githubusercontent.com/disenouchile/portafolio/refs/heads/main/catalyna_dunsmore/trabajos.json", id);
+                cargarTrabajo("https://raw.githubusercontent.com/disenouchile/portafolio/refs/heads/main/catalyna_dunsmore/trabajitos.json", id);
             });
         </script>
     </body>
