@@ -1,12 +1,13 @@
-@import url("https://fonts.googleapis.com/css2?family=Climate+Crisis&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=Concert+One&family=Geologica:wght@100..900&family=Pixelify+Sans:wght@400..700&family=Russo+One&display=swap");
+
 
 /* ===================
    Variables y Reset
    =================== */
 :root {
-    --colorPrimario: rgb(255, 0, 176);
-    --colorOverlay: rgba(0,255,255,0.9);
-    --colorSecundario: rgba(217, 0, 255, 0.64);
+    --colorPrimario: rgb(0, 55,106);
+    --colorOverlay: rgb(45, 109, 164);
+    --colorSecundario: rgba(248,300, 338);
     --colorMediador: rgb(255, 255, 255);
 }
 
@@ -54,7 +55,7 @@ main {
    =================== */
 h1,
 h2 {
-    font-family: "Climate Crisis", sans-serif;
+    font-family: "Concert One", sans-serif;
     font-weight: 400;
     line-height: 1.1;
     position: relative;
@@ -64,12 +65,15 @@ h2 {
 h1 {
     font-size: calc(1.2rem + 3vw);
     margin-bottom: 1rem;
+    color: rgba(255, 255, 255, 0.9);
     text-transform: uppercase;
 }
 
 h2 {
     font-size: calc(0.9rem + 0.9vw);
     margin-bottom: 30px;
+    color: rgba(255, 255, 255, 0.9);
+    
 }
 
 /* ===================
@@ -81,7 +85,7 @@ h2 {
 }
 
 .nav a {
-    font-family: "Climate Crisis", sans-serif;
+    font-family: "Concert One", sans-serif;
     letter-spacing: 2px;
     font-size: calc(0.6rem + 0.6vw);
     background-color: var(--colorMediador);
@@ -101,9 +105,9 @@ h2 {
 }
 
 .nav a:hover {
-    color: rgba(0,0,0,1);
+    color: rgb(255, 0, 0);
     transform: translate(4px, 4px);
-    box-shadow: 8px 8px 0 #000;
+    box-shadow: 8px 8px 0 #ff0000;
 }
 
 .nav a:first-child {
@@ -215,6 +219,12 @@ section.single h4{
     margin-bottom: 3rem;
 }
 
+section.single h5{
+    text-align: center;
+    font-size: calc(1rem + 0.5vw);
+    margin-bottom: 3rem;
+}
+
 section.single p, section.single ul{
     width:min(95%, 800px);
     margin:1rem auto;
@@ -264,7 +274,7 @@ section.single img{
 }
 
 .about-text p a:hover{
-    color:rgba(0,0,0,1);
+    color:rgb(123, 0, 0);
 }
 
 .about-text ul{
@@ -318,7 +328,7 @@ section.single img{
    Footer
    =================== */
 .footer p {
-    color: #444;
+    color: #ffffff;
     font-size: 0.9rem;
 }
 
@@ -327,7 +337,7 @@ section.single img{
 }
 
 .social-links a {
-    color: #222;
+    color: #ffffff;
     text-decoration: none;
     margin: 0 15px;
     font-size: 0.9rem;
