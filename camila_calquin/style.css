@@ -4,10 +4,10 @@
    Variables y Reset
    =================== */
 :root {
-    --colorPrimario: rgba(0,255,255,1);
-    --colorOverlay: rgba(0,255,255,0.9);
-    --colorSecundario: rgba(255,255,0,1);
-    --colorMediador: rgba(255,0,255,1);
+    --colorPrimario: rgba(132, 221, 245, 1);
+    --colorOverlay: rgba(51, 48, 108, 0.9);
+    --colorSecundario: rgba(183, 159, 211,1);
+    --colorMediador: rgb(228, 164, 239);
 }
 
 * {
@@ -187,7 +187,7 @@ h2 {
 }
 
 .gallery-overlay p {
-    color: black;
+    color: #ffffff;
     font-size: 0.9rem;
     letter-spacing: 1px;
     padding:0 1.5rem;
