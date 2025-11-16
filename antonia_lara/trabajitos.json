@@ -104,7 +104,7 @@
         "title": "RATA DE METAL",
         "course": "Procesos y Prototipos II",
         "professor": "Profesor Patricio Araya",
-        "description": "descripcion pendiente de mi trabajo",
+        "description":  "<p>El encargo consistió en diseñar y construir un animal metálico a partir de técnicas de plegado, uniones y troquelado. Mi propuesta fue una rata de metal compuesta por tres módulos principales, cuerpo, cola/parte superior y barriga, que se articularon mediante plegado manual y se unieron por soldadura de punto y remaches pop.</p><p>El proyecto implicó una exploración profunda de la geometría animal y de cómo traducirla a un objeto tridimensional mediante la manipulación del metal. A través del análisis de formas, la experimentación con estructuras y la resolución material, se desarrolló un modelo físico que evidencia tanto el proceso de observación como la capacidad de transformar ideas en soluciones formales.</p><p>Este trabajo refleja las habilidades adquiridas para interpretar el entorno, identificar problemáticas de diseño, y proponer respuestas innovadoras mediante metodologías propias de la disciplina. Asimismo, demuestra dominio en la conceptualización, la representación y la comunicación material de una propuesta, consolidando las bases necesarias para abordar desafíos proyectuales con criterio y sensibilidad técnica.</p>",
         "gallery": "https://github.com/antonialarah/primera-nota/blob/main/img/INTENSIDAD%20(1).webp?raw=true"
     },
     {
@@ -113,7 +113,7 @@
         "title": "LUMINARIA DE METAL",
         "course": "Procesos y Prototipos II",
         "professor": "Profesor Patricio Araya",
-        "description": "descripcion pendiente de mi trabajo",
+        "description": "<p>Este proyecto consistió en el diseño y construcción de una lámpara metálica elaborada a partir de técnicas de plegado, troquelado y uniones. La pieza fue explorando las posibilidades volumétricas del material mediante dobleces precisos y uniones con soldadura de punto. Como referencia formal se tomó la lámpara <b>Klinklamp de Romy Kühne</b>, reinterpretándola desde una mirada propia para generar una propuesta estructural limpia y expresiva.</p><p>El desarrollo del proyecto permitió comprender de manera profunda la relación entre material, forma y función, integrando criterios técnicos y conceptuales para dar coherencia a la solución final. A través del análisis, la experimentación y la construcción del modelo físico, se ejercitaron habilidades esenciales para identificar problemáticas, formular respuestas viables y materializar ideas con herramientas propias del Diseño. Con este ejercicio se consolidó la capacidad de observar críticamente el entorno, tomar decisiones fundamentadas y comunicar de forma clara una propuesta que sintetiza creatividad, técnica y propósito.</p><p><b>Trabajo realizado en conjunto con Vicente Medina</b></p>",
         "gallery": "https://github.com/antonialarah/primera-nota/blob/main/img/INTENSIDAD%20(1).webp?raw=true"
     },
     {
@@ -122,7 +122,7 @@
         "title": "VOLANTÍN",
         "course": "Proyecto IV",
         "professor": "Profesora Macarena Becas",
-        "description": "descripcion pendiente de mi trabajo",
+        "description": "<p>Este proyecto consistió en la aplicación de operaciones de simetría para la construcción del diseño de un volantín, comenzando con la creación de un módulo base. A partir de un cuadrado de 5 × 5 cm, dividido en tres espacios cromáticos utilizando vértices y puntos medios como guías, se desarrolló un primer ejercicio geométrico. Sobre este módulo se aplicaron dos operaciones fundamentales: una traslación rotatoria de –90° y una reflexión especular en eje X, lo que permitió conformar un supermódulo coherente en ritmo y estructura.</p><p>Posteriormente, este supermódulo se sometió a nuevas transformaciones (traslación, reflexiones especulares en los ejes X y Y, y una rotación final de –45° desde el centro) para generar la composición definitiva del volantín. El resultado es una pieza gráfica que evidencia comprensión de estructura modular, repetición, variación y coherencia visual, articuladas mediante métodos propios del diseño.</p><p>Este trabajo refleja la capacidad de observar, analizar y manipular relaciones espaciales como base para idear soluciones formales. Asimismo, demuestra habilidad para modelar propuestas mediante herramientas geométricas y para comunicar un concepto visual claro a través de un proceso riguroso de construcción y transformación. Con ello, se consolidan competencias esenciales para proyectar y materializar ideas de manera fundamentada dentro de la disciplina del diseño.</p>",
         "gallery": "https://github.com/antonialarah/primera-nota/blob/main/img/INTENSIDAD%20(1).webp?raw=true"
     },
     {
@@ -131,7 +131,7 @@
         "title": "TRANSPORTADOR DE VITUALLAS",
         "course": "Proyecto IV",
         "professor": "Profesora Macarena Becas",
-        "description": "descripcion pendiente de mi trabajo",
+        "description": "<p>Este proyecto consistió en diseñar un transportador de vituallas para un picnic de cine al aire libre, desarrollado a partir de una sola lámina que, mediante dobleces y encajes, se transforma en un contenedor funcional. El proceso se estructuró desde la identificación de una problemática principal: el elevado peso de los equipos tecnológicos, especialmente el proyector, que dificulta su traslado seguro y eficiente.</p><p>Para asegurar estabilidad y resistencia, el transportador fue construido con lona engomada reforzada internamente con cartón piedra, utilizado como entretela para otorgar rigidez estructural y evitar la pérdida de forma durante el uso. Además, se incorporaron dos asas de tubos de PVC, seleccionadas por su solidez y comodidad al manipular cargas pesadas.</p><p>La propuesta surge de la observación directa del escenario de uso y del análisis de sus requerimientos, permitiendo reconocer las necesidades esenciales del usuario y las limitaciones del contexto. A partir de este diagnóstico, se modeló y formalizó una solución capaz de distribuir mejor el peso, proteger los objetos transportados y facilitar su desplazamiento.</p><p>El proyecto refleja la capacidad de traducir una problemática concreta en un modelo conceptual y físico, integrando criterios funcionales, materiales y constructivos propios del diseño, y comunicando una respuesta pertinente y fundamentada al desafío planteado.</p><p><b>Trabajo realizado en conjunto con Vicente Medina</b></p>",
         "gallery": "https://github.com/antonialarah/primera-nota/blob/main/img/INTENSIDAD%20(1).webp?raw=true"
     },
     {
@@ -140,7 +140,7 @@
         "title": "MÁSCARA ANIMAL BLENDER",
         "course": "Herramientas computacionales",
         "professor": "Profesor Felipe Cortez",
-        "description": "descripcion pendiente de mi trabajo",
+        "description": "<p>Este proyecto consistió en diseñar una máscara de Halloween utilizando Blender, desarrollando un modelo tridimensional que posteriormente pudiera imprimirse y ensamblarse en papel. Opté por crear una máscara de mapache, explorando la geometría facetada y los pliegues necesarios para transformar una superficie digital en un objeto físico coherente y armable.</p><p>Con este ejercicio se consolidan capacidades de observación, representación y toma de decisiones proyectuales, utilizando herramientas digitales para idear y materializar soluciones. La máscara final sintetiza un recorrido que integra diagnóstico, modelación y comunicación visual, demostrando la habilidad para transformar una intención conceptual en un objeto concreto y funcional.</p>",
         "gallery": "https://github.com/antonialarah/primera-nota/blob/main/img/INTENSIDAD%20(1).webp?raw=true"
     }           
 ]
