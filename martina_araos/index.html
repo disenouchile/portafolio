@@ -24,139 +24,12 @@
             </div>
         </main>
         <footer class="footer">
-            <p>Martina Araos © 2025</p>
+            <p>Martina Araos Figueroa © 2025</p>
             <div class="social-links">
                 <a href="#">GitHub</a>
                 <a href="#">LinkedIn</a>
             </div>
         </footer>
-        <script>
-const trabajitos = [
-    {
-        id: 1,
-        photo: "https://github.com/martina-af/fotos/blob/main/lampara.png?raw=true",
-        title: "Lámpara de metal",
-        course: "Procesos y prototipos II",
-    },
-    {
-        id: 2,
-        photo: "https://github.com/martina-af/fotos/blob/main/analisis%20de%20una%20semilla.png?raw=true",
-        title: "Análisis de una semilla",
-        course: "Proyecto I"
-    },
-    {
-        id: 3,
-        photo: "https://github.com/martina-af/fotos/blob/main/animal%20de%20metal.png?raw=true",
-        title: "Animal de metal",
-        course: "Procesos y prototipos II"
-    },
-    {
-        id: 4,
-        photo: "https://github.com/martina-af/fotos/blob/main/autoretrato.png?raw=true",
-        title: "Autorretrato de plasticina",
-        course: "Configuración visual I"
-    },
-    {
-        id: 5,
-        photo: "https://github.com/martina-af/fotos/blob/main/capsula%20de%20tiempo.png?raw=true",
-        title: "Cápsula de tiempo para un objeto atesorable",
-        course: "Proyecto II"
-    },
-    {
-        id: 6,
-        photo: "https://github.com/martina-af/fotos/blob/main/cubosoma.png?raw=true",
-        title: "Cubosoma",
-        course: "Configuración visual I",
-    },
-    {
-        id: 7,
-        photo: "https://github.com/martina-af/fotos/blob/main/elmentos%20basicos%20de%20la%20forma.png?raw=true",
-        title: "Elementos básicos de la forma",
-        course: "Proyecto I"
-    },
-    {
-        id: 8,
-        photo: "https://github.com/martina-af/fotos/blob/main/imagen%20de%20marca%20buddies.png?raw=true",
-        title: "Imagen de marca Buddies",
-        course: "Procesos y prototipos I"
-    },
-    {
-        id: 9,
-        photo: "https://github.com/martina-af/fotos/blob/main/infografia%20queer.png?raw=true",
-        title: "Infografía movimiento Queer",
-        course: "Proyecto III",
-    },
-    {
-        id: 10,
-        photo: "https://github.com/martina-af/fotos/blob/main/lenguaje%20visual.png?raw=true",
-        title: "Lenguaje visual",
-        course: "Representación conceptual"
-    },
-    {
-        id: 11,
-        photo: "https://github.com/martina-af/fotos/blob/main/leyes%20de%20la%20gestalt.png?raw=true",
-        title: "Leyes de la gestalt",
-        course: "Proyecto I"
-    },
-    {
-        id: 12,
-        photo: "https://github.com/martina-af/fotos/blob/main/objeto%20de%20luz.png?raw=true",
-        title: "Objeto de luz",
-        course: "Proyecto II"
-    },
-    {
-        id: 13,
-        photo: "https://github.com/martina-af/fotos/blob/main/pato.png?raw=true",
-        title: "Superficies geométricas",
-        course: "Matemáticas aplicadas al diseño"
-    },
-    {
-        id: 14,
-        photo: "https://github.com/martina-af/fotos/blob/main/popmart.png?raw=true",
-        title: "Popmart x BT21",
-        course: "Comunicación del proyecto de diseño"
-    },
-    {
-        id: 15,
-        photo: "https://github.com/martina-af/fotos/blob/main/teoria%20del%20color.png?raw=true",
-        title: "Teoría del color",
-        course: "Configuración Visual I"
-    },
-    {
-        id: 16,
-        photo: "https://github.com/martina-af/fotos/blob/main/taburete%20de%20madera.png?raw=true",
-        title: "Taburete de madera",
-        course: "Procesos y prototipos II",
-    }           
-];
-
-document.addEventListener('DOMContentLoaded', () => {
-    const lugar = document.querySelector("#aqui");
-
-    trabajitos.forEach(t => {
-        const div = document.createElement('div');
-        div.className = 'gallery-item';
-        
-        const a = document.createElement('a');
-        a.href = `single.html?id=${t.id}`;
-        
-        const img = document.createElement('img');
-        img.src = t.photo;
-        img.alt = t.title;
-        img.loading = 'lazy';
-        
-        const overlay = document.createElement('div');
-        overlay.className = 'gallery-overlay';
-        overlay.innerHTML = `<h3></h3><p></p>`;
-        overlay.querySelector('h3').textContent = t.title;
-        overlay.querySelector('p').textContent = t.course;
-        
-        a.append(img, overlay);
-        div.appendChild(a);
-        lugar.appendChild(div);
-    });
-});            
-       
          <script>
             const portfolio = document.querySelector("#aqui");
 
@@ -202,10 +75,11 @@ document.addEventListener('DOMContentLoaded', () => {
                     datos("https://raw.githubusercontent.com/martina-af/json/refs/heads/main/trabajitos.json");
                 });
             } else {
-                datos("https://raw.githubusercontent.com/martina-af/json/refs/heads/main/trabajitos.json");
+                datos("https://raw.githubusercontent.com/martina-af/json/refs/heads/main/trabajitos.json";
             }
         </script>
     </body>
 
 
 </html>
+
