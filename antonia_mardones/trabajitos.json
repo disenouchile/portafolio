@@ -1,7 +1,7 @@
 [
     {
         "id": 1,
-        "photo": "https://antoniamardones.github.io/fotos-portafolio/imagenes/pieza-ajedrez.webp",
+        "photo": "https://antoniamardones.github.io/fotos-portafolio/photos/foto-1.webp",
         "title": "Conceptualización para pieza de ajedrez",
         "course": "Proyecto I",
         "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed rutrum hendrerit lorem. Curabitur sodales feugiat libero. Nullam in lorem ut sem tempor accumsan nec vitae lacus. Sed vel finibus ex, quis euismod lorem. Aliquam eget leo sapien. Proin velit diam, suscipit vitae mi vel, laoreet finibus nisl. Pellentesque a purus eleifend, congue ante nec, aliquam risus.",
@@ -9,15 +9,15 @@
     },
     {
         "id": 2,
-        "photo": "https://antoniamardones.github.io/fotos-portafolio/imagenes/infografia-dvina.webp",
-        "title": "Infografía D'vina",
-        "course": "Procesos y prototipos I",
+        "photo": "https://antoniamardones.github.io/fotos-portafolio/photos/foto-2.webp",
+        "title": "Neo ritual",
+        "course": "Proyecto IV",
         "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed rutrum hendrerit lorem. Curabitur sodales feugiat libero. Nullam in lorem ut sem tempor accumsan nec vitae lacus. Sed vel finibus ex, quis euismod lorem. Aliquam eget leo sapien. Proin velit diam, suscipit vitae mi vel, laoreet finibus nisl. Pellentesque a purus eleifend, congue ante nec, aliquam risus.",
         "gallery": "https://raw.githubusercontent.com/profesorfaco/herramientas/refs/heads/main/clase-13/gallery.webp"
     },
     {
         "id": 3,
-        "photo": "https://antoniamardones.github.io/fotos-portafolio/imagenes/cubo-configuracion.webp",
+        "photo": "https://antoniamardones.github.io/fotos-portafolio/photos/foto-3.webp",
         "title": "Cubo soma",
         "course": "Configuración visual I",
         "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed rutrum hendrerit lorem. Curabitur sodales feugiat libero. Nullam in lorem ut sem tempor accumsan nec vitae lacus. Sed vel finibus ex, quis euismod lorem. Aliquam eget leo sapien. Proin velit diam, suscipit vitae mi vel, laoreet finibus nisl. Pellentesque a purus eleifend, congue ante nec, aliquam risus.",
@@ -25,7 +25,7 @@
     },
     {
         "id": 4,
-        "photo": "https://antoniamardones.github.io/fotos-portafolio/imagenes/coralia.webp",
+        "photo": "https://antoniamardones.github.io/fotos-portafolio/photos/foto-4.webp",
         "title": "Coralia",
         "course": "Proyecto III",
         "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed rutrum hendrerit lorem. Curabitur sodales feugiat libero. Nullam in lorem ut sem tempor accumsan nec vitae lacus. Sed vel finibus ex, quis euismod lorem. Aliquam eget leo sapien. Proin velit diam, suscipit vitae mi vel, laoreet finibus nisl. Pellentesque a purus eleifend, congue ante nec, aliquam risus.",
@@ -33,7 +33,7 @@
     },
     {
         "id": 5,
-        "photo": "https://antoniamardones.github.io/fotos-portafolio/imagenes/cubo-configuracion.webp",
+        "photo": "https://antoniamardones.github.io/fotos-portafolio/photos/foto-5.webp",
         "title": "Mascara blender",
         "course": "Herramientas computacionales",
         "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed rutrum hendrerit lorem. Curabitur sodales feugiat libero. Nullam in lorem ut sem tempor accumsan nec vitae lacus. Sed vel finibus ex, quis euismod lorem. Aliquam eget leo sapien. Proin velit diam, suscipit vitae mi vel, laoreet finibus nisl. Pellentesque a purus eleifend, congue ante nec, aliquam risus.",
@@ -41,7 +41,7 @@
     },
     {
         "id": 6,
-        "photo": "https://antoniamardones.github.io/fotos-portafolio/imagenes/pictograma.webp",
+        "photo": "https://antoniamardones.github.io/fotos-portafolio/photos/foto-6.webp",
         "title": "Pictograma",
         "course": "Configuración visual II",
         "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed rutrum hendrerit lorem. Curabitur sodales feugiat libero. Nullam in lorem ut sem tempor accumsan nec vitae lacus. Sed vel finibus ex, quis euismod lorem. Aliquam eget leo sapien. Proin velit diam, suscipit vitae mi vel, laoreet finibus nisl. Pellentesque a purus eleifend, congue ante nec, aliquam risus.",
@@ -49,15 +49,15 @@
     },
     {
         "id": 7,
-        "photo": "https://antoniamardones.github.io/fotos-portafolio/imagenes/crisalida.webp",
-        "title": "Neo ritual",
-        "course": "Proyecto IV",
+        "photo": "https://antoniamardones.github.io/fotos-portafolio/photos/foto-7.webp",
+        "title": "Infografía D'vina",
+        "course": "Procesos y prototipos I",
         "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed rutrum hendrerit lorem. Curabitur sodales feugiat libero. Nullam in lorem ut sem tempor accumsan nec vitae lacus. Sed vel finibus ex, quis euismod lorem. Aliquam eget leo sapien. Proin velit diam, suscipit vitae mi vel, laoreet finibus nisl. Pellentesque a purus eleifend, congue ante nec, aliquam risus.",
         "gallery": "https://raw.githubusercontent.com/profesorfaco/herramientas/refs/heads/main/clase-13/gallery.webp"
     },
     {
         "id": 8,
-        "photo": "https://antoniamardones.github.io/fotos-portafolio/imagenes/taburete.webp",
+        "photo": "https://antoniamardones.github.io/fotos-portafolio/photos/foto-8.webp",
         "title": "Taburete para niños",
         "course": "Procesos y prototipos II",
         "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed rutrum hendrerit lorem. Curabitur sodales feugiat libero. Nullam in lorem ut sem tempor accumsan nec vitae lacus. Sed vel finibus ex, quis euismod lorem. Aliquam eget leo sapien. Proin velit diam, suscipit vitae mi vel, laoreet finibus nisl. Pellentesque a purus eleifend, congue ante nec, aliquam risus.",
@@ -65,7 +65,7 @@
     },
     {
         "id": 9,
-        "photo": "https://antoniamardones.github.io/fotos-portafolio/imagenes/packaging-dvina.webp",
+        "photo": "https://antoniamardones.github.io/fotos-portafolio/photos/foto-9.webp",
         "title": "Packaging D'vina",
         "course": "Procesos y prototipos I",
         "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed rutrum hendrerit lorem. Curabitur sodales feugiat libero. Nullam in lorem ut sem tempor accumsan nec vitae lacus. Sed vel finibus ex, quis euismod lorem. Aliquam eget leo sapien. Proin velit diam, suscipit vitae mi vel, laoreet finibus nisl. Pellentesque a purus eleifend, congue ante nec, aliquam risus.",
@@ -73,7 +73,7 @@
     },
     {
         "id": 10,
-        "photo": "https://antoniamardones.github.io/fotos-portafolio/imagenes/invasion-inversa.webp",
+        "photo": "https://antoniamardones.github.io/fotos-portafolio/photos/foto-10.webp",
         "title": "Invasión inversa",
         "course": "Proyecto III",
         "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed rutrum hendrerit lorem. Curabitur sodales feugiat libero. Nullam in lorem ut sem tempor accumsan nec vitae lacus. Sed vel finibus ex, quis euismod lorem. Aliquam eget leo sapien. Proin velit diam, suscipit vitae mi vel, laoreet finibus nisl. Pellentesque a purus eleifend, congue ante nec, aliquam risus.",
@@ -81,7 +81,7 @@
     },
     {
         "id": 11,
-        "photo": "https://antoniamardones.github.io/fotos-portafolio/imagenes/postal-metal.webp",
+        "photo": "https://antoniamardones.github.io/fotos-portafolio/photos/foto-11.webp",
         "title": "Postal en metal",
         "course": "Proyecto II",
         "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed rutrum hendrerit lorem. Curabitur sodales feugiat libero. Nullam in lorem ut sem tempor accumsan nec vitae lacus. Sed vel finibus ex, quis euismod lorem. Aliquam eget leo sapien. Proin velit diam, suscipit vitae mi vel, laoreet finibus nisl. Pellentesque a purus eleifend, congue ante nec, aliquam risus.",
@@ -89,7 +89,7 @@
     },
     {
         "id": 12,
-        "photo": "https://antoniamardones.github.io/fotos-portafolio/imagenes/fantasia-primaveral.webp",
+        "photo": "https://antoniamardones.github.io/fotos-portafolio/photos/foto-12.webp",
         "title": "Fantasía primaveral",
         "course": "Representacion conceptual",
         "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed rutrum hendrerit lorem. Curabitur sodales feugiat libero. Nullam in lorem ut sem tempor accumsan nec vitae lacus. Sed vel finibus ex, quis euismod lorem. Aliquam eget leo sapien. Proin velit diam, suscipit vitae mi vel, laoreet finibus nisl. Pellentesque a purus eleifend, congue ante nec, aliquam risus.",
@@ -97,7 +97,7 @@
     },
     {
         "id": 13,
-        "photo": "https://antoniamardones.github.io/fotos-portafolio/imagenes/identidad-marca.webp",
+        "photo": "https://antoniamardones.github.io/fotos-portafolio/photos/foto-13.webp",
         "title": "Marca personal",
         "course": "Proyecto II",
         "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed rutrum hendrerit lorem. Curabitur sodales feugiat libero. Nullam in lorem ut sem tempor accumsan nec vitae lacus. Sed vel finibus ex, quis euismod lorem. Aliquam eget leo sapien. Proin velit diam, suscipit vitae mi vel, laoreet finibus nisl. Pellentesque a purus eleifend, congue ante nec, aliquam risus.",
@@ -105,7 +105,7 @@
     },
     {
         "id": 14,
-        "photo": "https://antoniamardones.github.io/fotos-portafolio/imagenes/la-otra.webp",
+        "photo": "https://antoniamardones.github.io/fotos-portafolio/photos/foto-14.webp",
         "title": "Portada de poema",
         "course": "Diseño, estética y sociedad",
         "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed rutrum hendrerit lorem. Curabitur sodales feugiat libero. Nullam in lorem ut sem tempor accumsan nec vitae lacus. Sed vel finibus ex, quis euismod lorem. Aliquam eget leo sapien. Proin velit diam, suscipit vitae mi vel, laoreet finibus nisl. Pellentesque a purus eleifend, congue ante nec, aliquam risus.",
@@ -113,7 +113,7 @@
     },
     {
         "id": 15,
-        "photo": "https://antoniamardones.github.io/fotos-portafolio/imagenes/trama-insecto.webp",
+        "photo": "https://antoniamardones.github.io/fotos-portafolio/photos/foto-15.webp",
         "title": "Trama en cartulina",
         "course": "Proyecto I",
         "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed rutrum hendrerit lorem. Curabitur sodales feugiat libero. Nullam in lorem ut sem tempor accumsan nec vitae lacus. Sed vel finibus ex, quis euismod lorem. Aliquam eget leo sapien. Proin velit diam, suscipit vitae mi vel, laoreet finibus nisl. Pellentesque a purus eleifend, congue ante nec, aliquam risus.",
@@ -121,7 +121,7 @@
     },
     {
         "id": 16,
-        "photo": "https://antoniamardones.github.io/fotos-portafolio/imagenes/mandarinecoffee.webp",
+        "photo": "https://antoniamardones.github.io/fotos-portafolio/photos/foto-16.webp",
         "title": "Mandarine Coffee",
         "course": "Proyecto II",
         "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed rutrum hendrerit lorem. Curabitur sodales feugiat libero. Nullam in lorem ut sem tempor accumsan nec vitae lacus. Sed vel finibus ex, quis euismod lorem. Aliquam eget leo sapien. Proin velit diam, suscipit vitae mi vel, laoreet finibus nisl. Pellentesque a purus eleifend, congue ante nec, aliquam risus.",
