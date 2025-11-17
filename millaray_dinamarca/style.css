@@ -1,13 +1,13 @@
-@import url("https://fonts.googleapis.com/css2?family=Bebas+Neue&family=Jost:ital,wght@0,100..900;1,100..900&family=Rubik+Mono+One&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=Bebas+Neue&family=Jost:ital,wght@0,100..900;1,100..900&family=Special+Gothic+Expanded+One&display=swap");
 
 /* ===================
    Variables y Reset
    =================== */
 :root {
-    --colorPrimario: rgb(255,246,238);
-    --colorOverlay: rgb(198,194,242);
-    --colorSecundario: rgb(216,96,114);
-    --colorMediador: rgb(214,220,130);
+    --colorPrimario: rgb(255,240,225);
+    --colorOverlay: rgb(173,216,230);
+    --colorSecundario: rgb(255,206,235);
+    --colorMediador: rgb(255,102,52);
 }
 
 * {
@@ -45,8 +45,8 @@ footer {
 }
 
 main {
-    border-right: 7px solid rgb(216,96,114);
-    border-left: 7px solid rgb(216,96,114);
+    border-right: 2px solid black;
+    border-left: 2px solid black;
     background-color: var(--colorSecundario);
 }
 
@@ -102,7 +102,7 @@ h2 {
 }
 
 .nav a:hover {
-    color: rgb(216,96,114);
+    color: rgba(0,0,0,.9);
     transform: translate(4px, 4px);
     box-shadow: 8px 8px 0 #000;
 }
@@ -129,7 +129,7 @@ h2 {
     grid-template-columns: repeat(4, 1fr);
     gap: 7px;
     background-color: #000;
-    border: 3px solid black;
+    border: 6px solid black;
 }
 
 .gallery-item {
@@ -150,7 +150,7 @@ h2 {
     height: 100%;
     object-fit: cover;
     transition: opacity 0.3s ease;
-    aspect-ratio: 1 / 1;
+    aspect-ratio: 1 / 1;     
 }
 
 .gallery-item:hover img {
@@ -177,7 +177,7 @@ h2 {
 }
 
 .gallery-overlay h3 {
-    color: var(--colorPrimario);
+    color: var(--colorMediador);
     font-size: 1.1rem;
     font-weight: 400;
     margin-bottom: 5px;
@@ -219,12 +219,12 @@ section.single h4{
 section.single p, section.single ul{
     width:min(95%, 800px);
     margin:1rem auto;
-    text-align: justify;
+    text-align: justify;  
 }
 
 section.single img{
     width:calc(100% - 8px);
-    border:4px solid black;
+    border:2px solid black;
     margin:1rem 0;
 }
 
@@ -246,23 +246,27 @@ section.single img{
     font-size: 1.2rem;
     font-weight: bold;
     margin-bottom: 1rem;
+    text-align: justify;
 }
 
 .about-text p {
     font-size: 1rem;
     margin-bottom: 1rem;
     line-height: 1.5;
+    text-align: justify
 }
 
 .about-text p em{
     font-weight: bolder;
     font-style: normal;
+    text-align: justify;
 }
 
 .about-text p a{
     font-weight: bolder;
     font-style: normal;
-    color:rgba(0,0,0,.75);
+    color:rgb(255,102,52);
+    text-align: justify;
 }
 
 .about-text p a:hover{
@@ -289,7 +293,7 @@ section.single img{
    =================== */
 
 .mugshot-frame {
-    border: 8px solid #000;
+    border: 2px solid #000;
     box-shadow: 20px 20px 0 #000;
     background-color: #fff;
     padding: 20px;
@@ -308,7 +312,7 @@ section.single img{
 }
 
 .mugshot img {
-    border: 4px solid #000;
+    border: 2px solid #000;
     border-bottom: 1px solid #000;
     width: 100%;
     height: auto;
