@@ -38,7 +38,7 @@ body {
    =================== */
 header,
 footer {
-    border: 7px solid rgb(255,246,238);
+    border: 2px solid black;
     background-color: var(--colorPrimario);
     text-align: center;
     padding: 60px 0 40px;
@@ -87,11 +87,11 @@ h2 {
     font-size: 1.2rem;
     background-color: var(--colorMediador);
     color: black;
-    border: 6px solid black;
+    border: 2px solid black;
     padding: 25px 48px;
     text-transform: uppercase;
     cursor: pointer;
-    box-shadow: 12px 12px 0 #000;
+    box-shadow: 8px 8px 0 #000;
     transition: all 0.1s ease;
     text-decoration: none;
     display: inline-block;
@@ -129,7 +129,7 @@ h2 {
     grid-template-columns: repeat(4, 1fr);
     gap: 7px;
     background-color: #000;
-    border: 7px solid black;
+    border: 3px solid black;
 }
 
 .gallery-item {
