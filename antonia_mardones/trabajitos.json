@@ -4,6 +4,7 @@
         "photo": "https://antoniamardones.github.io/fotos-portafolio/photos/foto-1.webp",
         "title": "Conceptualización para pieza de ajedrez",
         "course": "Proyecto I",
+        "professor": "Profesora Paula Ron",
         "description": "<p>En este proyecto se desarrolló una pieza de ajedrez en madera y resina inspirada en el estilo musical del hip hop, explorando cómo los elementos culturales pueden traducirse en forma, materialidad y lenguaje visual. El diseño busca expresar el dinamismo, la energía y el carácter expresivo propios del género, integrando gestos volumétricos que evocan su fuerza cultural y su arraigo en la calle.</p><p>El proceso implicó observar y analizar referentes musicales y urbanos, comprender su simbolismo y convertirlos en decisiones formales mediante bocetos, modelos y prototipos. A través del trabajo con madera y resina, aprendí técnicas de manufactura y modelación material, fortaleciendo mi capacidad para conceptualizar, representar y comunicar una propuesta coherente.</p><p>Este proyecto contribuyó a desarrollar una mirada crítica hacia el entorno cultural y a transformar dicha observación en una solución de diseño tangible.</p>",
         "gallery": "https://raw.githubusercontent.com/profesorfaco/herramientas/refs/heads/main/clase-13/gallery.webp"
     },
@@ -12,7 +13,8 @@
         "photo": "https://antoniamardones.github.io/fotos-portafolio/photos/foto-2.webp",
         "title": "Neo ritual",
         "course": "Proyecto IV",
-        "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed rutrum hendrerit lorem. Curabitur sodales feugiat libero. Nullam in lorem ut sem tempor accumsan nec vitae lacus. Sed vel finibus ex, quis euismod lorem. Aliquam eget leo sapien. Proin velit diam, suscipit vitae mi vel, laoreet finibus nisl. Pellentesque a purus eleifend, congue ante nec, aliquam risus.",
+        "professor": "Profesor Christian Bazáes",
+        "description": "<p>La lámina presenta Crisálida del Arte, un neo-ritual diseñado para facilitar la liberación emocional a través de la pintura. El proyecto se compone de un par de guantes especialmente concebidos para permitir un gesto expresivo y sensorial, junto con un storyboard que describe cada etapa del ritual, desde la preparación hasta la transformación final. La propuesta utiliza la metáfora de la crisálida para representar un proceso interno de apertura, cambio y renovación mediante el acto creativo.</p><p>La composición gráfica de la lámina integra elementos conceptuales, formales y narrativos, articulando objeto, interacción y experiencia en un solo soporte visual. Esta presentación evidencia la capacidad de sintetizar un proceso complejo en un formato claro y comunicativo, traduciendo una idea emocional en un sistema visual coherente que combina función, estética y ritualidad.</p>",
         "gallery": "https://raw.githubusercontent.com/profesorfaco/herramientas/refs/heads/main/clase-13/gallery.webp"
     },
     {
@@ -20,7 +22,8 @@
         "photo": "https://antoniamardones.github.io/fotos-portafolio/photos/foto-3.webp",
         "title": "Cubo soma",
         "course": "Configuración visual I",
-        "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed rutrum hendrerit lorem. Curabitur sodales feugiat libero. Nullam in lorem ut sem tempor accumsan nec vitae lacus. Sed vel finibus ex, quis euismod lorem. Aliquam eget leo sapien. Proin velit diam, suscipit vitae mi vel, laoreet finibus nisl. Pellentesque a purus eleifend, congue ante nec, aliquam risus.",
+        "professor": "Profesor Carlos Ampuero",
+        "description": "<p>Este proyecto consistió en armar un cubo SOMA a partir de una plantilla entregada, para después ser recortada y ensamblada en cartulina. El ejercicio permitió explorar de manera introductoria la relación entre piezas modulares, forma y volumen.</p> <p>La construcción del cubo sirvió para ejercitar la observación de estructuras geométricas, comprender cómo distintos bloques generan una figura tridimensional y desarrollar precisión en el trabajo manual. Este proyecto aportó una base inicial para entender la configuración espacial y la representación simple de objetos en tres dimensiones.</p>",
         "gallery": "https://raw.githubusercontent.com/profesorfaco/herramientas/refs/heads/main/clase-13/gallery.webp"
     },
     {
@@ -28,7 +31,8 @@
         "photo": "https://antoniamardones.github.io/fotos-portafolio/photos/foto-4.webp",
         "title": "Coralia",
         "course": "Proyecto III",
-        "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed rutrum hendrerit lorem. Curabitur sodales feugiat libero. Nullam in lorem ut sem tempor accumsan nec vitae lacus. Sed vel finibus ex, quis euismod lorem. Aliquam eget leo sapien. Proin velit diam, suscipit vitae mi vel, laoreet finibus nisl. Pellentesque a purus eleifend, congue ante nec, aliquam risus.",
+        "professor": "Profesora Pamela Gatica",
+        "description": "<p>Coralia es un artefacto sensorial diseñado como una diadema con piezas similares a conchas que cubren los oídos, concebido para inducir calma mediante la transmisión de sonidos y vibraciones suaves. Su forma retoma elementos orgánicos del entorno marino, utilizando curvas fluidas y una estética inspirada en las conchas para evocar quietud, protección y contención emocional. El proyecto explora cómo la biomimesis y la referencia a la naturaleza pueden integrarse en un objeto portátil orientado al bienestar.</p> <p>El desarrollo incluyó la creación de un packaging coherente con la propuesta, cuya estructura y detalles formales retoman patrones y texturas propias del mar. Esta integración entre objeto y envase permitió trabajar la coherencia visual, la materialización de un concepto y la comunicación de una experiencia sensorial desde su presentación. Coralia evidencia la capacidad de transformar una idea emocional en un artefacto tangible, articulando forma, función, narrativa y estética en un sistema de diseño unificado.</p>",
         "gallery": "https://raw.githubusercontent.com/profesorfaco/herramientas/refs/heads/main/clase-13/gallery.webp"
     },
     {
@@ -36,7 +40,8 @@
         "photo": "https://antoniamardones.github.io/fotos-portafolio/photos/foto-5.webp",
         "title": "Mascara blender",
         "course": "Herramientas computacionales",
-        "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed rutrum hendrerit lorem. Curabitur sodales feugiat libero. Nullam in lorem ut sem tempor accumsan nec vitae lacus. Sed vel finibus ex, quis euismod lorem. Aliquam eget leo sapien. Proin velit diam, suscipit vitae mi vel, laoreet finibus nisl. Pellentesque a purus eleifend, congue ante nec, aliquam risus.",
+        "professor": "Profesor Felipe Cortes",
+        "description": "<p>Este proyecto se desarrolló como una introducción a la geometría 3D en Blender, poniendo énfasis en la comprensión de la malla, la topología y la manipulación de vértices, bordes y caras como base para construir un volumen coherente. La consigna consistió en modelar una máscara de Halloween a partir de una idea inicial, explorando cómo la calidad de la geometría influye en la forma y las posibilidades de modificación del objeto. El proceso incluyó el uso del Modo Edición para extruir, ajustar y refinar la superficie, integrando principios básicos de estructura digital.</p> <p>Posteriormente, el modelo fue optimizado para su despliegue y construcción física en papel, traduciendo la geometría digital a un formato materializable. Este ejercicio permitió articular observación, conceptualización y representación tridimensional, aplicando metodologías propias del diseño para transformar una idea en un objeto tangible. El resultado evidencia el manejo inicial de herramientas digitales y la capacidad de vincular modelación 3D con fabricación manual.</p>",
         "gallery": "https://raw.githubusercontent.com/profesorfaco/herramientas/refs/heads/main/clase-13/gallery.webp"
     },
     {
@@ -44,7 +49,8 @@
         "photo": "https://antoniamardones.github.io/fotos-portafolio/photos/foto-6.webp",
         "title": "Pictograma",
         "course": "Configuración visual II",
-        "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed rutrum hendrerit lorem. Curabitur sodales feugiat libero. Nullam in lorem ut sem tempor accumsan nec vitae lacus. Sed vel finibus ex, quis euismod lorem. Aliquam eget leo sapien. Proin velit diam, suscipit vitae mi vel, laoreet finibus nisl. Pellentesque a purus eleifend, congue ante nec, aliquam risus.",
+        "professor": "Profesor Juan Calderon",
+        "description": "<p>Este proyecto consistió en la creación de un pictograma en Adobe Illustrator a partir del análisis de los sistemas gráficos desarrollados para los Juegos Olímpicos. El ejercicio propuso seleccionar una disciplina o acción y reinterpretarla visualmente, manteniendo la lógica formal, la simplicidad y la legibilidad propias de estos íconos universales. A través del estudio de proporciones, ritmo y síntesis visual, se buscó comprender cómo las figuras humanas y los movimientos se representan mediante formas geométricas esenciales.</p <p>El trabajo se desarrolló íntegramente en Illustrator, con el objetivo de aprender y aplicar herramientas fundamentales del software, tales como la construcción con vectores, el uso de trazados, el control de curvas y la creación de composiciones equilibradas. El resultado refleja la capacidad para observar un sistema visual existente, entender sus reglas y generar una propuesta coherente que combina interpretación personal con principios de diseño gráfico.</p>",
         "gallery": "https://raw.githubusercontent.com/profesorfaco/herramientas/refs/heads/main/clase-13/gallery.webp"
     },
     {
@@ -52,7 +58,8 @@
         "photo": "https://antoniamardones.github.io/fotos-portafolio/photos/foto-7.webp",
         "title": "Infografía D'vina",
         "course": "Procesos y prototipos I",
-        "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed rutrum hendrerit lorem. Curabitur sodales feugiat libero. Nullam in lorem ut sem tempor accumsan nec vitae lacus. Sed vel finibus ex, quis euismod lorem. Aliquam eget leo sapien. Proin velit diam, suscipit vitae mi vel, laoreet finibus nisl. Pellentesque a purus eleifend, congue ante nec, aliquam risus.",
+        "professor": "Profesora Pamela Fuentes",
+        "description": "<p>La infografía presenta la propuesta de D’Vina, un vino rosado infusionado con flores dirigido principalmente a un público femenino, destacando su concepto, atributos y experiencia sensorial. El recurso visual sintetiza la identidad de la marca, exponiendo su estética delicada, floral y elegante, así como los principios que guiaron el desarrollo de su packaging. En ella se muestran tanto la botella como sus elementos gráficos, ilustrando cómo la visualidad busca transmitir sofisticación, romanticismo y un carácter premium.</p> <p>La pieza reúne el proceso completo de diseño, desde la creación del lenguaje visual hasta la materialización del envase, articulando paleta cromática, tipografías, ilustraciones y decisiones formales. Su objetivo es comunicar de manera clara cómo estos elementos convergen en un sistema coherente que refuerza el posicionamiento del producto. La infografía evidencia la capacidad de traducir un concepto de marca en una experiencia visual integrada, donde identidad, producto y presentación dialogan de manera consistente.</p>",
         "gallery": "https://raw.githubusercontent.com/profesorfaco/herramientas/refs/heads/main/clase-13/gallery.webp"
     },
     {
@@ -60,7 +67,8 @@
         "photo": "https://antoniamardones.github.io/fotos-portafolio/photos/foto-8.webp",
         "title": "Taburete para niños",
         "course": "Procesos y prototipos II",
-        "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed rutrum hendrerit lorem. Curabitur sodales feugiat libero. Nullam in lorem ut sem tempor accumsan nec vitae lacus. Sed vel finibus ex, quis euismod lorem. Aliquam eget leo sapien. Proin velit diam, suscipit vitae mi vel, laoreet finibus nisl. Pellentesque a purus eleifend, congue ante nec, aliquam risus.",
+        "professor": "Profesor Antonio Marín",
+        "description": "<p>Este proyecto consistió en el diseño y construcción de un taburete, cuya superficie adopta la forma estilizada de un perro, incorporando un lenguaje lúdico y accesible para su contexto de uso. La pieza fue elaborada en madera de raulí y álamo, lo que permitió explorar la combinación de distintos tipos de madera y sus cualidades estructurales, tonales y táctiles.</p> <p>El desarrollo del taburete requirió aplicar conocimientos adquiridos previamente sobre ensambles manuales y técnicas de trabajo en madera, integrando el uso de herramientas manuales y eléctricas para lograr precisión en cortes, uniones y modelado.</p>  <p>Este ejercicio permitió comprender cómo los procesos constructivos, la elección de materiales y las decisiones formales convergen en un objeto funcional y seguro para el usuario final. El resultado refleja una integración equilibrada entre diseño, materialidad y fabricación.</p>",
         "gallery": "https://raw.githubusercontent.com/profesorfaco/herramientas/refs/heads/main/clase-13/gallery.webp"
     },
     {
@@ -68,7 +76,8 @@
         "photo": "https://antoniamardones.github.io/fotos-portafolio/photos/foto-9.webp",
         "title": "Packaging D'vina",
         "course": "Procesos y prototipos I",
-        "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed rutrum hendrerit lorem. Curabitur sodales feugiat libero. Nullam in lorem ut sem tempor accumsan nec vitae lacus. Sed vel finibus ex, quis euismod lorem. Aliquam eget leo sapien. Proin velit diam, suscipit vitae mi vel, laoreet finibus nisl. Pellentesque a purus eleifend, congue ante nec, aliquam risus.",
+        "professor": "Profesora Pamela Fuentes",
+        "description": "<p>El packaging de D’Vina se presenta como una caja rosada con detalles dorados y un interior en tonos verdes, una combinación cromática diseñada para destacar el carácter floral y premium del vino. Su estructura no solo protege la botella, sino que se transforma en un expositor, permitiendo que el producto se despliegue de forma elegante y se mantenga como un objeto digno de conservar. Esta cualidad refuerza el valor emocional y estético de la propuesta, integrando la presentación como parte activa de la experiencia de la marca.</p> <p>El diseño del envase responde al lenguaje visual previamente definido para D’Vina, articulando delicadeza, luminosidad y un imaginario romántico. La caja funciona como extensión del concepto del vino, suave, floral y exclusivo, traduciendo estos atributos en decisiones formales, materiales y cromáticas. El packaging evidencia cómo la marca busca generar una experiencia completa, donde el objeto, su visualidad y su despliegue construyen un sistema coherente y memorable.</p>",
         "gallery": "https://raw.githubusercontent.com/profesorfaco/herramientas/refs/heads/main/clase-13/gallery.webp"
     },
     {
@@ -76,7 +85,8 @@
         "photo": "https://antoniamardones.github.io/fotos-portafolio/photos/foto-10.webp",
         "title": "Invasión inversa",
         "course": "Proyecto III",
-        "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed rutrum hendrerit lorem. Curabitur sodales feugiat libero. Nullam in lorem ut sem tempor accumsan nec vitae lacus. Sed vel finibus ex, quis euismod lorem. Aliquam eget leo sapien. Proin velit diam, suscipit vitae mi vel, laoreet finibus nisl. Pellentesque a purus eleifend, congue ante nec, aliquam risus.",
+        "professor": "Profesora Pamela Gatica",
+        "description": "<p>El póster Invasión Inversa surge a partir de la elaboración de un fanzine enfocado en problemáticas contemporáneas, representa visualmente la problemática del desplazamiento de animales provocado por la destrucción de sus hábitats naturales. La pieza invierte la lógica habitual, en vez de mostrar a los humanos avanzando sobre los entornos silvestres, presenta a los animales ingresando a la ciudad, evidenciando de forma metafórica el impacto humano sobre los ecosistemas. Esta inversión conceptual busca generar cuestionamiento y conciencia, invitando al espectador a reconsiderar su relación con el medio ambiente.</p> <p>La composición utiliza ilustraciones y una paleta tonal suave, reforzando una lectura clara y directa del mensaje. El contraste entre la arquitectura urbana y la vegetación, junto con la figura del animal avanzando hacia la ciudad, estructura una narrativa visual que subraya la tensión entre naturaleza y urbanización. La estética sencilla y el uso del espacio contribuyen a un lenguaje gráfico accesible y simbólico, sintetizando en una sola imagen el concepto central del proyecto y su intención crítica.</p>",
         "gallery": "https://raw.githubusercontent.com/profesorfaco/herramientas/refs/heads/main/clase-13/gallery.webp"
     },
     {
@@ -84,7 +94,8 @@
         "photo": "https://antoniamardones.github.io/fotos-portafolio/photos/foto-11.webp",
         "title": "Postal en metal",
         "course": "Proyecto II",
-        "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed rutrum hendrerit lorem. Curabitur sodales feugiat libero. Nullam in lorem ut sem tempor accumsan nec vitae lacus. Sed vel finibus ex, quis euismod lorem. Aliquam eget leo sapien. Proin velit diam, suscipit vitae mi vel, laoreet finibus nisl. Pellentesque a purus eleifend, congue ante nec, aliquam risus.",
+        "professor": "Profesora Paula Ron",
+        "description": "<p>Esta postal en metal surge a partir de la creación de un país imaginado, un territorio vinculado al mundo de la literatura, las flores y las historias aún no contadas. El diseño toma elementos asociados a un lugar abundante en libros y narrativas, utilizando símbolos y composiciones que evocan un espacio íntimo, creativo y poético. La propuesta busca capturar la identidad visual de este país ficticio, integrando elementos naturales y literarios en una síntesis.</p> <p>Para su materialización, la ilustración fue trasladada a una placa metálica mediante un proceso de corrosión con ácido, donde las zonas expuestas se carcomieron para generar profundidad. Posteriormente, la superficie fue lijada y finalizada para resaltar los contrastes entre las áreas corroídas y las áreas en relieve. Se realizaron dos versiones, una con relieve positivo y otra con relieve negativo, explorando las posibilidades expresivas del bajo y alto relieve en metal. Este ejercicio combinó técnica, experimentación y narrativa visual, dando lugar a una postal única que integra concepto, materialidad y oficio.</p>",        
         "gallery": "https://raw.githubusercontent.com/profesorfaco/herramientas/refs/heads/main/clase-13/gallery.webp"
     },
     {
@@ -92,7 +103,8 @@
         "photo": "https://antoniamardones.github.io/fotos-portafolio/photos/foto-12.webp",
         "title": "Fantasía primaveral",
         "course": "Representacion conceptual",
-        "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed rutrum hendrerit lorem. Curabitur sodales feugiat libero. Nullam in lorem ut sem tempor accumsan nec vitae lacus. Sed vel finibus ex, quis euismod lorem. Aliquam eget leo sapien. Proin velit diam, suscipit vitae mi vel, laoreet finibus nisl. Pellentesque a purus eleifend, congue ante nec, aliquam risus.",
+        "professor": "Profesora Grace Mallea",
+        "description": "<p>“Fantasía Primaveral” es una pieza gráfica inspirada en el lenguaje impresionista, donde la primavera se expresa a través de la atmósfera y el color. La composición se organiza en torno a una gran flor que irrumpe desde el borde del plano, generando contraste y actuando como punto focal. Su paleta en fucsias y magentas se contrapone a un fondo de pinceladas en azules, verdes y tonos cálidos, que evocan luz y movimiento. Mediante esta combinación de manchas, saturación y ritmo visual, el trabajo comunica una primavera y un cambio vibrante.</p>",
         "gallery": "https://raw.githubusercontent.com/profesorfaco/herramientas/refs/heads/main/clase-13/gallery.webp"
     },
     {
@@ -100,7 +112,8 @@
         "photo": "https://antoniamardones.github.io/fotos-portafolio/photos/foto-13.webp",
         "title": "Marca personal",
         "course": "Proyecto II",
-        "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed rutrum hendrerit lorem. Curabitur sodales feugiat libero. Nullam in lorem ut sem tempor accumsan nec vitae lacus. Sed vel finibus ex, quis euismod lorem. Aliquam eget leo sapien. Proin velit diam, suscipit vitae mi vel, laoreet finibus nisl. Pellentesque a purus eleifend, congue ante nec, aliquam risus.",
+        "professor": "Profesora Paula Ron",
+        "description": "<p>El proyecto consistió en el desarrollo de un logo para una marca personal, iniciando con exploraciones manuales en cartulina para definir forma, concepto y síntesis visual. A partir de estas maquetas se construyó la versión digital en Illustrator, donde el diseño fue refinado y vectorizado para asegurar claridad, escalabilidad y uso profesional. Finalmente, el resultado se aplicó en un mockup para visualizar su implementación en contextos reales de marca.</p>",
         "gallery": "https://raw.githubusercontent.com/profesorfaco/herramientas/refs/heads/main/clase-13/gallery.webp"
     },
     {
@@ -108,15 +121,17 @@
         "photo": "https://antoniamardones.github.io/fotos-portafolio/photos/foto-14.webp",
         "title": "Portada de poema",
         "course": "Diseño, estética y sociedad",
-        "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed rutrum hendrerit lorem. Curabitur sodales feugiat libero. Nullam in lorem ut sem tempor accumsan nec vitae lacus. Sed vel finibus ex, quis euismod lorem. Aliquam eget leo sapien. Proin velit diam, suscipit vitae mi vel, laoreet finibus nisl. Pellentesque a purus eleifend, congue ante nec, aliquam risus.",
+        "professor": "Profesor Ivan Mendez",
+        "description": "<p>El proyecto consistió en diseñar la portada de un libro para el poema La Otra de Gabriela Mistral, abordando su reinterpretación visual desde un enfoque innovador. El trabajo implicó analizar el contenido poético para identificar sus temas centrales y traducirlos en una propuesta gráfica coherente con la conmemoración de los 80 años desde que la autora recibió el Premio Nobel.</p> <p>A través del proceso, se ejercitaron habilidades de observación, análisis crítico y diagnóstico del texto, permitiendo definir un concepto visual que luego fue modelado y formalizado mediante metodologías propias del diseño. El resultado sintetiza una lectura contemporánea del poema y demuestra competencias en conceptualización, representación y comunicación visual.</p>",
         "gallery": "https://raw.githubusercontent.com/profesorfaco/herramientas/refs/heads/main/clase-13/gallery.webp"
     },
     {
         "id": 15,
         "photo": "https://antoniamardones.github.io/fotos-portafolio/photos/foto-15.webp",
-        "title": "Trama en cartulina",
-        "course": "Proyecto I",
-        "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed rutrum hendrerit lorem. Curabitur sodales feugiat libero. Nullam in lorem ut sem tempor accumsan nec vitae lacus. Sed vel finibus ex, quis euismod lorem. Aliquam eget leo sapien. Proin velit diam, suscipit vitae mi vel, laoreet finibus nisl. Pellentesque a purus eleifend, congue ante nec, aliquam risus.",
+        "title": "Escalera de autoconocimiento",
+        "course": "Proyecto IV",
+        "professor": "Profesor Christian Bazáes",
+        "description": "<p>Esta escalera de autoconocimiento llamada escalones de papel, desarrolla una representación tridimensional de mi proceso personal mediante una metáfora visual construida con papel, alambre y color.</p> <p>La pieza se estructura a partir de un libro abierto, cuyas páginas funcionan como “escalones” que reflejan distintas etapas de la vida. Las primeras hojas, limpias y claras, simbolizan la infancia; a medida que el alambre avanza, las páginas se arrugan y oscurecen, representando los momentos de dificultad y transición. Hacia el final, las hojas se tornan vibrantes y se abren, dando paso a un alambre que florece como señal de crecimiento y transformación.</p> <p>La obra sintetiza observación, análisis simbólico y exploración material para comunicar de forma visual el recorrido interno y sus cambios.</p>",
         "gallery": "https://raw.githubusercontent.com/profesorfaco/herramientas/refs/heads/main/clase-13/gallery.webp"
     },
     {
@@ -124,7 +139,7 @@
         "photo": "https://antoniamardones.github.io/fotos-portafolio/photos/foto-16.webp",
         "title": "Mandarine Coffee",
         "course": "Proyecto II",
-        "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed rutrum hendrerit lorem. Curabitur sodales feugiat libero. Nullam in lorem ut sem tempor accumsan nec vitae lacus. Sed vel finibus ex, quis euismod lorem. Aliquam eget leo sapien. Proin velit diam, suscipit vitae mi vel, laoreet finibus nisl. Pellentesque a purus eleifend, congue ante nec, aliquam risus.",
+        "description": "<p>El proyecto consistió en diseñar y construir una cafetera de goteo en acrílico a partir de principios de biomímesis. La forma y estructura se desarrollaron observando la mandarina y sus sistemas de organización interna, junto con referencias a relaciones parasitarias presentes en la naturaleza. El resultado explora cómo patrones biológicos pueden traducirse en un objeto funcional, integrando forma, eficiencia y un lenguaje orgánico propio del diseño inspirado en lo natural.</p>",
         "gallery": "https://raw.githubusercontent.com/profesorfaco/herramientas/refs/heads/main/clase-13/gallery.webp"
     }
 ]
