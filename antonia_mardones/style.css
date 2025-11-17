@@ -218,7 +218,6 @@ section.single h4{
 section.single p, section.single ul{
     width:min(95%, 800px);
     margin:1rem auto;
-    text-align: justify;
 }
 
 section.single img{
