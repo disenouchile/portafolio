@@ -92,9 +92,9 @@ h2 {
   font-style: normal;
     letter-spacing: 2px;
     font-size: 1.5rem;
-    background-color: rgba(156,160,171,9);
-    color: rgba(0,0,0,9);
-    border: 6px solid #000;
+    background-color: var(--colorPrimario);  
+    color: rgba(255,255,255,9);
+    border: 6px solid #ffffff;
     padding: 25px 50px;
     text-transform: uppercase;
     cursor: pointer;
@@ -109,7 +109,7 @@ h2 {
 }
 
 .nav a:hover {
-    color: rgba(240, 244, 245, 0.9);
+    color: rgba(204,0,30,1);
     transform: translate(4px, 4px);
     box-shadow: 8px 8px 0 #000;
 }
@@ -119,7 +119,7 @@ h2 {
 }
 
 .nav a.active {
-    background-color: rgba(122,1,20);
+    background-color: var (--colorMediador) ;
     transform: translate(4px, 4px);
     box-shadow: 8px 8px 0 #000;
 }
@@ -236,7 +236,7 @@ section.single p, section.single ul{
 
 section.single img{
     width:calc(100% - 8px);
-    border:4px solid black;
+    border:4px solid #ffffff;
     margin:1rem 0;
 }
 
