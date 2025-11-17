@@ -3,7 +3,7 @@
         "id": 1,
         "photo": "https://raw.githubusercontent.com/antoniasolar/Imagenes/refs/heads/main/afiche.webp",
         "title": "Diseño de producto (Lúmina)",
-        "course": "Proyecto III, con Prof. Pamela Petruska",
+        "course": "Proyecto III, con Prof. Pamela Petruska"
         "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed rutrum hendrerit lorem. Curabitur sodales feugiat libero. Nullam in lorem ut sem tempor accumsan nec vitae lacus. Sed vel finibus ex, quis euismod lorem. Aliquam eget leo sapien. Proin velit diam, suscipit vitae mi vel, laoreet finibus nisl. Pellentesque a purus eleifend, congue ante nec, aliquam risus.",
         "gallery": "https://raw.githubusercontent.com/profesorfaco/herramientas/refs/heads/main/clase-13/gallery.webp"
     },
@@ -43,7 +43,7 @@
         "id": 6,
         "photo": "https://raw.githubusercontent.com/antoniasolar/Imagenes/refs/heads/main/lamina%20arbol.webp",
         "title": "Strawffee",
-        "course": "Proyecto II",
+        "course": "Proyecto II"
         "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed rutrum hendrerit lorem. Curabitur sodales feugiat libero. Nullam in lorem ut sem tempor accumsan nec vitae lacus. Sed vel finibus ex, quis euismod lorem. Aliquam eget leo sapien. Proin velit diam, suscipit vitae mi vel, laoreet finibus nisl. Pellentesque a purus eleifend, congue ante nec, aliquam risus.",
         "gallery": "https://raw.githubusercontent.com/profesorfaco/herramientas/refs/heads/main/clase-13/gallery.webp"
     },
@@ -67,7 +67,7 @@
         "id": 9,
         "photo": "https://raw.githubusercontent.com/antoniasolar/Imagenes/refs/heads/main/tocatoca.webp",
         "title": "Pavo real",
-        "course": "Procesos y Prototipos II",
+        "course": "Procesos y Prototipos II"
         "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed rutrum hendrerit lorem. Curabitur sodales feugiat libero. Nullam in lorem ut sem tempor accumsan nec vitae lacus. Sed vel finibus ex, quis euismod lorem. Aliquam eget leo sapien. Proin velit diam, suscipit vitae mi vel, laoreet finibus nisl. Pellentesque a purus eleifend, congue ante nec, aliquam risus.",
         "gallery": "https://raw.githubusercontent.com/profesorfaco/herramientas/refs/heads/main/clase-13/gallery.webp"
     },
@@ -123,7 +123,7 @@
         "id": 16,
         "photo": "https://raw.githubusercontent.com/antoniasolar/Imagenes/refs/heads/main/cafetera.webp",
         "title": "Señaletica",
-        "course": "Ergonomia y Factores Humanos",
+        "course": "Ergonomia y Factores Humanos"
         "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed rutrum hendrerit lorem. Curabitur sodales feugiat libero. Nullam in lorem ut sem tempor accumsan nec vitae lacus. Sed vel finibus ex, quis euismod lorem. Aliquam eget leo sapien. Proin velit diam, suscipit vitae mi vel, laoreet finibus nisl. Pellentesque a purus eleifend, congue ante nec, aliquam risus.",
         "gallery": "https://raw.githubusercontent.com/profesorfaco/herramientas/refs/heads/main/clase-13/gallery.webp"
     }           
