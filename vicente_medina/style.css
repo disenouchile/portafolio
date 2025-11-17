@@ -4,10 +4,10 @@
    Variables y Reset
    =================== */
 :root {
-    --colorPrimario: rgba(0,255,255,1);
-    --colorOverlay: rgba(0,255,255,0.9);
-    --colorSecundario: rgba(255,255,0,1);
-    --colorMediador: rgba(255,0,255,1);
+    --colorPrimario: rgba(1, 95, 255, 1);
+    --colorOverlay: rgba(255, 255, 255, 0.6);
+    --colorSecundario: rgba(1, 150, 255, 1);
+    --colorMediador: rgb(1, 95, 255, 1);
 }
 
 * {
@@ -22,7 +22,7 @@
 body {
     font-family: "Helvetica", "Arial", sans-serif;
     line-height: 1.6;
-    color: rgba(0,0,0,.9);
+    color: rgba(255, 255, 255, 0.9);
     background-color: #000;
 }
 
@@ -85,7 +85,7 @@ h2 {
     letter-spacing: 2px;
     font-size: calc(0.6rem + 0.6vw);
     background-color: var(--colorMediador);
-    color: rgba(0,0,0,.9);
+    color: rgba(255, 255, 255, 0.9);
     border: 6px solid #000;
     padding: 25px 50px;
     text-transform: uppercase;
@@ -260,7 +260,7 @@ section.single img{
 .about-text p a{
     font-weight: bolder;
     font-style: normal;
-    color:rgba(0,0,0,.75);
+    color:rgba(255, 255, 255, 0.75);
 }
 
 .about-text p a:hover{
