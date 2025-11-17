@@ -25,7 +25,7 @@
     },
     {
         "id": 4,
-        "photo": "https://milladincea.github.io/primera-nota/img/foto4.webp",
+        "photo": "https://raw.githubusercontent.com/vicentemedinat/repo_para_imagenes/refs/heads/main/img/photo-4.webp",
         "title": "Pictograma Juegos Olímpicos",
         "course": "Configuración Visual II",
         "description": "Descripción pendiente",
@@ -65,7 +65,7 @@
     },
     {
         "id": 9,
-        "photo": "https://gilicvnz.github.io/primera-nota/img/20250907_111211.webp",
+        "photo": "https://raw.githubusercontent.com/vicentemedinat/repo_para_imagenes/refs/heads/main/img/photo-9.webp",
         "title": "Branding",
         "course": "Procesos y Prototipos I",
         "description": "Descripción pendiente",
