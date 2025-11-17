@@ -208,6 +208,9 @@ section.single h3{
     font-size: calc(1rem + 2vw);
     text-decoration: underline;
 }
+section.single p a{
+    color:rgb(255, 255, 255);
+}
 
 section.single h4{
     text-align: center;
@@ -260,7 +263,7 @@ section.single img{
 .about-text p a{
     font-weight: bolder;
     font-style: normal;
-    color:rgba(255, 255, 255, 0.75);
+    color:rgb(255, 255, 255);
 }
 
 .about-text p a:hover{
