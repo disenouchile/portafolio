@@ -4,8 +4,10 @@
         "photo": "https://raw.githubusercontent.com/vicentemedinat/repo_para_imagenes/refs/heads/main/img/photo-1.webp",
         "title": "Portada de Disco",
         "course": "Proyecto I",
-        "description": "Descripción pendiente",
+        "professor": "Profesor René Perea",
+        "description": "<p>Este proyecto consiste en el diseño de una portada de vinilo basada en un libro, en este caso, La Revuelta - Laura Landaeta, reinterpretada visualmente como si hubiera sido creada por mi referente elegido, El cantante Hector Lavoe.</p><p>El proceso se construyó a partir de la observación y el análisis crítico de ambos universos visuales, identificando los recursos esenciales de cada uno y evaluando cómo podían dialogar sin perder su identidad. A partir de este diagnóstico inicial, se definieron los ejes conceptuales y formales que guiarían la propuesta, problematizando la relación entre narrativa y estética.</p>",
         "gallery": ""
+    
     },
     {
         "id": 2,
@@ -52,7 +54,7 @@
         "photo": "https://raw.githubusercontent.com/vicentemedinat/repo_para_imagenes/refs/heads/main/img/photo-7.webp",
         "title": "Fanzine: Volver a Mí",
         "course": "Proyecto III",
-        "description": "El encargo, titulado Volver a mí, se centró en el Diseño de una Campaña Gráfica de Concientización que aborda una problemática social y personal significativa, utilizando el diseño como acción y resistencia.\nLa fase de análisis y diagnóstico inicial consistió en observar críticamente el entorno para identificar y problematizar el fenómeno de la hiperproductividad y su efecto negativo en la capacidad de atención y conexión profunda con el entorno. La campaña se enfocó en los conceptos de velocidad, lo difuso y la dispersión, reflejando la urgencia de \"volver al cuerpo\" y \"habitar el silencio\".\nA partir de este diagnóstico, se idearon soluciones innovadoras que se tradujeron en dos modelos conceptuales y físicos complementarios: la gráfica pública (Afiche) y la autopublicación íntima (Fanzine). La formalización y el modelado se lograron a través de la abstracción gráfica (trazos, manchas, distorsiones de fotografía y tipografía).",
+        "description": "<p>El encargo, titulado Volver a mí, se centró en el Diseño de una Campaña Gráfica de Concientización que aborda una problemática social y personal significativa, utilizando el diseño como acción y resistencia.</p> <p>La fase de análisis y diagnóstico inicial consistió en observar críticamente el entorno para identificar y problematizar el fenómeno de la hiperproductividad y su efecto negativo en la capacidad de atención y conexión profunda con el entorno. La campaña se enfocó en los conceptos de velocidad, lo difuso y la dispersión, reflejando la urgencia de \"volver al cuerpo\" y \"habitar el silencio\".</p> <p>A partir de este diagnóstico, se idearon soluciones innovadoras que se tradujeron en dos modelos conceptuales y físicos complementarios: la gráfica pública (Afiche) y la autopublicación íntima (Fanzine). La formalización y el modelado se lograron a través de la abstracción gráfica (trazos, manchas, distorsiones de fotografía y tipografía).",
         "gallery": ""
     },
     {
