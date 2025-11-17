@@ -59,7 +59,7 @@
         "id": 8,
         "photo": "https://antoniamardones.github.io/fotos-portafolio/imagenes/taburete.webp",
         "title": "Taburete para niños",
-        "course": "Proyecto III",
+        "course": "Procesos y prototipos II",
         "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed rutrum hendrerit lorem. Curabitur sodales feugiat libero. Nullam in lorem ut sem tempor accumsan nec vitae lacus. Sed vel finibus ex, quis euismod lorem. Aliquam eget leo sapien. Proin velit diam, suscipit vitae mi vel, laoreet finibus nisl. Pellentesque a purus eleifend, congue ante nec, aliquam risus.",
         "gallery": "https://raw.githubusercontent.com/profesorfaco/herramientas/refs/heads/main/clase-13/gallery.webp"
     },
@@ -115,7 +115,7 @@
         "id": 15,
         "photo": "https://antoniamardones.github.io/fotos-portafolio/imagenes/trama-insecto.webp",
         "title": "Trama en cartulina",
-        "course": "Configuración Visual I",
+        "course": "Proyecto I",
         "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed rutrum hendrerit lorem. Curabitur sodales feugiat libero. Nullam in lorem ut sem tempor accumsan nec vitae lacus. Sed vel finibus ex, quis euismod lorem. Aliquam eget leo sapien. Proin velit diam, suscipit vitae mi vel, laoreet finibus nisl. Pellentesque a purus eleifend, congue ante nec, aliquam risus.",
         "gallery": "https://raw.githubusercontent.com/profesorfaco/herramientas/refs/heads/main/clase-13/gallery.webp"
     },
