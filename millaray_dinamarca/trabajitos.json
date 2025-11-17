@@ -4,7 +4,7 @@
         "photo": "https://raw.githubusercontent.com/milladincea/portafolio/main/img/proyecto1.webp",
         "title": "Afiche de Ratón",
         "course": "Proyecto I",
-        "description":"oli",
+        "description":"Construcción de la base para un afiche teatral inspirado en Una rata enorme de Carmen Montellano. El desarrollo se enfocó en la elaboración de una metáfora visual que relaciona el poder y la tiranía del personaje con la figura de un líder contemporáneo. La pieza fue realizada de forma análoga utilizando cartulina, témpera y plumón, priorizando la expresividad manual y la construcción simbólica.",
         "gallery": "https://raw.githubusercontent.com/milladincea/portafolio/main/img/proyecto1.webp"
     
     },
@@ -13,7 +13,7 @@
         "photo": "https://raw.githubusercontent.com/milladincea/portafolio/main/img/proyecto12.webp",
         "title": "Reina Pop",
         "course": "Proyecto I",
-        "description":"oli",
+        "description":"Diseño y elaboración de una pieza de ajedrez inspirada en la conceptualización del género musical pop. El proyecto reinterpreta la figura de la reina mediante una propuesta geométrica que combina volumen, brillo y una estética lúdica propia del pop. La pieza fue fabricada en madera roja, resina y glitter, prestando atención a la coherencia entre concepto y forma.",
         "gallery": "https://raw.githubusercontent.com/milladincea/portafolio/main/img/proyecto12.webp"
     },
     {
@@ -21,14 +21,14 @@
         "photo": "https://raw.githubusercontent.com/milladincea/portafolio/main/img/lengysign.webp",
         "title": "Pokemones",
         "course": "Lenguaje y Significación",
-        "description":"oli",
+        "description":"Infografía centrada en la tribu urbana chilena de los pokemones. La pieza adopta la estética y la estructura de la página principal de Fotolog, plataforma icónica asociada a este grupo, para reforzar su contexto cultural. La infografía presenta su estética característica, léxico, comportamiento social y otros elementos relevantes, articulados mediante una diagramación clara y visualmente coherente con la identidad digital de la época.",
         "gallery": "https://raw.githubusercontent.com/milladincea/portafolio/main/img/lengysign.webp"
     },
     {
         "id": 4,
         "photo": "https://raw.githubusercontent.com/milladincea/portafolio/main/img/confi11.webp",
         "title": "Sol de Invierno",
-        "course": "Configuración Visual I",
+        "course": "Secuencia de tres fotografías propias que exploran el concepto de la separación a través de distintas tendencias tonales: cálida, neutra y fría. La progresión cromática refuerza el tránsito emocional narrado en la serie, mientras que el título, inspirado en la canción Sol de Invierno de Javiera Mena, aporta una capa simbólica que dialoga con la atmósfera melancólica del conjunto.",
         "description":"oli",
         "gallery": "https://raw.githubusercontent.com/milladincea/portafolio/main/img/confi11.webp"
     },
@@ -37,7 +37,7 @@
         "photo": "https://raw.githubusercontent.com/milladincea/portafolio/main/img/montaje1.webp",
         "title": "Montaje Final Proyecto I",
         "course": "Proyecto I",
-        "description":"oli",
+        "description":"Entrega colectiva de fin de semestre desarrollada con el trabajo colaborativo de la sección. El curso se organizó en equipos encargados de distintas áreas como colecta de fondos, iluminación, instalación y desinstalación de la muestra, además de orden y limpieza del espacio. La coordinación grupal permitió asegurar un montaje eficiente y una presentación final cohesiva com el trabajo del semestre.",
         "gallery": "https://raw.githubusercontent.com/milladincea/portafolio/main/img/montaje1.webp"
     },
     {
@@ -45,7 +45,7 @@
         "photo": "https://raw.githubusercontent.com/milladincea/portafolio/main/img/proyecto21.webp",
         "title": "Ichikohi",
         "course": "Proyecto II",
-        "description":"oli",
+        "description":"Diseño y producción de un soporte de filtro para café elaborado en acrílico, cuya morfología se inspira en las cualidades formales de la frutilla, en específico sus semillas. El proyecto explora la bioinspiración como recurso para generar una pieza funcional con identidad propia, integrando formas orgánicas, perforaciones y transparencia para reforzar la relación entre forma y uso.",
         "gallery": "https://raw.githubusercontent.com/milladincea/portafolio/main/img/proyecto21.webp"
     },
     {
@@ -53,15 +53,15 @@
         "photo": "https://raw.githubusercontent.com/milladincea/portafolio/main/img/confi2.webp",
         "title": "Ícono Breaking JJOO",
         "course": "Configuración Visual II",
-        "description":"oli",
+        "description":"Propuesta de pictograma para el deporte breaking, desarrollada en Illustrator a partir de la síntesis de una postura representativa del movimiento durante el baile. El diseño busca lograr un símbolo dinámico, legible y adaptable, aplicando criterios de geometrización, equilibrio visual y coherencia.",
         "gallery": "https://raw.githubusercontent.com/milladincea/portafolio/main/img/confi2.webp"
     },
     {
         "id": 8,
         "photo": "https://raw.githubusercontent.com/milladincea/portafolio/main/img/repreconc.webp",
-        "title": "Cartas Alicia Oscura",
+        "title": "Nightmare in Wonderland",
         "course": "Representación Conceptual",
-        "description":"oli",
+        "description":"Diseño de tres cartas para un juego de mesa inspirado en Alicia en el País de las Maravillas, adaptado a un tono más oscuro y gótico. Cada carta representa uno de los principales puntos de inflexión de la historia, siguiendo una narrativa visual coherente basada en ilustraciones de estética temprana del siglo XX. El conjunto busca transmitir la tensión y el carácter siniestro del universo reinterpretado, reforzando tanto la ambientación como la experiencia estratégica del juego.",
         "gallery": "https://raw.githubusercontent.com/milladincea/portafolio/main/img/repreconc.webp"
     },
     {
@@ -69,7 +69,7 @@
         "photo": "https://raw.githubusercontent.com/milladincea/portafolio/main/img/comunicaciondelproyecto.webp",
         "title": "Tu copa, su silueta",
         "course": "Comunicación del Proyecto de Diseño",
-        "description":"oli",
+        "description":"Mockup de contenido para redes sociales desarrollado para la campaña Tu copa, su silueta, cuyo objetivo es promover la reflexión y concientización sobre el consumo de alcohol durante Fiestas Patrias. La propuesta adapta el mensaje visual de la campaña a un formato digital, priorizando claridad comunicacional, impacto gráfico y coherencia con la identidad del proyecto",
         "gallery": "https://raw.githubusercontent.com/milladincea/portafolio/main/img/comunicaciondelproyecto.webp"
     },
     {
@@ -77,7 +77,7 @@
         "photo": "https://raw.githubusercontent.com/milladincea/portafolio/main/img/montaje2.webp",
         "title": "Montaje Final Proyecto II",
         "course": "Proyecto II",
-        "description":"oli",
+        "description":"Exposición colectiva de fin de segundo semestre, en la que se presentaron los proyectos desarrollados a lo largo del curso para evidenciar el avance y crecimiento de cada estudiante. A pesar de tratarse de una sala de gran escala, la organización permitió un montaje ordenado y efectivo. La división en equipos de trabajo —encargados de montaje, logística y disposición del espacio— facilitó una instalación eficiente y una presentación final bien ejecutada.",
         "gallery": "https://raw.githubusercontent.com/milladincea/portafolio/main/img/montaje2.webp"
     },
     {
@@ -85,7 +85,7 @@
         "photo": "https://raw.githubusercontent.com/milladincea/portafolio/main/img/proyecto3.webp",
         "title": "(Inside)",
         "course": "Proyecto III",
-        "description":"oli",
+        "description":"Póster promocional para el fanzine Inside, proyecto que delata el interior de las mochilas de ciertos estudiantes de la FAU como una forma lúdica de explorar las similitudes y diferencias presentes dentro de la comunidad. La pieza gráfica busca sintetizar el concepto del fanzine mediante una composición atractiva y directa, destacando el carácter cotidiano y a la vez revelador del contenido."
         "gallery": "https://raw.githubusercontent.com/milladincea/portafolio/main/img/proyecto3.webp"
     },
     {
@@ -93,7 +93,7 @@
         "photo": "https://raw.githubusercontent.com/milladincea/portafolio/main/img/pyp1.webp",
         "title": "Frumis",
         "course": "Procesos y Prototipos I",
-        "description":"oli",
+        "description":"Infografía en formato de afiche promocional para las gomitas Frumis, producto de la marca ficticia de dulces inclusivos Kido, diseñada para niños con alergias alimentarias. La pieza comunica las características del producto, integrando ilustración, color y recursos visuales para transmitir su propuesta saludable y su identidad divertida.",
         "gallery": "https://raw.githubusercontent.com/milladincea/portafolio/main/img/pyp1.webp"
     },
     {
@@ -101,7 +101,7 @@
         "photo": "https://raw.githubusercontent.com/milladincea/portafolio/main/img/ergo.webp",
         "title": "Ekun: Propuesta de Señaléticas",
         "course": "Ergonomía y Factores Humanos",
-        "description":"oli",
+        "description":"Lámina de presentación de propuestas de señaléticas universales para el Parque Metropolitano de Santiago, diseñadas para ser accesibles a personas con discapacidad visual y auditiva. El proyecto integra principios de diseño inclusivo, uso adecuado de contrastes, sistemas táctiles y recursos gráficos claros, con el objetivo de desarrollar señalizaciones comprensibles, seguras y coherentes con el entorno del parque.",
         "gallery": "https://raw.githubusercontent.com/milladincea/portafolio/main/img/ergo.webp"
     },
     {
@@ -109,7 +109,7 @@
         "photo": "https://raw.githubusercontent.com/milladincea/portafolio/main/img/proyecto4.webp",
         "title": "Ami: Transportador de Picnic",
         "course": "Proyecto IV",
-        "description":"oli",
+        "description":"Transportador de vituallas para picnic en el contexto de un festival de cine, diseñado a partir de una única lámina de material que se ensambla mediante pliegues, encajes, inserciones y troqueles. La pieza fue confeccionada en polylona, goma EVA y PVC cristal termofundidos, explorando la transformación del plano al volumen y priorizando eficiencia material, portabilidad y facilidad de uso.",
         "gallery": "https://raw.githubusercontent.com/milladincea/portafolio/main/img/proyecto4.webp"
     },
     {
@@ -117,7 +117,7 @@
         "photo": "https://raw.githubusercontent.com/milladincea/portafolio/main/img/pyp2.webp",
         "title": "Luminaria de Metal",
         "course": "Procesos y Prototipos II",
-        "description":"oli",
+        "description":"Lámpara de inspiración japonesa elaborada en plancha de zinc y ensamblada mediante remaches pop, finalizada con electropintado. El proyecto incluyó el desarrollo manual del sistema de cableado eléctrico, integrando técnicas de trabajo en metal y diseño lumínico para lograr una pieza funcional con una estética limpia y un oficio superior",
         "gallery": "https://raw.githubusercontent.com/milladincea/portafolio/main/img/pyp2.webp"
     },
     {
@@ -125,7 +125,7 @@
         "photo": "https://raw.githubusercontent.com/milladincea/portafolio/main/img/hhcc.webp",
         "title": "Máscara de Conejo",
         "course": "Herramientas Computacionales",
-        "description":"oli",
+        "description":"Desarrollo de una máscara modelada en Blender y posteriormente convertida en plantilla para papercraft. A partir de este diseño digital, se realizó la construcción física en cartón, explorando la transición del modelado 3D al objeto material mediante procesos de recorte y plegado.",
         "gallery": "https://raw.githubusercontent.com/milladincea/portafolio/main/img/hhcc.webp"
     } 
 ]
