@@ -2,72 +2,81 @@
     {
         "id": 1,
         "photo": "https://github.com/ronnistp/portafolio/blob/main/Kiki.webp?raw=true",
-        "title": "Kiki",
+        "title": "KIKI",
         "course": "Procesos y Prototipos II",
+        "professor": "Profesor Patricio Araya"
         "description": "Descripción pendiente del trabajo.",
         "gallery": "https://raw.githubusercontent.com/profesorfaco/herramientas/refs/heads/main/clase-13/gallery.webp"
     },
     {
         "id": 2,
         "photo": "https://github.com/ronnistp/portafolio/blob/main/Gato.webp?raw=true",
-        "title": "Gato Angora",
+        "title": "GATO",
         "course": "Procesos y Prototipos II",
+        "professor": "Profesor Patricio Araya"
         "description": "Descripción pendiente del trabajo.",
         "gallery": "https://raw.githubusercontent.com/profesorfaco/herramientas/refs/heads/main/clase-13/gallery.webp"
     },
     {
         "id": 3,
         "photo": "https://github.com/ronnistp/portafolio/blob/main/Bolso%20Residual.webp?raw=true",
-        "title": "Fragmenta",
+        "title": "FRAGMENTA",
         "course": "Proyecto III",
+        "professor": "Profesora Clarisa Menteguiaga"
         "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed rutrum hendrerit lorem. Curabitur sodales feugiat libero. Nullam in lorem ut sem tempor accumsan nec vitae lacus. Sed vel finibus ex, quis euismod lorem. Aliquam eget leo sapien. Proin velit diam, suscipit vitae mi vel, laoreet finibus nisl. Pellentesque a purus eleifend, congue ante nec, aliquam risus.",
         "gallery": "https://raw.githubusercontent.com/profesorfaco/herramientas/refs/heads/main/clase-13/gallery.webp"
     },
     {
         "id": 4,
         "photo": "https://github.com/ronnistp/portafolio/blob/main/Infografia%20Movimineto.webp?raw=true",
-        "title": "Black Lives Matter",
+        "title": "BLACK LIVES MATTER",
         "course": "Proyecto III",
+        "professor": "Profesora Clarisa Menteguiaga"
         "description": "Descripción pendiente del trabajo.",
         "gallery": "https://raw.githubusercontent.com/profesorfaco/herramientas/refs/heads/main/clase-13/gallery.webp"
     },
     {
         "id": 5,
         "photo": "https://github.com/ronnistp/portafolio/blob/main/Fanzine.webp?raw=true",
-        "title": "Say Their Names",
+        "title": "SAY THEIR NAMES",
         "course": "Proyecto III",
+        "professor": "Profesora Clarisa Menteguiaga"
         "description": "Descripción pendiente del trabajo.",
         "gallery": "https://raw.githubusercontent.com/profesorfaco/herramientas/refs/heads/main/clase-13/gallery.webp"
     },
     {
         "id": 6,
         "photo": "https://raw.githubusercontent.com/evorakie/primera-nota/refs/heads/main/img/lesbinfo.webp",
-        "title": "My Voice",
+        "title": "MY VOICE",
         "course": "Proyecto III",
+        "professor": "Profesora Clarisa Menteguiaga"
         "description":  "Descripción pendiente del trabajo.",
         "gallery": "https://raw.githubusercontent.com/profesorfaco/herramientas/refs/heads/main/clase-13/gallery.webp"
     },
     {
         "id": 7,
         "photo": "https://raw.githubusercontent.com/evorakie/primera-nota/refs/heads/main/img/sensacional.webp",
-        "title": "Blind Box - Pop Mart X BT21",
+        "title": "BLIND BOX - Pop Mart X BT21",
         "course": "Comunicación del proyecto de diseño",
+        "professor": "Profesor Felix Maldonado de la Fuente"
         "description": "Descripción pendiente del trabajo.",
         "gallery": "https://raw.githubusercontent.com/profesorfaco/herramientas/refs/heads/main/clase-13/gallery.webp"
     },
     {
         "id": 8,
         "photo": "https://raw.githubusercontent.com/evorakie/Portafolio-Fotos/refs/heads/main/IMG/LA%20BALADA%20DE%20UNA%20ESTRELLA.webp",
-        "title": "Insectra",
+        "title": "INSECTRA",
         "course": "Procesos y Prototipos I",
+        "professor": "Profesora Pamela Fuentes"
         "description":  "Descripción pendiente del trabajo.",
         "gallery": "https://raw.githubusercontent.com/profesorfaco/herramientas/refs/heads/main/clase-13/gallery.webp"
     },
     {
         "id": 9,
         "photo": "https://raw.githubusercontent.com/evorakie/Portafolio-Fotos/refs/heads/main/IMG/ROBOT.webp",
-        "title": "Robot - Modelado 3D",
-        "course": "Configuración Visual II",
+        "title": "CUBO SOMA: VALORES TONALES",
+        "course": "Configuración Visual I",
+        "professor": "Profesor Carlos Ampuero"
         "description":  "Descripción pendiente del trabajo.",
         "gallery": "https://raw.githubusercontent.com/profesorfaco/herramientas/refs/heads/main/clase-13/gallery.webp"
     },
@@ -76,6 +85,7 @@
         "photo": "https://raw.githubusercontent.com/evorakie/Portafolio-Fotos/refs/heads/main/IMG/SINTESIS.webp",
         "title": "Dos caras Coraline",
         "course": "Representación Conceptual",
+        "professor": "Profesora Grace Mallea"
         "description":  "Descripción pendiente del trabajo.",
         "gallery": "https://raw.githubusercontent.com/profesorfaco/herramientas/refs/heads/main/clase-13/gallery.webp"
     },
@@ -84,6 +94,7 @@
         "photo": "https://raw.githubusercontent.com/evorakie/Portafolio-Fotos/refs/heads/main/IMG/MAGICAKE%20(1).webp",
         "title": "Fantasía Nocturna",
         "course": "Representación Conceptual",
+        "professor": "Profesora Grace Mallea"
         "description":  "Descripción pendiente del trabajo.",
         "gallery": "https://raw.githubusercontent.com/profesorfaco/herramientas/refs/heads/main/clase-13/gallery.webp"
     },
@@ -91,9 +102,9 @@
         "id": 12,
         "photo": "https://raw.githubusercontent.com/evorakie/Portafolio-Fotos/refs/heads/main/IMG/FANTASI%CC%81AMONARQUICA.webp",
         "title": "Exhibidor",
-        "course": "Ptoyecto II",
+        "course": "Proyecto II",
+        "professor": "Profesora Gabriela Pradenas"
         "description":  "Descripción pendiente del trabajo.",
-
         "gallery": "https://raw.githubusercontent.com/profesorfaco/herramientas/refs/heads/main/clase-13/gallery.webp"
     },
     {
@@ -101,6 +112,7 @@
         "photo": "https://raw.githubusercontent.com/evorakie/Portafolio-Fotos/refs/heads/main/IMG/ILUSORIA2.webp",
         "title": "Objeto de Luz",
         "course": "Proyecto II",
+        "professor": "Profesora Gabriela Pradenas"
         "description":  "Descripción pendiente del trabajo.",
         "gallery": "https://raw.githubusercontent.com/profesorfaco/herramientas/refs/heads/main/clase-13/gallery.webp"
     },
@@ -109,6 +121,7 @@
         "photo": "https://raw.githubusercontent.com/evorakie/Portafolio-Fotos/refs/heads/main/IMG/A%20PEARL.webp",
         "title": "Cápsula del Tiempo",
         "course": "Proyecto II",
+        "professor": "Profesora Gabriela Pradenas"
         "description":  "Descripción pendiente del trabajo.",
         "gallery": "https://raw.githubusercontent.com/profesorfaco/herramientas/refs/heads/main/clase-13/gallery.webp"
     },
@@ -117,6 +130,7 @@
         "photo": "https://github.com/ronnistp/portafolio/blob/main/Desplegable.webp?raw=true",
         "title": "Desplegable de 3 tiempos",
         "course": "Proyecto I",
+        "professor": "Profesora Gabriela Pradenas"
         "description":  "Descripción pendiente del trabajo.",
         "gallery": "https://raw.githubusercontent.com/profesorfaco/herramientas/refs/heads/main/clase-13/gallery.webp"
     },
@@ -125,6 +139,7 @@
         "photo": "https://github.com/ronnistp/portafolio/blob/main/Gemini_Generated_Image_w2zk71w2zk71w2zk.webp?raw=true",
         "title": "Elementos básicos de la forma",
         "course": "Proyecto I",
+        "professor": "Profesora Gabriela Pradenas"
         "description":  "Descripción pendiente del trabajo.",
         "gallery": "https://raw.githubusercontent.com/profesorfaco/herramientas/refs/heads/main/clase-13/gallery.webp"
     }
