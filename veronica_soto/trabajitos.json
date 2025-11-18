@@ -11,7 +11,7 @@
     {
         "id": 2,
         "photo": "https://github.com/ronnistp/portafolio/blob/main/Gato.webp?raw=true",
-        "title": "GATO",
+        "title": "GATO DE METAL",
         "course": "Procesos y Prototipos II",
         "professor": "Profesor Patricio Araya"
         "description": "Descripción pendiente del trabajo.",
@@ -56,8 +56,8 @@
     {
         "id": 7,
         "photo": "https://raw.githubusercontent.com/evorakie/primera-nota/refs/heads/main/img/sensacional.webp",
-        "title": "BLIND BOX - Pop Mart X BT21",
-        "course": "Comunicación del proyecto de diseño",
+        "title": "POP MART X BT21",
+        "course": "Comunicación del Proyecto de Diseño",
         "professor": "Profesor Felix Maldonado de la Fuente"
         "description": "Descripción pendiente del trabajo.",
         "gallery": "https://raw.githubusercontent.com/profesorfaco/herramientas/refs/heads/main/clase-13/gallery.webp"
