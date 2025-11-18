@@ -6,7 +6,7 @@
         "course": "Procesos y Prototipos II",
         "professor": "Profesor Patricio Araya"
         "description": "Descripción pendiente del trabajo.",
-        "gallery": "https://raw.githubusercontent.com/profesorfaco/herramientas/refs/heads/main/clase-13/gallery.webp"
+        "gallery": "https://github.com/ronnistp/portafolio/blob/main/Kiki.webp?raw=true"
     },
     {
         "id": 2,
@@ -15,7 +15,7 @@
         "course": "Procesos y Prototipos II",
         "professor": "Profesor Patricio Araya"
         "description": "Descripción pendiente del trabajo.",
-        "gallery": "https://raw.githubusercontent.com/profesorfaco/herramientas/refs/heads/main/clase-13/gallery.webp"
+        "gallery": "https://github.com/ronnistp/portafolio/blob/main/Gato.webp?raw=true"
     },
     {
         "id": 3,
@@ -24,7 +24,7 @@
         "course": "Proyecto III",
         "professor": "Profesora Clarisa Menteguiaga"
         "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed rutrum hendrerit lorem. Curabitur sodales feugiat libero. Nullam in lorem ut sem tempor accumsan nec vitae lacus. Sed vel finibus ex, quis euismod lorem. Aliquam eget leo sapien. Proin velit diam, suscipit vitae mi vel, laoreet finibus nisl. Pellentesque a purus eleifend, congue ante nec, aliquam risus.",
-        "gallery": "https://raw.githubusercontent.com/profesorfaco/herramientas/refs/heads/main/clase-13/gallery.webp"
+        "gallery": "https://github.com/ronnistp/portafolio/blob/main/Bolso%20Residual.webp?raw=true"
     },
     {
         "id": 4,
@@ -33,7 +33,7 @@
         "course": "Proyecto III",
         "professor": "Profesora Clarisa Menteguiaga"
         "description": "Descripción pendiente del trabajo.",
-        "gallery": "https://raw.githubusercontent.com/profesorfaco/herramientas/refs/heads/main/clase-13/gallery.webp"
+        "gallery": "https://github.com/ronnistp/portafolio/blob/main/Infografia%20Movimineto.webp?raw=true"
     },
     {
         "id": 5,
@@ -42,7 +42,7 @@
         "course": "Proyecto III",
         "professor": "Profesora Clarisa Menteguiaga"
         "description": "Descripción pendiente del trabajo.",
-        "gallery": "https://raw.githubusercontent.com/profesorfaco/herramientas/refs/heads/main/clase-13/gallery.webp"
+        "gallery": "https://github.com/ronnistp/portafolio/blob/main/Fanzine.webp?raw=true"
     },
     {
         "id": 6,
@@ -132,7 +132,7 @@
         "course": "Proyecto I",
         "professor": "Profesora Gabriela Pradenas"
         "description":  "Descripción pendiente del trabajo.",
-        "gallery": "https://raw.githubusercontent.com/profesorfaco/herramientas/refs/heads/main/clase-13/gallery.webp"
+        "gallery": "https://github.com/ronnistp/portafolio/blob/main/Desplegable.webp?raw=true"
     },
     {
         "id": 16,
@@ -141,6 +141,6 @@
         "course": "Proyecto I",
         "professor": "Profesora Gabriela Pradenas"
         "description":  "Descripción pendiente del trabajo.",
-        "gallery": "https://raw.githubusercontent.com/profesorfaco/herramientas/refs/heads/main/clase-13/gallery.webp"
+        "gallery": "https://github.com/ronnistp/portafolio/blob/main/Gemini_Generated_Image_w2zk71w2zk71w2zk.webp?raw=true"
     }
 ]
