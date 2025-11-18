@@ -2,7 +2,7 @@
     {
         "id": 1,
         "photo": "https://github.com/ronnistp/portafolio/blob/main/Kiki.webp?raw=true",
-        "title": "Kiki - Luminaria",
+        "title": "Kiki",
         "course": "Procesos y Prototipos II",
         "description": "Descripción pendiente del trabajo.",
         "gallery": "https://raw.githubusercontent.com/profesorfaco/herramientas/refs/heads/main/clase-13/gallery.webp"
@@ -10,7 +10,7 @@
     {
         "id": 2,
         "photo": "https://github.com/ronnistp/portafolio/blob/main/Gato.webp?raw=true",
-        "title": "Gato Angora - Planos plegados",
+        "title": "Gato Angora",
         "course": "Procesos y Prototipos II",
         "description": "Descripción pendiente del trabajo.",
         "gallery": "https://raw.githubusercontent.com/profesorfaco/herramientas/refs/heads/main/clase-13/gallery.webp"
@@ -18,7 +18,7 @@
     {
         "id": 3,
         "photo": "https://github.com/ronnistp/portafolio/blob/main/Bolso%20Residual.webp?raw=true",
-        "title": "Fragmenta - Diseño Residual",
+        "title": "Fragmenta",
         "course": "Proyecto III",
         "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed rutrum hendrerit lorem. Curabitur sodales feugiat libero. Nullam in lorem ut sem tempor accumsan nec vitae lacus. Sed vel finibus ex, quis euismod lorem. Aliquam eget leo sapien. Proin velit diam, suscipit vitae mi vel, laoreet finibus nisl. Pellentesque a purus eleifend, congue ante nec, aliquam risus.",
         "gallery": "https://raw.githubusercontent.com/profesorfaco/herramientas/refs/heads/main/clase-13/gallery.webp"
@@ -26,7 +26,7 @@
     {
         "id": 4,
         "photo": "https://github.com/ronnistp/portafolio/blob/main/Infografia%20Movimineto.webp?raw=true",
-        "title": "Black Lives Matter - Infografía",
+        "title": "Black Lives Matter",
         "course": "Proyecto III",
         "description": "Descripción pendiente del trabajo.",
         "gallery": "https://raw.githubusercontent.com/profesorfaco/herramientas/refs/heads/main/clase-13/gallery.webp"
@@ -34,7 +34,7 @@
     {
         "id": 5,
         "photo": "https://github.com/ronnistp/portafolio/blob/main/Fanzine.webp?raw=true",
-        "title": "Say Their Names - Fanzine",
+        "title": "Say Their Names",
         "course": "Proyecto III",
         "description": "Descripción pendiente del trabajo.",
         "gallery": "https://raw.githubusercontent.com/profesorfaco/herramientas/refs/heads/main/clase-13/gallery.webp"
@@ -42,7 +42,7 @@
     {
         "id": 6,
         "photo": "https://raw.githubusercontent.com/evorakie/primera-nota/refs/heads/main/img/lesbinfo.webp",
-        "title": "Blind Box Pop Mart BT21 - Infografía",
+        "title": "My Voice",
         "course": "Proyecto III",
         "description":  "Descripción pendiente del trabajo.",
         "gallery": "https://raw.githubusercontent.com/profesorfaco/herramientas/refs/heads/main/clase-13/gallery.webp"
@@ -50,16 +50,16 @@
     {
         "id": 7,
         "photo": "https://raw.githubusercontent.com/evorakie/primera-nota/refs/heads/main/img/sensacional.webp",
-        "title": "Sensacional - Identidad + Packaying",
-        "course": "Procesos y Prototipos I",
+        "title": "Blind Box - Pop Mart X BT21",
+        "course": "Comunicación del proyecto de diseño",
         "description": "Descripción pendiente del trabajo.",
         "gallery": "https://raw.githubusercontent.com/profesorfaco/herramientas/refs/heads/main/clase-13/gallery.webp"
     },
     {
         "id": 8,
         "photo": "https://raw.githubusercontent.com/evorakie/Portafolio-Fotos/refs/heads/main/IMG/LA%20BALADA%20DE%20UNA%20ESTRELLA.webp",
-        "title": "La balada de una estrella",
-        "course": "Diseño, estética y sociedad",
+        "title": "Insectra",
+        "course": "Procesos y Prototipos I",
         "description":  "Descripción pendiente del trabajo.",
         "gallery": "https://raw.githubusercontent.com/profesorfaco/herramientas/refs/heads/main/clase-13/gallery.webp"
     },
@@ -74,7 +74,7 @@
     {
         "id": 10,
         "photo": "https://raw.githubusercontent.com/evorakie/Portafolio-Fotos/refs/heads/main/IMG/SINTESIS.webp",
-        "title": "Conejo - Síntesis Gráfica",
+        "title": "Dos caras Coraline",
         "course": "Representación Conceptual",
         "description":  "Descripción pendiente del trabajo.",
         "gallery": "https://raw.githubusercontent.com/profesorfaco/herramientas/refs/heads/main/clase-13/gallery.webp"
@@ -82,7 +82,7 @@
     {
         "id": 11,
         "photo": "https://raw.githubusercontent.com/evorakie/Portafolio-Fotos/refs/heads/main/IMG/MAGICAKE%20(1).webp",
-        "title": "Magicake:Love - Set de Cartas",
+        "title": "Fantasía Nocturna",
         "course": "Representación Conceptual",
         "description":  "Descripción pendiente del trabajo.",
         "gallery": "https://raw.githubusercontent.com/profesorfaco/herramientas/refs/heads/main/clase-13/gallery.webp"
@@ -90,8 +90,8 @@
     {
         "id": 12,
         "photo": "https://raw.githubusercontent.com/evorakie/Portafolio-Fotos/refs/heads/main/IMG/FANTASI%CC%81AMONARQUICA.webp",
-        "title": "Fantasía Monárquica- Lenguaje visual",
-        "course": "Representación Conceptual",
+        "title": "Exhibidor",
+        "course": "Ptoyecto II",
         "description":  "Descripción pendiente del trabajo.",
 
         "gallery": "https://raw.githubusercontent.com/profesorfaco/herramientas/refs/heads/main/clase-13/gallery.webp"
@@ -99,15 +99,15 @@
     {
         "id": 13,
         "photo": "https://raw.githubusercontent.com/evorakie/Portafolio-Fotos/refs/heads/main/IMG/ILUSORIA2.webp",
-        "title": "Ilusoria - Collage Autorretrato",
-        "course": "Representación Conceptual",
+        "title": "Objeto de Luz",
+        "course": "Proyecto II",
         "description":  "Descripción pendiente del trabajo.",
         "gallery": "https://raw.githubusercontent.com/profesorfaco/herramientas/refs/heads/main/clase-13/gallery.webp"
     },
     {
         "id": 14,
         "photo": "https://raw.githubusercontent.com/evorakie/Portafolio-Fotos/refs/heads/main/IMG/A%20PEARL.webp",
-        "title": "A pearl - Photoshoot",
+        "title": "Cápsula del Tiempo",
         "course": "Proyecto II",
         "description":  "Descripción pendiente del trabajo.",
         "gallery": "https://raw.githubusercontent.com/profesorfaco/herramientas/refs/heads/main/clase-13/gallery.webp"
