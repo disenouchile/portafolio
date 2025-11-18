@@ -15,7 +15,7 @@
         "title": "Fotografías Tonales",
         "course": "Configuración Visual I",
         "description": "Descripción pendiente",
-        "gallery": ""
+        "gallery": "<p>Mi encargo consistió en un ejercicio de conceptualización y formalización visual cuyo objetivo fue demostrar mi capacidad para observar críticamente el entorno y traducirlo en una narrativa visual concisa.</p><p>El proceso se inició con el análisis y diagnóstico conceptual del espacio o de una composición propia, lo que me obligó a identificar y problematizar un concepto esencial para la secuencia. A partir de este diagnóstico, tuve que idear una solución innovadora que se materializara en un modelo físico de tres tomas fotográficas que mantuvieran una coherencia conceptual bajo un título unificador.</p><p>El desafío metodológico fundamental fue modelar y formalizar esta secuencia mediante el dominio del color y la composición. Demostré mi control sobre las herramientas de la disciplina al asegurar que cada imagen presentara una tendencia tonal distinta (cálida, neutra y fría) y aplicara un orden compositivo riguroso. Este control me permitió representar y comunicar mi propuesta de Diseño con precisión, utilizando la progresión cromática para dar estructura y significado al concepto seleccionado.</p>"
     },
     {
         "id": 3,
@@ -44,7 +44,7 @@
     {
         "id": 6,
         "photo": "https://raw.githubusercontent.com/vicentemedinat/repo_para_imagenes/refs/heads/main/img/photo-6.webp",
-        "title": "Afectos Deshechados",
+        "title": "Afectos Desechados",
         "course": "Proyecto III",
         "description": "Descripción pendiente",
         "gallery": ""
