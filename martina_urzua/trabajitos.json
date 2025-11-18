@@ -1,24 +1,3 @@
-f/*
-1 cafetera + grafica
-2 postal de metal
-3 volantín
-4 beto
-
-5 logo TODOS
-6 afiche rata enorme
-7 fanzine + afiche
-8 timbre
-
-9 kido packaging
-10 taburete
-11 fotos hermano
-12 bucle
-
-13 starOn + lámina
-14 guante + lámina
-15 máscara
-16 pieza de ajedrez
-*/
 [
     {
         "id": 1,
@@ -26,138 +5,126 @@ f/*
         "title": "Bosui",
         "course": "Proyecto II - Prof. Paula Ron",
         "description": "Este proyecto fue una exploración académica de la biomímesis, donde el desafío era traducir la estructura de un elemento natural en un objeto de diseño funcional y estético. Comencé con un análisis científico profundo de una cebolla, plasmado en una lámina de observación que descomponía su geometría, texturas y patrones, prestando especial atención a la superposición de sus capas. Tomando la síntesis de estas capas concéntricas y su curvatura como concepto central, diseñé las piezas de una cafetera pour-over en Adobe Illustrator. Estas piezas digitales, que reflejan la fluidez y la forma orgánica del bulbo, fueron fabricadas con corte láser en acrílico translúcido y luego ensambladas meticulosamente para crear este prototipo volumétrico y funcional. Para mí, el mayor aprendizaje fue dominar el proceso completo: desde la observación analógica y la abstracción de formas naturales, hasta la preparación de archivos digitales precisos y la materialización de un objeto físico con un fuerte carácter orgánico.",
-        "gallery": "https://raw.githubusercontent.com/disenouchile/portafolio/refs/heads/main/martina_urzua/trabajitos.json",
+        "gallery": "https://raw.githubusercontent.com/disenouchile/portafolio/refs/heads/main/martina_urzua/trabajitos.json"
     },
-        {
-        "id": 3,
-        "photo": "",
+    {
+        "id": 2,
+        "photo": "https://martinaurzua.github.io/fotitos/foto2.webp",
         "title": "Volantín",
         "course": "Proyecto IV - Prof. Macarena Becas",
         "description": "Este proyecto fue un estudio técnico y riguroso sobre operaciones de simetría geométrica. A partir de un módulo base inicial dividido en tres espacios, apliqué una secuencia programada de operaciones que incluyeron traslación, rotación y reflexión especular. Mi paleta de negro, rosado y amarillo fue una decisión deliberada: el negro actúa como una base estructural de alto contraste, mientras que la alta vibración del rosado y el amarillo maximiza la energía visual y la legibilidad de las formas generadas. Este proceso dio vida a un supermódulo complejo, que se convirtió en la unidad base para construir un patrón por repetición. El resultado final fue el diseño y la construcción de un volantín de 45x45cm, demostrando cómo reglas geométricas simples pueden escalar hasta crear un objeto visualmente dinámico y funcional.",
         "gallery": "https://raw.githubusercontent.com/disenouchile/portafolio/refs/heads/main/martina_urzua/trabajitos.json"
     },
-{
+    {
         "id": 3,
-        "photo": "https://raw.githubusercontent.com/valentinatroncoso/primera-nota/refs/heads/main/imagenes%20finales/se%C3%B1aletica.webp",
+        "photo": "https://martinaurzua.github.io/fotitos/foto3.webp",
         "title": "Pieza de Ajedrez",
         "course": "Proyecto I - Prof. Paula Ron",
-        "description": "Este proyecto fue un ejercicio de diseño conceptual y resumen de formas, para pasar la identidad del trap a una pieza de ajedrez. La elección del peón es la idea central del concepto: esta pieza representa al soldado de a pie, el que surge desde abajo y muestra la historia del trap sobre buscarse la vida y superarse. El peón, como el artista de trap, es el que tiene la capacidad de transformarse y llegar al otro lado del tablero.
-Visualmente, la pieza resume la silueta reconocida del género: chaquetas grandes y bermudas anchas. El cuerpo, hecho en madera torneada, recuerda las divisiones de una chaqueta puffer y también la sensación de lujo de las cadenas. Esto hace contraste con una esfera de resina en la parte superior, que representa la joyería y el sonido moderno de la música.",
+        "description": "Este proyecto fue un ejercicio de diseño conceptual y resumen de formas, para pasar la identidad del trap a una pieza de ajedrez. La elección del peón es la idea central del concepto: esta pieza representa al soldado de a pie, el que surge desde abajo y muestra la historia del trap sobre buscarse la vida y superarse. El peón, como el artista de trap, es el que tiene la capacidad de transformarse y llegar al otro lado del tablero. Visualmente, la pieza resume la silueta reconocida del género: chaquetas grandes y bermudas anchas. El cuerpo, hecho en madera torneada, recuerda las divisiones de una chaqueta puffer y también la sensación de lujo de las cadenas. Esto hace contraste con una esfera de resina en la parte superior, que representa la joyería y el sonido moderno de la música.",
         "gallery": "https://raw.githubusercontent.com/disenouchile/portafolio/refs/heads/main/martina_urzua/trabajitos.json"
-    }
+    },
     {
         "id": 4,
-        "photo": "https://martinaurzua.github.io/fotitos/foto10.webp",
-        "title": "Beto",
-        "course": "Proyecto III - Prof. Pamela Gatica",
-        "description": "Beto es un objeto conceptual que explora la intersección entre la herencia, el oficio y la identidad personal, materializado en madera y metal. El proyecto nace como un homenaje a mi abuelo, un mueblista que me dio la libertad de explorar en su taller y sembró en mí la vocación por el diseño. La pieza representa una mano dividida en dos: una parte más trabajada, que simboliza su experiencia y oficio; y otra más nueva, que me representa como diseñadora emergente. El metal se integra con la madera para crear un diálogo visual entre lo tradicional y lo contemporáneo. Este proyecto fue un ejercicio de diseño conceptual y exploración de materiales, enfocado en cómo un objeto puede encarnar la emoción, la memoria y la conexión entre dos generaciones de creadores.",
-        "gallery": “https://raw.githubusercontent.com/disenouchile/portafolio/refs/heads/main/martina_urzua/trabajitos.json”,
+        "photo": "https://martinaurzua.github.io/fotitos/foto4.webp",
+        "title": "Táctimo",
+        "course": "Ergonomía y Factores Humanos - Prof. Claudio Ribalta",
+        "description": "Este proyecto fue un diseño de producto enfocado en la ergonomía sensorial. El problema que busqué solucionar fue la ansiedad y la sobrecarga sensorial que ocurren en espacios públicos, como el transporte o las aulas. Mi proceso partió con un análisis profundo de cómo se manifiesta la ansiedad físicamente en las manos, como la necesidad de frotar o mover los dedos. Basado en este análisis, diseñé un guante sensorial con distintas texturas y detalles que se pueden tocar. El objetivo es que el usuario pueda redirigir su atención y autorregularse de forma discreta. Mi investigación exploró varias opciones, incluyendo un guante modular y uno convertible, para encontrar la solución más adaptable a las necesidades del usuario.",
+        "gallery": "https://raw.githubusercontent.com/disenouchile/portafolio/refs/heads/main/martina_urzua/trabajitos.json"
     },
     {
         "id": 5,
-        "photo": "https://martinaurzua.github.io/fotitos/foto7.webp",
+        "photo": "https://martinaurzua.github.io/fotitos/foto5.webp",
         "title": "Marca Personal",
         "course": "Proyecto II - Prof. Paula Ron",
         "description": "Este proyecto fue mi introducción al diseño de marca personal y mi primer acercamiento a Adobe Illustrator. El desafío era crear un isotipo (logo) que combinara un animal representativo con un rasgo personal. Elegí el perro por su lealtad y energía, y lo fusioné con mis lentes como rasgo distintivo. El proceso comenzó con bocetos a mano y pruebas físicas en cartulina, evaluando la legibilidad y el impacto del diseño tanto en color como en su versión a blanco y negro. Una vez validado el concepto, el diseño final fue vectorizado en Illustrator y aplicado sobre mockups para mostrar su aplicación en productos reales.",
-        "gallery": "https://raw.githubusercontent.com/disenouchile/portafolio/refs/heads/main/martina_urzua/trabajitos.json",
+        "gallery": "https://raw.githubusercontent.com/disenouchile/portafolio/refs/heads/main/martina_urzua/trabajitos.json"
     },
     {
         "id": 6,
-        "photo": "https://martinaurzua.github.io/fotitos/foto3.webp",
+        "photo": "https://martinaurzua.github.io/fotitos/foto6.webp",
         "title": "Macho Blanco",
         "course": "Proyecto I - Prof. Paula Ron",
         "description": "Este proyecto es un ejercicio de síntesis gráfica e ilustración conceptual basado en el cuento Una rata enorme de la escritora Carmen Montellano Tolosa. El texto narra, en clave de sátira, la irrupción de una rata superlativa en el baño de un lujoso apartamento en una gran ciudad de Norteamérica. El animal es descrito con pelos amarillos anaranjados en la cabeza y una cola corta; al verse en el espejo, se ve a sí misma reflejada y piensa: Soy el más bello, soy un macho blanco. Sintiéndose con el poder de comer, de mandar y gobernar a su antojo, la rata se vuelve cada vez más gorda, robusta, satisfecha y empoderada, mientras la comunidad es incapaz de tomar acciones concretas para deshacerse del animal. Interpreté esta clara alegoría política y centré mi concepto en la maldad y la figura de Donald Trump. El diseño final es una ilustración minimalista, evolucionada desde bocetos a tiralíneas hasta esta composición final, que utiliza planos de color puros y una estética de recorte para capturar la naturaleza amenazante del personaje con la máxima simpleza visual.",
-"gallery": "https://raw.githubusercontent.com/disenouchile/portafolio/refs/heads/main/martina_urzua/trabajitos.json",
-       
+        "gallery": "https://raw.githubusercontent.com/disenouchile/portafolio/refs/heads/main/martina_urzua/trabajitos.json"
     },
     {
         "id": 7,
-        "photo": "https://martinaurzua.github.io/fotitos/foto4.webp",
+        "photo": "https://martinaurzua.github.io/fotitos/foto7.webp",
         "title": "¿Y si mi milagro es vivir sin miedo?",
         "course": "Proyecto III - Prof. Pamela Gatica",
         "description": "¿Y si mi milagro es vivir sin miedo?, es un proyecto de diseño editorial e ilustración que funciona como una exploración profundamente personal. A través de un fanzine y un póster complementario, el proyecto utiliza ilustraciones propias trabajadas en capas para cuestionar y reflexionar sobre la experiencia de crecer siendo queer en entornos religiosos. Fue un proceso introspectivo, donde el diseño gráfico se convirtió en una herramienta de catarsis y expresión para articular emociones complejas, tanto difíciles como luminosas. La frase que da título al proyecto no es solo una pregunta, sino una declaración conceptual: una invitación a imaginar una vida auténtica y libre, donde el amor propio también es reconocido como sagrado.",
-        "gallery": "https://raw.githubusercontent.com/disenouchile/portafolio/refs/heads/main/martina_urzua/trabajitos.json",
+        "gallery": "https://raw.githubusercontent.com/disenouchile/portafolio/refs/heads/main/martina_urzua/trabajitos.json"
     },
     {
         "id": 8,
-        "photo": "https://raw.githubusercontent.com/anaisvalentina/imagenes/refs/heads/main/taburete.webp",
-        "title": "Símbolo",
-        "course": "Configuración Visual I - Prof. Leonardo Soto",
-        "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed rutrum hendrerit lorem. Curabitur sodales feugiat libero. Nullam in lorem ut sem tempor accumsan nec vitae lacus. Sed vel finibus ex, quis euismod lorem. Aliquam eget leo sapien. Proin velit diam, suscipit vitae mi vel, laoreet finibus nisl. Pellentesque a purus eleifend, congue ante nec, aliquam risus.",
+        "photo": "https://martinaurzua.github.io/fotitos/foto8.webp",
+        "title": "Beto",
+        "course": "Proyecto III - Prof. Pamela Gatica",
+        "description": "Beto es un objeto conceptual que explora la intersección entre la herencia, el oficio y la identidad personal, materializado en madera y metal. El proyecto nace como un homenaje a mi abuelo, un mueblista que me dio la libertad de explorar en su taller y sembró en mí la vocación por el diseño. La pieza representa una mano dividida en dos: una parte más trabajada, que simboliza su experiencia y oficio; y otra más nueva, que me representa como diseñadora emergente. El metal se integra con la madera para crear un diálogo visual entre lo tradicional y lo contemporáneo. Este proyecto fue un ejercicio de diseño conceptual y exploración de materiales, enfocado en cómo un objeto puede encarnar la emoción, la memoria y la conexión entre dos generaciones de creadores.",
         "gallery": "https://raw.githubusercontent.com/disenouchile/portafolio/refs/heads/main/martina_urzua/trabajitos.json"
     },
     {
         "id": 9,
-        "photo": "https://martinaurzua.github.io/fotitos/foto16.webp",
+        "photo": "https://martinaurzua.github.io/fotitos/foto9.webp",
         "title": "Kido",
         "course": "Procesos y Prototipos I - Prof. Pamela Fuentes",
-        "collab": "con Millaray Dinamarca y Valentina Ávila",
-        "description": "Este proyecto es un ensayo fotográfico centrado en el storytelling visual y la iluminación conceptual. El desafío técnico consistía en utilizar la composición y tres temperaturas de color distintas (cálida, neutra y fría) para construir una narrativa coherente. Mi concepto explora la intimidad de la soledad tras una ruptura; las imágenes retratan a un hombre en los espacios que antes compartía con su pareja. La variación de la luz no es solo técnica, sino emocional: la luz cálida evoca la nostalgia de la memoria, la luz fría subraya el vacío del presente y la luz neutra captura la cruda realidad del loop. Las fotografías buscan capturar al sujeto en este bucle infinito de introspección, escuchando música, bebiendo vino, habitando los recuerdos de un espacio que ha perdido su significado original.",
+        "description": "Este fue un proyecto de branding completo y con un fuerte enfoque social, trabajado en equipo con Valentina Ávila y Millaray Dinamarca. Creamos la marca Kido, con el desafío de hacer dulces saludables y sin azúcar para niños de bajos recursos. Realizamos una investigación y definimos que la marca debía fomentar la autonomía y ser una experiencia lúdica. Para lograr esto, creamos personajes para la marca e incluimos discos coleccionables, inspirados en los tazos, para generar un vínculo con los niños. Mi rol principal se centró en el diseño de envase. Diseñé un sistema de tubo que se empuja desde abajo. Este mecanismo permite que las gomitas suban, dándole al niño control total para servirse solo, de forma limpia e independiente.",
         "gallery": "https://raw.githubusercontent.com/disenouchile/portafolio/refs/heads/main/martina_urzua/trabajitos.json"
     },
     {
         "id": 10,
-        "photo": "https://martinaurzua.github.io/primera-nota/img/paulita.webp",
+        "photo": "https://martinaurzua.github.io/fotitos/foto10.webp",
         "title": "Taburete",
         "course": "Procesos y Prototipos II - Prof. Antonio Marín",
-        “collab”: “con Sofía Abarzúa”,
-        "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed rutrum hendrerit lorem. Curabitur sodales feugiat libero. Nullam in lorem ut sem tempor accumsan nec vitae lacus. Sed vel finibus ex, quis euismod lorem. Aliquam eget leo sapien. Proin velit diam, suscipit vitae mi vel, laoreet finibus nisl. Pellentesque a purus eleifend, congue ante nec, aliquam risus.",
+        "description": "Este proyecto de mobiliario, trabajado en equipo con Sofía Abarzúa, fue un ejercicio de diseño y fabricación enfocado en el dominio de ensambles. El desafío era construir un taburete funcional usando dos maderas, Álamo y Raulí, e integrando tres técnicas de unión específicas: caja y espiga, media madera y tarugos. Mi rol principal fue el técnico: desarrollé la planimetría del taburete, realicé el dimensionado de las piezas y diseñé cómo se aplicarían los ensambles. Este proyecto fue clave para aprender a planificar la fabricación de un objeto real, asegurando que los ensambles funcionaran tanto estructural como estéticamente.",
         "gallery": "https://raw.githubusercontent.com/disenouchile/portafolio/refs/heads/main/martina_urzua/trabajitos.json"
     },
     {
         "id": 11,
-        "photo": "https://martinaurzua.github.io/fotitos/foto16.webp",
+        "photo": "https://martinaurzua.github.io/fotitos/foto11.webp",
         "title": "Crónica de una Ruptura",
         "course": "Configuración Visual I - Prof. Leonardo Soto",
-        "collab": "con Diego Urzúa",
         "description": "Este proyecto es un ensayo fotográfico centrado en el storytelling visual y la iluminación conceptual. El desafío técnico consistía en utilizar la composición y tres temperaturas de color distintas (cálida, neutra y fría) para construir una narrativa coherente. Mi concepto explora la intimidad de la soledad tras una ruptura; las imágenes retratan a un hombre en los espacios que antes compartía con su pareja. La variación de la luz no es solo técnica, sino emocional: la luz cálida evoca la nostalgia de la memoria, la luz fría subraya el vacío del presente y la luz neutra captura la cruda realidad del loop. Las fotografías buscan capturar al sujeto en este bucle infinito de introspección —escuchando música, bebiendo vino— habitando los recuerdos de un espacio que ha perdido su significado original.",
         "gallery": "https://raw.githubusercontent.com/disenouchile/portafolio/refs/heads/main/martina_urzua/trabajitos.json"
     },
     {
         "id": 12,
-        "photo": "https://martinaurzua.github.io/primera-nota/img/ensamble.webp",
-        "title": "Bucle",
-        "course": "Lenguaje y Significación - Prof. Ignacio Silva",
-        “collab”: “con Angelina Caviedes y María José Quinteros”,
-        "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed rutrum hendrerit lorem. Curabitur sodales feugiat libero. Nullam in lorem ut sem tempor accumsan nec vitae lacus. Sed vel finibus ex, quis euismod lorem. Aliquam eget leo sapien. Proin velit diam, suscipit vitae mi vel, laoreet finibus nisl. Pellentesque a purus eleifend, congue ante nec, aliquam risus.",
+        "photo": "https://martinaurzua.github.io/fotitos/foto12.webp",
+        "title": "Húmedo",
+        "course": "Representación Conceptual - Prof. Camila Lobos",
+        "description": "Este proyecto fue un ejercicio de percepción del color, donde el desafío era encontrar tres colores que, juntos, transmitieran la sensación de húmedo. Mi paleta final, visible en esta composición abstracta, usa un verde musgo, un azul verdoso profundo y un verde ácido brillante. Esta elección busca capturar la humedad del bosque: el azul profundo representa el agua y la sombra; el verde musgo es la tierra y las plantas mojadas; y el verde ácido actúa como el acento de la vida que brota en ese ambiente, como algas o musgo nuevo.",
         "gallery": "https://raw.githubusercontent.com/disenouchile/portafolio/refs/heads/main/martina_urzua/trabajitos.json"
     },
     {
         "id": 13,
-        "photo": "https://martinaurzua.github.io/primera-nota/img/guante.webp",
+        "photo": "https://martinaurzua.github.io/fotitos/foto13.webp",
         "title": "StarOn",
         "course": "Proyecto III - Prof. Pamela Gatica",
-        "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed rutrum hendrerit lorem. Curabitur sodales feugiat libero. Nullam in lorem ut sem tempor accumsan nec vitae lacus. Sed vel finibus ex, quis euismod lorem. Aliquam eget leo sapien. Proin velit diam, suscipit vitae mi vel, laoreet finibus nisl. Pellentesque a purus eleifend, congue ante nec, aliquam risus.",
+        "description": "Este proyecto fue un análisis crítico sobre la presión social de rendir permanentemente, incluso cuando estamos lidiando con situaciones difíciles. Mi respuesta fue StarOn, un proyecto conceptual y de marca que funciona como una ironía a esta exigencia. StarOn es una marca que creé para una máquina expendedora. En lugar de productos comunes, esta máquina entrega estrellas, inspiradas en las de los videojuegos que dan invencibilidad. Estas estrellas no curan nada; actúan como un placebo simbólico o un amuleto emocional de efecto limitado. Su único fin es dar al usuario una falsa sensación de poder para que pueda seguir funcionando y rindiendo, tal como lo pide el sistema. Para materializar esta idea, desarrollé la identidad de marca completa: creé el logo de StarOn, definí la paleta de colores y diseñé el packaging de las estrellas, tratándolas como un producto de consumo real. El concepto entero se resume en la frase que creé para el proyecto: Siete maneras de no sentir nada (y seguir rindiendo).",
         "gallery": "https://raw.githubusercontent.com/disenouchile/portafolio/refs/heads/main/martina_urzua/trabajitos.json"
     },
     {
         "id": 14,
-        "photo": "https://github.com/lenapereoso/primera-nota/blob/main/img/fto7.webp?raw=true",
-        "title": "Táctimo",
-        "course": "Ergonomía y Factores Humanos - Prof. Claudio Ribalta",
-        "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed rutrum hendrerit lorem. Curabitur sodales feugiat libero. Nullam in lorem ut sem tempor accumsan nec vitae lacus. Sed vel finibus ex, quis euismod lorem. Aliquam eget leo sapien. Proin velit diam, suscipit vitae mi vel, laoreet finibus nisl. Pellentesque a purus eleifend, congue ante nec, aliquam risus.",
+        "photo": "https://martinaurzua.github.io/fotitos/foto14.webp",
+        "title": "Símbolo",
+        "course": "Configuración Visual I - Prof. Leonardo Soto",
+        "description": "Este proyecto fue un ejercicio de síntesis gráfica y conceptualización para crear un timbre con un símbolo personal, a partir de mis rasgos de personalidad. Elegí tres conceptos que me definen: observadora, intensa y curiosa. El diseño final une estas ideas en una forma abstracta: el espacio negativo central crea un ojo que representa mi lado observador; la forma abierta y con movimiento sugiere curiosidad; y la textura de la impresión, lograda con un timbre físico hecho de goma eva y cartón piedra, aporta una fuerza que representa mi lado intenso.",
         "gallery": "https://raw.githubusercontent.com/disenouchile/portafolio/refs/heads/main/martina_urzua/trabajitos.json"
     },
     {
         "id": 15,
-        "photo": "https://martinaurzua.github.io/fotitos/foto17.webp",
+        "photo": "https://martinaurzua.github.io/fotitos/foto15.webp",
         "title": "Máscara 3D",
-        "course": "Herramientas Computacionales - Prof. FACO",
-        "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed rutrum hendrerit lorem. Curabitur sodales feugiat libero. Nullam in lorem ut sem tempor accumsan nec vitae lacus. Sed vel finibus ex, quis euismod lorem. Aliquam eget leo sapien. Proin velit diam, suscipit vitae mi vel, laoreet finibus nisl. Pellentesque a purus eleifend, congue ante nec, aliquam risus.",
-        "gallery": "https://martinaurzua.github.io/fotitos/foto18.webp",
-"https://martinaurzua.github.io/fotitos/foto19.webp",
-"https://martinaurzua.github.io/fotitos/foto20.webp"
-
+        "course": "Herramientas Computacionales - Prof. Felipe Cortez",
+        "description": "Este proyecto fue un ejercicio técnico de modelado 3D en Blender con un objetivo muy específico: crear una máscara de Halloween diseñada para ser construida en la vida real. El desafío fue modelar la máscara usando un estilo low-poly (de pocos polígonos), ya que este método es el que permite que el modelo 3D pueda ser \"desdoblado\" y exportado para su ensamblaje físico.",
+        "gallery": "https://raw.githubusercontent.com/disenouchile/portafolio/refs/heads/main/martina_urzua/trabajitos.json"
     },
-{
+    {
         "id": 16,
-        "photo": "https://raw.githubusercontent.com/anaisvalentina/imagenes/refs/heads/main/marca.webp",
+        "photo": "https://martinaurzua.github.io/fotitos/foto16.webp",
         "title": "Postal de Metal",
         "course": "Proyecto II - Prof. Paula Ron",
         "description": "Este proyecto fue un ejercicio de creación conceptual y grabado en metal. El desafío era diseñar un país ideal y su reseña. Mi concepto, Lunaris, se inspiró en mi signo zodiacal, Cáncer, regido por la Luna, y se resume en la frase: Solo quienes siguen su intuición pueden descubrir las islas ocultas bajo la luna Lunaris. Para materializar este mapa imaginario, utilicé la técnica de grabado químico. Primero, dibujé el diseño sobre la placa de metal usando esmalte como reserva (para protegerlo del ácido). Luego, la placa fue sumergida en ácido muriático, que corroyó el metal expuesto, dejando el diseño grabado de forma permanente. La naturaleza indeleble de este proceso químico crea una metáfora perfecta para el concepto: un mapa secreto que solo se revela y queda grabado para siempre para aquellos que confían en su intuición.",
         "gallery": "https://raw.githubusercontent.com/disenouchile/portafolio/refs/heads/main/martina_urzua/trabajitos.json"
     }
-
-
 ]
-
