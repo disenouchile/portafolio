@@ -128,10 +128,10 @@
     {
         "id": 15,
         "photo": "https://antoniasolar.github.io/Imagenes/Fotos/foto-15.webp",
-        "title": "Artefacto emocional",
-        "course": "Proyecto III",
-        "professor": "Profesora Pamela Gatica",
-        "description": "<p>Este artefacto emocional es una pieza escultórica de alto significado simbólico diseñada para explorar la compleja activación de la memoria y el recuerdo de los ausentes. La pieza adopta la forma estilizada de una cabeza cubierta por una malla metálica que representa la barrera, el olvido o el velo que cubre los recuerdos. Dentro de la mente (la parte superior de la cabeza), se ubican elementos de recuerdo envueltos en tela azul, sugiriendo que las memorias están almacenadas, aunque temporalmente olvidadas.</p><p>El diseño se enfoca en cómo los sentidos reactivan la conexión: la malla permite la exploración táctil, mientras que la lana roja y blanca cosida de forma radiante en un costado actúa como un filtro visual o una ventana de activación, simbolizando el momento en que un recuerdo se proyecta y se hace tangible, recordando vívidamente a alguien que ya no está.</p><p>En conjunto, el artefacto es una reflexión material sobre cómo el tacto, la vista y la sensación pueden perforar el olvido y traer al presente la memoria de un ser querido.</p>",
+        "title": "Máscara de blender",
+        "course": "Herramientas Computacionales",
+        "professor": "Profesor Felipe Cortez",
+        "description": "<p>Esta máscara de panda es el resultado de un proyecto de diseño que fusiona la modelación 3D digital con la construcción manual, utilizando una estética distintiva de bajo poligonaje (low poly). El proceso comenzó con el modelado del diseño en Blender, logrando una representación estilizada y geométrica de la cabeza del panda. Posteriormente, el modelo fue traducido a un patrón plano mediante técnicas de papercraft o paper mode, permitiendo su construcción física en papel o cartulina.</p>",
         "gallery": "https://raw.githubusercontent.com/profesorfaco/herramientas/refs/heads/main/clase-13/gallery.webp"
     },
     {
