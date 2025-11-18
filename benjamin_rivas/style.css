@@ -4,10 +4,11 @@
    Variables y Reset
    =================== */
 :root {
-    --colorPrimario: rgba(164, 134, 182, 1);
+    --colorPrimario: rgba(106, 87, 118,1);
     --colorOverlay: rgba(66, 54, 73, 0.8);
-    --colorSecundario: rgba(125, 181, 151, 1);
-    --colorMediador: rgba(189, 151, 81, 1);
+    --colorSecundario: rgba(30, 30, 30,1);
+    --colorMediador: rgba(190, 150, 80, 1);
+    --colorTexto: rgba(220, 215, 225, 1);
 }
 
 * {
@@ -22,7 +23,7 @@
 body {
     font-family: "Helvetica", "Arial", sans-serif;
     line-height: 1.6;
-    color: rgba(0,0,0,.9);
+    color: var(--colorTexto);
     background-color: #000;
 }
 
@@ -40,6 +41,7 @@ footer {
     border: 7px solid black;
     background-color: var(--colorPrimario);
     text-align: center;
+    color: var(--colorTexto);
     padding: 60px 0 40px;
 }
 
@@ -85,7 +87,7 @@ h2 {
     letter-spacing: 2px;
     font-size: calc(0.6rem + 0.6vw);
     background-color: var(--colorMediador);
-    color: rgba(0,0,0,.9);
+    color: rgba(235, 230, 240, 9);
     border: 6px solid #000;
     padding: 25px 50px;
     text-transform: uppercase;
@@ -100,13 +102,14 @@ h2 {
 }
 
 .nav a:hover {
-    color: rgba(0,0,0,1);
+    color: var(--colorTexto);
     transform: translate(4px, 4px);
     box-shadow: 8px 8px 0 #000;
 }
 
 .nav a:first-child {
     margin-right: 1rem;
+    color: var(--colorTexto);
 }
 
 .nav a.active {
@@ -199,28 +202,39 @@ h2 {
 
 section.single{
     padding:3vw 6vw;
+    color: var(--colorTexto);
 }
 
 section.single h3{
     text-align: center;
     font-size: calc(1rem + 2vw);
-    text-decoration: underline;
+    color: var(--colorMediador);
+    text-transform: uppercase;
+    font-weight: 800
 }
 
 section.single h4{
     text-align: center;
     font-size: calc(1rem + 1vw);
+    color: var(--colorMediador);
+    font-weight: 800
 }
 
 section.single h5{
     text-align: center;
     font-size: calc(1rem + 0.5vw);
     margin-bottom: 3rem;
+    color: var(--colorMediador);
+    font-weight: 800
 }
 
 section.single p, section.single ul{
     width:min(95%, 800px);
     margin:1rem auto;
+}
+
+section.single p b{
+    color: var(--colorMediador);
 }
 
 section.single img{
@@ -236,11 +250,16 @@ section.single hr {
     margin: 1rem 0; 
 }
 
+section.single a {
+    color: var(--colorMediador);
+}
+
 /* ===================
    About 
    =================== */
 .about-section {
     padding: 60px 0;
+    color: var(--colorTexto);
 }
 
 .about-content {
@@ -265,16 +284,17 @@ section.single hr {
 .about-text p em{
     font-weight: bolder;
     font-style: normal;
+    color: var(--colorMediador);
 }
 
 .about-text p a{
     font-weight: bolder;
     font-style: normal;
-    color:rgba(0,0,0,.75);
+    color: rgba(189, 151, 81, 0.9);
 }
 
 .about-text p a:hover{
-    color:rgba(0,0,0,1);
+    color: var(--colorMediador);
 }
 
 .about-text ul{
@@ -328,7 +348,7 @@ section.single hr {
    Footer
    =================== */
 .footer p {
-    color: #444;
+    color: var(--colorTexto);
     font-size: 0.9rem;
 }
 
@@ -337,7 +357,7 @@ section.single hr {
 }
 
 .social-links a {
-    color: #222;
+    color: rgba(235, 230, 240, 0.5);
     text-decoration: none;
     margin: 0 15px;
     font-size: 0.9rem;
@@ -345,7 +365,7 @@ section.single hr {
 }
 
 .social-links a:hover {
-    color: #000;
+    color: var(--colorTexto);
 }
 
 /* ===================
