@@ -7,7 +7,7 @@
 :root {
     --colorPrimario: rgb(0, 55,106);
     --colorOverlay: rgb(45, 109, 164);
-    --colorSecundario: rgba(248,300, 338);
+    --colorSecundario: rgba(248,255, 255);
     --colorMediador: rgb(255, 255, 255);
 }
 
