@@ -6,9 +6,9 @@
    Variables y Reset
    =================== */
 :root {
-    --colorPrimario: rgba(201, 2, 130);
+    --colorPrimario: rgba(235, 0, 90);
     --colorOverlay: rgba(184, 245, 45,2);
-    --colorSecundario: rgba(242, 228, 237);
+    --colorSecundario: rgba(255, 255, 255);
     --colorMediador: rgba(250, 167, 220);
 }
 
