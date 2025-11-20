@@ -6,7 +6,7 @@
         "course": "Proyecto I",
         "professor": "Profesor René Perea",
         "description": "<p>Este proyecto consiste en el diseño de una portada de vinilo basada en un libro, en este caso, La Revuelta - Laura Landaeta, reinterpretada visualmente como si hubiera sido creada por mi referente elegido, El cantante Hector Lavoe.</p><p>El proceso se construyó a partir de la observación y el análisis crítico de ambos universos visuales, identificando los recursos esenciales de cada uno y evaluando cómo podían dialogar sin perder su identidad. A partir de este diagnóstico inicial, se definieron los ejes conceptuales y formales que guiarían la propuesta, problematizando la relación entre narrativa y estética.</p>",
-        "gallery": ""
+        "gallery": "https://raw.githubusercontent.com/vicentemedinat/repo_para_imagenes/refs/heads/main/img/photo-1.webp"
     
     },
     {
@@ -14,8 +14,8 @@
         "photo": "https://raw.githubusercontent.com/vicentemedinat/repo_para_imagenes/refs/heads/main/img/photo-2.webp",
         "title": "Fotografías Tonales",
         "course": "Configuración Visual I",
-        "description": "Descripción pendiente",
-        "gallery": "<p>Mi encargo consistió en un ejercicio de conceptualización y formalización visual cuyo objetivo fue demostrar mi capacidad para observar críticamente el entorno y traducirlo en una narrativa visual concisa.</p><p>El proceso se inició con el análisis y diagnóstico conceptual del espacio o de una composición propia, lo que me obligó a identificar y problematizar un concepto esencial para la secuencia. A partir de este diagnóstico, tuve que idear una solución innovadora que se materializara en un modelo físico de tres tomas fotográficas que mantuvieran una coherencia conceptual bajo un título unificador.</p><p>El desafío metodológico fundamental fue modelar y formalizar esta secuencia mediante el dominio del color y la composición. Demostré mi control sobre las herramientas de la disciplina al asegurar que cada imagen presentara una tendencia tonal distinta (cálida, neutra y fría) y aplicara un orden compositivo riguroso. Este control me permitió representar y comunicar mi propuesta de Diseño con precisión, utilizando la progresión cromática para dar estructura y significado al concepto seleccionado.</p>"
+        "description": "<p>Mi encargo consistió en un ejercicio de conceptualización y formalización visual cuyo objetivo fue demostrar mi capacidad para observar críticamente el entorno y traducirlo en una narrativa visual concisa.</p><p>El proceso se inició con el análisis y diagnóstico conceptual del espacio o de una composición propia, lo que me obligó a identificar y problematizar un concepto esencial para la secuencia. A partir de este diagnóstico, tuve que idear una solución innovadora que se materializara en un modelo físico de tres tomas fotográficas que mantuvieran una coherencia conceptual bajo un título unificador.</p><p>El desafío metodológico fundamental fue modelar y formalizar esta secuencia mediante el dominio del color y la composición. Demostré mi control sobre las herramientas de la disciplina al asegurar que cada imagen presentara una tendencia tonal distinta (cálida, neutra y fría) y aplicara un orden compositivo riguroso. Este control me permitió representar y comunicar mi propuesta de Diseño con precisión, utilizando la progresión cromática para dar estructura y significado al concepto seleccionado.</p>",
+        "gallery": "https://raw.githubusercontent.com/vicentemedinat/repo_para_imagenes/refs/heads/main/img/photo-2.webp"
     },
     {
         "id": 3,
@@ -23,7 +23,7 @@
         "title": "Evolución de Especies",
         "course": "Proyecto I",
         "description": "Descripción pendiente",
-        "gallery": ""
+        "gallery": "https://raw.githubusercontent.com/vicentemedinat/repo_para_imagenes/refs/heads/main/img/photo-3.webp"
     },
     {
         "id": 4,
@@ -31,7 +31,7 @@
         "title": "Pictograma Juegos Olímpicos",
         "course": "Configuración Visual II",
         "description": "Descripción pendiente",
-        "gallery": ""
+        "gallery": "https://raw.githubusercontent.com/vicentemedinat/repo_para_imagenes/refs/heads/main/img/photo-4.webp"
     },
     {
         "id": 5,
@@ -39,7 +39,7 @@
         "title": "Infografía Wiimote",
         "course": "Configuración Visual II",
         "description": "Descripción pendiente",
-        "gallery": ""
+        "gallery": "https://raw.githubusercontent.com/vicentemedinat/repo_para_imagenes/refs/heads/main/img/photo-5.webp"
     },
     {
         "id": 6,
@@ -47,15 +47,15 @@
         "title": "Afectos Desechados",
         "course": "Proyecto III",
         "description": "Descripción pendiente",
-        "gallery": ""
+        "gallery": "https://raw.githubusercontent.com/vicentemedinat/repo_para_imagenes/refs/heads/main/img/photo-6.webp"
     },
     {
         "id": 7,
         "photo": "https://raw.githubusercontent.com/vicentemedinat/repo_para_imagenes/refs/heads/main/img/photo-7.webp",
         "title": "Fanzine: Volver a Mí",
         "course": "Proyecto III",
-        "description": "<p>El encargo, titulado <a href='https://www.behance.net/gallery/230844455/Volver-a-mi-zine'target='_blank'>Volver a mí</a>, se centró en el Diseño de una Campaña Gráfica de Concientización que aborda una problemática social y personal significativa, utilizando el diseño como acción y resistencia.</p> <p>La fase de análisis y diagnóstico inicial consistió en observar críticamente el entorno para identificar y problematizar el fenómeno de la hiperproductividad y su efecto negativo en la capacidad de atención y conexión profunda con el entorno. La campaña se enfocó en los conceptos de velocidad, lo difuso y la dispersión, reflejando la urgencia de \"volver al cuerpo\" y \"habitar el silencio\".</p> <p>A partir de este diagnóstico, se idearon soluciones innovadoras que se tradujeron en dos modelos conceptuales y físicos complementarios: la gráfica pública (Afiche) y la autopublicación íntima (Fanzine). La formalización y el modelado se lograron a través de la abstracción gráfica (trazos, manchas, distorsiones de fotografía y tipografía).",
-        "gallery": ""
+        "description": "<p>El encargo, titulado <a href='https://www.behance.net/gallery/230844455/Volver-a-mi-zine'target='_blank'> <b>Volver a mí</b></a>, se centró en el Diseño de una Campaña Gráfica de Concientización que aborda una problemática social y personal significativa, utilizando el diseño como acción y resistencia.</p> <p>La fase de análisis y diagnóstico inicial consistió en observar críticamente el entorno para identificar y problematizar el fenómeno de la hiperproductividad y su efecto negativo en la capacidad de atención y conexión profunda con el entorno. La campaña se enfocó en los conceptos de velocidad, lo difuso y la dispersión, reflejando la urgencia de \"volver al cuerpo\" y \"habitar el silencio\".</p> <p>A partir de este diagnóstico, se idearon soluciones innovadoras que se tradujeron en dos modelos conceptuales y físicos complementarios: la gráfica pública (Afiche) y la autopublicación íntima (Fanzine). La formalización y el modelado se lograron a través de la abstracción gráfica (trazos, manchas, distorsiones de fotografía y tipografía).",
+        "gallery": "https://raw.githubusercontent.com/vicentemedinat/repo_para_imagenes/refs/heads/main/img/photo-7.webp"
     },
     {
         "id": 8,
@@ -63,7 +63,7 @@
         "title": "Alter-Life",
         "course": "Proyecto III",
         "description": "Descripción pendiente",
-        "gallery": ""
+        "gallery": "https://raw.githubusercontent.com/vicentemedinat/repo_para_imagenes/refs/heads/main/img/photo-8.webp"
     },
     {
         "id": 9,
@@ -71,7 +71,7 @@
         "title": "Branding",
         "course": "Procesos y Prototipos I",
         "description": "Descripción pendiente",
-        "gallery": ""
+        "gallery": "https://raw.githubusercontent.com/vicentemedinat/repo_para_imagenes/refs/heads/main/img/photo-9.webp"
     },
     {
         "id": 10,
@@ -79,7 +79,7 @@
         "title": "Infografía: Analisis de Objeto Tecnológico",
         "course": "Procesos y Prototipos II",
         "description": "Descripción pendiente",
-        "gallery": ""
+        "gallery": "https://raw.githubusercontent.com/vicentemedinat/repo_para_imagenes/refs/heads/main/img/photo-10.webp"
     },
     {
         "id": 11,
@@ -87,7 +87,7 @@
         "title": "Ejercicio Apresto: Metales",
         "course": "Procesos y Prototipos II",
         "description": "Descripción pendiente",
-        "gallery": ""
+        "gallery": "https://raw.githubusercontent.com/vicentemedinat/repo_para_imagenes/refs/heads/main/img/photo-11.webp"
     },
     {
         "id": 12,
@@ -95,7 +95,7 @@
         "title": "Luminaria",
         "course": "Procesos y Prototipos II",
         "description": "Descripción pendiente",
-        "gallery": ""
+        "gallery": "https://raw.githubusercontent.com/vicentemedinat/repo_para_imagenes/refs/heads/main/img/photo-12.webp"
     },
     {
         "id": 13,
@@ -103,7 +103,7 @@
         "title": "Volantín: Operaciones de Simetría",
         "course": "Proyecto IV",
         "description": "Descripción pendiente",
-        "gallery": ""
+        "gallery": "https://raw.githubusercontent.com/vicentemedinat/repo_para_imagenes/refs/heads/main/img/photo-13.webp"
     },
     {
         "id": 14,
@@ -111,7 +111,7 @@
         "title": "Popbox",
         "course": "Proyecto IV",
         "description": "Descripción pendiente",
-        "gallery": ""
+        "gallery": "https://raw.githubusercontent.com/vicentemedinat/repo_para_imagenes/refs/heads/main/img/photo-14.webp"
     },
     {
         "id": 15,
@@ -119,7 +119,7 @@
         "title": "Mascara de Papel",
         "course": "Herramientas Computacionales",
         "description": "Descripción pendiente",
-        "gallery": ""
+        "gallery": "https://raw.githubusercontent.com/vicentemedinat/repo_para_imagenes/refs/heads/main/img/photo-15.webp"
     },
     {
         "id": 16,
