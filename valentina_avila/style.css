@@ -1,3 +1,5 @@
+@import url("https://fonts.googleapis.com/css2?family=Inter:ital,wght@0,100..900;1,100..900&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=Raleway:wght@100..900&display=swap");
 @import url("https://fonts.googleapis.com/css2?family=Climate+Crisis&display=swap");
 
 /* ===================
@@ -20,7 +22,7 @@
    Base
    =================== */
 body {
-    font-family: "Helvetica", "Arial", sans-serif;
+    font-family: "Inter", sans-serif;
     line-height: 1.6;
     color: rgba(0,0,0,.9);
     background-color: #000;
@@ -52,9 +54,11 @@ main {
 /* ===================
    Header
    =================== */
-h1,
+h1{
+    font-family: "Inter", sans-serif;
+}
 h2 {
-    font-family: "Climate Crisis", sans-serif;
+    font-family: "Raleway", sans-serif;
     font-weight: 400;
     line-height: 1.1;
     position: relative;
@@ -81,7 +85,7 @@ h2 {
 }
 
 .nav a {
-    font-family: "Climate Crisis", sans-serif;
+    font-family: "Inter", sans-serif;
     letter-spacing: 2px;
     font-size: calc(0.6rem + 0.6vw);
     background-color: var(--colorMediador);
