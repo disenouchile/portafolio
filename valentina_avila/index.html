@@ -2,13 +2,13 @@
 <html lang="es">
     <head>
         <meta charset="UTF-8" />
-        <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+         <meta name="viewport" content="width=device-width, initial-scale=1.0" />
         <title>Valentina Ávila P.</title>
         <link href="style.css" rel="stylesheet" />
     </head>
     <body>
         <header>
-            <h1>Valentina Ávila</h1>
+            <h1>Valentina Avila</h1>
             <h2>Bachiller General, mención Humanidades y Artes</h2>
         </header>
         <main>
@@ -24,14 +24,14 @@
             </div>
         </main>
         <footer class="footer">
-            <p>Valentina Ávila © 2025</p>
+            <p>Valentina Ávila. © 2025</p>
             <div class="social-links">
                 <a href="https://github.com/valentinaavila21">GitHub</a>
-                <a href="#">LinkedIn</a>
+                <a href="">LinkedIn</a>
             </div>
         </footer>
         <script>
-            const portfolio = document.querySelector("#aqui");
+     const portfolio = document.querySelector("#aqui");
 
             async function datos(raw) {
                 try {
@@ -72,10 +72,10 @@
 
             if (document.readyState === "loading") {
                 document.addEventListener("DOMContentLoaded", () => {
-                    datos("https://raw.githubusercontent.com/disenouchile/portafolio/refs/heads/main/valentina_avila/trabajitos.json");
+                    datos("https://raw.githubusercontent.com/disenouchile/portafolio/main/valentina_avila/trabajitos.json");
                 });
             } else {
-                datos("https://raw.githubusercontent.com/disenouchile/portafolio/refs/heads/main/valentina_avila/trabajitos.json");
+                datos("https://raw.githubusercontent.com/disenouchile/portafolio/main/valentina_avila/trabajitos.json");
             }
         </script>
     </body>
