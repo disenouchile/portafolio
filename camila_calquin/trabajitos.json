@@ -1,130 +1,130 @@
 [
     {
         "id": 1,
-        "photo":  "https://camila-calquin.github.io/fotos/principal/taburete.webp",
+        "photo":  "https://camila-calquin.github.io/fotos/principal/foto01.webp",
         "title": "Taburete de raulí y álamo",
         "course": "Procesos y prototipos II",
-        "description": "Escribiendo",
-        "gallery": "https://raw.githubusercontent.com/profesorfaco/herramientas/refs/heads/main/clase-13/gallery.webp"
+        "description": "<p>Docente: Antonio Marín</p><p>Fabricación de taburete en maderas nativas Raulí y Álamo con ensambles de cola milano, caja espiga y media madera entarugado. Trabajo realizado en duplas con Javier Castillo",
+        "gallery": "https://camila-calquin.github.io/fotos/galeria/malla01.webp"
     },
     {
         "id": 2,
-        "photo": "https://camila-calquin.github.io/fotos/principal/moddis.webp",
+        "photo": "https://camila-calquin.github.io/fotos/principal/foto02.webp",
         "title": "Producto Moddis",
         "course": "Comunicación del proyecto de diseño",
         "description": "Escribiendo",
-        "gallery": "https://raw.githubusercontent.com/profesorfaco/herramientas/refs/heads/main/clase-13/gallery.webp"
+        "gallery": "https://camila-calquin.github.io/fotos/galeria/malla02.webp"
     },
     {
         "id": 3,
-        "photo": "https://camila-calquin.github.io/fotos/principal/capsula.webp",
+        "photo": "https://camila-calquin.github.io/fotos/principal/foto03.webp",
         "title": "Cápsula del tiempo",
         "course": "Proyecto II",
         "description": "Escribiendo",
-        "gallery": "https://raw.githubusercontent.com/profesorfaco/herramientas/refs/heads/main/clase-13/gallery.webp"
+        "gallery": "https://camila-calquin.github.io/fotos/galeria/malla03.webp"
     },
     {
         "id": 4,
-        "photo": "https://camila-calquin.github.io/fotos/principal/floramor.webp",
+        "photo": "https://camila-calquin.github.io/fotos/principal/foto04.webp",
         "title": "Identidad Floramor",
         "course": "Procesos y prototipos I",
         "description": "Escribiendo",
-        "gallery": "https://raw.githubusercontent.com/profesorfaco/herramientas/refs/heads/main/clase-13/gallery.webp"
+        "gallery": "https://camila-calquin.github.io/fotos/galeria/malla04.webp"
     },
     {
         "id": 5,
-        "photo": "https://camila-calquin.github.io/fotos/principal/volantin.webp",
+        "photo": "https://camila-calquin.github.io/fotos/principal/foto05.webp",
         "title": "Volantín con módulo",
         "course": "Proyecto IV",
         "description": "Escribiendo",
-        "gallery": "https://raw.githubusercontent.com/profesorfaco/herramientas/refs/heads/main/clase-13/gallery.webp"
+        "gallery": "https://camila-calquin.github.io/fotos/galeria/malla05.webp"
     },
     {
         "id": 6,
-        "photo": "https://camila-calquin.github.io/fotos/principal/kimono.webp",
+        "photo": "https://camila-calquin.github.io/fotos/principal/foto06.webp",
         "title": "Infografía kimono",
         "course": "Proyecto III",
         "description": "Escribiendo",
-        "gallery": "https://raw.githubusercontent.com/profesorfaco/herramientas/refs/heads/main/clase-13/gallery.webp"
+        "gallery": "https://camila-calquin.github.io/fotos/galeria/malla06.webp"
     },
     {
         "id": 7,
-        "photo": "https://camila-calquin.github.io/fotos/principal/seco.webp",
+        "photo": "https://camila-calquin.github.io/fotos/principal/foto07.webp",
         "title": "Composición Seco",
         "course": "Representación conceptual",
         "description": "Escribiendo",
-        "gallery": "https://raw.githubusercontent.com/profesorfaco/herramientas/refs/heads/main/clase-13/gallery.webp"
+        "gallery": "https://camila-calquin.github.io/fotos/galeria/malla07.webp"
     },
     {
         "id": 8,
-        "photo": "https://camila-calquin.github.io/fotos/principal/basicos.webp",
+        "photo": "https://camila-calquin.github.io/fotos/principal/foto08.webp",
         "title": "Elementos básicos de la forma",
         "course": "Proyecto I",
         "description": "Escribiendo",
-        "gallery": "https://raw.githubusercontent.com/profesorfaco/herramientas/refs/heads/main/clase-13/gallery.webp"
+        "gallery": "https://camila-calquin.github.io/fotos/galeria/malla08.webp"
     },
     {
         "id": 9,
-        "photo": "https://camila-calquin.github.io/fotos/principal/carton.webp",
+        "photo": "https://camila-calquin.github.io/fotos/principal/foto09.webp",
         "title": "Residuos de barrio",
         "course": "Proyecto III",
         "description": "Escribiendo",
-        "gallery": "https://raw.githubusercontent.com/profesorfaco/herramientas/refs/heads/main/clase-13/gallery.webp"
+        "gallery": "https://camila-calquin.github.io/fotos/galeria/malla09.webp"
     },
     {
         "id": 10,
-        "photo": "https://camila-calquin.github.io/fotos/principal/lampara.webp",
+        "photo": "https://camila-calquin.github.io/fotos/principal/foto10.webp",
         "title": "Prototipo lámpara de metal",
         "course": "Procesos y prototipos II",
         "description": "Escribiendo",
-        "gallery": "https://raw.githubusercontent.com/profesorfaco/herramientas/refs/heads/main/clase-13/gallery.webp"
+        "gallery": "https://camila-calquin.github.io/fotos/galeria/malla10.webp"
     },
     {
         "id": 11,
-        "photo": "https://camila-calquin.github.io/fotos/principal/transportador.webp",
+        "photo": "https://camila-calquin.github.io/fotos/principal/foto11.webp",
         "title": "Transportador pieza única",
         "course": "Proyecto IV",
         "description": "Escribiendo",
-        "gallery": "https://raw.githubusercontent.com/profesorfaco/herramientas/refs/heads/main/clase-13/gallery.webp"
+        "gallery": "https://camila-calquin.github.io/fotos/galeria/malla11.webp"
     },
     {
         "id": 12,
-        "photo": "https://camila-calquin.github.io/fotos/principal/ensambles.webp",
+        "photo": "https://camila-calquin.github.io/fotos/principal/foto12.webp",
         "title": "Ensambles en pino",
         "course": "Procesos y prototipos II",
         "description": "Escribiendo",
-        "gallery": "https://raw.githubusercontent.com/profesorfaco/herramientas/refs/heads/main/clase-13/gallery.webp"
+        "gallery": "https://camila-calquin.github.io/fotos/galeria/malla12.webp"
     },
     {
         "id": 13,
-        "photo": "https://camila-calquin.github.io/fotos/principal/logo.webp",
+        "photo": "https://camila-calquin.github.io/fotos/principal/foto13.webp",
         "title": "Logo personal",
         "course": "Configuración visual I",
         "description": "Escribiendo",
-        "gallery": "https://raw.githubusercontent.com/profesorfaco/herramientas/refs/heads/main/clase-13/gallery.webp"
+        "gallery": "https://camila-calquin.github.io/fotos/galeria/malla13.webp"
     },
     {
         "id": 14,
-        "photo": "https://camila-calquin.github.io/fotos/principal/alcachofa.webp",
+        "photo": "https://camila-calquin.github.io/fotos/principal/foto14.webp",
         "title": "Análisis de la alcachofa",
         "course": "Proyecto I",
         "description": "Escribiendo",
-        "gallery": "https://raw.githubusercontent.com/profesorfaco/herramientas/refs/heads/main/clase-13/gallery.webp"
+        "gallery": "https://camila-calquin.github.io/fotos/galeria/malla14.webp"
     },
     {
         "id": 15,
-         "photo": "https://camila-calquin.github.io/fotos/principal/formas.webp",
+         "photo": "https://camila-calquin.github.io/fotos/principal/foto15.webp",
         "title": "Leyes de la gestalt",
         "course": "Proyecto I",
         "description": "Escribiendo",
-        "gallery": "https://raw.githubusercontent.com/profesorfaco/herramientas/refs/heads/main/clase-13/gallery.webp"
+        "gallery": "hhttps://camila-calquin.github.io/fotos/galeria/malla15.webp"
     },
     {
         "id": 16,
-        "photo": "https://camila-calquin.github.io/fotos/principal/telefono.webp",
+        "photo": "https://camila-calquin.github.io/fotos/principal/foto16.webp",
         "title": "Gráfica de teléfono",
         "course": "Configuración visual II",
         "description": "Escribiendo",
-        "gallery": "https://raw.githubusercontent.com/profesorfaco/herramientas/refs/heads/main/clase-13/gallery.webp"
+        "gallery": "https://camila-calquin.github.io/fotos/galeria/malla16.webp"
     }
 ]
