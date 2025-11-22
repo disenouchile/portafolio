@@ -73,17 +73,17 @@
     },
     {
         "id": 10,
-        "photo": "https://raw.githubusercontent.com/anaisvalentina/imagenes/refs/heads/main/soma.webp",
-        "title": "Cubo Soma",
-        "course": "Proyecto II",
+        "photo": "https://raw.githubusercontent.com/anaisvalentina/imagenes/refs/heads/main/rawr.webp",
+        "title": "Rawr",
+        "course": "Procesos y Prototipos I",
         "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed rutrum hendrerit lorem. Curabitur sodales feugiat libero. Nullam in lorem ut sem tempor accumsan nec vitae lacus. Sed vel finibus ex, quis euismod lorem. Aliquam eget leo sapien. Proin velit diam, suscipit vitae mi vel, laoreet finibus nisl. Pellentesque a purus eleifend, congue ante nec, aliquam risus.",
         "gallery": "https://raw.githubusercontent.com/profesorfaco/herramientas/refs/heads/main/clase-13/gallery.webp"
     },
     {
         "id": 11,
         "photo": "https://raw.githubusercontent.com/anaisvalentina/imagenes/refs/heads/main/mascara.webp",
-        "title": "Máscara",
-        "course": "Proyecto II",
+        "title": "Máscara de conejo",
+        "course": "Herramientas Computacionales",
         "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed rutrum hendrerit lorem. Curabitur sodales feugiat libero. Nullam in lorem ut sem tempor accumsan nec vitae lacus. Sed vel finibus ex, quis euismod lorem. Aliquam eget leo sapien. Proin velit diam, suscipit vitae mi vel, laoreet finibus nisl. Pellentesque a purus eleifend, congue ante nec, aliquam risus.",
         "gallery": "https://raw.githubusercontent.com/profesorfaco/herramientas/refs/heads/main/clase-13/gallery.webp"
     },
@@ -91,7 +91,7 @@
         "id": 12,
         "photo": "https://raw.githubusercontent.com/anaisvalentina/imagenes/refs/heads/main/afiche.webp",
         "title": "No es violencia, es resistencia",
-        "course": "Procesos y Prototipos II",
+        "course": "Proyecto III",
         "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed rutrum hendrerit lorem. Curabitur sodales feugiat libero. Nullam in lorem ut sem tempor accumsan nec vitae lacus. Sed vel finibus ex, quis euismod lorem. Aliquam eget leo sapien. Proin velit diam, suscipit vitae mi vel, laoreet finibus nisl. Pellentesque a purus eleifend, congue ante nec, aliquam risus.",
         "gallery": "https://raw.githubusercontent.com/profesorfaco/herramientas/refs/heads/main/clase-13/gallery.webp"
     },
@@ -99,31 +99,31 @@
         "id": 13,
         "photo": "https://raw.githubusercontent.com/anaisvalentina/imagenes/refs/heads/main/grabado.webp",
         "title": "Kristalya",
-        "course": "Ergonomía y Factores Humanos",
+        "course": "Proyecto II",
         "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed rutrum hendrerit lorem. Curabitur sodales feugiat libero. Nullam in lorem ut sem tempor accumsan nec vitae lacus. Sed vel finibus ex, quis euismod lorem. Aliquam eget leo sapien. Proin velit diam, suscipit vitae mi vel, laoreet finibus nisl. Pellentesque a purus eleifend, congue ante nec, aliquam risus.",
         "gallery": "https://raw.githubusercontent.com/profesorfaco/herramientas/refs/heads/main/clase-13/gallery.webp"
     },
     {
         "id": 14,
-        "photo": "https://github.com/lenapereoso/primera-nota/blob/main/img/fto7.webp?raw=true",
-        "title": "Cubos en perspectiva y color",
-        "course": "Configuración Visual I",
+        "photo": "https://raw.githubusercontent.com/anaisvalentina/imagenes/refs/heads/main/belouche.webp",
+        "title": "Belouche",
+        "course": "Procesos y Prototipos I",
         "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed rutrum hendrerit lorem. Curabitur sodales feugiat libero. Nullam in lorem ut sem tempor accumsan nec vitae lacus. Sed vel finibus ex, quis euismod lorem. Aliquam eget leo sapien. Proin velit diam, suscipit vitae mi vel, laoreet finibus nisl. Pellentesque a purus eleifend, congue ante nec, aliquam risus.",
         "gallery": "https://raw.githubusercontent.com/profesorfaco/herramientas/refs/heads/main/clase-13/gallery.webp"
     },
     {
-        "id": 15,
-        "photo": "https://martinaurzua.github.io/primera-nota/img/simbolo.webp",
-        "title": "Símbolo",
+       "id": 15,
+        "photo": "https://raw.githubusercontent.com/anaisvalentina/imagenes/refs/heads/main/soma.webp",
+        "title": "Cubo Soma",
         "course": "Configuración Visual I",
         "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed rutrum hendrerit lorem. Curabitur sodales feugiat libero. Nullam in lorem ut sem tempor accumsan nec vitae lacus. Sed vel finibus ex, quis euismod lorem. Aliquam eget leo sapien. Proin velit diam, suscipit vitae mi vel, laoreet finibus nisl. Pellentesque a purus eleifend, congue ante nec, aliquam risus.",
         "gallery": "https://raw.githubusercontent.com/profesorfaco/herramientas/refs/heads/main/clase-13/gallery.webp"
     },
     {
         "id": 16,
-        "photo": "https://raw.githubusercontent.com/valentinatroncoso/primera-nota/refs/heads/main/imagenes%20finales/se%C3%B1aletica.webp",
-        "title": "Señaletica",
-        "course": "Ergonomia y Factores Humanos",
+        "photo": "https://raw.githubusercontent.com/anaisvalentina/imagenes/refs/heads/main/movimiento.webp",
+        "title": "Movimiento",
+        "course": "Representación Conceptual",
         "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed rutrum hendrerit lorem. Curabitur sodales feugiat libero. Nullam in lorem ut sem tempor accumsan nec vitae lacus. Sed vel finibus ex, quis euismod lorem. Aliquam eget leo sapien. Proin velit diam, suscipit vitae mi vel, laoreet finibus nisl. Pellentesque a purus eleifend, congue ante nec, aliquam risus.",
         "gallery": "https://raw.githubusercontent.com/profesorfaco/herramientas/refs/heads/main/clase-13/gallery.webp"
     }
