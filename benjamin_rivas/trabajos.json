@@ -138,7 +138,7 @@
         "id": 16,
         "photo": "https://benjaminrivasm.github.io/herramientas-computacionales/img-portafolio/toy.webp",
         "title": "Modelado Juguete",
-        "course": "Modelamiento y representación digital",
+        "course": "Modelamiento y representación digital - 2025",
         "professor": "Profesor Claudio Fredes",
         "description": "<p>Este proyecto se enfocó en la lógica constructiva y la documentación técnica de un objeto ensamblable. Se modeló en Rhinoceros un juguete de madera tipo robot, analizando cómo piezas simples se articulan para formar un conjunto complejo.</p><p>Complementando el modelo 3D, se elaboró la planimetría técnica completa en AutoCAD. Esta etapa implicó el despiece detallado del objeto, la definición de cotas y la organización de vistas para comunicar el proceso de armado.</p><p>El resultado es un paquete de documentación técnica profesional que valida la geometría del objeto y sirve como guía para su eventual fabricación.</p>",
         "gallery": "https://benjaminrivasm.github.io/herramientas-computacionales/img-portafolio/toy_gallery.webp"
