@@ -1,130 +1,130 @@
 [
-    {
-        "id": 1,
-        "photo": "https://github.com/martina-af/fotos/blob/main/lampara.png?raw=true",
-      "title":"Lámpara de metal",
-        "course": "Procesos y prototipos II",
-        "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed rutrum hendrerit lorem. Curabitur sodales feugiat libero. Nullam in lorem ut sem tempor accumsan nec vitae lacus. Sed vel finibus ex, quis euismod lorem. Aliquam eget leo sapien. Proin velit diam, suscipit vitae mi vel, laoreet finibus nisl. Pellentesque a purus eleifend, congue ante nec, aliquam risus.",
-        "gallery": "https://raw.githubusercontent.com/profesorfaco/herramientas/refs/heads/main/clase-13/gallery.webp"
-    },
-    {
-        "id": 2,
-        "photo": "https://github.com/martina-af/fotos/blob/main/analisis%20de%20una%20semilla.png?raw=true",
-       "title": "Análisis de una semilla",
-        "course": "Proyecto I",
-        "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed rutrum hendrerit lorem. Curabitur sodales feugiat libero. Nullam in lorem ut sem tempor accumsan nec vitae lacus. Sed vel finibus ex, quis euismod lorem. Aliquam eget leo sapien. Proin velit diam, suscipit vitae mi vel, laoreet finibus nisl. Pellentesque a purus eleifend, congue ante nec, aliquam risus.",
-        "gallery": "https://raw.githubusercontent.com/profesorfaco/herramientas/refs/heads/main/clase-13/gallery.webp"
-    },
-    {
-        "id": 3,
-       "photo": "https://github.com/martina-af/fotos/blob/main/animal%20de%20metal.png?raw=true",
-       "title":"Animal de metal",
-        "course": "Procesos y prototipos II",
-        "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed rutrum hendrerit lorem. Curabitur sodales feugiat libero. Nullam in lorem ut sem tempor accumsan nec vitae lacus. Sed vel finibus ex, quis euismod lorem. Aliquam eget leo sapien. Proin velit diam, suscipit vitae mi vel, laoreet finibus nisl. Pellentesque a purus eleifend, congue ante nec, aliquam risus.",
-        "gallery": "https://raw.githubusercontent.com/profesorfaco/herramientas/refs/heads/main/clase-13/gallery.webp"
-    },
-    {
-        "id": 4,
-      "photo": "https://github.com/martina-af/fotos/blob/main/autoretrato.png?raw=true",
-       "title": "Autorretrato de plasticina",
-        "course": "Configuración visual I", 
-        "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed rutrum hendrerit lorem. Curabitur sodales feugiat libero. Nullam in lorem ut sem tempor accumsan nec vitae lacus. Sed vel finibus ex, quis euismod lorem. Aliquam eget leo sapien. Proin velit diam, suscipit vitae mi vel, laoreet finibus nisl. Pellentesque a purus eleifend, congue ante nec, aliquam risus.",
-        "gallery": "https://raw.githubusercontent.com/profesorfaco/herramientas/refs/heads/main/clase-13/gallery.webp"
-    },
-    {
-        "id": 5,
-       "photo": "https://github.com/martina-af/fotos/blob/main/capsula%20de%20tiempo.png?raw=true",
-       "title": "Cápsula de tiempo para un objeto atesorable",
-        "course": "Proyecto II",
-        "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed rutrum hendrerit lorem. Curabitur sodales feugiat libero. Nullam in lorem ut sem tempor accumsan nec vitae lacus. Sed vel finibus ex, quis euismod lorem. Aliquam eget leo sapien. Proin velit diam, suscipit vitae mi vel, laoreet finibus nisl. Pellentesque a purus eleifend, congue ante nec, aliquam risus.",
-        "gallery": "https://raw.githubusercontent.com/profesorfaco/herramientas/refs/heads/main/clase-13/gallery.webp"
-    },
-    {
-        "id": 6,
-        "photo": "https://github.com/martina-af/fotos/blob/main/cubosoma.png?raw=true",
-       "title": "Cubosoma",
-        "course": "Configuración visual I",
-        "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed rutrum hendrerit lorem. Curabitur sodales feugiat libero. Nullam in lorem ut sem tempor accumsan nec vitae lacus. Sed vel finibus ex, quis euismod lorem. Aliquam eget leo sapien. Proin velit diam, suscipit vitae mi vel, laoreet finibus nisl. Pellentesque a purus eleifend, congue ante nec, aliquam risus.",
-        "gallery": "https://raw.githubusercontent.com/profesorfaco/herramientas/refs/heads/main/clase-13/gallery.webp"
-    },
-    {
-        "id": 7,
-        "photo": "https://github.com/martina-af/fotos/blob/main/elmentos%20basicos%20de%20la%20forma.png?raw=true",
-       "title":"Elementos básicos de la forma",
-        "course": "Proyecto I",
-        "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed rutrum hendrerit lorem. Curabitur sodales feugiat libero. Nullam in lorem ut sem tempor accumsan nec vitae lacus. Sed vel finibus ex, quis euismod lorem. Aliquam eget leo sapien. Proin velit diam, suscipit vitae mi vel, laoreet finibus nisl. Pellentesque a purus eleifend, congue ante nec, aliquam risus.",
-        "gallery": "https://raw.githubusercontent.com/profesorfaco/herramientas/refs/heads/main/clase-13/gallery.webp"
-    },
-    {
-        "id": 8,
-       "photo": "https://github.com/martina-af/fotos/blob/main/imagen%20de%20marca%20buddies.png?raw=true",
-       "title": "Imagen de marca Buddies",
-        "course": "Procesos y prototipos I",
-        "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed rutrum hendrerit lorem. Curabitur sodales feugiat libero. Nullam in lorem ut sem tempor accumsan nec vitae lacus. Sed vel finibus ex, quis euismod lorem. Aliquam eget leo sapien. Proin velit diam, suscipit vitae mi vel, laoreet finibus nisl. Pellentesque a purus eleifend, congue ante nec, aliquam risus.",
-        "gallery": "https://raw.githubusercontent.com/profesorfaco/herramientas/refs/heads/main/clase-13/gallery.webp"
-    },
-    {
-        "id": 9,
-       "photo": "https://github.com/martina-af/fotos/blob/main/infografia%20queer.png?raw=true",
-       "title": "Infografía movimiento Queer",
-        "course": "Proyecto III",
-        "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed rutrum hendrerit lorem. Curabitur sodales feugiat libero. Nullam in lorem ut sem tempor accumsan nec vitae lacus. Sed vel finibus ex, quis euismod lorem. Aliquam eget leo sapien. Proin velit diam, suscipit vitae mi vel, laoreet finibus nisl. Pellentesque a purus eleifend, congue ante nec, aliquam risus.",
-        "gallery": "https://raw.githubusercontent.com/profesorfaco/herramientas/refs/heads/main/clase-13/gallery.webp"
-    },
-    {
-        "id": 10,
-        "photo": "https://github.com/martina-af/fotos/blob/main/lenguaje%20visual.png?raw=true",
-       "title": "Lenguaje visual",
-        "course": "Representación conceptual",
-        "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed rutrum hendrerit lorem. Curabitur sodales feugiat libero. Nullam in lorem ut sem tempor accumsan nec vitae lacus. Sed vel finibus ex, quis euismod lorem. Aliquam eget leo sapien. Proin velit diam, suscipit vitae mi vel, laoreet finibus nisl. Pellentesque a purus eleifend, congue ante nec, aliquam risus.",
-        "gallery": "https://raw.githubusercontent.com/profesorfaco/herramientas/refs/heads/main/clase-13/gallery.webp"
-    },
-    {
-        "id": 11,
-  "photo": "https://github.com/martina-af/fotos/blob/main/leyes%20de%20la%20gestalt.png?raw=true",
-       "title":"Leyes de la gestalt",
-        "course": "Proyecto I",
-        "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed rutrum hendrerit lorem. Curabitur sodales feugiat libero. Nullam in lorem ut sem tempor accumsan nec vitae lacus. Sed vel finibus ex, quis euismod lorem. Aliquam eget leo sapien. Proin velit diam, suscipit vitae mi vel, laoreet finibus nisl. Pellentesque a purus eleifend, congue ante nec, aliquam risus.",
-        "gallery": "https://raw.githubusercontent.com/profesorfaco/herramientas/refs/heads/main/clase-13/gallery.webp"
-    },
-    {
-        "id": 12,
-      "photo":"https://github.com/martina-af/fotos/blob/main/objeto%20de%20luz.png?raw=true",
-       "title": "Objeto de luz",
-        "course": "Proyecto II",
-        "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed rutrum hendrerit lorem. Curabitur sodales feugiat libero. Nullam in lorem ut sem tempor accumsan nec vitae lacus. Sed vel finibus ex, quis euismod lorem. Aliquam eget leo sapien. Proin velit diam, suscipit vitae mi vel, laoreet finibus nisl. Pellentesque a purus eleifend, congue ante nec, aliquam risus.",
-        "gallery": "https://raw.githubusercontent.com/profesorfaco/herramientas/refs/heads/main/clase-13/gallery.webp"
-    },
-    {
-        "id": 13,
-        "photo": "https://github.com/martina-af/fotos/blob/main/pato.png?raw=true",
-       "title":"Superficies geométricas",
-        "course": "Matemáticas aplicadas al diseño",
-        "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed rutrum hendrerit lorem. Curabitur sodales feugiat libero. Nullam in lorem ut sem tempor accumsan nec vitae lacus. Sed vel finibus ex, quis euismod lorem. Aliquam eget leo sapien. Proin velit diam, suscipit vitae mi vel, laoreet finibus nisl. Pellentesque a purus eleifend, congue ante nec, aliquam risus.",
-        "gallery": "https://raw.githubusercontent.com/profesorfaco/herramientas/refs/heads/main/clase-13/gallery.webp"
-    },
-    {
-        "id": 14,
-        "photo": "https://github.com/martina-af/fotos/blob/main/popmart.png?raw=true",
-       "title": "Popmart x BT21",
-        "course": "Comunicación del proyecto de diseño",
-        "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed rutrum hendrerit lorem. Curabitur sodales feugiat libero. Nullam in lorem ut sem tempor accumsan nec vitae lacus. Sed vel finibus ex, quis euismod lorem. Aliquam eget leo sapien. Proin velit diam, suscipit vitae mi vel, laoreet finibus nisl. Pellentesque a purus eleifend, congue ante nec, aliquam risus.",
-        "gallery": "https://raw.githubusercontent.com/profesorfaco/herramientas/refs/heads/main/clase-13/gallery.webp"
-    },
-    {
-        "id": 15,
-       "photo": "https://github.com/martina-af/fotos/blob/main/teoria%20del%20color.png?raw=true",
-       "title": "Teoría del color",
-        "course": "Configuración Visual I",
-        "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed rutrum hendrerit lorem. Curabitur sodales feugiat libero. Nullam in lorem ut sem tempor accumsan nec vitae lacus. Sed vel finibus ex, quis euismod lorem. Aliquam eget leo sapien. Proin velit diam, suscipit vitae mi vel, laoreet finibus nisl. Pellentesque a purus eleifend, congue ante nec, aliquam risus.",
-        "gallery": "https://raw.githubusercontent.com/profesorfaco/herramientas/refs/heads/main/clase-13/gallery.webp"
-    },
-    {
-        "id": 16,
-       "photo": "https://github.com/martina-af/fotos/blob/main/taburete%20de%20madera.png?raw=true",
-       "title": "Taburete de madera",
-        "course": "Procesos y prototipos II",
-        "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed rutrum hendrerit lorem. Curabitur sodales feugiat libero. Nullam in lorem ut sem tempor accumsan nec vitae lacus. Sed vel finibus ex, quis euismod lorem. Aliquam eget leo sapien. Proin velit diam, suscipit vitae mi vel, laoreet finibus nisl. Pellentesque a purus eleifend, congue ante nec, aliquam risus.",
-        "gallery": "https://raw.githubusercontent.com/profesorfaco/herramientas/refs/heads/main/clase-13/gallery.webp"
-    }
+  {
+    "id": 1,
+    "photo": "https://github.com/martina-af/fotos/blob/main/lampara.png?raw=true",
+    "title": "Lámpara de metal",
+    "course": "Procesos y prototipos II",
+    "description": "El proyecto consistió en la observación y comprensión de las propiedades constructivas de materiales laminares, problematizando el uso de plegado, troquelado y ensambles para crear una luminaria funcional. A partir del análisis inicial de posibilidades formales, se desarrolló una construcción facetada que integra funcionalidad y estética, reinterpretando el lenguaje geométrico de un referente arquitectónico a escala doméstica. La metodología permitió modelar y formalizar la estructura, evidenciando la capacidad de reconocer problemas de fabricación y adaptarlos, consolidando competencias para conceptualizar, representar y comunicar soluciones de diseño con dominio técnico y crítico.",
+    "gallery": "https://raw.githubusercontent.com/profesorfaco/herramientas/refs/heads/main/clase-13/gallery.webp"
+  },
+  {
+    "id": 2,
+    "photo": "https://github.com/martina-af/fotos/blob/main/analisis%20de%20una%20semilla.png?raw=true",
+    "title": "Análisis de una semilla",
+    "course": "Proyecto I",
+    "description": "El proyecto se centró en la observación crítica de la naturaleza para descubrir geometría latente en un objeto biológico. El análisis del material y construcción de la semilla permitió problematizar su forma y función, desarrollando dibujos diferenciados que formalizaron la relación entre continente y contenido. La propuesta evidencia competencias para conceptualizar, representar y comunicar soluciones de diseño mediante análisis crítico, observación detallada y formalización geométrica.",
+    "gallery": "https://raw.githubusercontent.com/profesorfaco/herramientas/refs/heads/main/clase-13/gallery.webp"
+  },
+  {
+    "id": 3,
+    "photo": "https://github.com/martina-af/fotos/blob/main/animal%20de%20metal.png?raw=true",
+    "title": "Animal de metal",
+    "course": "Procesos y prototipos II",
+    "description": "Este proyecto abordó la comprensión de materiales laminares y su aplicación para crear un objeto articulado y cinético. La problematización inicial se centró en la forma animal y la necesidad de articulación tridimensional, guiando la ideación de soluciones mediante técnicas de plegado, troquelado y uniones de zinc. La propuesta permitió modelar la estructura final de manera que integrara forma, movimiento y funcionalidad, evidenciando competencias para conceptualizar, representar y comunicar soluciones innovadoras de diseño de objetos metálicos mediante una mirada crítica y técnica.",
+    "gallery": "https://raw.githubusercontent.com/profesorfaco/herramientas/refs/heads/main/clase-13/gallery.webp"
+  },
+  {
+    "id": 4,
+    "photo": "https://github.com/martina-af/fotos/blob/main/autoretrato.png?raw=true",
+    "title": "Autorretrato de plasticina",
+    "course": "Configuración visual I",
+    "description": "Este proyecto consistió en replicar una fotografía propia aplicando la teoría del color, observando tonalidades y creando con plasticina. La problematización de la imagen y la aplicación de conocimientos técnicos permitió formalizar el autorretrato de manera coherente y creativa. El trabajo evidencia competencias para conceptualizar, representar y comunicar soluciones de diseño mediante análisis crítico, observación detallada y manejo del color.",
+    "gallery": "https://raw.githubusercontent.com/profesorfaco/herramientas/refs/heads/main/clase-13/gallery.webp"
+  },
+  {
+    "id": 5,
+    "photo": "https://github.com/martina-af/fotos/blob/main/capsula%20de%20tiempo.png?raw=true",
+    "title": "Cápsula de tiempo para un objeto atesorable",
+    "course": "Proyecto II",
+    "description": "Este proyecto se centró en la observación y comprensión crítica del objeto seleccionado, con el objetivo de extraer conceptos capaces de fundamentar la forma, materialidad y gráfica de una cápsula del tiempo. El proceso exigió problematizar la esencia del reloj de arena elegido, analizando su contexto y funcionalidad, para idear soluciones coherentes mediante metodologías de diseño. La propuesta materializó la relación entre continente y contenido mediante una estructura orgánica que refleja el movimiento del reloj, transformando la geometrización preliminar en una forma final con sentido conceptual y funcional. Este trabajo consolidó competencias para conceptualizar, representar y comunicar soluciones de diseño mediante un enfoque crítico y analítico.",
+    "gallery": "https://raw.githubusercontent.com/profesorfaco/herramientas/refs/heads/main/clase-13/gallery.webp"
+  },
+  {
+    "id": 6,
+    "photo": "https://github.com/martina-af/fotos/blob/main/cubosoma.png?raw=true",
+    "title": "Cubosoma",
+    "course": "Configuración visual I",
+    "description": "El proyecto se centró en problematizar la representación volumétrica y espacial, observando la incidencia lumínica y la perspectiva de los módulos del Cubo Soma. La metodología implicó desarrollar un modelo físico en cartón que permitió comprender todas las piezas y su integración espacial. La propuesta evidenció competencias para conceptualizar, representar y comunicar soluciones de diseño, demostrando análisis crítico, comprensión del espacio y capacidad de formalizar soluciones constructivas.",
+    "gallery": "https://raw.githubusercontent.com/profesorfaco/herramientas/refs/heads/main/clase-13/gallery.webp"
+  },
+  {
+    "id": 7,
+    "photo": "https://github.com/martina-af/fotos/blob/main/elmentos%20basicos%20de%20la%20forma.png?raw=true",
+    "title": "Elementos básicos de la forma",
+    "course": "Proyecto I",
+    "description": "Este proyecto abordó la observación como proceso de selección, abstracción y síntesis, proponiendo descubrir el lenguaje visual de un entorno cercano. El encargo permitió problematizar la composición de elementos básicos para establecer un nuevo abecedario formal, evidenciando competencias para conceptualizar, representar y comunicar soluciones de diseño mediante observación crítica y síntesis visual.",
+    "gallery": "https://raw.githubusercontent.com/profesorfaco/herramientas/refs/heads/main/clase-13/gallery.webp"
+  },
+  {
+    "id": 8,
+    "photo": "https://github.com/martina-af/fotos/blob/main/imagen%20de%20marca%20buddies.png?raw=true",
+    "title": "Imagen de marca Buddies",
+    "course": "Procesos y prototipos I",
+    "description": "Este proyecto consistió en observar y comprender la dinámica estética-cultural para crear y posicionar la marca Buddies. La problematización del branding y la identidad visual permitió formalizar un sistema gráfico coherente y comunicable, integrando la ternura y la inclusión como eje conceptual. La propuesta evidencia competencias para conceptualizar, representar y comunicar soluciones de diseño de marca mediante análisis crítico, ideación estratégica y formalización visual.",
+    "gallery": "https://raw.githubusercontent.com/profesorfaco/herramientas/refs/heads/main/clase-13/gallery.webp"
+  },
+  {
+    "id": 9,
+    "photo": "https://github.com/martina-af/fotos/blob/main/infografia%20queer.png?raw=true",
+    "title": "Infografía movimiento Queer",
+    "course": "Proyecto III",
+    "description": "Este proyecto consistió en observar y comprender la comunicación de fenómenos sociales complejos mediante la síntesis infográfica y la integración de técnicas analógicas y digitales. El análisis inicial del movimiento Queer permitió problematizar la articulación de narrativas de impacto y la simbología central del arcoíris, guiando la ideación de una infografía que combinara dibujo, IA y estampado, equilibrando contraste y composición. La propuesta evidencia la capacidad de reconocer problemas esenciales de comunicación social y consolidar competencias para conceptualizar, representar y comunicar soluciones que integran herramientas tradicionales y digitales con propósito crítico y creativo.",
+    "gallery": "https://raw.githubusercontent.com/profesorfaco/herramientas/refs/heads/main/clase-13/gallery.webp"
+  },
+  {
+    "id": 10,
+    "photo": "https://github.com/martina-af/fotos/blob/main/lenguaje%20visual.png?raw=true",
+    "title": "Lenguaje visual",
+    "course": "Representación conceptual",
+    "description": "El proyecto consistió en sintetizar visualmente la idea de “fantasía griega” mediante colores y contraste entre líneas rectas y formas orgánicas. La problematización del entorno visual y la selección de elementos permitió formalizar composiciones coherentes, evidenciando competencias para conceptualizar, representar y comunicar soluciones de diseño mediante análisis crítico, síntesis y experimentación formal.",
+    "gallery": "https://raw.githubusercontent.com/profesorfaco/herramientas/refs/heads/main/clase-13/gallery.webp"
+  },
+  {
+    "id": 11,
+    "photo": "https://github.com/martina-af/fotos/blob/main/leyes%20de%20la%20gestalt.png?raw=true",
+    "title": "Leyes de la gestalt",
+    "course": "Proyecto I",
+    "description": "Este proyecto consistió en observar y comprender los principios de percepción visual mediante un display laminar que se desplegaba en tres tiempos secuenciales. Cada articulación evidenció una Ley específica, integrando colores y segmentación de imagen para crear narrativas visuales coherentes. La propuesta permitió problematizar la relación entre color, forma y percepción, consolidando competencias para conceptualizar, representar y comunicar soluciones de diseño mediante análisis crítico y aplicación de principios visuales.",
+    "gallery": "https://raw.githubusercontent.com/profesorfaco/herramientas/refs/heads/main/clase-13/gallery.webp"
+  },
+  {
+    "id": 12,
+    "photo": "https://github.com/martina-af/fotos/blob/main/objeto%20de%20luz.png?raw=true",
+    "title": "Objeto de luz",
+    "course": "Proyecto II",
+    "description": "Este proyecto consistió en el desarrollo de un modelo conceptual y físico, cuyo objetivo era observar, interactuar y comprender el entorno mediante una mirada crítica y problematización que condujera a la ideación de soluciones. La propuesta permitió reconocer problemas esenciales, modelar y formalizar soluciones mediante metodologías y herramientas propias de la disciplina, consolidando competencias para conceptualizar, representar y comunicar soluciones de diseño. El resultado evidencia la aplicación coherente de las competencias disciplinares y la selección precisa de luces calibradas.",
+    "gallery": "https://raw.githubusercontent.com/profesorfaco/herramientas/refs/heads/main/clase-13/gallery.webp"
+  },
+  {
+    "id": 13,
+    "photo": "https://github.com/martina-af/fotos/blob/main/pato.png?raw=true",
+    "title": "Superficies geométricas",
+    "course": "Matemáticas aplicadas al diseño",
+    "description": "Este proyecto abordó la observación y comprensión de cuerpos geométricos para crear un objeto de diseño, en este caso un pato de goma. La problematización de la forma y el volumen permitió formalizar un modelo coherente y funcional, evidenciando competencias para conceptualizar, representar y comunicar soluciones de diseño mediante análisis crítico, modelado físico y exploración geométrica.",
+    "gallery": "https://raw.githubusercontent.com/profesorfaco/herramientas/refs/heads/main/clase-13/gallery.webp"
+  },
+  {
+    "id": 14,
+    "photo": "https://github.com/martina-af/fotos/blob/main/popmart.png?raw=true",
+    "title": "Popmart x BT21",
+    "course": "Comunicación del proyecto de diseño",
+    "description": "Este proyecto abordó la comprensión de la dinámica de mercado y la creación de un producto de colección. La observación y análisis de la identidad de BT21 y BTS permitió problematizar la narrativa musical y su traducción a figuras de colección. La propuesta integró modelación visual y comunicación gráfica para garantizar reconocimiento inmediato y coherencia estética. Este trabajo evidencia la capacidad de conceptualizar, representar y comunicar soluciones de diseño de producto mediante análisis estratégico, creatividad formal y mirada crítica sobre el mercado.",
+    "gallery": "https://raw.githubusercontent.com/profesorfaco/herramientas/refs/heads/main/clase-13/gallery.webp"
+  },
+  {
+    "id": 15,
+    "photo": "https://github.com/martina-af/fotos/blob/main/teoria%20del%20color.png?raw=true",
+    "title": "Teoría del color",
+    "course": "Configuración Visual I",
+    "description": "Este proyecto consistió en la aplicación de la teoría del color mediante temperas para crear escalas graduales de colores primarios y secundarios, integrando blancos y negros. La observación, análisis y problematización del comportamiento cromático permitió formalizar gradaciones coherentes, evidenciando competencias para conceptualizar, representar y comunicar soluciones de diseño mediante análisis crítico y experimentación controlada.",
+    "gallery": "https://raw.githubusercontent.com/profesorfaco/herramientas/refs/heads/main/clase-13/gallery.webp"
+  },
+  {
+    "id": 16,
+    "photo": "https://github.com/martina-af/fotos/blob/main/taburete%20de%20madera.png?raw=true",
+    "title": "Taburete de madera",
+    "course": "Procesos y prototipos II",
+    "description": "El proyecto consistió en observar y comprender el método constructivo en madera, problematizando la estructura y seleccionando sistemas de ensambles para garantizar estabilidad y funcionalidad. A partir del análisis de la base octogonal, se definieron uniones estratégicas que optimizaron la resistencia, modelando y formalizando la pieza con precisión en corte y ajuste. La propuesta evidencia competencias para conceptualizar, representar y comunicar soluciones de diseño de mobiliario, integrando análisis crítico del material y dominio técnico artesanal.",
+    "gallery": "https://raw.githubusercontent.com/profesorfaco/herramientas/refs/heads/main/clase-13/gallery.webp"
+  }
 ]
