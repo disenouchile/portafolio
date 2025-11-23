@@ -137,11 +137,11 @@
     },
     {
         "id": 16,
-        "photo": "https://raw.githubusercontent.com/valentinatroncoso/primera-nota/refs/heads/main/imagenes%20finales/se%C3%B1aletica.webp",
+        "photo": "https://raw.githubusercontent.com/vicentemedinat/repo_para_imagenes/refs/heads/main/img/photo-16.webp",
         "title": "Taburete de Madera",
         "course": "Procesos y Prototipos II",
         "professor": "Profesor Patricio Araya",
-        "description": "Descripción pendiente",
-        "gallery": "<p>El encargo consistió en el Diseño y Construcción de un Piso (Asiento/Taburete) en madera, sirviendo como un proyecto fundamental para observar, interactuar y comprender las propiedades mecánicas y estructurales del material. La resolución implicó un análisis y diagnóstico inicial que problematizó la estabilidad y la funcionalidad de la estructura para soportar peso. El problema esencial fue modelar un sistema formal que integrara al menos dos ensambles mínimos para garantizar su solidez.</p><p>A partir de este diagnóstico, se ideó una solución innovadora que se tradujo en modelos conceptuales (planos y dibujo técnico) y un modelo físico (el prototipo final). El estudiante demostró la adquisición de competencias al modelar y formalizar la propuesta con rigor, aplicando metodologías y herramientas de la disciplina (corte, cepillado, barnizado y ensambles) para construir un objeto estable y de buen oficio. Esto validó la capacidad para conceptualizar, representar y comunicar propuestas de diseño con solvencia técnica.</p>"
+        "description": "<p>El encargo consistió en el Diseño y Construcción de un Piso (Asiento/Taburete) en madera, sirviendo como un proyecto fundamental para observar, interactuar y comprender las propiedades mecánicas y estructurales del material. La resolución implicó un análisis y diagnóstico inicial que problematizó la estabilidad y la funcionalidad de la estructura para soportar peso. El problema esencial fue modelar un sistema formal que integrara al menos dos ensambles mínimos para garantizar su solidez.</p><p>A partir de este diagnóstico, se ideó una solución innovadora que se tradujo en modelos conceptuales (planos y dibujo técnico) y un modelo físico (el prototipo final). El estudiante demostró la adquisición de competencias al modelar y formalizar la propuesta con rigor, aplicando metodologías y herramientas de la disciplina (corte, cepillado, barnizado y ensambles) para construir un objeto estable y de buen oficio. Esto validó la capacidad para conceptualizar, representar y comunicar propuestas de diseño con solvencia técnica.</p>",
+        "gallery": "https://raw.githubusercontent.com/vicentemedinat/repo_para_imagenes/refs/heads/main/img/photo-16.webp"
     }
 ]
