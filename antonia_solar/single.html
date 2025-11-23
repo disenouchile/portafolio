@@ -3,7 +3,51 @@
     <head>
         <meta charset="UTF-8" />
         <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-        <title>Antonia Solar</title>
+        
+        <!-- Primary Meta Tags -->
+        <title>Proyecto - Antonia Solar | Portafolio de Bachiller</title>
+        <meta name="title" content="Proyecto - Antonia Solar | Portafolio de Bachiller" />
+        <meta name="description" content="Detalle de proyecto del portafolio de Antonia Solar, estudiante de Diseño en la Universidad de Chile. Explora trabajos que integran creatividad, funcionalidad y sentido." />
+        <meta name="keywords" content="Antonia Solar, proyecto diseño, trabajo universitario, portafolio, diseño gráfico, Universidad de Chile, proyectos creativos, bachiller" />
+        <meta name="author" content="Antonia Solar" />
+        <meta name="robots" content="index, follow" />
+        <meta name="language" content="Spanish" />
+        <meta name="revisit-after" content="7 days" />
+        
+        <!-- Open Graph / Facebook -->
+        <meta property="og:type" content="article" />
+        <meta property="og:url" content="https://antoniasolar.github.io/single.html" />
+        <meta property="og:title" content="Proyecto - Antonia Solar | Portafolio de Bachiller" />
+        <meta property="og:description" content="Detalle de proyecto del portafolio de Antonia Solar, estudiante de Diseño en la Universidad de Chile." />
+        <meta property="og:image" content="https://raw.githubusercontent.com/antoniasolar/Segunda-nota/refs/heads/main/Gemini_Generated_Image_je0o6gje0o6gje0o.webp" />
+        <meta property="og:image:width" content="1200" />
+        <meta property="og:image:height" content="630" />
+        <meta property="og:locale" content="es_CL" />
+        <meta property="og:site_name" content="Antonia Solar - Portafolio" />
+        <meta property="article:author" content="Antonia Solar" />
+        
+        <!-- Twitter -->
+        <meta name="twitter:card" content="summary_large_image" />
+        <meta name="twitter:url" content="https://antoniasolar.github.io/single.html" />
+        <meta name="twitter:title" content="Proyecto - Antonia Solar | Portafolio de Bachiller" />
+        <meta name="twitter:description" content="Detalle de proyecto del portafolio de Antonia Solar, estudiante de Diseño en la Universidad de Chile." />
+        <meta name="twitter:image" content="https://raw.githubusercontent.com/antoniasolar/Segunda-nota/refs/heads/main/Gemini_Generated_Image_je0o6gje0o6gje0o.webp" />
+        <meta name="twitter:creator" content="@antoniasolar" />
+        
+        <!-- Additional Meta Tags -->
+        <meta name="theme-color" content="#ff9394" />
+        <meta name="msapplication-TileColor" content="#ff9394" />
+        <meta name="apple-mobile-web-app-capable" content="yes" />
+        <meta name="apple-mobile-web-app-status-bar-style" content="black-translucent" />
+        <meta name="apple-mobile-web-app-title" content="Antonia Solar" />
+        
+        <!-- Canonical URL -->
+        <link rel="canonical" href="https://antoniasolar.github.io/single.html" />
+        
+        <!-- Favicon -->
+        <link rel="icon" type="image/x-icon" href="/favicon.ico" />
+        <link rel="apple-touch-icon" sizes="180x180" href="/apple-touch-icon.png" />
+        
         <link href="style.css" rel="stylesheet" />
     </head>
     <body>
@@ -23,13 +67,58 @@
             </div>
         </main>
         <footer class="footer">
-            <p>Nombre Apellido © 2025</p>
+            <p>Antonia Solar © 2025</p>
             <div class="social-links">
-                <a href="#">GitHub</a>
-                <a href="#">LinkedIn</a>
+                <a href="https://github.com/antoniasolar">GitHub</a>
+                <a href="https://www.linkedin.com/in/antonia-bel%C3%A9n-solar-0a8861397/">LinkedIn</a>
             </div>
         </footer>
             <script>
+            function actualizarMetadatos(trabajo) {
+                // Actualizar título
+                document.title = `${trabajo.title} - Antonia Solar | Portafolio de Bachiller`;
+                
+                // Actualizar meta description
+                const metaDescription = document.querySelector('meta[name="description"]');
+                if (metaDescription) {
+                    metaDescription.content = `${trabajo.description || trabajo.title} - ${trabajo.course || 'Proyecto'} del portafolio de Antonia Solar, estudiante de Diseño en la Universidad de Chile.`;
+                }
+                
+                // Actualizar Open Graph
+                const ogTitle = document.querySelector('meta[property="og:title"]');
+                if (ogTitle) ogTitle.content = `${trabajo.title} - Antonia Solar | Portafolio de Bachiller`;
+                
+                const ogDescription = document.querySelector('meta[property="og:description"]');
+                if (ogDescription) {
+                    ogDescription.content = `${trabajo.description || trabajo.title} - ${trabajo.course || 'Proyecto'} del portafolio de Antonia Solar.`;
+                }
+                
+                const ogImage = document.querySelector('meta[property="og:image"]');
+                if (ogImage && trabajo.gallery) ogImage.content = trabajo.gallery;
+                
+                const ogUrl = document.querySelector('meta[property="og:url"]');
+                if (ogUrl) ogUrl.content = `https://antoniasolar.github.io/single.html?id=${trabajo.id}`;
+                
+                // Actualizar Twitter Card
+                const twitterTitle = document.querySelector('meta[name="twitter:title"]');
+                if (twitterTitle) twitterTitle.content = `${trabajo.title} - Antonia Solar | Portafolio de Bachiller`;
+                
+                const twitterDescription = document.querySelector('meta[name="twitter:description"]');
+                if (twitterDescription) {
+                    twitterDescription.content = `${trabajo.description || trabajo.title} - ${trabajo.course || 'Proyecto'} del portafolio de Antonia Solar.`;
+                }
+                
+                const twitterImage = document.querySelector('meta[name="twitter:image"]');
+                if (twitterImage && trabajo.gallery) twitterImage.content = trabajo.gallery;
+                
+                const twitterUrl = document.querySelector('meta[name="twitter:url"]');
+                if (twitterUrl) twitterUrl.content = `https://antoniasolar.github.io/single.html?id=${trabajo.id}`;
+                
+                // Actualizar canonical URL
+                const canonical = document.querySelector('link[rel="canonical"]');
+                if (canonical) canonical.href = `https://antoniasolar.github.io/single.html?id=${trabajo.id}`;
+            }
+
             async function cargarTrabajo(raw, id) {
                 try {
                     let consulta = await fetch(raw);
@@ -44,6 +133,9 @@
                     const trabajo = trabajitos.find((t) => t.id == id);
 
                     if (trabajo) {
+                        // Actualizar metadatos dinámicamente
+                        actualizarMetadatos(trabajo);
+                        
                         lugar.innerHTML = `
                 <h3>${trabajo.title}</h3>
                 <h4>${trabajo.course}</h4>
