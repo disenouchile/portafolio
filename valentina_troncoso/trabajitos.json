@@ -1,0 +1,130 @@
+[
+  {
+    "id": 1,
+    "photo": "https://raw.githubusercontent.com/valentinatroncoso/Photos/refs/heads/main/1_Cristaldearmonia.webp",
+    "title": "Cristal de Armonia",
+    "course": "Proyecto III",
+    "description": "El proyecto se desarrolló aplicando los fundamentos metodológicos del diseño, considerando contexto, usuario y necesidad para definir los requerimientos y atributos del artefacto. La espada, concebida como un objeto simbólico de transformación emocional, y su packaging, diseñado como contenedor coherente con su sentido, conforman un sistema unificado y conceptualmente consistente.",
+    "gallery": "https://raw.githubusercontent.com/valentinatroncoso/Gallery/refs/heads/main/1_Espada.webp"
+  },
+  {
+    "id": 2,
+    "photo": "https://raw.githubusercontent.com/valentinatroncoso/Photos/refs/heads/main/2_BT21_Popmart.webp",
+    "title": "BT21 X POP MART",
+    "course": "Comunicación del Proyecto",
+    "description": "sfee",
+    "gallery": "https://raw.githubusercontent.com/valentinatroncoso/Gallery/refs/heads/main/2_BT21POPMART.webp"
+  },
+  {
+    "id": 3,
+    "photo": "https://raw.githubusercontent.com/valentinatroncoso/Photos/refs/heads/main/3cv.webp",
+    "title": "Portafolio",
+    "course": "Herramientas computacionales",
+    "description": "El proyecto consistió en la creación de un portafolio digital en InDesign, destinado a documentar y comunicar de manera profesional mis trabajos. Para mejorar la calidad visual del material, se emplearon herramientas de inteligencia artificial aplicadas a la optimización de imágenes. El encargo se articuló con el propósito formativo de la asignatura, enfocado en el uso de recursos digitales para representar y sistematizar la práctica del diseño. Su desarrollo implicó la identificación de necesidades comunicacionales y el análisis de contexto para construir una presentación clara, coherente y técnicamente fundamentada.",
+    "gallery": "https://raw.githubusercontent.com/valentinatroncoso/Gallery/refs/heads/main/3_cv.webp"
+  },
+  {
+    "id": 4,
+    "photo": "https://raw.githubusercontent.com/valentinatroncoso/Photos/refs/heads/main/4_dvina.webp",
+    "title": "D`vina",
+    "course": "Procesos y prototipos I",
+    "description": "Este proyecto consistió en el desarrollo de un packaging para un vino, aplicando los fundamentos metodológicos del diseño a partir del análisis del contexto, el usuario y la necesidad. Bajo los conceptos de feminidad, delicadeza y lujo, se definieron los requerimientos y atributos que orientaron la propuesta estructural y gráfica. El resultado es un envase que contiene, protege y expone el producto, manteniendo coherencia entre forma, función e identidad visual.",
+    "gallery": "https://raw.githubusercontent.com/valentinatroncoso/Gallery/refs/heads/main/4_dvina.webp"
+  },
+  {
+    "id": 5,
+    "photo": "https://raw.githubusercontent.com/valentinatroncoso/Photos/refs/heads/main/5_teselacio.webp",
+    "title": "Teselaciones",
+    "course": "Configuración Visual II",
+    "description": "Proyecto basado en la creación de una textura modular y su adaptación a tres contextos: objeto, pieza editorial y ambiente interior. Se desarrollaron módulos de 3 x 3 cm y una teselación completa en Illustrator, aplicada luego en soportes digitales mediante Photoshop. La entrega incluyó el diseño de los módulos, su aplicación en los tres escenarios y los referentes visuales del proceso.",
+    "gallery": "https://raw.githubusercontent.com/valentinatroncoso/Gallery/refs/heads/main/5_Teselaciones.webp"
+  },
+  {
+    "id": 6,
+    "photo": "https://raw.githubusercontent.com/valentinatroncoso/Photos/refs/heads/main/6_infografia.webp",
+    "title": "Infografía",
+    "course": "Configuración Visual II",
+    "description": "El proyecto consistió en la creación de una infografía a partir de un objeto vectorial desarrollado en Illustrator. El trabajo se centró en la organización de la información del objeto, junto con la definición de una diagramación clara y coherente. Además, se seleccionaron cuidadosamente los colores y la tipografía para reforzar la lectura y la comunicación visual del diseño.",
+    "gallery": "https://github.com/catadunsmore/primera-nota/blob/main/img/foto-02.webp?raw=true"
+  },
+  {
+    "id": 7,
+    "photo": "https://raw.githubusercontent.com/valentinatroncoso/Photos/refs/heads/main/7_comosenorita.webp",
+    "title": "Como Señorita",
+    "course": "Proyecto III",
+    "description": "En el proyecto Afectos Desechados, desarrollé “Como Señorita”, un objeto conceptual creado a partir de desechos para visibilizar problemáticas vinculadas al género y a la gestión emocional. Su desarrollo se basó en la comprensión y aplicación de los fundamentos metodológicos del diseño, integrando contexto, usuario y necesidad para definir el problema, los requerimientos, atributos y restricciones de la propuesta. El resultado es un artefacto que articula forma y sentido, utilizando materiales descartados como medio expresivo para cuestionar la desvalorización de ciertos afectos y experiencias.",
+    "gallery": "https://raw.githubusercontent.com/valentinatroncoso/Gallery/refs/heads/main/7_senorita.webp"
+  },
+  {
+    "id": 8,
+    "photo": "https://raw.githubusercontent.com/valentinatroncoso/Photos/refs/heads/main/8_volantin.webp",
+    "title": "Volatín",
+    "course": "Proyecto IV",
+    "description": "Este proyecto aplica los fundamentos metodológicos del diseño, integrando contexto, requerimientos y restricciones para la creación de una propuesta coherente. Se desarrolló un sistema modular a partir de un módulo base, sobre el cual se aplicaron operaciones de simetría —reflexión, rotación y extensión— para generar un supermódulo y estructurar una grilla de 9×9 unidades. El proceso incluyó la elaboración de láminas lineales y a color, así como la documentación del desarrollo formal.El resultado final fue un volantín de 45×45 cm, diseñado y construido a partir del sistema modular creado.",
+    "gallery": "https://github.com/catadunsmore/primera-nota/blob/main/img/foto-02.webp?raw=true"
+  },
+  {
+    "id": 9,
+    "photo": "https://raw.githubusercontent.com/valentinatroncoso/Photos/refs/heads/main/9_color.webp",
+    "title": "Color",
+    "course": "Representación Conceptual",
+    "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed rutrum hendrerit lorem.",
+    "gallery": "https://github.com/catadunsmore/primera-nota/blob/main/img/foto-02.webp?raw=true"
+  },
+  {
+    "id": 10,
+    "photo": "https://raw.githubusercontent.com/valentinatroncoso/Gallery/refs/heads/main/10_Logopersonal.webp",
+    "title": "Logo Personal",
+    "course": "Configuración Visual I",
+    "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed rutrum hendrerit lorem.",
+    "gallery": "https://raw.githubusercontent.com/valentinatroncoso/pruebassss-jejejeje/refs/heads/main/Gallery_10_logo_personal.webp"
+  },
+   {
+    "id": 11,
+    "photo": "https://raw.githubusercontent.com/valentinatroncoso/Photos/refs/heads/main/11_movimiento.webp",
+    "title": "Movimiento",
+    "course": "Representación Conceptual",
+    "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed rutrum hendrerit lorem. Curabitur sodales feugiat libero. Nullam in lorem ut sem tempor accumsan nec vitae lacus. Sed vel finibus ex, quis euismod lorem.",
+    "gallery": "https://raw.githubusercontent.com/valentinatroncoso/Gallery/refs/heads/main/11_Movimiento.webp"
+  },
+  {
+    "id": 12,
+    "photo": "https://raw.githubusercontent.com/valentinatroncoso/Photos/refs/heads/main/12_taburete.webp",
+    "title": "Taburete",
+    "course": "Procesos y Prototipos II",
+    "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed rutrum hendrerit lorem. Curabitur sodales feugiat libero.",
+    "gallery": "https://raw.githubusercontent.com/valentinatroncoso/Gallery/refs/heads/main/12_Taburete.webp"
+  },
+  {
+    "id": 13,
+    "photo": "https://raw.githubusercontent.com/valentinatroncoso/Photos/refs/heads/main/13_capsula.webp",
+    "title": "Capsula del Tiempo",
+    "course": "Proyecto II",
+    "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed rutrum hendrerit lorem.",
+    "gallery": "https://raw.githubusercontent.com/valentinatroncoso/Gallery/refs/heads/main/13_Capsuladeltiempo.webp"
+  },
+  {
+    "id": 14,
+    "photo": "https://raw.githubusercontent.com/valentinatroncoso/Photos/refs/heads/main/14_luz.webp",
+    "title": "Caja de Luz",
+    "course": "Proyecto I",
+    "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed rutrum hendrerit lorem.",
+    "gallery": "https://github.com/catadunsmore/primera-nota/blob/main/img/foto-02.webp?raw=true"
+  },
+  {
+    "id": 15,
+    "photo": "https://raw.githubusercontent.com/valentinatroncoso/Photos/refs/heads/main/15_Senaletica.webp",
+    "title": "Ekun: Propuesta de Señaléticas",
+    "course": "Ergonomía y Factores Humanos",
+    "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed rutrum hendrerit lorem.",
+    "gallery": "https://github.com/catadunsmore/primera-nota/blob/main/img/foto-02.webp?raw=true"
+  },
+  {
+    "id": 16,
+    "photo": "https://raw.githubusercontent.com/valentinatroncoso/Photos/refs/heads/main/16_mascara.webp",
+    "title": "Mascara de Gato",
+    "course": "Herramientas Computacionales",
+    "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed rutrum hendrerit lorem.",
+    "gallery": "https://raw.githubusercontent.com/valentinatroncoso/Gallery/refs/heads/main/16_Mascara.webp"
+  }
+]
