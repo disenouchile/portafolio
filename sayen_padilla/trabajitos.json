@@ -1,133 +1,189 @@
 [
-    {
+      {
         "id": 1,
-        "photo": "https://raw.githubusercontent.com/evorakie/Portafolio-Fotos/refs/heads/main/IMG/LOTTIE%20(1).webp",
+        "photo": "http://evorakie.github.io/portafolio_imagenes/photo_1.webp",
         "title": "Lottie - Luminaria",
         "course": "Procesos y Prototipos II",
-        "description": "Descripción pendiente del trabajo.",
-        "gallery": "https://raw.githubusercontent.com/profesorfaco/herramientas/refs/heads/main/clase-13/gallery.webp"
+        "professor": "Profesor Patricio Araya",
+        "description": "<p>Este proyecto consistió en el diseño y fabricación de <b>'Lottie'</b>, una luminaria de escritorio que materializa una abstracción geométrica de la flor del cerezo. La propuesta integra esta referencia orgánica mediante un sistema modular de hexágonos en Zincalum, unidos estructuralmente mediante soldadura de punto. Un detalle técnico fundamental fue la incorporación de <b>perforaciones estratégicas en las líneas de los pliegues</b>; esta decisión constructiva no solo facilitó el doblado preciso del metal, sino que permitió <b>generar juegos de luces y sombras</b> que enriquecen la atmósfera del entorno. Para garantizar una terminación prolija y unificada, la pieza fue meticulosamente lijada y electropintada de color blanco, logrando un volumen esférico autoportante que actúa simultáneamente como estructura y difusor.</p><p>El desarrollo del proyecto exigió un dominio específico en la <b>racionalización de formas complejas</b>, desafiando la capacidad para traducir la morfología orgánica en un sistema industrial viable. Se ejercitaron competencias técnicas avanzadas en el <b>conformado de láminas metálicas</b>, validando mediante la experimentación cómo las perforaciones y pliegues afectan tanto la rigidez estructural como la proyección lumínica. Asimismo, la ejecución de uniones soldadas y el control del acabado superficial fortalecieron la habilidad para <b>gestionar procesos de manufactura</b>, asegurando que cada decisión técnica —desde el patrón de corte hasta el electropintado— respondiera coherentemente al diagnóstico inicial de diseño.</p><p><b>Trabajo realizado en colaboración con María Fernanda García (Octubre 2025)</b></p>"
+        "gallery": "http://evorakie.github.io/portafolio_imagenes/gallery_1.webp"
     },
-    {
+
+      {
         "id": 2,
-        "photo": "https://raw.githubusercontent.com/evorakie/Portafolio-Fotos/refs/heads/main/IMG/CONEJO.webp",
-        "title": "Conejo - Planos plegados",
-        "course": "Procesos y Prototipos II",
-        "description": "Descripción pendiente del trabajo.",
-        "gallery": "https://raw.githubusercontent.com/profesorfaco/herramientas/refs/heads/main/clase-13/gallery.webp"
-    },
-    {
-        "id": 3,
-        "photo": "https://raw.githubusercontent.com/evorakie/Portafolio-Fotos/refs/heads/main/IMG/RITUAL%202.webp",
-        "title": "Purificación Telúrica - Neoritual",
-        "course": "Proyecto IV",
-        "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed rutrum hendrerit lorem. Curabitur sodales feugiat libero. Nullam in lorem ut sem tempor accumsan nec vitae lacus. Sed vel finibus ex, quis euismod lorem. Aliquam eget leo sapien. Proin velit diam, suscipit vitae mi vel, laoreet finibus nisl. Pellentesque a purus eleifend, congue ante nec, aliquam risus.",
-        "gallery": "https://raw.githubusercontent.com/profesorfaco/herramientas/refs/heads/main/clase-13/gallery.webp"
-    },
-    {
-        "id": 4,
-        "photo": "https://raw.githubusercontent.com/evorakie/primera-nota/refs/heads/main/img/topcycle.webp",
-        "title": "Topcycle - Diseño Residual",
-        "course": "Proyecto III",
-        "description": "Descripción pendiente del trabajo.",
-        "gallery": "https://raw.githubusercontent.com/profesorfaco/herramientas/refs/heads/main/clase-13/gallery.webp"
-    },
-    {
-        "id": 5,
-        "photo": "https://raw.githubusercontent.com/antonialarah/cuarta-nota/refs/heads/main/tacones.webp",
-        "title": "Tacón - Infografía",
-        "course": "Proyecto III",
-        "description": "Descripción pendiente del trabajo.",
-        "gallery": "https://raw.githubusercontent.com/profesorfaco/herramientas/refs/heads/main/clase-13/gallery.webp"
-    },
-    {
-        "id": 6,
-        "photo": "https://raw.githubusercontent.com/evorakie/primera-nota/refs/heads/main/img/lesbinfo.webp",
-        "title": "The Lesbian Avengers - Infografía",
-        "course": "Proyecto III",
-        "description":  "Descripción pendiente del trabajo.",
-        "gallery": "https://raw.githubusercontent.com/profesorfaco/herramientas/refs/heads/main/clase-13/gallery.webp"
-    },
-    {
-        "id": 7,
-        "photo": "https://raw.githubusercontent.com/evorakie/primera-nota/refs/heads/main/img/sensacional.webp",
-        "title": "Sensacional - Identidad + Packaying",
-        "course": "Procesos y Prototipos I",
-        "description": "Descripción pendiente del trabajo.",
-        "gallery": "https://raw.githubusercontent.com/profesorfaco/herramientas/refs/heads/main/clase-13/gallery.webp"
-    },
-    {
-        "id": 8,
-        "photo": "https://raw.githubusercontent.com/evorakie/Portafolio-Fotos/refs/heads/main/IMG/LA%20BALADA%20DE%20UNA%20ESTRELLA.webp",
-        "title": "La balada de una estrella",
-        "course": "Diseño, estética y sociedad",
-        "description":  "Descripción pendiente del trabajo.",
-        "gallery": "https://raw.githubusercontent.com/profesorfaco/herramientas/refs/heads/main/clase-13/gallery.webp"
-    },
-    {
-        "id": 9,
-        "photo": "https://raw.githubusercontent.com/evorakie/Portafolio-Fotos/refs/heads/main/IMG/ROBOT.webp",
-        "title": "Robot - Modelado 3D",
-        "course": "Configuración Visual II",
-        "description":  "Descripción pendiente del trabajo.",
-        "gallery": "https://raw.githubusercontent.com/profesorfaco/herramientas/refs/heads/main/clase-13/gallery.webp"
-    },
-    {
-        "id": 10,
-        "photo": "https://raw.githubusercontent.com/evorakie/Portafolio-Fotos/refs/heads/main/IMG/SINTESIS.webp",
-        "title": "Conejo - Síntesis Gráfica",
-        "course": "Representación Conceptual",
-        "description":  "Descripción pendiente del trabajo.",
-        "gallery": "https://raw.githubusercontent.com/profesorfaco/herramientas/refs/heads/main/clase-13/gallery.webp"
-    },
-    {
-        "id": 11,
-        "photo": "https://raw.githubusercontent.com/evorakie/Portafolio-Fotos/refs/heads/main/IMG/MAGICAKE%20(1).webp",
-        "title": "Magicake:Love - Set de Cartas",
-        "course": "Representación Conceptual",
-        "description":  "Descripción pendiente del trabajo.",
-        "gallery": "https://raw.githubusercontent.com/profesorfaco/herramientas/refs/heads/main/clase-13/gallery.webp"
-    },
-    {
-        "id": 12,
-        "photo": "https://raw.githubusercontent.com/evorakie/Portafolio-Fotos/refs/heads/main/IMG/FANTASI%CC%81AMONARQUICA.webp",
-        "title": "Fantasía Monárquica- Lenguaje visual",
-        "course": "Representación Conceptual",
-        "description":  "Descripción pendiente del trabajo.",
-
-        "gallery": "https://raw.githubusercontent.com/profesorfaco/herramientas/refs/heads/main/clase-13/gallery.webp"
-    },
-    {
-        "id": 13,
-        "photo": "https://raw.githubusercontent.com/evorakie/Portafolio-Fotos/refs/heads/main/IMG/ILUSORIA2.webp",
-        "title": "Ilusoria - Collage Autorretrato",
-        "course": "Representación Conceptual",
-        "description":  "Descripción pendiente del trabajo.",
-        "gallery": "https://raw.githubusercontent.com/profesorfaco/herramientas/refs/heads/main/clase-13/gallery.webp"
-    },
-    {
-        "id": 14,
-        "photo": "https://raw.githubusercontent.com/evorakie/Portafolio-Fotos/refs/heads/main/IMG/A%20PEARL.webp",
-        "title": "A pearl - Photoshoot",
-        "course": "Proyecto II",
-        "description":  "Descripción pendiente del trabajo.",
-
-        "gallery": "https://raw.githubusercontent.com/profesorfaco/herramientas/refs/heads/main/clase-13/gallery.webp"
-    },
-    {
-        "id": 15,
-        "photo": "https://raw.githubusercontent.com/evorakie/Portafolio-Fotos/refs/heads/main/IMG/WOTAKOI%2BRV.webp",
-        "title": "Wotakoi+RV - Vinilo",
+        "photo": "http://evorakie.github.io/portafolio_imagenes/photo_2.webp”,
+        "title": "Wotakoi + Redvelvet - Vinilo ",
         "course": "Proyecto I",
-        "description":  "Descripción pendiente del trabajo.",
-        "gallery": "https://raw.githubusercontent.com/profesorfaco/herramientas/refs/heads/main/clase-13/gallery.webp"
+        "professor": "Profesor René Perea",
+        "description": "<p>Este proyecto consistió en la conceptualización y diseño integral del packaging (portada y contraportada) para un vinilo musical. La propuesta gráfica nace de un ejercicio de <b>hibridación cultural y visual</b>, donde se fusionó la base narrativa del manga <i>Wotaku ni Koi wa Muzukashī (Wotakoi)</i> con la identidad estética del grupo de K-pop <i>Red Velvet</i>. El desafío principal radicó en <b>observar y deconstruir</b> los códigos visuales de ambos universos para establecer una nueva dirección de arte, reinterpretando a los personajes y temáticas del manga bajo los filtros estilísticos, cromáticos y compositivos característicos de la agrupación musical.</p><p>El desarrollo de esta pieza permitió ejercitar la capacidad de <b>síntesis conceptual y adaptación transmedia</b>, diagnosticando cómo traducir una narrativa literaria a un lenguaje puramente visual y discográfico. A través de la experimentación con tipografías, paletas de color y jerarquías visuales, se formalizó una propuesta que mantiene la coherencia entre el contenido (la historia) y el contenedor (la estética pop). Este proceso consolidó competencias específicas en <b>dirección de arte y diseño editorial</b>, demostrando la habilidad para observar críticamente referentes de la cultura popular, proponer cruces innovadores y materializarlos en un producto gráfico de alto impacto comunicacional.</p><p><b>Trabajo realizado en Junio 2024</b></p>
+        "gallery": "http://evorakie.github.io/portafolio_imagenes/gallery_2.webp"
     },
-    {
-        "id": 16,
-        "photo": "https://raw.githubusercontent.com/evorakie/Portafolio-Fotos/refs/heads/main/IMG/MAREA.webp",
+
+       {
+        "id": 3,
+        "photo": "http://evorakie.github.io/portafolio_imagenes/photo_3.webp”,
         "title": "Marea - Intervención textil",
         "course": "Proyecto I",
-        "description":  "Descripción pendiente del trabajo.",
-        "gallery": "https://raw.githubusercontent.com/profesorfaco/herramientas/refs/heads/main/clase-13/gallery.webp"
-    }
-]
+        "professor": "Profesor René Perea",
+        "description": "<p>Marea es un proyecto consiste en una intervención textil diseñada específicamente para la extremidad superior, cuyo objetivo central es replicar la dinámica física del movimiento del mar. La decisión de ubicar la pieza en el brazo responde a un criterio tanto técnico como conceptual: se busca aprovechar la articulación del codo y la muñeca, junto con el gesto natural del usuario, ya que puede llegar a replicar la ondulación característica de las olas. De esta forma, se integra la cinética del cuerpo humano como un mecanismo funcional indispensable, transformando al usuario en el activador de la pieza.</p><p>Para la formalización se seleccionó organza holográfica, un material escogido por su transparencia y caída ligera para representar la visualidad del agua. Sin embargo, el principal desafío constructivo radicó en otorgar volumen permanente a un textil inherentemente blando , esta problemática se resolvió mediante el diseño y manufactura de una matriz estructural interna de alambre. Este esqueleto oculto, modelado manualmente, permite esculpir la tela en formas tridimensionales fijas que simulan el oleaje, logrando que el volumen textil se sostenga por sí mismo y desafíe la gravedad sin perder su apariencia fluida.</p><p>El desarrollo de este trabajo permitió ejercitar competencias avanzadas en la abstracción de fenómenos naturales y su traducción a objetos tangibles. A través de la experimentación rigurosa con las propiedades del material y la resolución de problemas estructurales y ergonómicos, se validó la capacidad para observar críticamente el entorno, diagnosticar las limitaciones físicas del textil y formalizar una solución técnica que comunica el concepto de manera eficaz y estética.</p><p><b>Trabajo realizado en Julio 2024</b></p>"
+        "gallery": "http://evorakie.github.io/portafolio_imagenes/gallery_3.webp"
+    },
 
+ {
+        "id": 4,
+        "photo": “"http://evorakie.github.io/portafolio_imagenes/photo_4.webp”,
+        "title": "Ilusoria - Collage",
+        "course": "Representación Conceptual,
+        "professor": "Profesora Grace Mallea",
+        "description":   "<p><b>Ilusoria</b> es un autorretrato conceptual realizado mediante collage análogo. El objetivo principal del proyecto fue traducir una identidad abstracta a una composición visual tangible. La dirección de arte se estructuró bajo la lógica del <b>surrealismo</b>, utilizado aquí como un método compositivo para integrar referentes visuales heterogéneos (espacio, botánica, estética manga y ilustraciones en negativo) en un mismo plano, permitiendo que conceptos que lógicamente no están relacionados convivan para representar la complejidad de la identidad.</p><p>La obra se ejecutó sobre una base fotográfica de autoría propia, aplicando una <b>metodología de técnicas mixtas</b>. Se intervinieron las superficies con <b>estampados manuales de acrílico</b>, integrando además <b>recortes de revistas y diversos papeles</b> para generar contraste material. La decisión compositiva central fue el uso técnico del <b>espacio positivo y negativo</b>. Este recurso se empleó estructuralmente para fragmentar la figura y organizar la profundidad de la pieza, facilitando la jerarquización de las distintas capas visuales dentro del encuadre.</p><p>El resultado es una síntesis gráfica que valida competencias en <b>dirección de arte y composición manual</b>. Al traducir un concepto abstracto mediante el corte preciso y la mezcla de materiales, se demuestra la capacidad para diagnosticar una temática compleja y formalizarla en una pieza tangible, donde cada decisión técnica responde al análisis inicial de la identidad como una construcción por partes.</p><p><b>Trabajo realizado en Agosto 2024]</b></p>",
+        "gallery": "http://evorakie.github.io/portafolio_imagenes/gallery_4.webp",
+    },
+
+ {
+        "id": 5,
+        "photo": "http://evorakie.github.io/portafolio_imagenes/photo_5.webp”,
+        "title": "TOPcycle - Diseño residual",
+        "course": "Proyecto III”,
+        "professor": "Profesora Clarisa Menteguiaga”,
+        "description": "<p>La convergencia entre la identidad industrial automotriz y el creciente flujo ciclista en el Barrio 10 de Julio, específicamente en ejes viales como Portugal, San Diego y Arturo Prat, definió el punto de partida de TOPcylce. El diagnóstico territorial permitió detectar una oportunidad estratégica para unificar estos dos mundos, utilizando los recursos materiales del primero para solucionar las necesidades de movilidad del segundo.</p><p>La estrategia de formalización se centró en una metodología de upcycling técnico. Se recolectaron y transformaron residuos locales de cuerina y espuma, pero la innovación central fue la integración de <b>filtros de aire automotrices</b> como esqueleto estructural. Esta decisión material aprovechó la geometría del filtro para otorgar rigidez y resistencia al impacto sin añadir peso excesivo. El resultado es un volumen de <b>24x12x9 cm</b>, configurado como un bolso híbrido de alta versatilidad que transita fluidamente de la bicicleta al cuerpo del usuario, cumpliendo la función de <b>transportar, organizar y proteger (TOP)</b> las herramientas esenciales.</p><p>El desarrollo de este producto evidencia la adquisición de competencias proyectuales complejas. Se validó la capacidad para realizar un <b>diagnóstico territorial crítico</b>, decodificando sistemas urbanos para encontrar valor donde otros ven desechos. Asimismo, se demostró solvencia en la <b>gestión técnica de materiales</b>, resignificando residuos industriales con nuevas propiedades constructivas, y una habilidad avanzada para <b>formalizar soluciones ergonómicas</b>, resolviendo la usabilidad dinámica del ciclista urbano sin sacrificar la identidad visual 'racing' del contexto.</p><p><b>Trabajo realizado en Julio 2025</b></p>", "gallery": "http://evorakie/portafolio_imagenes/gallery_5. webp",
+        "gallery": "http://evorakie.github.io/portafolio_imagenes/gallery_6.webp",
+ },
+ {
+        "id": 6,
+        "photo": "http://evorakie.github.io/portafolio_imagenes/photo_6.webp”,
+        "title": "Tacón - Infografía Indumentaria",
+        "course": "Proyecto III”,
+        "professor": "Profesora Clarisa Menteguiaga”,
+        "description”: "<p>El desafío central de este encargo fue traducir la extensa carga histórica y simbólica del tacón en una pieza de comunicación visual sintetizada. La investigación se estructuró bajo los conceptos de <b>poder, elegancia e impacto</b>, los cuales definieron la selección de contenidos para la lámina final. Para organizar esta narrativa de manera eficiente, se desarrollaron tipologías gráficas específicas: una línea de tiempo que traza la evolución cronológica, clasificaciones morfológicas de puntas y tacones, y diagramas anatómicos del calzado.</p><p>La ejecución del proyecto se restringió deliberadamente a medios análogos. Se emplearon <b>acuarela y tinta china</b> no solo por su valor estético relacionado a la elegancia, sino por su capacidad técnica para generar altos contrastes y definiciones precisas. Asimismo, la paleta cromática —limitada estrictamente a negro, gris, blanco y rojo— funciona como una herramienta de jerarquización visual. Esta codificación de color permite distinguir claramente entre hitos históricos, datos técnicos y elementos simbólicos, facilitando una lectura fluida a través de la composición.</p><p>Este ejercicio consolidó competencias en <b>diseño de información y síntesis visual</b>, demostrando la habilidad para gestionar grandes volúmenes de datos y representarlos mediante diagramación manual. El resultado es una lámina que equilibra la densidad informativa con la claridad funcional, donde cada decisión gráfica responde a una estrategia de comunicación precisa para hacer comprensible la complejidad del objeto estudiado.</p><p><b>Trabajo realizado en colaboración con Antonia Lara (Mayo 2025)</b></p>",
+        "gallery": "http://evorakie.github.io/portafolio_imagenes/gallery_6.webp",
+   },
+ {
+        "id": 7,
+        "photo": "http://evorakie.github.io/portafolio_imagenes/photo_7.webp”,
+        "title": "Tacón - Objeto Infográfico",
+        "course": "Proyecto III”,
+        "professor": "Profesora Clarisa Menteguiaga”,
+        "description”: "<p>Como componente indisoluble del sistema infográfico sobre el tacón, se desarrolló este objeto tridimensional en formato de tríptico interactivo. El propósito de la pieza fue traducir la información plana a una experiencia espacial, obligando al usuario a interactuar físicamente con el contenido para revelarlo. La estructura se articula en torno a tres tipologías informativas clave: la anatomía del objeto (despiece), su contexto global (ubicación geográfica) y, fundamentalmente, su evolución cronológica.</p><p>La decisión de diseño más relevante fue la materialización de la <b>línea de tiempo mediante un mecanismo pop-up de escalera</b>. Esta solución constructiva no es meramente lúdica, sino que conceptualiza la historia del tacón como un ascenso, utilizando los peldaños emergentes para jerarquizar los hitos temporales y simbolizar la elevación de estatus asociada a este calzado. Gráficamente, el objeto mantiene la coherencia sistémica con la lámina principal, utilizando la misma paleta de alto contraste (rojo, negro, blanco) para unificar la narrativa visual.</p><p>La ejecución de este soporte validó competencias específicas en <b>ingeniería en papel y pensamiento tridimensional</b>. Al transformar datos históricos en una estructura móvil funcional, se demostró la capacidad para diseñar sistemas de información complejos que operan simultáneamente en el plano gráfico y en el volumen físico, integrando precisión técnica y claridad comunicativa.</p><p><b>Trabajo realizado en colaboración con Antonia Lara (Mayo 2025)</b></p>”,
+        "gallery": "http://evorakie.github.io/portafolio_imagenes/gallery_7.webp",
+   },
+ {
+        "id": 8,
+        "photo": "http://evorakie.github.io/portafolio_imagenes/photo_8.webp”,
+        "title": "Conejo - Animal de Metal",
+        "course": "Procesos y Prototipos II”,
+        "professor": "Profesor Patricio Araya”,
+        "description”: "<p><b>Conejo de Metal</b> es un proyecto de un carácter industrial que materializa la interpretación de la anatomía orgánica mediante la manipulación de una <b>Plancha Zinc-Alum Lisa de 0.4 mm</b>. El ejercicio nace de la <b>observación analítica de la morfología animal</b>, traduciendo la complejidad de las curvas naturales a un lenguaje industrial facetado. La obra se construye a partir de una estrategia de racionalización geométrica que divide la figura en dos módulos estructurales independientes: cabeza y cuerpo.</p><p>Para su formalización, se trabajó este material de calibre reducido reemplazando el modelado tradicional por una lógica de <b>conformado por plegado</b>. Esta decisión técnica es fundamental dada la naturaleza de la plancha: se utilizaron las aristas no solo como recurso estético, sino para generar la tensión necesaria —o 'nervio'— que otorga rigidez, volumen tridimensional y estabilidad a la lámina plana. La consolidación estructural se resolvió mediante <b>soldadura de punto</b>, técnica seleccionada estratégicamente para garantizar un ensamblaje sólido y prolijo, evitando elementos de fijación externos que interrumpan la limpieza visual de los planos.</p><p>Este proceso de manufactura funcionó simultáneamente como una investigación material, permitiendo validar competencias avanzadas en <b>síntesis morfológica y dominio de procesos productivos</b>. El resultado final no es solo una representación figurativa, sino la evidencia de la capacidad para dialogar con las limitaciones del metal, transformando un material bidimensional ligero en una solución de diseño volumétrica, coherente y técnicamente viable.</p><p><b>Trabajo realizado en Septiembre 2025</b></p>",
+        "gallery": "http://evorakie.github.io/portafolio_imagenes/gallery_8.webp",
+   },
+ {
+        "id": 9,
+        "photo": "http://evorakie.github.io/portafolio_imagenes/photo_9.webp”,
+        "title": "Robot - Modelado Rhino",
+        "course": "Configuración Visual II”,
+        "professor": "Profesor Carlos Ampuero”,
+        "description”: "<p>Este proyecto de modelado digital tuvo como objetivo el dominio integral de la interfaz y herramientas de <b>Rhinoceros 3D</b>. El ejercicio académico consistió en la construcción virtual de un robot tipo <i>Mecha</i>, tomando como referencia técnica y formal el diseño original de <b>Jean Gorospe</b>. El desafío fundamental radicó en la <b>interpretación espacial rigurosa</b>, exigiendo traducir información bidimensional estricta —planos técnicos de vista superior, lateral y frontal— a una volumetría tridimensional compleja y coherente.</p><p>Para la formalización se modeló una unidad robótica caracterizada por un sistema de locomoción de orugas (tank treads) y un torso articulado con placas de blindaje. Este proceso obligó a explorar y ejecutar la totalidad del repertorio de acciones del software, desde el trazado de curvas generatrices hasta operaciones avanzadas de sólidos y superficies. La construcción del modelo no fue solo geométrica, sino funcional, resolviendo las intersecciones mecánicas de las extremidades y los detalles del cabezal sensor.</p><p>El resultado es un prototipo digital de alta fidelidad que valida la adquisición de competencias en <b>alfabetización digital y pensamiento tridimensional</b>. El proyecto demuestra no solo la destreza en el uso de comandos de Rhino, sino la habilidad cognitiva para visualizar volúmenes en el espacio y materializarlos virtualmente siguiendo directrices técnicas precisas.</p><p><b>Trabajo realizado en Noviembre 2024</b></p>",
+        "gallery": "http://evorakie.github.io/portafolio_imagenes/gallery_9.webp",
+   },
+{
+        "id": 10,
+        "photo": "http://evorakie.github.io/portafolio_imagenes/photo_10.webp”,
+        "title": "The Lesbian Avengers - Infografía + Fanzine",
+        "course": "Proyecto III”,
+        "professor": "Profesora Clarisa Menteguiaga”,
+        "description”: "<p>Este proyecto se centra en la identidad de <b>The Lesbian Avengers</b>, un colectivo activista fundado en Nueva York en 1992 para combatir la invisibilidad lésbica y la discriminación. El encargo consistió en sistematizar su historia y legado en un sistema gráfico (infografía y fanzine) regido por los conceptos de <b>impacto, rebeldía y empoderamiento</b>. La propuesta visual traduce la urgencia política del grupo mediante una estética <b>punk y DIY (Do It Yourself)</b>, emulando la crudeza de los panfletos de los años 80. </p><p>Simbólicamente, la pieza articula íconos claves como la <b>bomba y el fuego</b>,metáforas de explosión social y resiliencia,unificados bajo una paleta cromática estricta de <b>magenta, negro y blanco</b></p><p>La metodología de producción se basó en una <b>hibridación técnica experimental</b>. Se utilizaron herramientas de Inteligencia Artificial para la generación y optimización de imágenes las cuales fueron luego intervenidas manualmente mediante <b>estampado artesanal, rasgados y collage</b>. Este proceso permitió ensuciar la perfección digital, otorgando al proyecto una textura visceral y táctil coherente con el discurso de resistencia. Este ejercicio consolidó competencias avanzadas en <b>investigación conceptual y dirección de arte mixta</b>. Al armonizar recursos tecnológicos emergentes con procesos manuales expresivos, se demostró la capacidad para interpretar movimientos históricos y traducir sus valores en códigos visuales tangibles, logrando una síntesis gráfica que equilibra la coherencia comunicativa con la estética de la agitación política.</p><p><b>Trabajo realizado en colaboración con Diana Ibáñez (Junio 2025)</b></p>”,
+        "gallery": "http://evorakie.github.io/portafolio_imagenes/gallery_10.webp",
+   },
+
+{
+        "id": 11,
+        "photo": "http://evorakie.github.io/portafolio_imagenes/photo_11.webp”,
+        "title": "The Lesbian Avengers - Objeto infográfico",
+        "course": "Proyecto III”,
+        "professor": "Profesora Clarisa Menteguiaga”,
+       "description”:"<p>Como extensión material del sistema gráfico de <b>The Lesbian Avengers</b>, se desarrolló esta pieza textil adherida al torso, ubicándose estratégicamente en el pecho para reivindicar esta zona corporal como un territorio de <b>impacto y empoderamiento</b>. La morfología de la pieza se construye mediante la unión de dos triángulos asimétricos de cuerina, uno negro y otro magenta, cuya disposición diagonal simula una <b>pendiente ascendente</b>, materializando físicamente el concepto de alzar la voz y crecer ante la adversidad.</p><p>La manufactura responde deliberadamente a la estética 'punk' y de urgencia del colectivo. Se optó por dejar las <b>costuras visibles y no prolijas</b> como una huella de la autogestión, sumando <b>salpicaduras de pintura blanca</b> que rompen la pulcritud del material sintético para representar la energía explosiva de la rebeldía. En la cara posterior de la intervención, se estampó con acrílico la consigna icónica <i>'Be the bomb you throw'</i> (Sé la bomba que lanzas), transformando el objeto en un manifiesto de la política del grupo.</p><p>Este ejercicio de diseño consolida competencias en la <b>transposición transdisciplinar</b>, validando la habilidad para migrar un sistema de identidad visual hacia un soporte indumentario sin perder coherencia discursiva. Asimismo, demuestra un dominio avanzado en <b>semántica material</b>, donde la selección de textiles sintéticos y la ejecución técnica deliberadamente imperfecta operan como herramientas narrativas de autonomía. Finalmente, el proyecto evidencia la capacidad para conceptualizar <b>objetos de activismo portable</b>, transformando el cuerpo del usuario en un soporte dinámico de comunicación política.</p><p><b>Trabajo realizado en colaboración con Diana Ibáñez (Junio 2025)</b></p>",
+        "gallery": "http://evorakie.github.io/portafolio_imagenes/gallery_11. webp",
+   },
+{
+        "id": 12,
+        "photo": "http://evorakie.github.io/portafolio_imagenes/photo_12.webp”,
+        "title": "Fantasía Monárquica - Lenguaje Visual",
+        "course": "Representación Conceptual”,
+        "professor": "Profesora Grace Mallea”,    
+        "description”:"<p><b>Monárquico</b> es una exploración gráfica que responde al encargo de interpretar el concepto de 'Fantasía'. La propuesta se aleja de la literalidad mítica para abordar la temática desde la <b>majestuosidad biológica</b> de la mariposa Monarca, analizando su morfología no como un objeto aislado, sino como un <b>sistema visual complejo</b> susceptible de ser decodificado.</p><p>Para la formalización, se deconstruyó el patrón del ala traduciéndolo a un lenguaje gráfico de alto contraste. Utilizando exclusivamente marcadores, se construyó una atmósfera inmersiva basada en la tensión rítmica entre <b>líneas moduladas (finas y gruesas)</b>, formas orgánicas saturadas y la vibración óptica de puntos blancos sobre negro profundo. Esta decisión técnica no es decorativa, sino estructural: busca emular la textura aterciopelada y el código de advertencia de la especie mediante recursos puramente gráficos.</p><p>Este ejercicio consolidó competencias fundamentales en <b>abstracción y sintaxis visual</b>. Al extraer las leyes constructivas de un referente natural y sistematizarlas en una composición coherente, se demostró la capacidad para gestionar variables de diseño (ritmo, peso, equilibrio) y comunicarlas con precisión, validando el dominio de la técnica análoga como un medio riguroso de pensamiento proyectual.</p><p><b>Trabajo realizado en Septiembre 2024</b></p>",
+         "gallery": "http://evorakie.github.io/portafolio_imagenes/gallery_12. webp",
+   },
+ {
+        "id": 13,
+        "photo": "http://evorakie.github.io/portafolio_imagenes/photo_13.webp”,
+        "title": "Magicake:Love - Set de Cartas",
+        "course": "Representación Conceptual”,
+        "professor": "Profesora Grace Mallea”,
+        "description”:"<p>Bajo el título <b>Magicake: Love</b>, este proyecto consistió en el diseño integral de un TCG (Trading Card Game) competitivo. La propuesta ludonarrativa toma como referencia estructural el sistema mágico de la serie <i>Puella Magi Madoka Magica</i> para ilustrar el arco de transformación de <b>Keiki</b>. La dirección de arte estableció la <b>repostería</b> como eje estético, utilizando tipografías como Pacific y Exo 2, y definiendo una paleta cromática vibrante codificada por sabores: Vainilla, Frutilla, Chocolate y Menta.</p><p>El sistema de juego narra una historia evolutiva en tres fases: inicia con <b>Keiki</b> (Básico), una estudiante experta en repostería; evoluciona a <b>Keiki Cake</b> (Fase 1), transformada en chica mágica tras obtener su 'Gema del Alma'; y culmina trágicamente en <b>Keiraethg</b> (Fase 2), la forma bruja nacida cuando la desesperación corrompe dicha gema. Cada etapa integra mecánicas coherentes con el relato, destacando la habilidad final <b>'Vórtice de Batidoras'</b>, que fusiona la temática culinaria con un poder destructivo en el tablero.</p><p>El proyecto valida competencias avanzadas en <b>Game Design y construcción de mundos (Worldbuilding)</b>. Se demostró la capacidad para traducir guiones complejos a mecánicas de juego equilibradas, creando un sistema donde las decisiones gráficas y las habilidades refuerzan tanto la experiencia competitiva como la narrativa de ascenso y caída del personaje.</p><p><b>Trabajo realizado en colaboración con Florencia de la Torre (Noviembre 2024)</b></p>",
+        "gallery": "http://evorakie.github.io/portafolio_imagenes/gallery_13. webp",
+   },
+{
+        "id": 14,
+        "photo": "http://evorakie.github.io/portafolio_imagenes/photo_14.webp”,
+        "title": "Sensacional - Identidad Corporativa ",
+        "course": "Procesos y Prototipos I”,
+        "professor": "Profesora Pamela Fuentes”,
+        "description”: "<p>Este proyecto académico consistió en el desarrollo de la identidad corporativa para <b>'Sensacional'</b>, una librería editorial ficticia especializada en productos para infancias con discapacidad visual. El objetivo del encargo fue diseñar un ecosistema de marca inclusivo que facilitara la comercialización y acceso a formatos accesibles como libros en braille, macrotipo y audiolibros. La estrategia de diseño se centró en la creación de una identidad funcional que permitiera extender la experiencia de lectura a nivel nacional, eliminando barreras físicas de acceso.</p><p>El sistema visual se estructura mediante tres variaciones de logotipo (isologo, isotipo y versión táctil en braille) y una paleta de colores de alto contraste para asegurar la legibilidad. El elemento central de la identidad es <b>Brillín</b>, una oruga verde diseñada bajo criterios mnemotécnicos: su morfología segmentada hace referencia directa a la abstracción de los puntos del <b>alfabeto Braille</b>. De esta forma, la mascota no cumple solo una función decorativa, sino que opera como una guía visual y una metáfora del crecimiento y transformación a través de la lectura.</p><p>El desarrollo del proyecto permitió validar competencias en <b>Branding Estratégico y Diseño Social</b>. Se demostró la capacidad para sistematizar una identidad corporativa compleja, diagnosticando las necesidades de un usuario específico para proponer una solución gráfica que integra accesibilidad universal y coherencia comercial en un escenario de mercado simulado.</p><p><b>Trabajo realizado en colaboración con Sofía Abarzúa, Diana Ibáñez y María Fernanda García (Abril 2025)</b></p>",
+        "gallery": "http://evorakie.github.io/portafolio_imagenes/gallery_14. webp",
+   },
+
+{
+        "id": 15,
+        "photo": "http://evorakie.github.io/portafolio_imagenes/photo_15.webp”,
+         "title": "Kit Primera Lectura - Packaging",
+        "course": "Procesos y Prototipos I”,
+        "professor": "Profesora Pamela Fuentes”,
+        "description”: "<p>Como extensión de la identidad corporativa de <b>'Sensacional'</b>, se diseñó la línea de productos 'Kit de primera lectura', materializada en una edición especial de <i>El Principito</i>. Este set tiene como objetivo la iniciación literaria accesible, integrando un ecosistema de aprendizaje compuesto por un libro con ilustraciones en relieve y texto en Braille, un audiolibro complementario y un abecedario táctil para el aprendizaje del sistema.</p><p>El eje central del proyecto fue el desarrollo de un <b>packaging interactivo e inclusivo</b>, concebido más allá de su función de contenedor. La estructura fue diseñada para <b>organizar, proteger y contener</b> los elementos de forma intuitiva, incorporando <b>señalética en Braille</b> y guías en relieve que facilitan la ubicación espacial de cada componente sin necesidad de asistencia visual. Asimismo, se implementaron cierres magnéticos para garantizar una manipulación ergonómica, permitiendo un abrir y cerrar sencillo que fomenta la autonomía del usuario.</p><p>Este proyecto válida competencias avanzadas en <b>Diseño de Packaging Inclusivo y Ergonomía Táctil</b>. Se demuestra la capacidad para traducir principios de accesibilidad universal a la ingeniería de empaques, creando una experiencia de usuario (UX) física donde la textura, el sistema de cierre y la organización espacial trabajan en conjunto para eliminar barreras y democratizar el acceso a la cultura.</p><p><b>Trabajo realizado en colaboración con Sofía Abarzúa, Diana Ibáñez y María Fernanda García (Mayo 2025)</b></p>”,
+        "gallery": "http://evorakie.github.io/portafolio_imagenes/gallery_15. webp",
+   },
+
+{
+        "id": 16,
+        "photo": “"http://evorakie.github.io/portafolio_imagenes/photo_16.webp”,
+        "title": "Kit Primera Lectura - Infografía",
+        "course": "Procesos y Prototipos I””,
+        "professor": "Profesora Pamela Fuentes”,
+        "description”: "<p>La <b>Infografía de Producto Sensacional</b> se constituye como una pieza de comunicación estratégica diseñada para revelar la lógica constructiva detrás del packaging 'Kit de primera lectura'. Integrada coherentemente en el ecosistema visual de la marca —utilizando su paleta de alto contraste y la guía narrativa de la mascota Brillín—, la lámina tiene como objetivo traducir las características técnicas invisibles del envase a una narrativa visual clara. A través de esquemas de desglose, se explica al usuario la operación de los sistemas de apertura magnética, la señalética en Braille y las guías de ubicación espacial, validando la funcionalidad inclusiva del diseño.</p><p>Más allá de su rol instructivo, el documento actúa como un registro del proceso proyectual al evidenciar la etapa de <b>prototipado y validación formal</b>. Mediante fotografía comparativa, se expone la evolución desde las maquetas volumétricas preliminares hasta el producto final, transparentando la iteración constructiva necesaria para garantizar que el packaging cumpla sus roles de organizar, proteger y contener.</p><p>El desarrollo de esta lámina consolida competencias en <b>comunicación técnica y documentación de diseño</b>. Se demuestra la capacidad para explicar el valor de una propuesta compleja, articulando en un mismo plano la información funcional (instrucciones de uso) con la evidencia empírica del proceso creativo, cerrando así el ciclo de diseño con una presentación profesional y fundamentada.</p><p><b>Trabajo realizado en colaboración con Sofía Abarzúa, Diana Ibáñez y María Fernanda García (Mayo 2025) </b></p>" ,
+        "gallery": "http://evorakie.github.io/portafolio_imagenes/gallery_16.webp",
+   },
+ {
+        "id": 17,
+        "photo": "http://evorakie.github.io/portafolio_imagenes/photo_17.webp”,
+        "title": "Máscara - Modelado Blender",
+        "course": "Herramientas Computacionales”,
+        "professor": "Profesor Felipe Cortez”,
+        "description” "<p><b>Máscara  de Conejo</b> es un proyecto técnico que vincula el modelado 3D con la fabricación manual mediante papercraft. El trabajo consistió en el diseño de una máscara de conejo funcional, modelada íntegramente en el software <b>Blender</b>. Se optó por una <b>geometría Low Poly</b>, decisión constructiva que simplifica la morfología orgánica del animal en planos facetados, permitiendo que la estructura de papel adquiera la rigidez necesaria para mantenerse armada y ser usada.</p><p>El proceso de manufactura requirió el uso de una <b>extensión especializada de Blender</b> para desglosar la topología tridimensional en plantillas de corte bidimensionales. Este ejercicio fue fundamental para la alfabetización digital, permitiendo comprender en la práctica el concepto de <b>mesh (malla)</b>. Se aprendió a manipular la topología como una estructura lógica de vértices, aristas y caras, asegurando que la geometría virtual estuviera correctamente cerrada y optimizada para su posterior impresión y ensamblaje físico.</p><p><b>Trabajo realizado en Noviembre 2025 </b></p>",
+        "gallery": "http://evorakie.github.io/portafolio_imagenes/gallery_17.webp",
+   },
+{
+        "id": 18,
+        "photo": "http://evorakie.github.io/portafolio_imagenes/photo_18.webp”,
+        "title": "Secador - Diseño Inverso",
+        "course": "Procesos y Prototipos II”,
+        "professor": "Profesor Patricio Araya”,
+        "description”:"<p>Bajo la metodología de <b>Diseño Inverso</b>, este proyecto plantea la deconstrucción sistemática de un objeto tecnológico para comprender su lógica proyectual y constructiva. El artefacto de estudio seleccionado fue el <b>Secador de Pelo 1600W Eolic Mini</b>, abordado mediante un ciclo analítico riguroso de tres fases: <b>Observar, Utilizar y Desarmar</b>.</p><p>La investigación gráfica se sistematizó en una lámina técnica que desglosa el producto en cuatro niveles de profundidad. Primero, el <b>Análisis de Uso</b>, que examina la ergonomía y funcionamiento. Segundo, la <b>Identificación de Materiales</b>, detallada en vistas de corte y tablas técnicas que especifican polímeros y metales. Tercero, la <b>Anatomía de Partes</b>, visualizada mediante diagramas de explosión que exponen la jerarquía de componentes y sus sistemas de unión. Finalmente, la <b>Deducción del Proceso Productivo</b>, donde se infirió la secuencia lógica de manufactura (inyección, extrusión, ensamblaje) a partir de la observación de las huellas industriales en las piezas.</p><p>Este ejercicio valida competencias avanzadas en <b>análisis tecnológico y representación técnica</b>. Demuestra la capacidad para mirar más allá de la carcasa estética y entender la ingeniería inversa, decodificando los procesos industriales y las decisiones de diseño que definen a un producto de consumo masivo.</p><p><b>Trabajo realizado en colaboración con Francisco Hidalgo (Agosto 2025) </b></p>",
+        "gallery": "http://evorakie.github.io/portafolio_imagenes/gallery_18.webp",
+   },
+{
+        "id": 19,
+        "photo": "http://evorakie.github.io/portafolio_imagenes/photo_19.webp”,
+        "title": "La balada de la Estrella - Portada",
+        "course": "Diseño, Estética y Sociedad”,
+        "professor": "Profesor Ivan Mendez”,
+        "description”: "<p>En el marco de la conmemoración de los 80 años del Premio Nobel de Gabriela Mistral, este encargo editorial planteó el desafío de reinterpretar visualmente uno de sus textos fundamentales para una portada de libro. La obra seleccionada fue 'Balada de la Estrella', perteneciente al poemario <i>Desolación</i>. La conceptualización visual se centró en el simbolismo ancestral del astro como <b>guía inmutable</b> y espejo de la humanidad, entendiendo el firmamento como un portal hacia la esperanza y la búsqueda de sentido personal.</p><p>Gráficamente, esta narrativa se materializó apropiando la pincelada gestual de <b>Vincent Van Gogh</b>. Esta elección estética permite representar la <b>naturaleza emocional y cambiante</b> del entorno, donde la estrella actúa como el único punto de estabilidad dentro de un macrocosmos turbulento. La composición refleja una estructura compleja donde la angustia interna del poeta y la vastedad del universo se encuentran en constante tensión y armonía.</p><p>El desarrollo de esta pieza valida competencias avanzadas en <b>hermenéutica visual y dirección de arte editorial</b>. Se demuestra la capacidad para realizar una <b>traducción intersemiótica rigurosa</b>, decodificando la carga psicológica de un texto literario para reestructurarla en un lenguaje pictórico. Asimismo, se evidencia el dominio en la <b>apropiación estilística</b>, utilizando referentes de la historia del arte no como ornamento, sino como herramientas semánticas para potenciar la atmósfera emocional del diseño.</p><p><b>Trabajo realizado en colaboración con Florencia de la Torre (Junio 2025)/b></p>",
+        "gallery": "http://evorakie.github.io/portafolio_imagenes/gallery_19.webp",
+   },
+{
+        "id": 20,
+        "photo": "http://evorakie.github.io/portafolio_imagenes/photo_20.webp”,
+        "title": "A pearl - Photoshoot",
+        "course": "Proyecto II”,
+        "professor": "Profesor René Perea”,
+        "description”: "<p>Este proyecto de dirección de arte nace de la interpretación visual de la canción <i>'A Pearl'</i> de Mitski, con el objetivo de traducir su atmósfera sonora y lírica a una narrativa fotográfica de tres actos. La conceptualización se centró en el <b>sentido tóxico de la memoria</b>: la idea de un recuerdo traumático que, al igual que una perla, se ha calcificado y vuelto precioso para quien lo porta, pero que representa una carga que 'siempre vuelve' al final del día.</p><p>Para materializar este concepto, se seleccionó un <b>collar de perlas</b> como objeto central, despojándolo de su connotación ornamental clásica. En la serie, el objeto no adorna, sino que invade y genera tensión. La composición fotográfica y el lenguaje corporal buscan evidenciar la <b>persistencia de la toxicidad</b>: las perlas se presentan como un elemento ineludible, una presencia física brillante que simboliza esa obsesión circular de la que el sujeto no puede —o no quiere— desprenderse.</p><p>El desarrollo de esta tríada visual valida competencias en <b>narrativa fotográfica y conceptualización simbólica</b>. Se demuestra la capacidad para tomar un estímulo auditivo abstracto y formalizarlo en una propuesta estética coherente, utilizando la semántica del objeto y la iluminación para comunicar estados psicológicos complejos de apego y dolor.</p><p><b>Trabajo realizado en [Fecha]</b></p>",
+        "gallery": "http://evorakie.github.io/portafolio_imagenes/gallery_20.webp",
+   }
+]
