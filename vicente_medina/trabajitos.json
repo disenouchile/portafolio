@@ -123,7 +123,7 @@
         "title": "Popbox",
         "course": "Proyecto IV",
         "professor": "Profesora Macarena Becas",
-        "description": "Descripción pendiente",
+        "description": "<p>El encargo consistió en el Diseño de un Transportador de Vituallas para un picnic de cine al aire libre, un proyecto centrado en la observación crítica y el análisis funcional del entorno de uso.</p><p>El objetivo fundamental fue problematizar la necesidad esencial del usuario de trasladar de manera segura y eficiente vituallas y equipos tecnológicos pesados (especialmente el proyector). Esto requirió un análisis y diagnóstico inicialque evaluara las limitaciones del contexto y los requerimientos ergonómicos.</p><p>A partir de este diagnóstico, se ideó una solución innovadora que se tradujo en un modelo conceptual y físico diseñado a partir de una sola lámina, que se transforma en un contenedor funcional mediante dobleces y encajes. El estudiante debió modelar y formalizar esta solución aplicando metodologías y herramientas propias de la disciplina (dibujo de desarrollo, croquis, esquemas y maquetas).</p><p>La formalización final se realizó con lona engomada, cartón piedra para rigidez estructural, y asas de tubos de PVCpara el manejo de cargas pesadas. El proyecto demostró la adquisición de competencias para conceptualizar, representar y comunicar una respuesta de diseño pertinente, enfocada en la distribución del peso, la protección del objeto y la eficiencia funcional.</p>",
         "gallery": "https://raw.githubusercontent.com/vicentemedinat/repo_para_imagenes/refs/heads/main/img/photo-14.webp"
     },
     {
@@ -132,7 +132,7 @@
         "title": "Mascara de Papel",
         "course": "Herramientas Computacionales",
         "professor": "Profesor Felipe Cortez",
-        "description": "Descripción pendiente",
+        "description": "<p>El encargo consistió en el Diseño y Modelado 3D de una Máscara de Halloween en el software Blender, con un enfoque riguroso en la topología del modelo.</p><p>El proceso requirió observar y diagnosticar las formas del referente para problematizar su representación, aplicando la simplicidad topológica como metodología (minimizar el número de vértices, aristas y caras).<p>El problema esencial fue lograr la eficiencia en la representación. La solución innovadora fue modelar y formalizarla máscara en Blender, demostrando el dominio de las herramientas y la aplicación del criterio de buena topología en el diseño.</p><p>El proyecto validó la capacidad para conceptualizar, modelar y comunicar propuestas de diseño 3D, priorizando la síntesis geométrica y la eficiencia técnica.</p>",
         "gallery": "https://raw.githubusercontent.com/vicentemedinat/repo_para_imagenes/refs/heads/main/img/photo-15.webp"
     },
     {
@@ -142,6 +142,6 @@
         "course": "Procesos y Prototipos II",
         "professor": "Profesor Patricio Araya",
         "description": "Descripción pendiente",
-        "gallery": ""
+        "gallery": "<p>El encargo consistió en el Diseño y Construcción de un Piso (Asiento/Taburete) en madera, sirviendo como un proyecto fundamental para observar, interactuar y comprender las propiedades mecánicas y estructurales del material. La resolución implicó un análisis y diagnóstico inicial que problematizó la estabilidad y la funcionalidad de la estructura para soportar peso. El problema esencial fue modelar un sistema formal que integrara al menos dos ensambles mínimos para garantizar su solidez.</p><p>A partir de este diagnóstico, se ideó una solución innovadora que se tradujo en modelos conceptuales (planos y dibujo técnico) y un modelo físico (el prototipo final). El estudiante demostró la adquisición de competencias al modelar y formalizar la propuesta con rigor, aplicando metodologías y herramientas de la disciplina (corte, cepillado, barnizado y ensambles) para construir un objeto estable y de buen oficio. Esto validó la capacidad para conceptualizar, representar y comunicar propuestas de diseño con solvencia técnica.</p>"
     }
 ]
