@@ -3,7 +3,69 @@
     <head>
         <meta charset="UTF-8" />
         <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-        <title>Anaís Aedo</title>
+        <title>Proyecto del Portafolio | Anaís Aedo</title>
+        <meta id="meta-title" name="title" content="Proyecto del Portafolio | Anaís Aedo" />
+        <meta
+            id="meta-description"
+            name="description"
+            content="Detalle de un proyecto de diseño desarrollado por Anaís Aedo, con información del curso, docente y resultados."
+        />
+        <meta
+            name="keywords"
+            content="Anaís Aedo, proyecto de diseño, Universidad de Chile, portafolio, prototipos"
+        />
+        <meta name="author" content="Anaís Aedo" />
+        <meta name="application-name" content="Portafolio Anaís Aedo" />
+        <meta name="robots" content="index, follow" />
+        <meta name="theme-color" content="#0b1220" />
+        <link rel="canonical" href="https://anaisvalentina.github.io/portafolio/single.html" />
+        <link rel="alternate" href="https://anaisvalentina.github.io/portafolio/single.html" hreflang="es-cl" />
+        <link rel="alternate" href="https://anaisvalentina.github.io/portafolio/single.html" hreflang="es-es" />
+
+        <!-- Open Graph / Facebook -->
+        <meta property="og:type" content="article" />
+        <meta id="og-url" property="og:url" content="https://anaisvalentina.github.io/portafolio/single.html" />
+        <meta id="og-title" property="og:title" content="Proyecto del Portafolio | Anaís Aedo" />
+        <meta
+            id="og-description"
+            property="og:description"
+            content="Revisa objetivos, procesos y resultados de un proyecto destacado del portafolio de Anaís Aedo."
+        />
+        <meta id="og-image" property="og:image" content="https://raw.githubusercontent.com/anaisvalentina/imagenes/refs/heads/main/yo.webp" />
+        <meta id="og-image-alt" property="og:image:alt" content="Proyecto del portafolio de Anaís Aedo" />
+        <meta property="og:site_name" content="Portafolio Anaís Aedo" />
+        <meta property="og:locale" content="es_CL" />
+        <meta property="og:locale:alternate" content="es_ES" />
+        <meta property="article:author" content="Anaís Aedo" />
+        <meta property="article:section" content="Portafolio" />
+
+        <!-- Twitter -->
+        <meta property="twitter:card" content="summary_large_image" />
+        <meta id="twitter-url" property="twitter:url" content="https://anaisvalentina.github.io/portafolio/single.html" />
+        <meta id="twitter-title" property="twitter:title" content="Proyecto del Portafolio | Anaís Aedo" />
+        <meta
+            id="twitter-description"
+            property="twitter:description"
+            content="Ficha completa de un proyecto de diseño realizado por Anaís Aedo."
+        />
+        <meta id="twitter-image" property="twitter:image" content="https://raw.githubusercontent.com/anaisvalentina/imagenes/refs/heads/main/yo.webp" />
+
+        <script id="schema-data" type="application/ld+json">
+            {
+                "@context": "https://schema.org",
+                "@type": "CreativeWork",
+                "name": "Proyecto del Portafolio | Anaís Aedo",
+                "description": "Detalle de un proyecto destacado del portafolio de Anaís Aedo.",
+                "creator": {
+                    "@type": "Person",
+                    "name": "Anaís Aedo",
+                    "url": "https://anaisvalentina.github.io/portafolio/"
+                },
+                "url": "https://anaisvalentina.github.io/portafolio/single.html",
+                "inLanguage": "es-CL"
+            }
+        </script>
+
         <link href="style.css" rel="stylesheet" />
     </head>
     <body>
@@ -30,6 +92,84 @@
             </div>
         </footer>
           <script>
+            function sanitizeDescription(html) {
+                const temp = document.createElement("div");
+                temp.innerHTML = html;
+                return (temp.textContent || temp.innerText || "").replace(/\s+/g, " ").trim();
+            }
+
+            function updateSchema(trabajo, description, shareUrl, imageUrl) {
+                const schemaPayload = {
+                    "@context": "https://schema.org",
+                    "@type": "CreativeWork",
+                    "name": trabajo.title,
+                    "headline": trabajo.title,
+                    "description": description,
+                    "creator": {
+                        "@type": "Person",
+                        "name": "Anaís Aedo",
+                        "url": "https://anaisvalentina.github.io/portafolio/",
+                        "sameAs": [
+                            "https://github.com/anaisvalentina",
+                            "https://www.linkedin.com/in/anais-valentina-145784392/"
+                        ]
+                    },
+                    "about": trabajo.course,
+                    "materialExtent": trabajo.professor,
+                    "url": shareUrl,
+                    "image": imageUrl,
+                    "inLanguage": "es-CL",
+                    "isPartOf": {
+                        "@type": "WebSite",
+                        "name": "Portafolio Anaís Aedo",
+                        "url": "https://anaisvalentina.github.io/portafolio/"
+                    }
+                };
+
+                const schemaTag = document.getElementById("schema-data");
+                if (schemaTag) {
+                    schemaTag.textContent = JSON.stringify(schemaPayload, null, 2);
+                }
+            }
+
+            function updateMetaTags(trabajo) {
+                const shareUrl = `${window.location.origin}${window.location.pathname}?id=${trabajo.id}`;
+                const description = sanitizeDescription(trabajo.description);
+                const shortDescription = description.length > 155 ? `${description.slice(0, 152)}...` : description;
+                const pageTitle = `${trabajo.title} | Anaís Aedo`;
+                const imageUrl = trabajo.gallery || "https://raw.githubusercontent.com/anaisvalentina/imagenes/refs/heads/main/yo.webp";
+
+                document.title = pageTitle;
+
+                const updates = [
+                    ["meta-title", pageTitle],
+                    ["meta-description", shortDescription],
+                    ["og-title", pageTitle],
+                    ["og-description", shortDescription],
+                    ["og-image", imageUrl],
+                    ["og-image-alt", trabajo.title],
+                    ["og-url", shareUrl],
+                    ["twitter-title", pageTitle],
+                    ["twitter-description", shortDescription],
+                    ["twitter-image", imageUrl],
+                    ["twitter-url", shareUrl],
+                ];
+
+                updates.forEach(([idMeta, value]) => {
+                    const element = document.getElementById(idMeta);
+                    if (element) {
+                        element.setAttribute("content", value);
+                    }
+                });
+
+                const canonical = document.querySelector('link[rel="canonical"]');
+                if (canonical) {
+                    canonical.setAttribute("href", shareUrl);
+                }
+
+                updateSchema(trabajo, shortDescription, shareUrl, imageUrl);
+            }
+
             async function cargarTrabajo(raw, id) {
                 try {
                     let consulta = await fetch(raw);
@@ -51,6 +191,7 @@
                 <p>${trabajo.description}</p>
                 <img src="${trabajo.gallery}" alt="${trabajo.title}" loading="lazy">
             `;
+                        updateMetaTags(trabajo);
                     } else {
                         lugar.innerHTML = "<h3>Trabajo no encontrado</h3><p>El trabajo solicitado no existe en el portafolio.</p>";
                     }
@@ -71,7 +212,7 @@
                     return;
                 }
 
-                cargarTrabajo("https://raw.githubusercontent.com/disenouchile/portafolio/refs/heads/main/anais_aedo/trabajitos.json", id);
+                cargarTrabajo("https://raw.githubusercontent.com/anaisvalentina/portafolio/main/trabajitos.json", id);
             });
         </script>
     </body>
