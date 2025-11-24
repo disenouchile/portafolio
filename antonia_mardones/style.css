@@ -293,7 +293,7 @@ section.single img{
 .mugshot-frame {
     border: 8px solid #000;
     box-shadow: 20px 20px 0 #000;
-    background-color: #fff;
+    background-color: #af496c;
     padding: 20px;
     transform: rotate(2deg);
     transition: transform 0.3s ease;
