@@ -2,62 +2,62 @@
     {
         "id": 1,
         "photo": "https://raw.githubusercontent.com/aylineoff/imagenes/main/trabajos/trabajosdis1.webp",
-        "title": "La hora de conectarnos",
-        "course": "Proyecto III",
-        "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed rutrum hendrerit lorem. Curabitur sodales feugiat libero. Nullam in lorem ut sem tempor accumsan nec vitae lacus. Sed vel finibus ex, quis euismod lorem. Aliquam eget leo sapien. Proin velit diam, suscipit vitae mi vel, laoreet finibus nisl. Pellentesque a purus eleifend, congue ante nec, aliquam risus.",
+        "title": "Capsula del tiempo",
+        "course": "Proyecto II",
+        "description": "Hola",
         "gallery": "https://raw.githubusercontent.com/profesorfaco/herramientas/refs/heads/main/clase-13/gallery.webp"
     },
     {
         "id": 2,
         "photo": "https://raw.githubusercontent.com/aylineoff/imagenes/main/trabajos/trabajodis2.webp",
-        "title": "Marca Personal",
-        "course": "Proyecto II",
+        "title": "Objeto emocional",
+        "course": "Proyecto III",
         "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed rutrum hendrerit lorem. Curabitur sodales feugiat libero. Nullam in lorem ut sem tempor accumsan nec vitae lacus. Sed vel finibus ex, quis euismod lorem. Aliquam eget leo sapien. Proin velit diam, suscipit vitae mi vel, laoreet finibus nisl. Pellentesque a purus eleifend, congue ante nec, aliquam risus.",
         "gallery": "https://raw.githubusercontent.com/profesorfaco/herramientas/refs/heads/main/clase-13/gallery.webp"
     },
     {
         "id": 3,
         "photo": "https://raw.githubusercontent.com/aylineoff/imagenes/main/trabajos/trabajosdis3.webp",
-        "title": "Reflaura",
-        "course": "Proyecto III",
+        "title": "Objeto Luminico",
+        "course": "Proyecto II",
         "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed rutrum hendrerit lorem. Curabitur sodales feugiat libero. Nullam in lorem ut sem tempor accumsan nec vitae lacus. Sed vel finibus ex, quis euismod lorem. Aliquam eget leo sapien. Proin velit diam, suscipit vitae mi vel, laoreet finibus nisl. Pellentesque a purus eleifend, congue ante nec, aliquam risus.",
         "gallery": "https://raw.githubusercontent.com/profesorfaco/herramientas/refs/heads/main/clase-13/gallery.webp"
     },
     {
         "id": 4,
         "photo": "https://raw.githubusercontent.com/aylineoff/imagenes/main/trabajos/trabajosdis4.webp",
-        "title": "No es violencia, es resistencia",
-        "course": "Proyecto III",
+        "title": "Emsambles",
+        "course": "Procesos y Prototipo II",
         "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed rutrum hendrerit lorem. Curabitur sodales feugiat libero. Nullam in lorem ut sem tempor accumsan nec vitae lacus. Sed vel finibus ex, quis euismod lorem. Aliquam eget leo sapien. Proin velit diam, suscipit vitae mi vel, laoreet finibus nisl. Pellentesque a purus eleifend, congue ante nec, aliquam risus.",
         "gallery": "https://raw.githubusercontent.com/profesorfaco/herramientas/refs/heads/main/clase-13/gallery.webp"
     },
     {
         "id": 5,
         "photo": "https://raw.githubusercontent.com/aylineoff/imagenes/main/trabajos/trabajosdis5.webp",
-        "title": "Perfección",
-        "course": "Proyecto I",
+        "title": "Volatin",
+        "course": "Proyecto IV",
         "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed rutrum hendrerit lorem. Curabitur sodales feugiat libero. Nullam in lorem ut sem tempor accumsan nec vitae lacus. Sed vel finibus ex, quis euismod lorem. Aliquam eget leo sapien. Proin velit diam, suscipit vitae mi vel, laoreet finibus nisl. Pellentesque a purus eleifend, congue ante nec, aliquam risus.",
         "gallery": "https://raw.githubusercontent.com/profesorfaco/herramientas/refs/heads/main/clase-13/gallery.webp"
     },
     {
         "id": 6,
         "photo": "https://raw.githubusercontent.com/aylineoff/imagenes/main/trabajos/trabajodis7.webp",
-        "title": "Strawffee",
-        "course": "Proyecto II",
+        "title": "Prototipo Packaging",
+        "course": "Procesos y Prototipo",
         "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed rutrum hendrerit lorem. Curabitur sodales feugiat libero. Nullam in lorem ut sem tempor accumsan nec vitae lacus. Sed vel finibus ex, quis euismod lorem. Aliquam eget leo sapien. Proin velit diam, suscipit vitae mi vel, laoreet finibus nisl. Pellentesque a purus eleifend, congue ante nec, aliquam risus.",
         "gallery": "https://raw.githubusercontent.com/profesorfaco/herramientas/refs/heads/main/clase-13/gallery.webp"
     },
     {
         "id": 7,
         "photo": "https://raw.githubusercontent.com/aylineoff/imagenes/main/trabajos/trabajosdis8.webp",
-        "title": "Jardines",
-        "course": "Diseño, estética y sociedad",
+        "title": "Trabajo 3D Rhino Robot Juguete",
+        "course": "Configuración Visual II",
         "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed rutrum hendrerit lorem. Curabitur sodales feugiat libero. Nullam in lorem ut sem tempor accumsan nec vitae lacus. Sed vel finibus ex, quis euismod lorem. Aliquam eget leo sapien. Proin velit diam, suscipit vitae mi vel, laoreet finibus nisl. Pellentesque a purus eleifend, congue ante nec, aliquam risus.",
         "gallery": "https://raw.githubusercontent.com/profesorfaco/herramientas/refs/heads/main/clase-13/gallery.webp"
     },
     {
         "id": 8,
-        "photo": "https://raw.githubusercontent.com/aylineoff/imagenes/main/trabajos/trabajosdis9.webp",
+        "photo": "https://raw.githubusercontent.com/aylineoff/imagenes/main/trabajos/trabajodis9.webp",
         "title": "Tabuerete para tocador",
         "course": "Procesos y prototipos II",
         "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed rutrum hendrerit lorem. Curabitur sodales feugiat libero. Nullam in lorem ut sem tempor accumsan nec vitae lacus. Sed vel finibus ex, quis euismod lorem. Aliquam eget leo sapien. Proin velit diam, suscipit vitae mi vel, laoreet finibus nisl. Pellentesque a purus eleifend, congue ante nec, aliquam risus.",
@@ -65,7 +65,7 @@
     },
     {
         "id": 9,
-        "photo": "https://raw.githubusercontent.com/aylineoff/imagenes/main/trabajos/trabajosdis10.webp",
+        "photo": "https://raw.githubusercontent.com/aylineoff/imagenes/main/trabajos/trabajodis10.webp",
         "title": "Volantín",
         "course": "Proyecto IV",
         "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed rutrum hendrerit lorem. Curabitur sodales feugiat libero. Nullam in lorem ut sem tempor accumsan nec vitae lacus. Sed vel finibus ex, quis euismod lorem. Aliquam eget leo sapien. Proin velit diam, suscipit vitae mi vel, laoreet finibus nisl. Pellentesque a purus eleifend, congue ante nec, aliquam risus.",
@@ -74,56 +74,56 @@
     {
         "id": 10,
         "photo": "https://raw.githubusercontent.com/aylineoff/imagenes/main/trabajos/trabajosdis11.webp",
-        "title": "Identidad",
-        "course": "Proyecto II",
+        "title": "Taburete de Rauli y Alamo",
+        "course": "Procesos y Prototipo II",
         "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed rutrum hendrerit lorem. Curabitur sodales feugiat libero. Nullam in lorem ut sem tempor accumsan nec vitae lacus. Sed vel finibus ex, quis euismod lorem. Aliquam eget leo sapien. Proin velit diam, suscipit vitae mi vel, laoreet finibus nisl. Pellentesque a purus eleifend, congue ante nec, aliquam risus.",
         "gallery": "https://raw.githubusercontent.com/profesorfaco/herramientas/refs/heads/main/clase-13/gallery.webp"
     },
     {
         "id": 11,
         "photo": "https://raw.githubusercontent.com/aylineoff/imagenes/main/trabajos/trabajosdis12.webp",
-        "title": "Biomímesis",
-        "course": "Proyecto II",
+        "title": "Trabajo final Matematicas aplicadas a objetos",
+        "course": "Matematicas aplicadas al diseño",
         "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed rutrum hendrerit lorem. Curabitur sodales feugiat libero. Nullam in lorem ut sem tempor accumsan nec vitae lacus. Sed vel finibus ex, quis euismod lorem. Aliquam eget leo sapien. Proin velit diam, suscipit vitae mi vel, laoreet finibus nisl. Pellentesque a purus eleifend, congue ante nec, aliquam risus.",
         "gallery": "https://raw.githubusercontent.com/profesorfaco/herramientas/refs/heads/main/clase-13/gallery.webp"
     },
     {
         "id": 12,
         "photo": "https://raw.githubusercontent.com/aylineoff/imagenes/main/trabajos/trabajosdis13.webp",
-        "title": "Ensambles en Madera",
-        "course": "Procesos y Prototipos II",
+        "title": "Infografia Personal",
+        "course": "Comunicación del proyecto de diseño",
         "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed rutrum hendrerit lorem. Curabitur sodales feugiat libero. Nullam in lorem ut sem tempor accumsan nec vitae lacus. Sed vel finibus ex, quis euismod lorem. Aliquam eget leo sapien. Proin velit diam, suscipit vitae mi vel, laoreet finibus nisl. Pellentesque a purus eleifend, congue ante nec, aliquam risus.",
         "gallery": "https://raw.githubusercontent.com/profesorfaco/herramientas/refs/heads/main/clase-13/gallery.webp"
     },
     {
         "id": 13,
-        "photo": "https://martinaurzua.github.io/primera-nota/img/guante.webp",
-        "title": "Guante Tactimo",
-        "course": "Ergonomía y Factores Humanos",
+        "photo": "https://raw.githubusercontent.com/aylineoff/imagenes/main/trabajos//trabajosdis6.webp",
+        "title": "Fanzine Social",
+        "course": "Proyecto III",
         "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed rutrum hendrerit lorem. Curabitur sodales feugiat libero. Nullam in lorem ut sem tempor accumsan nec vitae lacus. Sed vel finibus ex, quis euismod lorem. Aliquam eget leo sapien. Proin velit diam, suscipit vitae mi vel, laoreet finibus nisl. Pellentesque a purus eleifend, congue ante nec, aliquam risus.",
         "gallery": "https://raw.githubusercontent.com/profesorfaco/herramientas/refs/heads/main/clase-13/gallery.webp"
     },
     {
         "id": 14,
-        "photo": "https://github.com/lenapereoso/primera-nota/blob/main/img/fto7.webp?raw=true",
-        "title": "Cubos en perspectiva y color",
-        "course": "Configuración Visual I",
+        "photo": "https://raw.githubusercontent.com/aylineoff/imagenes/main/trabajos//trabajosdis14.webp",
+        "title": "Producto Moddis",
+        "course": "Comunicación del proyecto de diseño",
         "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed rutrum hendrerit lorem. Curabitur sodales feugiat libero. Nullam in lorem ut sem tempor accumsan nec vitae lacus. Sed vel finibus ex, quis euismod lorem. Aliquam eget leo sapien. Proin velit diam, suscipit vitae mi vel, laoreet finibus nisl. Pellentesque a purus eleifend, congue ante nec, aliquam risus.",
         "gallery": "https://raw.githubusercontent.com/profesorfaco/herramientas/refs/heads/main/clase-13/gallery.webp"
     },
     {
         "id": 15,
-        "photo": "https://martinaurzua.github.io/primera-nota/img/simbolo.webp",
-        "title": "Símbolo",
-        "course": "Configuración Visual I",
+        "photo": "https://raw.githubusercontent.com/aylineoff/imagenes/main/trabajos//trabajosdis15.webp",
+        "title": "Vinilo Libro",
+        "course": "Proyecto I",
         "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed rutrum hendrerit lorem. Curabitur sodales feugiat libero. Nullam in lorem ut sem tempor accumsan nec vitae lacus. Sed vel finibus ex, quis euismod lorem. Aliquam eget leo sapien. Proin velit diam, suscipit vitae mi vel, laoreet finibus nisl. Pellentesque a purus eleifend, congue ante nec, aliquam risus.",
         "gallery": "https://raw.githubusercontent.com/profesorfaco/herramientas/refs/heads/main/clase-13/gallery.webp"
     },
     {
         "id": 16,
-        "photo": "https://raw.githubusercontent.com/valentinatroncoso/primera-nota/refs/heads/main/imagenes%20finales/se%C3%B1aletica.webp",
-        "title": "Señaletica",
-        "course": "Ergonomia y Factores Humanos",
+        "photo": "https://raw.githubusercontent.com/aylineoff/imagenes/main/trabajos//trabajosdis16.webp",
+        "title": "Composición de colores Dulce",
+        "course": "Representacion Visual",
         "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed rutrum hendrerit lorem. Curabitur sodales feugiat libero. Nullam in lorem ut sem tempor accumsan nec vitae lacus. Sed vel finibus ex, quis euismod lorem. Aliquam eget leo sapien. Proin velit diam, suscipit vitae mi vel, laoreet finibus nisl. Pellentesque a purus eleifend, congue ante nec, aliquam risus.",
         "gallery": "https://raw.githubusercontent.com/profesorfaco/herramientas/refs/heads/main/clase-13/gallery.webp"
     }
