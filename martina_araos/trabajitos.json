@@ -4,7 +4,7 @@
     "photo": "https://github.com/martina-af/fotos/blob/main/lampara.png?raw=true",
     "title": "Lámpara de metal",
     "course": "Procesos y prototipos II",
-    "professor": "Patricio Bascuñan",
+    "professor": "Patricio Araya",
     "description": "El proyecto consistió en la observación y comprensión de las propiedades constructivas de materiales laminares, problematizando el uso de plegado, troquelado y ensambles para crear una luminaria funcional. A partir del análisis inicial de posibilidades formales, se desarrolló una construcción facetada que integra funcionalidad y estética, reinterpretando el lenguaje geométrico de un referente arquitectónico a escala doméstica. La metodología permitió modelar y formalizar la estructura, evidenciando la capacidad de reconocer problemas de fabricación y adaptarlos, consolidando competencias para conceptualizar, representar y comunicar soluciones de diseño con dominio técnico y crítico.",
     "gallery": "https://github.com/martina-af/fotos/blob/main/lampara.webp?raw=true"
   },
@@ -112,7 +112,7 @@
     "photo": "https://github.com/martina-af/fotos/blob/main/pato.png?raw=true",
     "title": "Superficies geométricas",
     "course": "Matemáticas aplicadas al diseño",
-    "professor": "Nicolas Meza",
+    "professor": "Nicolás Meza",
     "description": "Este proyecto abordó la observación y comprensión de cuerpos geométricos para crear un objeto de diseño, en este caso un pato de goma. La problematización de la forma y el volumen permitió formalizar un modelo coherente y funcional, evidenciando competencias para conceptualizar, representar y comunicar soluciones de diseño mediante análisis crítico, modelado físico y exploración geométrica.",
     "gallery": "https://github.com/martina-af/fotos/blob/main/pato.webp?raw=true"
   },
@@ -144,4 +144,5 @@
     "gallery": "https://github.com/martina-af/fotos/blob/main/taburete.webp?raw=truee"
   }
 ]
+
 
