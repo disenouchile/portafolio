@@ -10,56 +10,56 @@
     {
         "id": 2,
         "photo": "https://dv29ast.github.io/imagenes/IMG/2.webp",
-        "title": "Metamorfosis",
+        "title": "Conexión",
         "course": "Proyecto I",
-        "description": "Representacion de la <em>transformación</em> que implica la metamorfosis por medio del collage. Opté por el significado más directo del concepto, con una <em>cambio físico de la forma</em> ",
+        "description": "Representación del concepto de la <em>conexión</em> por medio de la contraforma. El trabajo esta inspirado en los <em>enlaces</em> presentes en los elementos y compuestos químicos, particularmente en los <em>rubíes</em>, donde el <em>color rojo se debe a la presencia del flúor</em>, y de la misma forma la figuras, siendo <em>octaedros</em> con sus aristas conectadas con en el centro, corresponden a la <em>estructura química</em> de los rubíes",
        "gallery":"https://dv29ast.github.io/imagenes/IMG/2.webp"
     },
     {
         "id": 3,
         "photo": "https://dv29ast.github.io/imagenes/IMG/3.webp",
-        "title": "Conexión",
-        "course": "Representación Conceptual",
-        "description": "Representación del concepto de la <em>conexión</em> por medio de la contraforma. El trabajo esta inspirado en los <em>enlaces</em> presentes en los elementos y compuestos químicos, particularmente en los <em>rubíes</em>, donde el <em>color rojo se debe a la presencia del flúor</em>, y de la misma forma la figuras, siendo <em>octaedros</em> con sus aristas conectadas con en el centro, corresponden a la <em>estructura química</em> de los rubíes",
+        "title": "Tríptico de Don Quijote",
+        "course": "Proyecto I",
+        "description": "Tríptico basado en el libro de <em>Don Quijote</em>. Busca promover el libro a traves del uso de los elementos más reconocibles, como la <em>frase inicial</em> del libro, los <em>personajes más relevante</em>s.",
        "gallery":"https://dv29ast.github.io/imagenes/IMG/3.webp"
     },
     {
         "id": 4,
         "photo": "https://dv29ast.github.io/imagenes/IMG/4.webp",
-        "title": "Imagotipo de marca ASBOS",
-        "course": "Proyecto II",
-        "description": "Imagotipo de una <em>marca personal</em> con concepto de <em>transformación</em>, viendose reflejado en el uso de la <em>rosa negra</em>, que simboliza este concepto. La marca hipotetica busca <em>rediseñar ideas y objetos</em> con el objetivo de <em>personalizarlos</em> acorde al usuario. Toma inspiración del <em>arte y literatura gótica, de fantasía y fantasía oscura</em>.",
+        "title": "Poklipser: Pica de sangre",
+        "course": "Representación conceptual",
+        "description": "",
        "gallery":"https://dv29ast.github.io/imagenes/IMG/4.webp"
     },
     {
         "id": 5,
         "photo": "https://dv29ast.github.io/imagenes/IMG/5.webp",
-        "title": "Frente y reverso de tríptico de Don Quijote",
-        "course": "Proyecto I",
-        "description": "Tríptico basado en el libro de <em>Don Quijote</em>. Busca promover el libro a traves del uso de los elementos más reconocibles, como la <em>frase inicial</em> del libro, los <em>personajes más relevante</em>s.",
+        "title": "Imagotipo de marca ASBOS",
+        "course": "Proyecto II",
+        "description": "Imagotipo de una <em>marca personal</em> con concepto de <em>transformación</em>, viendose reflejado en el uso de la <em>rosa negra</em>, que simboliza este concepto. La marca hipotetica busca <em>rediseñar ideas y objetos</em> con el objetivo de <em>personalizarlos</em> acorde al usuario. Toma inspiración del <em>arte y literatura gótica, de fantasía y fantasía oscura</em>.",
        "gallery":"https://dv29ast.github.io/imagenes/IMG/5.webp"
     },
     {
         "id": 6,
         "photo": "https://dv29ast.github.io/imagenes/IMG/6.webp",
-        "title": "a",
-        "course": "a",
-        "description": "a",
+        "title": "Metamorfosis",
+        "course": "Representación Conceptual",
+        "description": "Representacion de la <em>transformación</em> que implica la metamorfosis por medio del collage. Opté por el significado más directo del concepto, con una <em>cambio físico de la forma</em>",
        "gallery":"https://dv29ast.github.io/imagenes/IMG/6.webp"
     },
     {
         "id": 7,
         "photo": "https://dv29ast.github.io/imagenes/IMG/7.webp",
-        "title": "a",
-        "course": "a",
+        "title": "Mastara de ave: matacaballos",
+        "course": "Herramientas computacionales",
         "description": "a",
-       "gallery":"https://dv29ast.github.io/imagenes/IMG/7.webp"
+       "gallery":"https://dv29ast.github.io/imagenes/IMG/7.webp" "https://dv29ast.github.io/imagenes/IMG/7.webp" "https://dv29ast.github.io/imagenes/IMG/7.webp"
     },
     {
         "id": 8,
         "photo": "https://dv29ast.github.io/imagenes/IMG/8.webp",
-        "title": "a",
-        "course": "a",
+        "title": "Ciudad humeda",
+        "course": "Representacion conceptual",
         "description": "a",
        "gallery":"https://dv29ast.github.io/imagenes/IMG/8.webp"
     }
