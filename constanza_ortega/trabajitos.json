@@ -81,53 +81,54 @@
     },
     {
         "id": 11,
-        "photo": "https://martinaurzua.github.io/primera-nota/img/cebolla.webp",
-        "title": "Biomímesis",
-        "course": "Proyecto II",
-        "description": "<p>Docente: .</p><p>Trabajo realizado con .</p><p>",
-        "gallery": "aqui iria un link"
+        "photo": "https://shootingstarcony.github.io/img_portafolio/photo_11.webp",
+        "title": "Moddis",
+        "course": "Comunicación del proyecto de diseño",
+        "description": "<p>Docente: Felix Maldonado.</p><p>Trabajo realizado con Giulia Pepe, Camila Calquín y Ayline Marín.</p>Propuesta de innovación social en diseño de juguetes que promueve la inclusión mediante un sistema de muñecas totalmente personalizables. Realicé la ilustración de personajes (técnica específica) con enfoque en la representación diversa. Se busca alinear los valores éticos con la presentación final.<p>",
+        "gallery": "https://shootingstarcony.github.io/img_portafolio/gallery_11.webp"
     },
     {
         "id": 12,
-        "photo": "https://martinaurzua.github.io/primera-nota/img/ensamble.webp",
-        "title": "Ensambles en Madera",
-        "course": "Procesos y Prototipos II",
-        "description": "<p>Docente: .</p><p>Trabajo realizado con .</p><p>",
-        "gallery": "aqui iria un link"
+        "photo": "https://shootingstarcony.github.io/img_portafolio/photo_12.webp",
+        "title": "Ciclón",
+        "course": "Color I",
+        "description": "<p>Docente: Andrea Contreras.</p>Proyecto centrado en la exploración cromática y la materialidad textil para conceptualizar el fenómeno de un ciclón. Se utilizó una composición de múltiples tiras de tela, variando en texturas y grosores, para construir una forma dinámica. La intervención de un color contrastante en el punto central se diseñó estratégicamente para acentuar la alusión visual al vórtice ciclónico, destacando el impacto visual de la interacción entre color y volumen. Un ejercicio que subraya la capacidad de las fibras y acabados textiles para comunicar conceptos complejos.<p>",
+        "gallery": "https://shootingstarcony.github.io/img_portafolio/gallery_12.webp"
     },
     {
         "id": 13,
-        "photo": "https://martinaurzua.github.io/primera-nota/img/guante.webp",
-        "title": "Guante Tactimo",
-        "course": "Ergonomía y Factores Humanos",
-        "description": "<p>Docente: .</p><p>Trabajo realizado con .</p><p>",
-        "gallery": "aqui iria un link"
+        "photo": "https://shootingstarcony.github.io/img_portafolio/photo_13.webp",
+        "title": "Orgánico",
+        "course": "Proyecto I",
+        "description": "<p>Docente: René Perea.</p>Proyecto que explora la abstracción geométrica aplicada a un concepto orgánico de crecimiento. Se desarrolló una estructura tridimensional mediante la articulación de formas triangulares en papel, creando una composición dinámica que evoca una expansión ascendente. El trabajo enfatiza la transformación de la bidimensionalidad del papel en volumen, simulando la vitalidad de un crecimiento orgánico a través de una construcción modular y material.<p>",
+        "gallery": "https://shootingstarcony.github.io/img_portafolio/gallery_13.webp"
     },
     {
         "id": 14,
-        "photo": "https://github.com/lenapereoso/primera-nota/blob/main/img/fto7.webp?raw=true",
-        "title": "Cubos en perspectiva y color",
-        "course": "Configuración Visual I",
-        "description": "<p>Docente: .</p><p>Trabajo realizado con .</p><p>",
-        "gallery": "aqui iria un link"
+        "photo": "https://shootingstarcony.github.io/img_portafolio/photo_14.webp",
+        "title": "Lámpara de metal",
+        "course": "Procesos y prototipos II",
+        "description": "<p>Docente: Antonio Marín </p><p>Trabajo realizado con Giulia Pepe.</p>Diseño y fabricación de una luminaria de mesa que articula la geometrización modular de un patrón orgánico (como las mariposas) en una estructura industrial. La pieza fue construida con láminas de zinc (para la pantalla angular) y tubo de acero dulce (para el soporte y la base hexagonal), demostrando competencia en la manipulación y ensamblaje de materiales metálicos rígidos. El diseño explora la transformación de la luz a través de facetas y ángulos, proyectando sombras dinámicas.<p>",
+        "gallery": "https://shootingstarcony.github.io/img_portafolio/gallery_14.webp"
     },
     {
         "id": 15,
-        "photo": "https://martinaurzua.github.io/primera-nota/img/simbolo.webp",
-        "title": "Símbolo",
-        "course": "Configuración Visual I",
-        "description": "<p>Docente: .</p><p>Trabajo realizado con .</p><p>",
-        "gallery": "aqui iria un link"
+        "photo": "https://shootingstarcony.github.io/img_portafolio/photo_15.webp",
+        "title": "Dripping Sun",
+        "course": "Taller básico I",
+        "description": "<p>Docente: Ricardo Romero y Andrea Contreras.</p><p>Trabajo realizado con Selene Figueroa y Xaviera Mundaca.</p>Instalación escultórica a gran escala (más de 16 metros) inspirada en la sinestesia de la pieza musical Dripping Sun. La obra materializa la composición sonora a través de formas orgánicas suspendidas, invitando al espectador a una inmersión sensorial. La materialidad se basa en láminas de mica (plástico termoplástico), tratadas mediante manipulación térmica controlada para inducir texturas y curvaturas únicas. El movimiento de las piezas flotantes y el juego de la iluminación refuerzan la experiencia, demostrando la capacidad de la materialidad alterada para generar atmósferas envolventes y traducir conceptos abstractos.<p>",
+        "gallery": "https://shootingstarcony.github.io/img_portafolio/gallery_15.webp"
     },
     {
         "id": 16,
-        "photo": "https://raw.githubusercontent.com/valentinatroncoso/primera-nota/refs/heads/main/imagenes%20finales/se%C3%B1aletica.webp",
-        "title": "Señaletica",
-        "course": "Ergonomia y Factores Humanos",
-        "description": "<p>Docente: .</p><p>Trabajo realizado con .</p><p>",
-        "gallery": "aqui iria un link"
+        "photo": "https://shootingstarcony.github.io/img_portafolio/photo_16.webp",
+        "title": "Cápsula del tiempo",
+        "course": "Proyecto II",
+        "description": "<p>Docente: Gabriela Pradenas.</p>Diseño conceptual de una Cápsula del Tiempo con el desafío de garantizar la conservación extrema de un objeto simbólico (la tercera mano) por un milenio. El proyecto se materializó a través de un prototipo rápido en papel, utilizando la gráfica y el collage para narrar el concepto, incluyendo etiquetas de tiempo y contenido.<p>",
+        "gallery": "https://shootingstarcony.github.io/img_portafolio/gallery_16.webp"
     }
 ]
+
 
 
 
