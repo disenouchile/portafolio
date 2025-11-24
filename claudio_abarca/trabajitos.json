@@ -59,7 +59,7 @@
         "id": 8,
         "photo": "https://raw.githubusercontent.com/Kupaa-0/Imagenes_Portafolio/refs/heads/main/img/Photo_8.webp",
         "title": "Infografía Forensic Architecture",
-        "course": "Procesos y prototipos III",
+        "course": "Proyecto III",
         "description": "<p><b>Trabajo realizado en conjunto con María Fernanda García.</b></p><p>",
         "gallery": "https://raw.githubusercontent.com/disenouchile/portafolio/refs/heads/main/claudio_abarca/trabajitos.json"
     },
@@ -83,7 +83,7 @@
         "id": 11,
         "photo": "https://raw.githubusercontent.com/Kupaa-0/Imagenes_Portafolio/refs/heads/main/img/Photo_11.webp",
         "title": "Pictograma Juegos Olímpicos",
-        "course": "...",
+        "course": "Configuración visual II",
         "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed rutrum hendrerit lorem. Curabitur sodales feugiat libero. Nullam in lorem ut sem tempor accumsan nec vitae lacus. Sed vel finibus ex, quis euismod lorem. Aliquam eget leo sapien. Proin velit diam, suscipit vitae mi vel, laoreet finibus nisl. Pellentesque a purus eleifend, congue ante nec, aliquam risus.",
         "gallery": "https://raw.githubusercontent.com/disenouchile/portafolio/refs/heads/main/claudio_abarca/trabajitos.json"
     },
@@ -97,16 +97,16 @@
     },
     {
         "id": 13,
-        "photo": "..",
-        "title": "..",
-        "course": "..",
+        "photo": "https://raw.githubusercontent.com/Kupaa-0/Imagenes_Portafolio/refs/heads/main/img/Photo_13.webp",
+        "title": "Infografía Máquina de escribir",
+        "course": "Configuración visual II",
         "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed rutrum hendrerit lorem. Curabitur sodales feugiat libero. Nullam in lorem ut sem tempor accumsan nec vitae lacus. Sed vel finibus ex, quis euismod lorem. Aliquam eget leo sapien. Proin velit diam, suscipit vitae mi vel, laoreet finibus nisl. Pellentesque a purus eleifend, congue ante nec, aliquam risus.",
         "gallery": "https://raw.githubusercontent.com/disenouchile/portafolio/refs/heads/main/claudio_abarca/trabajitos.json"
     },
     {
         "id": 14,
-        "photo": "https://github.com/lenapereoso/primera-nota/blob/main/img/fto7.webp?raw=true",
-        "title": "Cubos en perspectiva y color",
+        "photo": "https://raw.githubusercontent.com/Kupaa-0/Imagenes_Portafolio/refs/heads/main/img/Photo_14.webp",
+        "title": "Volantín",
         "course": "Configuración Visual I",
         "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed rutrum hendrerit lorem. Curabitur sodales feugiat libero. Nullam in lorem ut sem tempor accumsan nec vitae lacus. Sed vel finibus ex, quis euismod lorem. Aliquam eget leo sapien. Proin velit diam, suscipit vitae mi vel, laoreet finibus nisl. Pellentesque a purus eleifend, congue ante nec, aliquam risus.",
         "gallery": "https://raw.githubusercontent.com/disenouchile/portafolio/refs/heads/main/claudio_abarca/trabajitos.json"
