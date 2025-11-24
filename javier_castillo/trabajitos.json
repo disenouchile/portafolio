@@ -4,127 +4,127 @@
         "photo": "https://javviercc.github.io/fotos/photo01.webp",
         "title": "Prototipo Taburete de Cartón",
         "course": "Procesos y Prototipos II",
-        "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed rutrum hendrerit lorem. Curabitur sodales feugiat libero. Nullam in lorem ut sem tempor accumsan nec vitae lacus. Sed vel finibus ex, quis euismod lorem. Aliquam eget leo sapien. Proin velit diam, suscipit vitae mi vel, laoreet finibus nisl. Pellentesque a purus eleifend, congue ante nec, aliquam risus.",
-        "gallery": "https://raw.githubusercontent.com/profesorfaco/herramientas/refs/heads/main/clase-13/gallery.webp"
+        "description": "El prototipo expuesto, presentado en escalas 1:1 y 1:2, es una exploración inicial de un taburete fabricado en cartón. Su objetivo principal es simular el proceso constructivo y anticipar los desafíos y particularidades que podrían surgir al transferir este diseño a un material más definitivo como la madera. Esta fase de prueba con cartón permite identificar tempranamente posibles problemas de ensamblaje, estabilidad o resistencia, facilitando así la optimización del diseño antes de la producción final.",
+        "gallery": "https://javviercc.github.io/fotos/photo01.webp"
     },
     {
         "id": 2,
         "photo": "https://javviercc.github.io/fotos/photo02.webp",
         "title": "Taburete Lustrín",
         "course": "Procesos y Prototipos II",
-        "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed rutrum hendrerit lorem. Curabitur sodales feugiat libero. Nullam in lorem ut sem tempor accumsan nec vitae lacus. Sed vel finibus ex, quis euismod lorem. Aliquam eget leo sapien. Proin velit diam, suscipit vitae mi vel, laoreet finibus nisl. Pellentesque a purus eleifend, congue ante nec, aliquam risus.",
-        "gallery": "https://raw.githubusercontent.com/profesorfaco/herramientas/refs/heads/main/clase-13/gallery.webp"
+        "description": "El taburete terminado es el resultado de la rigurosa planificación que permitió llevar el diseño inicial de los prototipos a una ejecución precisa en madera. Su fabricación exigió una meticulosa planeación del orden de corte y ensamblado, vital para asegurar la exactitud de las uniones y minimizar la manipulación de piezas. Esta etapa se complementó con una organización eficiente del trabajo en pareja, donde las tareas se dividieron estratégicamente (e.g., preparación de componentes versus ensamblaje final). El objetivo fue optimizar los tiempos de producción y asegurar la calidad de cada ensamble.",
+        "gallery": "https://javviercc.github.io/fotos/photo02.webp"
     },
     {
         "id": 3,
         "photo": "https://javviercc.github.io/fotos/photo03.webp",
         "title": "Transportador de Picnic",
         "course": "Proyecto IV",
-        "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed rutrum hendrerit lorem. Curabitur sodales feugiat libero. Nullam in lorem ut sem tempor accumsan nec vitae lacus. Sed vel finibus ex, quis euismod lorem. Aliquam eget leo sapien. Proin velit diam, suscipit vitae mi vel, laoreet finibus nisl. Pellentesque a purus eleifend, congue ante nec, aliquam risus.",
-        "gallery": "https://raw.githubusercontent.com/profesorfaco/herramientas/refs/heads/main/clase-13/gallery.webp"
+        "description": "El contenedor de la imagen es un ejemplo de diseño funcional en cartón con el propósito de transportar elementos para un picnic. Su concepción estructural se destaca por haber sido lograda a partir del plegado y ensamblaje de una sola superficie, simplificando el proceso de fabricación. Gracias a esta metodología, el diseño resulta ser intrínsecamente armable y desarmable, lo que facilita tanto su distribución en plano como su posterior almacenamiento. La forma volumétrica del contenedor está especialmente diseñada para una distribución controlada del espacio, optimizada para llevar únicamente un número contado y preciso de elementos, promoviendo una solución de transporte ligera, eficiente y sostenible.",
+        "gallery": "https://javviercc.github.io/fotos/photo03.webp"
     },
     {
         "id": 4,
         "photo": "https://javviercc.github.io/fotos/photo04.webp",
         "title": "Infografía Punk",
         "course": "Proyecto III",
-        "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed rutrum hendrerit lorem. Curabitur sodales feugiat libero. Nullam in lorem ut sem tempor accumsan nec vitae lacus. Sed vel finibus ex, quis euismod lorem. Aliquam eget leo sapien. Proin velit diam, suscipit vitae mi vel, laoreet finibus nisl. Pellentesque a purus eleifend, congue ante nec, aliquam risus.",
-        "gallery": "https://raw.githubusercontent.com/profesorfaco/herramientas/refs/heads/main/clase-13/gallery.webp"
+        "description": "Esta infografía sobre el movimiento Punk utiliza una paleta de colores limitada (negro y magenta) para crear un alto contraste. La composición es deliberadamente desordenada, inspirada en la estética visual punk, pero diseñada para mantener la claridad informativa. El diseño incorpora técnicas análogas como el efecto de papel rasgado y el uso de estampas para generar una textura visual sucia y agresiva. Estos elementos refuerzan el espíritu subversivo del género y acentúan su carácter artesanal y directo.",
+        "gallery": "https://javviercc.github.io/fotos/photo04.webp"
     },
     {
         "id": 5,
         "photo": "https://javviercc.github.io/fotos/photo05.webp",
         "title": "Bandera de Parches Punk",
         "course": "Proyecto III",
-        "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed rutrum hendrerit lorem. Curabitur sodales feugiat libero. Nullam in lorem ut sem tempor accumsan nec vitae lacus. Sed vel finibus ex, quis euismod lorem. Aliquam eget leo sapien. Proin velit diam, suscipit vitae mi vel, laoreet finibus nisl. Pellentesque a purus eleifend, congue ante nec, aliquam risus.",
-        "gallery": "https://raw.githubusercontent.com/profesorfaco/herramientas/refs/heads/main/clase-13/gallery.webp"
+        "description": "Esta bandera complementa la infografía y está diseñada con el propósito de ser intervenida y modificada. Es una pieza textil que evoca un diseño patrio alterado. Su uso se centra en la apropiación y expresión personal, alentando al portador a rayarla, escribir sobre ella o coser parches. El objetivo es que cada individuo la haga suya, transformándola en una declaración visual única de su identidad, acorde al espíritu subversivo del Punk.",
+        "gallery": "https://javviercc.github.io/fotos/photo05.webp"
     },
     {
         "id": 6,
         "photo": "https://javviercc.github.io/fotos/photo06.webp",
         "title": "Packaging Unique Mug",
         "course": "Procesos y Prototipos I",
-        "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed rutrum hendrerit lorem. Curabitur sodales feugiat libero. Nullam in lorem ut sem tempor accumsan nec vitae lacus. Sed vel finibus ex, quis euismod lorem. Aliquam eget leo sapien. Proin velit diam, suscipit vitae mi vel, laoreet finibus nisl. Pellentesque a purus eleifend, congue ante nec, aliquam risus.",
-        "gallery": "https://raw.githubusercontent.com/profesorfaco/herramientas/refs/heads/main/clase-13/gallery.webp"
+        "description": "Este packaging, diseñado para la entrega de tazas personalizadas, incorpora un sistema de amortiguamiento interno capaz de adaptarse a diversas formas, asegurando la protección del contenido. Un rasgo clave de su diseño sostenible es que parte del material de protección es reutilizable como posavasos. Esto no solo evita el desperdicio, sino que también otorga una funcionalidad secundaria al packaging.",
+        "gallery": "https://javviercc.github.io/fotos/photo06.webp"
     },
     {
         "id": 7,
         "photo": "https://javviercc.github.io/fotos/photo07.webp",
         "title": "Collage Personal",
         "course": "Representación Conceptual",
-        "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed rutrum hendrerit lorem. Curabitur sodales feugiat libero. Nullam in lorem ut sem tempor accumsan nec vitae lacus. Sed vel finibus ex, quis euismod lorem. Aliquam eget leo sapien. Proin velit diam, suscipit vitae mi vel, laoreet finibus nisl. Pellentesque a purus eleifend, congue ante nec, aliquam risus.",
-        "gallery": "https://raw.githubusercontent.com/profesorfaco/herramientas/refs/heads/main/clase-13/gallery.webp"
+        "description": "Este collage es un ejercicio de visualidad creado mediante la superposición de recortes de diversas imágenes. Busca una síntesis gráfica que fusione los gustos personales del autor con una fotografía central modificada. La obra combina un retrato intervenido con referencias de la cultura pop y manga, utilizando la técnica del collage para construir una nueva imagen íntima y expresiva.",
+        "gallery": "https://javviercc.github.io/fotos/photo07.webp"
     },
     {
         "id": 8,
         "photo": "https://javviercc.github.io/fotos/photo08.webp",
         "title": "Ejercicio de Color y Valores",
         "course": "Configuración Visual I",
-        "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed rutrum hendrerit lorem. Curabitur sodales feugiat libero. Nullam in lorem ut sem tempor accumsan nec vitae lacus. Sed vel finibus ex, quis euismod lorem. Aliquam eget leo sapien. Proin velit diam, suscipit vitae mi vel, laoreet finibus nisl. Pellentesque a purus eleifend, congue ante nec, aliquam risus.",
-        "gallery": "https://raw.githubusercontent.com/profesorfaco/herramientas/refs/heads/main/clase-13/gallery.webp"
+        "description": "Este ejercicio práctico, realizado en témpera, tiene como objetivo reforzar el dominio del volumen, el color y la iluminación. Se centra en la representación de formas tridimensionales mediante el mezclado de colores para simular los efectos de luces y sombras. La técnica demuestra la comprensión de cómo la luz interactúa con el volumen, logrando profundidad y realismo en las composiciones.",
+        "gallery": "https://javviercc.github.io/fotos/photo08.webp"
     },
     {
         "id": 9,
         "photo": "https://javviercc.github.io/fotos/photo09.webp",
         "title": "Portada de Disco de Vinilo",
         "course": "Proyecto I",
-        "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed rutrum hendrerit lorem. Curabitur sodales feugiat libero. Nullam in lorem ut sem tempor accumsan nec vitae lacus. Sed vel finibus ex, quis euismod lorem. Aliquam eget leo sapien. Proin velit diam, suscipit vitae mi vel, laoreet finibus nisl. Pellentesque a purus eleifend, congue ante nec, aliquam risus.",
-        "gallery": "https://raw.githubusercontent.com/profesorfaco/herramientas/refs/heads/main/clase-13/gallery.webp"
+        "description": "Este diseño de portada de disco de vinilo es un ejercicio de síntesis visual. El objetivo era combinar la identidad gráfica de una banda específica (como The Smiths) con la temática e imaginería de un manga (To Your Eternity). La portada utiliza color plano y una ilustración de silueta para crear un diseño cohesivo y unificado, demostrando la habilidad para fusionar referencias culturales dispares.",
+        "gallery": "https://javviercc.github.io/fotos/photo09.webp"
     },
     {
         "id": 10,
         "photo": "https://javviercc.github.io/fotos/photo10.webp",
         "title": "Volantín",
         "course": "Proyecto IV",
-        "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed rutrum hendrerit lorem. Curabitur sodales feugiat libero. Nullam in lorem ut sem tempor accumsan nec vitae lacus. Sed vel finibus ex, quis euismod lorem. Aliquam eget leo sapien. Proin velit diam, suscipit vitae mi vel, laoreet finibus nisl. Pellentesque a purus eleifend, congue ante nec, aliquam risus.",
-        "gallery": "https://raw.githubusercontent.com/profesorfaco/herramientas/refs/heads/main/clase-13/gallery.webp"
+        "description": "Este volantín es un ejercicio práctico para el diseño de patrones. Se enfoca en la creación de un módulo base y el uso de su rotación y repetición para generar un diseño de gran simetría. La obra demuestra la comprensión de la composición modular y la transformación geométrica, aplicando la precisión del diseño a un objeto funcional.",
+        "gallery": "https://javviercc.github.io/fotos/photo10.webp"
     },
     {
         "id": 11,
         "photo": "https://javviercc.github.io/fotos/photo11.webp",
         "title": "Historia en 3 Fotografías",
         "course": "Proyecto II",
-        "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed rutrum hendrerit lorem. Curabitur sodales feugiat libero. Nullam in lorem ut sem tempor accumsan nec vitae lacus. Sed vel finibus ex, quis euismod lorem. Aliquam eget leo sapien. Proin velit diam, suscipit vitae mi vel, laoreet finibus nisl. Pellentesque a purus eleifend, congue ante nec, aliquam risus.",
-        "gallery": "https://raw.githubusercontent.com/profesorfaco/herramientas/refs/heads/main/clase-13/gallery.webp"
+        "description": "Este trabajo cuenta una historia en tres imágenes secuenciales. Las dos primeras fotografías se alteran sutilmente solo en sus colores para establecer la atmósfera. La tercera imagen contrasta al ser intervenida de forma analógica y radical, utilizando técnicas como el rasgado, volteo y quemado de la fotografía. Esta intervención física intensifica el mensaje narrativo, creando un fuerte contraste entre la edición digital y la manipulación manual.",
+        "gallery": "https://javviercc.github.io/fotos/photo11.webp"
     },
     {
         "id": 12,
         "photo": "https://javviercc.github.io/fotos/photo12.webp",
         "title": "Modificación Corporal con tela",
         "course": "Proyecto I",
-        "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed rutrum hendrerit lorem. Curabitur sodales feugiat libero. Nullam in lorem ut sem tempor accumsan nec vitae lacus. Sed vel finibus ex, quis euismod lorem. Aliquam eget leo sapien. Proin velit diam, suscipit vitae mi vel, laoreet finibus nisl. Pellentesque a purus eleifend, congue ante nec, aliquam risus.",
-        "gallery": "https://raw.githubusercontent.com/profesorfaco/herramientas/refs/heads/main/clase-13/gallery.webp"
+        "description": "Este trabajo utiliza tela y alambre tensado como estructura para crear un objeto escultural. El diseño tiene el propósito de modificar la corporalidad del usuario. Mediante la caída de la tela y el uso de un manto que oscurece la figura, la pieza busca difuminar la silueta humana, creando una figura ambigua y dramática.",
+        "gallery": "https://javviercc.github.io/fotos/photo12.webp"
     },
     {
         "id": 13,
         "photo": "https://javviercc.github.io/fotos/photo13.webp",
         "title": "Ensambles de Madera",
         "course": "Procesos y Prototipos II",
-        "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed rutrum hendrerit lorem. Curabitur sodales feugiat libero. Nullam in lorem ut sem tempor accumsan nec vitae lacus. Sed vel finibus ex, quis euismod lorem. Aliquam eget leo sapien. Proin velit diam, suscipit vitae mi vel, laoreet finibus nisl. Pellentesque a purus eleifend, congue ante nec, aliquam risus.",
-        "gallery": "https://raw.githubusercontent.com/profesorfaco/herramientas/refs/heads/main/clase-13/gallery.webp"
+        "description": "Este es un ejercicio formativo para aprender y ejecutar ensambles básicos de madera. Su característica principal es que fue hecho completamente a mano con el fin de valorar el esfuerzo preciso que se requiere para lograr la exactitud y el ajuste perfecto de las uniones. El trabajo enfatiza el dominio técnico y la comprensión estructural del oficio artesanal.",
+        "gallery": "https://javviercc.github.io/fotos/photo13.webp"
     },
     {
         "id": 14,
         "photo": "https://javviercc.github.io/fotos/photo14.webp",
         "title": "Cartas de Tarot Temáticas",
         "course": "Representación Conceptual",
-        "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed rutrum hendrerit lorem. Curabitur sodales feugiat libero. Nullam in lorem ut sem tempor accumsan nec vitae lacus. Sed vel finibus ex, quis euismod lorem. Aliquam eget leo sapien. Proin velit diam, suscipit vitae mi vel, laoreet finibus nisl. Pellentesque a purus eleifend, congue ante nec, aliquam risus.",
-        "gallery": "https://raw.githubusercontent.com/profesorfaco/herramientas/refs/heads/main/clase-13/gallery.webp"
+        "description": "Este trabajo consistió en diseñar cartas de tarot para una franquicia específica (The Truman Show), utilizando la estética Pop Art. El punto clave fue lograr la coherencia visual y conceptual entre el arquetipo de la carta (el Tarot), el personaje/escena de la franquicia, y el estilo gráfico. El proyecto demuestra la capacidad de sintetizar narrativas complejas en un diseño unificado y estilizado.",
+        "gallery": "https://javviercc.github.io/fotos/photo14.webp"
     },
     {
         "id": 15,
         "photo": "https://javviercc.github.io/fotos/photo15.webp",
         "title": "Lampara de Metal",
         "course": "Procesos y Prototipos II",
-        "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed rutrum hendrerit lorem. Curabitur sodales feugiat libero. Nullam in lorem ut sem tempor accumsan nec vitae lacus. Sed vel finibus ex, quis euismod lorem. Aliquam eget leo sapien. Proin velit diam, suscipit vitae mi vel, laoreet finibus nisl. Pellentesque a purus eleifend, congue ante nec, aliquam risus.",
-        "gallery": "https://raw.githubusercontent.com/profesorfaco/herramientas/refs/heads/main/clase-13/gallery.webp"
+        "description": "Este modelo de lámpara es un ejercicio formativo clave para aprender las bases de la manipulación del metal. El trabajo integra varias técnicas fundamentales: plegado y cortado de láminas de zinc, doblado de tubos de acero, soldado de punto en las láminas, y la unión final mediante remaches pop. La pieza demuestra la comprensión práctica de las propiedades del material y las habilidades esenciales de ensamblaje en metalurgia.",
+        "gallery": "https://javviercc.github.io/fotos/photo15.webp"
     },
     {
         "id": 16,
         "photo": "https://javviercc.github.io/fotos/photo16.webp",
         "title": "Intervención Corporal",
         "course": "Proyecto II",
-        "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed rutrum hendrerit lorem. Curabitur sodales feugiat libero. Nullam in lorem ut sem tempor accumsan nec vitae lacus. Sed vel finibus ex, quis euismod lorem. Aliquam eget leo sapien. Proin velit diam, suscipit vitae mi vel, laoreet finibus nisl. Pellentesque a purus eleifend, congue ante nec, aliquam risus.",
-        "gallery": "https://raw.githubusercontent.com/profesorfaco/herramientas/refs/heads/main/clase-13/gallery.webp"
+        "description": "Este trabajo consiste en una modificación corporal artística inspirada en la morfología y características de la Nalca (una planta nativa). La pieza busca una hibridación entre la forma vegetal y la corporalidad humana, explorando una simbiosis visual y táctil. Para lograr este efecto, se experimentó con una diversidad de materiales, incluyendo goma EVA, papel crepé y resina epoxi, que se manipularon para imitar las texturas y volúmenes de la planta. El objetivo principal fue resaltar lo visceral y orgánico del diseño, creando una conexión profunda con la naturaleza y explorando la fusión entre lo biológico y lo corporal a través de la materialidad.",
+        "gallery": "https://javviercc.github.io/fotos/photo16.webp"
     }
 ]
