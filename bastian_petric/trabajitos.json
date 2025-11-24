@@ -4,7 +4,7 @@
     "photo": "https://bastich03.github.io/Photos/photo_1.webp",
     "title": "Taburete de Madera",
     "course": "Proceso y Prototipos II",
-    "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed rutrum hendrerit lorem. Curabitur sodales feugiat libero. Nullam in lorem ut sem tempor accumsan nec vitae lacus. Sed vel finibus ex, quis euismod lorem.",
+    "description": "Este proyecto surge del objetivo fundamental de observar y comprender el entorno habitado bajo una mirada crítica, identificando en el diagnóstico inicial la necesidad de optimizar la funcionalidad en espacios domésticos reducidos. La propuesta materializa una solución innovadora que fusiona la ergonomía del descanso con la utilidad de una escalera de alcance, respondiendo a un problema esencial de uso cotidiano. A través de metodologías propias de la disciplina, se formalizó un modelo físico en madera maciza donde el contraste tonal y la visibilidad de los ensambles no solo cumplen una función estructural, sino que comunican la honestidad constructiva del diseño. Este resultado evidencia la adquisición de competencias claves para conceptualizar, representar y materializar propuestas de diseño que dialogan coherentemente con las necesidades del usuario.",
     "gallery": "https://github.com/disenouchile/portafolio/blob/main/bastian_petric/IMG/TABURETE.png?raw=true"
   },
   {
@@ -126,4 +126,5 @@
     "course": "Proyecto IV",
     "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed rutrum hendrerit lorem.",
     "gallery": "https://github.com/catadunsmore/primera-nota/blob/main/img/foto-02.webp?raw=true"
+  }
 ]
