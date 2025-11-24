@@ -3,7 +3,26 @@
     <head>
         <meta charset="UTF-8" />
         <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-        <title>Nombre Apellido</title>
+        <!-- Primary Meta Tags -->
+<title>Portafolio Alanis Soto Quezada</title>
+<meta name="title" content="Portafolio Alanis Soto Quezada" />
+<meta name="description" content="Hola, este es mi portafolio, espero les guste!" />
+
+<!-- Open Graph / Facebook -->
+<meta property="og:type" content="website" />
+<meta property="og:url" content="https://metatags.io/" />
+<meta property="og:title" content="Portafolio Alanis Soto Quezada" />
+<meta property="og:description" content="Hola, este es mi portafolio, espero les guste!" />
+<meta property="og:image" content="https://metatags.io/images/meta-tags.png" />
+
+<!-- X (Twitter) -->
+<meta property="twitter:card" content="summary_large_image" />
+<meta property="twitter:url" content="https://disenouchile.github.io/portafolio/alanis_soto" />
+<meta property="twitter:title" content="Portafolio Alanis Soto Quezada" />
+<meta property="twitter:description" content="Hola, este es mi portafolio, espero les guste!" />
+<meta property="twitter:image" content="https://disenouchile.github.io/portafolio/alanis_soto/Fotos/miniatura.png" />
+
+<!-- Meta Tags Generated with https://metatags.io -->
         <link href="style.css" rel="stylesheet" />
     </head>
     <body>
@@ -30,8 +49,8 @@
         <footer class="footer">
             <p>Alanis Soto © 2025</p>
             <div class="social-links">
-                <a href="#">GitHub</a>
-                <a href="#">LinkedIn</a>
+                <a href="https://github.com/Alanissq">GitHub</a>
+                <a href="https://www.linkedin.com/in/alanis-alexandra-soto-798a91343/">LinkedIn</a>
             </div>
         </footer>
         <script>
@@ -52,7 +71,8 @@
                         lugar.innerHTML = `
                 <h3>${trabajo.title}</h3>
                 <h4>${trabajo.course}</h4>
-                <p>${trabajo.description}</p>
+                <h5>${trabajo.professor}</h5>
+                ${trabajo.description}
                 <img src="${trabajo.gallery}" alt="${trabajo.title}" loading="lazy">
             `;
                     } else {
@@ -75,7 +95,7 @@
                     return;
                 }
 
-                cargarTrabajo("https://raw.githubusercontent.com/disenouchile/portafolio/refs/heads/main/alanis_soto/trabajitos.json", id);
+                cargarTrabajo("https://disenouchile.github.io/portafolio/alanis_soto/trabajitos.json", id);
             });
         </script>
     </body>

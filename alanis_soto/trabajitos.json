@@ -1,131 +1,147 @@
 [
     {
         "id": 1,
-        "photo": "https://raw.githubusercontent.com/disenouchile/portafolio/refs/heads/main/alanis_soto/Fotos/moneda.webp",
+        "photo": "https://disenouchile.github.io/portafolio/alanis_soto/Fotos/Mascara_Proyecto.webp",
         "title": "Intervención en Moneda",
         "course": "Proyecto II",
-        "description": "",
-        "gallery": ""
+        "professor": "Docente: Patricio Araya",
+        "description": "<p>Esta intervención ocurrió ante el Palacio de La Moneda, su meta mostrar al mundo la difícil situación que enfrentan los animales chilenos en peligro de desaparecer. Este proyecto se propuso dejar una huella en la vista, usando elementos sencillos con mucho significado.</p><p>Para esta acción, se diseñó una máscara de cartulina con la técnica de papercraft, que reflejaba la imagen de animales autóctonos en peligro. Junto a la máscara, folletos informativos se diseñaron y entregaron, contaban datos de la drástica reducción de estas especies, y las razones detrás de esto como la pérdida de su hogar y la influencia humana, además, de un qr con la plantilla de la mascara para descargar y hacerla uno mismo.</p><p>La actuación, que incluía movimientos y gestos corporales, buscaba expresar el comportamiento y fragilidad de los animales, tratando de unir al público con una mezcla de arte, diseño, y activismo. La presentación provocó curiosidad, dudas y dialogo en el sitio, alcanzando así el objetivo de educar y despertar la conciencia mediante un encuentro artístico directo.</p>",
+        "gallery": "https://disenouchile.github.io/portafolio/alanis_soto/Fotos/moneda.webp"
     },
     {
         "id": 2,
-        "photo": "https://raw.githubusercontent.com/disenouchile/portafolio/refs/heads/main/alanis_soto/Fotos/kutral.webp",
-        "title": "Ritual kÜtral",
+        "photo": "https://disenouchile.github.io/portafolio/alanis_soto/Fotos/Ritual_Kutral.webp",
+        "title": "Ritual kutral",
         "course": "Proyecto",
-        "description": "",
-        "gallery": ""
+        "professor": "Docente: Cristian Basaez",
+        "description": "<p>Este proyecto consistió en la intervención artística de una fotografía personal, explorando la identidad y la percepción a través del collage y la manipulación manual. La imagen original fue transformada mediante recortes, superposiciones y el uso de colores, generando una composición que combina lo figurativo con lo abstracto.</p><p>A través de estos recursos gráficos, el retrato adquirió una lectura nueva, donde los fragmentos y contrastes cromáticos revelan emociones, pensamientos y capas simbólicas que no están presentes en la fotografía inicial. El proceso manual permitió experimentar con texturas, volúmenes y ritmos visuales, convirtiendo un retrato común en una pieza expresiva y única.</p><p>El resultado es un trabajo que reflexiona sobre la autoimagen, la reinterpretación del cuerpo y la construcción visual del yo, utilizando el collage como una herramienta de exploración creativa y personal</p>",
+        "gallery": "https://disenouchile.github.io/portafolio/alanis_soto/Fotos/kutral.webp"
     },
     {
         "id": 3,
-        "photo": "https://raw.githubusercontent.com/disenouchile/portafolio/refs/heads/main/alanis_soto/Fotos/lamina.webp",
+        "photo": "https://disenouchile.github.io/portafolio/alanis_soto/Fotos/Banco_Modular.webp",
         "title": "La unión hace la junta",
         "course": "Proyecto",
-        "description": "",
-        "gallery": ""
+        "professor": "Docente: Cristian Basaez",
+        "description": "<p>Este proyecto consistió en el diseño y construcción de un banco modular de madera, creado para la Junta de Vecinos de Plaza Bogotá con el propósito de optimizar y adaptar el uso del espacio comunitario, el cual es reducido y requiere mobiliario versátil.</p><p>El banco fue diseñado para ser fácilmente armado y desarmado, permitiendo a la comunidad reorganizar el espacio según sus actividades: reuniones, talleres, eventos infantiles o instancias de descanso. Su sistema de encaje —sin necesidad de tornillos— facilita el montaje rápido y contribuye a una estructura ligera pero estable.</p><p>Fabricado en madera terciada, el diseño destaca por su simpleza, funcionalidad y limpieza formal, integrándose de manera armónica en distintos contextos. La modularidad permite combinar múltiples unidades para crear diversas configuraciones, fomentando la flexibilidad y la participación comunitaria.</p><p>Este proyecto buscó entregar una solución accesible, práctica y duradera que apoyara el trabajo cotidiano de la Junta de Vecinos, potenciando el uso activo de su limitado espacio.</p>",
+        "gallery": "https://disenouchile.github.io/portafolio/alanis_soto/Fotos/lamina.webp"
     },
     {
         "id": 4,
-        "photo": "https://raw.githubusercontent.com/disenouchile/portafolio/refs/heads/main/alanis_soto/Fotos/ergonomia.webp",
+        "photo": "https://disenouchile.github.io/portafolio/alanis_soto/Fotos/Mesa_Ergonomia.webp",
         "title": "Mesa para trabajos",
         "course": "Ergonomia",
-        "description": "",
-        "gallery": ""
+        "professor": "Docente: Claudio Ribalta",
+        "description": "<p>Este proyecto consistió en el diseño de una mesa ergonómica especializada para trabajadores que realizan labores con metales y aceros. El objetivo principal fue mejorar la postura, reducir la fatiga física y aumentar la eficiencia durante las tareas repetitivas propias del trabajo manual en taller.</p><p>La mesa fue construida en madera para lograr una estructura resistente pero ligera, con un diseño inclinado que acompaña la posición natural del cuerpo al momento de realizar cortes, ajustes, uniones y trabajos de precisión. La superficie superior se instala sobre una base sólida, elevándose mediante soportes que permiten un ángulo de trabajo más cómodo, disminuyendo la curvatura excesiva de la espalda y el levantamiento constante del material.</p><p>El diseño se fundamentó en principios ergonómicos: alturas adecuadas, inclinación calculada y espacio suficiente para manipular piezas de manera segura. Con ello, la mesa busca reducir riesgos musculoesqueléticos y mejorar la experiencia laboral de los trabajadores.</p><p>Este proyecto demuestra cómo el diseño puede aportar soluciones prácticas y funcionales en contextos industriales, potenciando el bienestar y la productividad del equipo.</p>",
+        "gallery": "https://disenouchile.github.io/portafolio/alanis_soto/Fotos/ergonomia.webp"
     },
     {
         "id": 5,
-        "photo": "https://raw.githubusercontent.com/disenouchile/portafolio/refs/heads/main/alanis_soto/Fotos/mockup.webp",
+        "photo": "https://disenouchile.github.io/portafolio/alanis_soto/Fotos/Bar_ilum.webp",
         "title": "Mockup ilum Bar",
         "course": "Procesos y prototipos I",
-        "description": "",
-        "gallery": ""
+        "professor": "Docente: Pamela Fuentes",
+        "description": "<p>Este proyecto corresponde al desarrollo de un mockup de página web para ILUM, una marca ficticia basada en el concepto de un bar de ilusiones ópticas. La propuesta buscó construir una identidad visual inmersiva, donde la estética del sitio transmitiera la experiencia sensorial y lúdica del lugar.</p><p>El diseño integra elementos gráficos propios de la distorsión visual, geometría y contrastes lumínicos, creando un ambiente digital coherente con la idea de un bar donde lo cotidiano se transforma en una experiencia perceptiva distinta. La interfaz fue pensada para ser intuitiva, moderna y atractiva, manteniendo un equilibrio entre funcionalidad y estilo.</p><p>El mockup incluye secciones clave como inicio, menú, experiencias, reservas y galería, todas desarrolladas con una narrativa visual clara que guía al usuario y refuerza el concepto central del proyecto: jugar con la percepción y sorprender desde el diseño.</p><p>Este trabajo explora cómo una marca ficticia puede construirse desde su esencia conceptual hasta su representación digital, articulando identidad, diseño gráfico y experiencia de usuario.</p>",
+        "gallery": "https://disenouchile.github.io/portafolio/alanis_soto/Fotos/mockup.webp"
     },
     {
         "id": 6,
-        "photo": "https://raw.githubusercontent.com/disenouchile/portafolio/refs/heads/main/alanis_soto/Fotos/Proyecto_2.webp",
+        "photo": "https://disenouchile.github.io/portafolio/alanis_soto/Fotos/Proyecto_Neruda.webp",
         "title": "Diente de leon",
         "course": "Proyecto II",
-        "description": "",
-        "gallery": ""
+        "professor": "Docente: Patricio Araya",
+        "description": "<p>Este proyecto es una interpretación visual y material de un poema de Pablo Neruda, donde se buscó traducir la sensibilidad del texto hacia una pieza tridimensional que dialogara con el entorno natural. La instalación consistió en un diente de león construido a mano, utilizando una estructura ligera que permitía que la pieza se moviera con el viento, evocando la fragilidad y el carácter efímero presentes en la obra del poeta.</p><p>La flor fue elaborada mediante técnicas manuales, con una base estable y un tallo recubierto que sostiene el gran volumen blanco superior, compuesto por múltiples módulos que simulan las semillas listas para volar. Su montaje en la playa de Isla Negra —lugar estrechamente vinculado a la vida y obra de Neruda— permitió que la brisa marina activara la pieza, generando movimientos suaves y orgánicos que reforzaban la idea de tránsito, libertad y transformación.</p>",
+        "gallery": "https://disenouchile.github.io/portafolio/alanis_soto/Fotos/Proyecto_2.webp"
     },
     {
         "id": 7,
-        "photo": "https://raw.githubusercontent.com/disenouchile/portafolio/refs/heads/main/alanis_soto/Fotos/rp.webp",
+        "photo": "https://disenouchile.github.io/portafolio/alanis_soto/Fotos/Venganza_RP.webp",
         "title": "Venganza",
         "course": "Representación Conceptual",
-        "description": "",
-        "gallery": ""
+        "professor": "Docente: Grace Mallea",
+        "description": "<p>Este proyecto consistió en la creación de una lámina ilustrada que interpretara visualmente la palabra “venganza”, explorando su carga emocional y simbólica. La obra fue realizada en una hoja de bloc utilizando una combinación de tinta china, acrílico, acuarela, lápices pasta y tiralíneas, lo que permitió trabajar contrastes intensos, texturas expresivas y detalles precisos.</p><p>La mezcla de materiales generó una composición dinámica, donde los colores, las líneas y las superposiciones construyen una atmósfera tensa y dramática. Cada técnica aportó un carácter particular: la tinta china entregó profundidad y sombras marcadas; el acrílico añadió fuerza cromática; la acuarela aportó transiciones suaves; los lápices pasta permitieron acentos vibrantes; y el tiralíneas aportó precisión y ritmo gráfico.</p><p>El resultado es una pieza que representa la venganza desde un enfoque simbólico y emocional, utilizando el lenguaje visual para transmitir intensidad y conflicto interior.</p>",
+        "gallery": "https://disenouchile.github.io/portafolio/alanis_soto/Fotos/rp.webp"
     },
     {
         "id": 8,
-        "photo": "https://raw.githubusercontent.com/disenouchile/portafolio/refs/heads/main/alanis_soto/Fotos/matriz.webp",
+        "photo": "https://disenouchile.github.io/portafolio/alanis_soto/Fotos/Analisis_alcachofa.webp",
         "title": "Analisis de la Alcachofa",
         "course": "Proyecto I",
-        "description": "",
-        "gallery": ""
+        "professor": "Docente: Gabriela Pradenas",
+        "description": "<p>Este proyecto comenzó con un análisis detallado de la alcachofa, estudiando su forma, estructura y organización natural. A través de dibujo de observación, se registraron las capas, ritmos y geometrías que conforman el vegetal, poniendo atención a la repetición de sus brácteas, la disposición radial y los cambios de textura.</p><p>A partir de este estudio morfológico, se desarrolló un patrón gráfico basado en las formas identificadas. La reinterpretación de la alcachofa se transformó en un módulo visual que conserva la esencia orgánica del objeto, pero traducido a un lenguaje más abstracto y repetitivo propio del diseño de patrones.</p><p>El proceso permitió explorar cómo un elemento natural puede convertirse en una unidad gráfica funcional, aplicable a superficies, textiles o composiciones visuales, demostrando la relación entre observación, análisis y creación.</p>",
+        "gallery": "https://disenouchile.github.io/portafolio/alanis_soto/Fotos/matriz.webp"
     },
     {
         "id": 9,
-        "photo": "https://raw.githubusercontent.com/disenouchile/portafolio/refs/heads/main/alanis_soto/Fotos/proyecto_1.jpeg",
+        "photo": "https://disenouchile.github.io/portafolio/alanis_soto/Fotos/Dos_colores.webp",
         "title": "Representación 2 colores",
         "course": "Proyecto I",
-        "description": "",
-        "gallery": ""
+        "professor": "Docente: Gabriela Pradenas",
+        "description": "<p>Este proyecto consistió en la representación de dos colores sobre una lámina, diseñada para ser observada con una fuente de luz colocada en la parte posterior. El objetivo fue estudiar cómo la retroiluminación transforma, mezcla y modifica la percepción del color en una superficie translúcida.</p><p>La lámina fue trabajada con materiales que permiten la filtración parcial de la luz, logrando que los colores superpuestos o yuxtapuestos generaran nuevos matices, vibraciones y transparencias al ser iluminados desde atrás. Este experimento permitió explorar fenómenos como la saturación, la fusión cromática y la variación de tono según la intensidad luminosa.</p><p>El resultado es una pieza que demuestra cómo la luz puede convertirse en un elemento activo dentro del diseño, alterando la lectura visual y ampliando las posibilidades expresivas del color.</p>",
+        "gallery": "https://disenouchile.github.io/portafolio/alanis_soto/Fotos/proyecto_1.jpeg"
     },
     {
         "id": 10,
-        "photo": "https://raw.githubusercontent.com/disenouchile/portafolio/refs/heads/main/alanis_soto/Fotos/pyp2.jpeg",
+        "photo": "https://disenouchile.github.io/portafolio/alanis_soto/Fotos/PYP_2.webp",
         "title": "Exploración en cartón",
         "course": "Procesos y prototipos II",
-        "description": "",
-        "gallery": ""
+        "professor": "Docente: Astrid Osorio",
+        "description": "<p>Este proyecto fue una exploración morfológica basada en la transformación de volúmenes simples mediante fuerzas externas. El proceso comenzó con la creación de un cubo formado a partir de un tubo de plotter, generado como una estructura inicial flexible y manipulable.</p><p>Una vez construido el volumen base, se aplicó una compresión controlada utilizando hilo, lo que provocó deformaciones naturales en el cubo. Esta presión generó nuevas curvas, pliegues y tensiones que definieron una silueta completamente distinta a la forma original.</p><p>A partir de esta estructura deformada, se procedió a replicar la nueva geometría en cartón, interpretando sus líneas, superficies y tensiones para construir un objeto tridimensional más estable. El resultado es una pieza que evidencia cómo la acción física sobre un volumen simple puede dar origen a nuevas formas orgánicas y expresivas, revelando el potencial del cartón como material para la experimentación espacial.</p>",
+        "gallery": "https://disenouchile.github.io/portafolio/alanis_soto/Fotos/pyp2.jpeg"
     },
     {
         "id": 11,
-        "photo": "https://raw.githubusercontent.com/disenouchile/portafolio/refs/heads/main/alanis_soto/Fotos/samsa.jpeg",
+        "photo": "https://disenouchile.github.io/portafolio/alanis_soto/Fotos/Samsa_Proyecto.webp",
         "title": "Logo Samsa",
         "course": "Proyecto III",
-        "description": "",
-        "gallery": ""
+        "professor": "Docente: Clarisa Menteguiaga",
+        "description": "<p>Este proyecto consistió en el desarrollo del logo para “SAMSA”, una marca ficticia de snacks altos en proteínas elaborados a partir de insectos. El objetivo fue crear una identidad visual que comunicara innovación, sustentabilidad y nutrición, evitando los prejuicios que suelen rodear este tipo de alimentos.</p><p>El diseño del logotipo buscó transmitir una estética moderna y accesible, utilizando formas limpias y una composición que sugiere movimiento y energía, características asociadas a un producto saludable y funcional. La elección del nombre y su representación gráfica reforzan la idea de un snack alternativo, sostenible y alineado con nuevas tendencias alimentarias.</p><p>La propuesta visual posiciona a SAMSA como una marca fresca y atrevida, capaz de introducir un concepto novedoso en un mercado tradicional, apoyándose en un logotipo claro, versátil y reconocible.</p>",
+        "gallery": "https://disenouchile.github.io/portafolio/alanis_soto/Fotos/samsa.jpeg"
     },
     {
         "id": 12,
-        "photo": "https://raw.githubusercontent.com/disenouchile/portafolio/refs/heads/main/alanis_soto/Fotos/foto de cartas.png",
+        "photo": "https://disenouchile.github.io/portafolio/alanis_soto/Fotos/Tarot_Terror.webp",
         "title": "Tarot de Terror",
         "course": "Representación Conceptual",
-        "description": "",
-        "gallery": ""
+        "professor": "Docente: Grace Mallea",
+        "description": "<p>Este proyecto consistió en la creación de una serie de cartas tipo tarot, desarrolladas a partir de películas de terror icónicas. Cada carta reinterpretó escenas, personajes o símbolos característicos del cine de horror, integrándolos en la estructura visual y simbólica tradicional del tarot.</p><p>El trabajo combinó referencias cinematográficas con los arquetipos propios de las cartas —como El Loco, La Luna o La Torre—, generando una colección que mezcla estética, narrativa y cultura popular. Las ilustraciones fueron desarrolladas manualmente y luego digitalizadas, cuidando detalles de color, textura y composición para mantener el ambiente inquietante y atmosférico propio del género.</p><p>El objetivo del proyecto fue explorar cómo el lenguaje del tarot puede adaptarse a nuevas temáticas y cómo las películas de terror, a través de su iconografía, pueden transformarse en símbolos cargados de significado, permitiendo lecturas distintas pero coherentes dentro de la lógica del mazo.</p><p>El resultado es un conjunto de cartas expresivas y conceptuales, que fusionan el diseño gráfico con el imaginario del terror clásico.</p>",
+        "gallery": "https://disenouchile.github.io/portafolio/alanis_soto/Fotos/foto de cartas.png"
     },
     {
         "id": 13,
-        "photo": "https://raw.githubusercontent.com/disenouchile/portafolio/refs/heads/main/alanis_soto/Fotos/chupacabras.png",
+        "photo": "https://disenouchile.github.io/portafolio/alanis_soto/Fotos/Chupacabras_Proyecto.webp",
         "title": "Chupacabras",
         "course": "Proyecto III",
-        "description": "",
-        "gallery": ""
+        "professor": "Docente: Clarisa Menteguiaga",
+        "description": "<p>Este proyecto consistió en la creación de una figura coleccionable del Chupacabras, elaborada a mano en arcilla y finalizada con una técnica de puntillismo, que aporta textura, profundidad y carácter a la pieza. La obra reinterpreta a esta criatura del folclore latinoamericano, combinando elementos fantásticos con un enfoque detallado y artesanal.</p><p>La escultura fue modelada para resaltar rasgos distintivos del ser —como su postura, ojos y silueta—, mientras que el puntillismo permitió trabajar matices, sombras y volumen a través de pequeños puntos aplicados de manera meticulosa. Esta técnica otorga un acabado expresivo y único, acentuando la personalidad misteriosa y enigmática del Chupacabras.</p><p>El resultado es una pieza pensada como objeto de colección, que mezcla escultura, técnicas gráficas y narrativa cultural, destacando el valor del trabajo manual y la reinterpretación creativa de criaturas míticas.</p>",
+        "gallery": "https://disenouchile.github.io/portafolio/alanis_soto/Fotos/chupacabras.png"
     },
     {
         "id": 14,
-        "photo": "https://raw.githubusercontent.com/disenouchile/portafolio/refs/heads/main/alanis_soto/Fotos/olimpiadas.png",
+        "photo": "https://disenouchile.github.io/portafolio/alanis_soto/Fotos/Pictograma_Judo.webp",
         "title": "Pictograma Judo",
         "course": "Configuración Visual II",
-        "description": "",
-        "gallery": ""
+        "professor": "Docente: Juan Calderon",
+        "description": "<p>Este proyecto consistió en el diseño de un pictograma de judo inspirado en el sistema visual de los Juegos Olímpicos. La propuesta buscó representar de manera clara y universal uno de los movimientos característicos de este deporte, manteniendo la simplicidad y legibilidad propias del lenguaje olímpico.</p><p>El pictograma fue desarrollado a partir de formas geométricas básicas, priorizando la síntesis del gesto y la postura de los atletas. La composición captura la dinámica del judo mediante líneas limpias, equilibrio visual y un contraste suficiente para garantizar reconocimiento inmediato en distintos tamaños y aplicaciones.</p><p>Este ejercicio permitió explorar la comunicación visual a través de iconos, aplicando criterios de estandarización, claridad y neutralidad, fundamentales en los sistemas gráficos deportivos a nivel internacional.</p>",
+        "gallery": "https://disenouchile.github.io/portafolio/alanis_soto/Fotos/olimpiadas.png"
     },
     {
         "id": 15,
-        "photo": "https://raw.githubusercontent.com/disenouchile/portafolio/refs/heads/main/alanis_soto/Fotos/guatitallena.jpeg",
+        "photo": "https://disenouchile.github.io/portafolio/alanis_soto/Fotos/recetario_Proyecto.webp",
         "title": "Recetario guatita llena",
         "course": "Proyecto IV",
-        "description": "",
-        "gallery": ""
+        "professor": "Docente: Cristian Basaez",
+        "description": "<p>Este proyecto corresponde a “Guatita Llena”, un recetario inspirado en la gastronomía tradicional chilena, desarrollado como complemento del proyecto Ritual Kutrual. Su objetivo fue rescatar preparaciones familiares y cotidianas, destacando la cocina como un espacio de encuentro, memoria y afecto.</p><p>El recetario reúne una selección de platos típicos chilenos, presentados mediante una estructura clara, ilustraciones y fotografías que acompañan cada preparación. El diseño editorial busca ser cálido y accesible, evocando la familiaridad del hogar y la tradición culinaria compartida.</p><p>Como extensión del Ritual Kutrual, este recetario refuerza la idea del objeto como mediador social, trasladando el ritual al acto de cocinar y compartir. “Guatita Llena” celebra la comida como un puente entre generaciones, historias y momentos íntimos en torno a la mesa.</p>",
+        "gallery": "https://disenouchile.github.io/portafolio/alanis_soto/Fotos/guatitallena.jpeg"
     },
     {
         "id": 16,
-        "photo": "https://raw.githubusercontent.com/disenouchile/portafolio/refs/heads/main/alanis_soto/Fotos/retrato.png",
+        "photo": "https://disenouchile.github.io/portafolio/alanis_soto/Fotos/Identidad_RP.webp",
         "title": "AutoRetrato collage",
         "course": "Representación Conceptual",
-        "description": "",
-        "gallery": ""
+        "professor": "Docente: Grace Mallea",
+        "description": "<p>Este proyecto consistió en la intervención artística de una fotografía personal, explorando la identidad y la percepción a través del collage y la manipulación manual. La imagen original fue transformada mediante recortes, superposiciones y el uso de colores, generando una composición que combina lo figurativo con lo abstracto.</p><p>A través de estos recursos gráficos, el retrato adquirió una lectura nueva, donde los fragmentos y contrastes cromáticos revelan emociones, pensamientos y capas simbólicas que no están presentes en la fotografía inicial. El proceso manual permitió experimentar con texturas, volúmenes y ritmos visuales, convirtiendo un retrato común en una pieza expresiva y única.</p><p>El resultado es un trabajo que reflexiona sobre la autoimagen, la reinterpretación del cuerpo y la construcción visual del yo, utilizando el collage como una herramienta de exploración creativa y personal.</p>",
+        "gallery": "https://disenouchile.github.io/portafolio/alanis_soto/Fotos/retrato.png"
     }           
 ]
 
