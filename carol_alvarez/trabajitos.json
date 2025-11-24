@@ -89,7 +89,7 @@
     },
     {
         "id": 12,
-        "photo": "https://raw.githubusercontent.com/CarolMabel/imagenes-finales/refs/heads/main/imagenes-finales/AnOpenLetter.webp",
+        "photo": "http://user.github.io/imagenes-finales/AnOpenLetter.webp",
         "title": "An Open Letter",
         "course": "Proyecto III",
         "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed rutrum hendrerit lorem. Curabitur sodales feugiat libero. Nullam in lorem ut sem tempor accumsan nec vitae lacus. Sed vel finibus ex, quis euismod lorem. Aliquam eget leo sapien. Proin velit diam, suscipit vitae mi vel, laoreet finibus nisl. Pellentesque a purus eleifend, congue ante nec, aliquam risus.",
