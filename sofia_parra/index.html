@@ -24,7 +24,8 @@
         <meta property="twitter:image" content="https://metatags.io/images/meta-tags.png" />
 
         <!-- Meta Tags Generated with https://metatags.io -->
-     
+
+        <title>Sofia Parra Luna</title>
         <link href="style.css" rel="stylesheet" />
     </head>
     <body>
@@ -39,8 +40,7 @@
                     <a href="about.html">Sobre mí</a>
                 </nav>
                 <section class="gallery">
-                    <div class="gallery-grid" id="aqui">
-                    </div>
+                    <div class="gallery-grid" id="aqui"></div>
                 </section>
             </div>
         </main>
@@ -91,12 +91,12 @@
                 }
             }
 
-if (document.readyState === "loading") {
+            if (document.readyState === "loading") {
                 document.addEventListener("DOMContentLoaded", () => {
-                    datos("https://disenouchile.github.io/portafolio/sofia_parra/trabajitos.json"); // <--- PRIMER CAMBIO AQUI
+                    datos("https://raw.githubusercontent.com/disenouchile/portafolio/refs/heads/main/sofia_parra/trabajitos.json"); // <--- PRIMER CAMBIO AQUI
                 });
             } else {
-                datos("https://disenouchile.github.io/portafolio/sofia_parra/trabajitos.json"); // <--- SEGUNDO CAMBIO AQUI
+                datos("https://raw.githubusercontent.com/disenouchile/portafolio/refs/heads/main/sofia_parra/trabajitos.json"); // <--- SEGUNDO CAMBIO AQUI
             }
         </script>
     </body>
