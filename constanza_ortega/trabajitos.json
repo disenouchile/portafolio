@@ -1,34 +1,34 @@
 [
     {
         "id": 1,
-        "photo": "https://shootingstarcony.github.io/primera-nota/img/Proyecto%20nuevo%20(5).webp",
-        "title": "Nebulosa de Magallanes",
-        "course": "Proyecto II",
-        "description": "Descripcion pendiente de mi trabajo",
-        "gallery": "aqui iria un link"
+        "photo": "https://shootingstarcony.github.io/img_portafolio/photo_1.webp",
+        "title": "El juicio prohibido",
+        "course": "Representación Conceptual",
+        "description": "<p>Docente: Grace Mellea.</p><p>Trabajo realizado con Giulia Pepe.</p>Diseño e ilustración completa de un juego Memorice basado en la dualidad de los Siete Pecados Capitales y los Diez Mandamientos. La propuesta gráfica se sustenta en una ilustración digital detallada y una estrategia cromática intensiva que emplea el color rojo predominante para crear deliberadamente un desafío perceptivo y una tensión visual coherente con el concepto.<p>",
+        "gallery": "https://shootingstarcony.github.io/img_portafolio/gallery_1.webp"
     },
     {
         "id": 2,
-        "photo": "https://shootingstarcony.github.io/primera-nota/img/Proyecto%20nuevo%20(4)%20(1).webp",
-        "title": "¿Acaso me miras?",
-        "course": "Proyecto III",
-        "description": "Descripcion pendiente de mi trabajo",
-        "gallery": "aqui iria un link"
+        "photo": "https://shootingstarcony.github.io/img_portafolio/photo_2.webp",
+        "title": "Florecimiento Glaciar",
+        "course": "Proyecto I",
+        "description": "<p>Docente: René Perea.</p><p>Trabajo realizado con Ayline Marín.</p>Diseño y construcción de una objeto tridimensional geometrizado, concebido a partir de la extracción y síntesis de un concepto abstracto llevado a la forma. La pieza se compone de un ensamble de módulos triangulares interconectados, explorando la materialidad de papeles translucidos que permitieran el juego con lo lumínico.El elemento central es la luz: un sistema interno de iluminación LED (con una placa de al menos 10 diodos de color azul, desarrollados e instalados personalmente) que interactúa con las caras internas y externas del objeto.<p>",
+        "gallery": "https://shootingstarcony.github.io/img_portafolio/gallery_2.webp"
     },
     {
         "id": 3,
-        "photo": "https://shootingstarcony.github.io/primera-nota/img/Ilustraci%C3%B3n%20(6)%20(2)%20(1).webp",
-        "title": "Lujuria",
-        "course": "Representación conceptual",
-        "description": "Descripcion pendiente de mi trabajo",
-        "gallery": "aqui iria un link"
+        "photo": "https://shootingstarcony.github.io/img_portafolio/photo_3.webp",
+        "title": "Nebulosa de magallanes",
+        "course": "Proyecto III",
+        "description": "<p>Docente: Gabriela Pradenas .</p>Diseño de una luminaria conceptual inspirada en la atmósfera cromática de las nebulosas y las auroras boreales. El núcleo del proyecto reside en la experimentación radical con la materialidad plástica: mediante técnicas de fusión y manipulación térmica, se creó una forma orgánica y translúcida capaz de contener y proyectar la luz. Esta forma orgánica tiene la función específica de multiplicar la refracción y el reflejo del espectro lumínico, haciendo que la pieza revele una gama de colores mayor a la fuente de luz directa.<p>",
+        "gallery": "https://shootingstarcony.github.io/img_portafolio/gallery_3.webp"
     },
     {
         "id": 4,
         "photo": "https://milladincea.github.io/primera-nota/img/foto4.webp",
         "title": "Autorretrato",
         "course": "Representación Conceptual",
-        "description": "Descripcion pendiente de mi trabajo",
+        "description": "<p>Docente: .</p><p>Trabajo realizado con .</p><p>",
         "gallery": "aqui iria un link"
     },
     {
@@ -36,7 +36,7 @@
         "photo": "https://raw.githubusercontent.com/FranciscoPinoAUCh/primera-nota/refs/heads/main/img/foto-3.webp",
         "title": "Composición con recortes de cartulinas impresas con fotos de la FAU",
         "course": "Proyecto I",
-        "description": "Descripcion pendiente de mi trabajo",
+        "description": "<p>Docente: .</p><p>Trabajo realizado con .</p><p>",
         "gallery": "aqui iria un link"
     },
     {
@@ -44,7 +44,7 @@
         "photo": "https://anaisvalentina.github.io/primera-nota/img//strawffee.webp",
         "title": "Strawffee",
         "course": "Proyecto II",
-        "description": "Descripcion pendiente de mi trabajo",
+        "description": "<p>Docente: .</p><p>Trabajo realizado con .</p><p>",
         "gallery": "aqui iria un link"
     },
     {
@@ -52,7 +52,7 @@
         "photo": "https://milladincea.github.io/primera-nota/img/foto7.webp",
         "title": "Imagen de Marca Frumis",
         "course": "Procesos y Prototipos I",
-        "description": "Descripcion pendiente de mi trabajo",
+        "description": "<p>Docente: .</p><p>Trabajo realizado con .</p><p>",
         "gallery": "aqui iria un link"
     },
     {
@@ -60,7 +60,7 @@
         "photo": "https://milladincea.github.io/primera-nota/img/foto8.webp",
         "title": "Ocarina Lune",
         "course": "Proyecto III",
-        "description": "Descripcion pendiente de mi trabajo",
+        "description": "<p>Docente: .</p><p>Trabajo realizado con .</p><p>",
         "gallery": "aqui iria un link"
     },
     {
@@ -68,7 +68,7 @@
         "photo": "https://gilicvnz.github.io/primera-nota/img/20250907_111211.webp",
         "title": "Pavo real",
         "course": "Procesos y Prototipos II",
-        "description": "Descripcion pendiente de mi trabajo",
+        "description": "<p>Docente: .</p><p>Trabajo realizado con .</p><p>",
         "gallery": "aqui iria un link"
     },
     {
@@ -76,7 +76,7 @@
         "photo": "https://martinaurzua.github.io/primera-nota/img/paulita.webp",
         "title": "Identidad",
         "course": "Proyecto II",
-        "description": "Descripcion pendiente de mi trabajo",
+        "description": "<p>Docente: .</p><p>Trabajo realizado con .</p><p>",
         "gallery": "aqui iria un link"
     },
     {
@@ -84,7 +84,7 @@
         "photo": "https://martinaurzua.github.io/primera-nota/img/cebolla.webp",
         "title": "Biomímesis",
         "course": "Proyecto II",
-        "description": "Descripcion pendiente de mi trabajo",
+        "description": "<p>Docente: .</p><p>Trabajo realizado con .</p><p>",
         "gallery": "aqui iria un link"
     },
     {
@@ -92,7 +92,7 @@
         "photo": "https://martinaurzua.github.io/primera-nota/img/ensamble.webp",
         "title": "Ensambles en Madera",
         "course": "Procesos y Prototipos II",
-        "description": "Descripcion pendiente de mi trabajo",
+        "description": "<p>Docente: .</p><p>Trabajo realizado con .</p><p>",
         "gallery": "aqui iria un link"
     },
     {
@@ -100,7 +100,7 @@
         "photo": "https://martinaurzua.github.io/primera-nota/img/guante.webp",
         "title": "Guante Tactimo",
         "course": "Ergonomía y Factores Humanos",
-        "description": "Descripcion pendiente de mi trabajo",
+        "description": "<p>Docente: .</p><p>Trabajo realizado con .</p><p>",
         "gallery": "aqui iria un link"
     },
     {
@@ -108,7 +108,7 @@
         "photo": "https://github.com/lenapereoso/primera-nota/blob/main/img/fto7.webp?raw=true",
         "title": "Cubos en perspectiva y color",
         "course": "Configuración Visual I",
-        "description": "Descripcion pendiente de mi trabajo",
+        "description": "<p>Docente: .</p><p>Trabajo realizado con .</p><p>",
         "gallery": "aqui iria un link"
     },
     {
@@ -116,7 +116,7 @@
         "photo": "https://martinaurzua.github.io/primera-nota/img/simbolo.webp",
         "title": "Símbolo",
         "course": "Configuración Visual I",
-        "description": "Descripcion pendiente de mi trabajo",
+        "description": "<p>Docente: .</p><p>Trabajo realizado con .</p><p>",
         "gallery": "aqui iria un link"
     },
     {
@@ -124,7 +124,8 @@
         "photo": "https://raw.githubusercontent.com/valentinatroncoso/primera-nota/refs/heads/main/imagenes%20finales/se%C3%B1aletica.webp",
         "title": "Señaletica",
         "course": "Ergonomia y Factores Humanos",
-        "description": "Descripcion pendiente de mi trabajo",
+        "description": "<p>Docente: .</p><p>Trabajo realizado con .</p><p>",
         "gallery": "aqui iria un link"
     }
 ]
+
