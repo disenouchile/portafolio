@@ -100,7 +100,7 @@
     },
     {
         "id": 12,
-        "photo": "https://raw.githubusercontent.com/evorakie/Portafolio-Fotos/refs/heads/main/IMG/FANTASI%CC%81AMONARQUICA.webp",
+        "photo": "https://github.com/ronnistp/portafolio/blob/1c66186bef37210896ae94ae5eaf2f16e88bf650/exhibidor.webp?raw=true",
         "title": "EXHIBIDOR",
         "course": "Proyecto II",
         "professor": "Profesora Gabriela Pradenas",
@@ -109,7 +109,7 @@
     },
     {
         "id": 13,
-        "photo": "https://raw.githubusercontent.com/evorakie/Portafolio-Fotos/refs/heads/main/IMG/ILUSORIA2.webp",
+        "photo": "https://github.com/ronnistp/portafolio/blob/1c66186bef37210896ae94ae5eaf2f16e88bf650/objeto.webp?raw=true",
         "title": "OBJETO DE LUZ",
         "course": "Proyecto II",
         "professor": "Profesora Gabriela Pradenas",
@@ -118,7 +118,7 @@
     },
     {
         "id": 14,
-        "photo": "https://raw.githubusercontent.com/evorakie/Portafolio-Fotos/refs/heads/main/IMG/A%20PEARL.webp",
+        "photo": "https://github.com/ronnistp/portafolio/blob/1c66186bef37210896ae94ae5eaf2f16e88bf650/capsula.webp?raw=true",
         "title": "CÁPSULA DEL TIEMPO",
         "course": "Proyecto II",
         "professor": "Profesora Gabriela Pradenas",
@@ -127,7 +127,7 @@
     },
     {
         "id": 15,
-        "photo": "https://github.com/ronnistp/portafolio/blob/main/Desplegable.webp?raw=true",
+        "photo": "https://github.com/ronnistp/portafolio/blob/1c66186bef37210896ae94ae5eaf2f16e88bf650/desplegable.webp?raw=true",
         "title": "DESPLEGABLE DE 3 TIEMPOS",
         "course": "Proyecto I",
         "professor": "Profesora Gabriela Pradenas",
