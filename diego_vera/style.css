@@ -6,8 +6,8 @@
 :root {
     --colorPrimario: rgba(211,0,76,1);
     --colorOverlay: rgba(211,0,76,0.9);
-    --colorSecundario: rgba(0,113,211,1);
-    --colorMediador: rgba(0,211,0,1);
+    --colorSecundario: rgba(0,211,0,1);
+    --colorMediador: rgba(0,113,211,1);
 }
 
 * {
