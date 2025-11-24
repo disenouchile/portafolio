@@ -2,9 +2,10 @@
     {
         "id": 1,
         "photo": "https://FranciscoPinoAUCh.github.io/fotosportafoliofpa/webp1.webp",
-        "title": "La hora de conectarnos",
-        "course": "Proyecto III",
-        "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed rutrum hendrerit lorem. Curabitur sodales feugiat libero. Nullam in lorem ut sem tempor accumsan nec vitae lacus. Sed vel finibus ex, quis euismod lorem. Aliquam eget leo sapien. Proin velit diam, suscipit vitae mi vel, laoreet finibus nisl. Pellentesque a purus eleifend, congue ante nec, aliquam risus.",
+        "title": "Cápsula del tiempo: Reloj despertador",
+        "course": "Proyecto II 02/2024",
+        "professor": "Gabriela Pradenas"
+        "description": "<p>Este proyecto se centró en la aplicación práctica de los principios de diseño para transformar un objeto tecnológico valioso (un reloj despertador) en un modelo conceptual y físico a través de una Cápsula del Tiempo funcional</p><p>La primera fase exigió la observación y comprensión crítica del objeto elegido. El desafío principal fue problematizar la representación tridimensional del reloj, extrayendo sus características esenciales (forma, color, movimiento) para traducirlas a materiales como cartón, cartulina y papel.</p><p>Se ideó una solución innovadora que debía encapsular la función de almacenamiento y protección, mientras reflejaba fielmente la estética del objeto. Esto se logró al integrar gráfica, colores y la forma de la cápsula con la morfología del reloj despertador, estableciendo una interacción directa entre el contenido y el continente.</p><p>El diseño final incluye un mecanismo de apertura específico, que formaliza la solución al problema de la interacción y el acceso. Este proceso demostró la capacidad para modelar y formalizar propuestas de Diseño, adquiriendo las competencias básicas para conceptualizar, representar y comunicar soluciones espaciales mediante metodologías y herramientas propias de la disciplina, tal como lo establece el Reglamento de la Carrera (art. 5, párr. 1).</p>",
         "gallery": "https://FranciscoPinoAUCh.github.io/fotosportafoliofpa/g1.webp"
     },
     {
