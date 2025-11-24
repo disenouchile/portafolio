@@ -7,7 +7,7 @@
     --colorPrimario: rgba(0,255,255,1);
     --colorOverlay: rgba(0,255,255,0.9);
     --colorSecundario: rgba(255,255,0,1);
-    --colorMediador: rgba(255,0,0,1);
+    --colorMediador: rgba(255,0,0);
 }
 
 * {
