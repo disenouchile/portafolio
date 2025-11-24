@@ -1,19 +1,21 @@
 [
-    {  "id": 1,
-    "photo": "http://evorakie.github.io/portafolio_imagenes/photo_1.webp",
-    "title": "Lottie - Luminaria",
-    "course": "Procesos y Prototipos II",
-    "professor": "Profesor Patricio Araya",
-    "description": "El proyecto consistió en el diseño y fabricación de <b>'Lottie'</b>, una luminaria decorativa de escritorio. La pieza materializa una abstracción geométrica de la <b>flor del cerezo</b> a través de un sistema modular de hexágonos de Zincalum, unidos mediante soldadura de punto. <p>Un aspecto clave del diseño fue la incorporación de perforaciones estratégicas en las líneas de los pliegues. Esta técnica no solo facilitó el doblado preciso del metal, sino que fue esencial para generar un juego dinámico de luces y sombras. La pieza, con un volumen esférico autoportante, fue lijada y electropintada de color blanco, funcionando como estructura y difusor a la vez."</p>  
-    "gallery": "http://evorakie.github.io/portafolio_imagenes/gallery_1.webp"
+    {  
+        "id": 1,
+        "photo": "http://marfghid.github.io/portafolio_imagenes/photo_1.webp",
+        "title": "Lottie - Luminaria",
+        "course": "Procesos y Prototipos II",
+        "professor": "Profesor Patricio Araya",
+        "description": "El proyecto consistió en el diseño y fabricación de <b>'Lottie'</b>, una luminaria decorativa de escritorio. La pieza materializa una abstracción geométrica de la <b>flor del cerezo</b> a través de un sistema modular de hexágonos de Zincalum, unidos mediante soldadura de punto. <p>Un aspecto clave del diseño fue la incorporación de perforaciones estratégicas en las líneas de los pliegues. Esta técnica no solo facilitó el doblado preciso del metal, sino que fue esencial para generar un juego dinámico de luces y sombras. La pieza, con un volumen esférico autoportante, fue lijada y electropintada de color blanco, funcionando como estructura y difusor a la vez.</p>",  
+        "gallery": "http://marfghid.github.io/portafolio_imagenes/gallery_1.webp",
     },
     {
         "id": 2,
         "photo": "https://github.com/ronnistp/portafolio/blob/main/Gato.webp?raw=true",
         "title": "Taburete Maple",
         "course": "Procesos y Prototipos II",
+        "professor": "Profesor Patricio Araya",
         "description": "Descripción pendiente del trabajo.",
-        "gallery": "https://raw.githubusercontent.com/profesorfaco/herramientas/refs/heads/main/clase-13/gallery.webp"
+        "gallery": "https://raw.githubusercontent.com/profesorfaco/herramientas/refs/heads/main/clase-13/gallery.webp",
     },
     {
         "id": 3,
@@ -21,109 +23,122 @@
         "title": "Taburete Maple - Planimetría",
         "course": "Procesos y Prototipos II",
         "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed rutrum hendrerit lorem. Curabitur sodales feugiat libero. Nullam in lorem ut sem tempor accumsan nec vitae lacus. Sed vel finibus ex, quis euismod lorem. Aliquam eget leo sapien. Proin velit diam, suscipit vitae mi vel, laoreet finibus nisl. Pellentesque a purus eleifend, congue ante nec, aliquam risus.",
-        "gallery": "https://raw.githubusercontent.com/profesorfaco/herramientas/refs/heads/main/clase-13/gallery.webp"
+        "gallery": "https://raw.githubusercontent.com/profesorfaco/herramientas/refs/heads/main/clase-13/gallery.webp",
     },
     {
         "id": 4,
         "photo": "https://github.com/ronnistp/portafolio/blob/main/Infografia%20Movimineto.webp?raw=true",
         "title": "Animal de Metal - Cisne",
         "course": "Procesos y Prototipos II",
+        "professor": "Profesor Patricio Araya",
         "description": "Descripción pendiente del trabajo.",
-        "gallery": "https://raw.githubusercontent.com/profesorfaco/herramientas/refs/heads/main/clase-13/gallery.webp"
+        "gallery": "https://raw.githubusercontent.com/profesorfaco/herramientas/refs/heads/main/clase-13/gallery.webp",
     },
     {
         "id": 5,
         "photo": "https://github.com/ronnistp/portafolio/blob/main/Fanzine.webp?raw=true",
         "title": "Sensacional: Infografía Packaging",
         "course": "Procesos y Prototipos I",
+        "professor": "Profesora Pamela Fuentes",
         "description": "Descripción pendiente del trabajo.",
-        "gallery": "https://raw.githubusercontent.com/profesorfaco/herramientas/refs/heads/main/clase-13/gallery.webp"
+        "gallery": "https://raw.githubusercontent.com/profesorfaco/herramientas/refs/heads/main/clase-13/gallery.webp",
     },
     {
         "id": 6,
         "photo": "https://github.com/marfghid/primera-nota-miau/blob/main/12%20(1).webp?raw=true",
         "title": "Sensacional: Packaging",
         "course": "Proceso y Prototipos I",
+         "professor": "Profesora Pamela Fuentes",
         "description":  "Descripción pendiente del trabajo.",
-        "gallery": "https://raw.githubusercontent.com/profesorfaco/herramientas/refs/heads/main/clase-13/gallery.webp"
+        "gallery": "https://raw.githubusercontent.com/profesorfaco/herramientas/refs/heads/main/clase-13/gallery.webp",
     },
     {
         "id": 7,
         "photo": "https://raw.githubusercontent.com/evorakie/primera-nota/refs/heads/main/img/sensacional.webp",
         "title": "Sensacional: Identidad Gráfica",
         "course": "Procesos y Prototipos I",
+         "professor": "Profesora Pamela Fuentes",
         "description": "Descripción pendiente del trabajo.",
-        "gallery": "https://raw.githubusercontent.com/profesorfaco/herramientas/refs/heads/main/clase-13/gallery.webp"
+        "gallery": "https://raw.githubusercontent.com/profesorfaco/herramientas/refs/heads/main/clase-13/gallery.webp",
     },
     {
         "id": 8,
         "photo": "https://raw.githubusercontent.com/evorakie/Portafolio-Fotos/refs/heads/main/IMG/LA%20BALADA%20DE%20UNA%20ESTRELLA.webp",
         "title": "Máscara de Halloween",
         "course": "Herramientas Computacionales",
+         "professor": "Profesor Felipe Cortez",
         "description":  "Descripción pendiente del trabajo.",
-        "gallery": "https://raw.githubusercontent.com/profesorfaco/herramientas/refs/heads/main/clase-13/gallery.webp"
+        "gallery": "https://raw.githubusercontent.com/profesorfaco/herramientas/refs/heads/main/clase-13/gallery.webp",
     },
     {
         "id": 9,
         "photo": "https://raw.githubusercontent.com/evorakie/Portafolio-Fotos/refs/heads/main/IMG/ROBOT.webp",
         "title": "Infografía Forensic Architecture",
         "course": "Proyecto III",
+         "professor": "Profesora Clarisa Menteguiaga",
         "description":  "Descripción pendiente del trabajo.",
-        "gallery": "https://raw.githubusercontent.com/profesorfaco/herramientas/refs/heads/main/clase-13/gallery.webp"
+        "gallery": "https://raw.githubusercontent.com/profesorfaco/herramientas/refs/heads/main/clase-13/gallery.webp",
     },
     {
         "id": 10,
         "photo": "https://raw.githubusercontent.com/evorakie/Portafolio-Fotos/refs/heads/main/IMG/SINTESIS.webp",
         "title": "Sillón Pichintún - Diseño Residual",
         "course": "Proyecto III",
+         "professor": "Profesora Clarisa Mentiguiaga",
         "description":  "Descripción pendiente del trabajo.",
-        "gallery": "https://raw.githubusercontent.com/profesorfaco/herramientas/refs/heads/main/clase-13/gallery.webp"
+        "gallery": "https://raw.githubusercontent.com/profesorfaco/herramientas/refs/heads/main/clase-13/gallery.webp",
     },
     {
         "id": 11,
         "photo": "https://raw.githubusercontent.com/evorakie/Portafolio-Fotos/refs/heads/main/IMG/MAGICAKE%20(1).webp",
         "title": "Objeto Gráfico - Prenda",
         "course": "Proyecto III",
+         "professor": "Profesora Clarisa Menteguiaga",
         "description":  "Descripción pendiente del trabajo.",
-        "gallery": "https://raw.githubusercontent.com/profesorfaco/herramientas/refs/heads/main/clase-13/gallery.webp"
+        "gallery": "https://raw.githubusercontent.com/profesorfaco/herramientas/refs/heads/main/clase-13/gallery.webp",
     },
     {
         "id": 12,
         "photo": "https://raw.githubusercontent.com/evorakie/Portafolio-Fotos/refs/heads/main/IMG/FANTASI%CC%81AMONARQUICA.webp",
         "title": "Vitaboost - Propuesta Gráfica",
         "course": "Comunicación del Proyecto de Diseño",
+         "professor": "Profesor Félix Maldonado",
         "description":  "Descripción pendiente del trabajo.",
-        "gallery": "https://raw.githubusercontent.com/profesorfaco/herramientas/refs/heads/main/clase-13/gallery.webp"
+        "gallery": "https://raw.githubusercontent.com/profesorfaco/herramientas/refs/heads/main/clase-13/gallery.webp",
     },
     {
         "id": 13,
         "photo": "https://raw.githubusercontent.com/evorakie/Portafolio-Fotos/refs/heads/main/IMG/ILUSORIA2.webp",
-        "title": "Pictograma Olímpico París 2024",
-        "course": "Configuración Visual II",
+        "title": "Ingeniería Inversa - Calculadora CASIO",
+        "course": "Procesos y Prototipos II",
+         "professor": "Profesor Patricio Araya",
         "description":  "Descripción pendiente del trabajo.",
-        "gallery": "https://raw.githubusercontent.com/profesorfaco/herramientas/refs/heads/main/clase-13/gallery.webp"
+        "gallery": "https://raw.githubusercontent.com/profesorfaco/herramientas/refs/heads/main/clase-13/gallery.webp",
     },
     {
         "id": 14,
         "photo": "https://raw.githubusercontent.com/evorakie/Portafolio-Fotos/refs/heads/main/IMG/A%20PEARL.webp",
         "title": "Pictograma Olímpico París 2024",
         "course": "Configuración Visual II",
+        "professor": "Profesor Juan Calderón",
         "description":  "Descripción pendiente del trabajo.",
-        "gallery": "https://raw.githubusercontent.com/profesorfaco/herramientas/refs/heads/main/clase-13/gallery.webp"
+        "gallery": "https://raw.githubusercontent.com/profesorfaco/herramientas/refs/heads/main/clase-13/gallery.webp",
     },
     {
         "id": 15,
         "photo": "https://github.com/ronnistp/portafolio/blob/main/Desplegable.webp?raw=true",
         "title": "Objeto de Luz",
         "course": "Proyecto I",
+        "professor": "Profesor René Perea",
         "description":  "Descripción pendiente del trabajo.",
-        "gallery": "https://raw.githubusercontent.com/profesorfaco/herramientas/refs/heads/main/clase-13/gallery.webp"
+        "gallery": "https://raw.githubusercontent.com/profesorfaco/herramientas/refs/heads/main/clase-13/gallery.webp",
     },
     {
         "id": 16,
         "photo": "https://github.com/ronnistp/portafolio/blob/main/Gemini_Generated_Image_w2zk71w2zk71w2zk.webp?raw=true",
         "title": "Vinilo de un Libro",
         "course": "Proyecto I",
+        "professor": "Profesor René Perea",
         "description":  "Descripción pendiente del trabajo.",
         "gallery": "https://raw.githubusercontent.com/profesorfaco/herramientas/refs/heads/main/clase-13/gallery.webp",
     }
