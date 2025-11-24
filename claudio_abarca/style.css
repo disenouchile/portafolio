@@ -5,7 +5,7 @@
    =================== */
 :root {
     --colorPrimario: rgba(255, 255, 255, 0.60);
-    --colorOverlay: rgba(255, 255, 255, 0.26);
+    --colorOverlay: rgba(255, 255, 255, 0.30);
     --colorSecundario: rgba(79, 182, 255, 0.77);
     --colorMediador: rgba(255,0,0);
 }
