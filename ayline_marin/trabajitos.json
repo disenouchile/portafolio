@@ -58,7 +58,7 @@
     {
         "id": 8,
         "photo": "https://raw.githubusercontent.com/aylineoff/imagenes/main/trabajos/trabajodis9.webp",
-        "title": "Tabuerete para tocador",
+        "title": "Lampara de Metal",
         "course": "Procesos y prototipos II",
         "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed rutrum hendrerit lorem. Curabitur sodales feugiat libero. Nullam in lorem ut sem tempor accumsan nec vitae lacus. Sed vel finibus ex, quis euismod lorem. Aliquam eget leo sapien. Proin velit diam, suscipit vitae mi vel, laoreet finibus nisl. Pellentesque a purus eleifend, congue ante nec, aliquam risus.",
         "gallery": "https://raw.githubusercontent.com/profesorfaco/herramientas/refs/heads/main/clase-13/gallery.webp"
@@ -66,8 +66,8 @@
     {
         "id": 9,
         "photo": "https://raw.githubusercontent.com/aylineoff/imagenes/main/trabajos/trabajodis10.webp",
-        "title": "Volantín",
-        "course": "Proyecto IV",
+        "title": "Objeto Luminico Salvaje",
+        "course": "Proyecto I",
         "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed rutrum hendrerit lorem. Curabitur sodales feugiat libero. Nullam in lorem ut sem tempor accumsan nec vitae lacus. Sed vel finibus ex, quis euismod lorem. Aliquam eget leo sapien. Proin velit diam, suscipit vitae mi vel, laoreet finibus nisl. Pellentesque a purus eleifend, congue ante nec, aliquam risus.",
         "gallery": "https://raw.githubusercontent.com/profesorfaco/herramientas/refs/heads/main/clase-13/gallery.webp"
     },
