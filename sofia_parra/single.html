@@ -48,14 +48,17 @@
                     const lugar = document.querySelector("#aqui");
                     const trabajo = trabajitos.find((t) => t.id == id);
 
-                    if (trabajo) {
-                        lugar.innerHTML = `
-                <h3>${trabajo.title}</h3>
-                <h4>${trabajo.course}</h4>
-                <p>${trabajo.description}</p>
-                <img src="${trabajo.gallery}" alt="${trabajo.title}" loading="lazy">
-            `;
-                    } else {
+if (trabajo) {
+    lugar.innerHTML = `
+        <h3>${trabajo.title}</h3>
+        <h4>${trabajo.course}</h4>
+        ${trabajo.description}
+        ${trabajo.gallery
+            ? `<img src="${trabajo.gallery}" alt="${trabajo.title}" loading="lazy">`
+            : ""}
+    `;
+} else {
+
                         lugar.innerHTML = "<h3>Trabajo no encontrado</h3><p>El trabajo solicitado no existe en el portafolio.</p>";
                     }
                 } catch (error) {
