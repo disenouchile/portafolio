@@ -19,7 +19,7 @@
     },
     {
         "id": 3,
-        "photo": "https://github.com/ronnistp/portafolio/blob/5e9172a5a0e6a7b359824065c949182fb73491f8/bolso.webp?raw=true",
+        "photo": "",
         "title": "FRAGMENTA",
         "course": "Proyecto III",
         "professor": "Profesora Clarisa Menteguiaga"
@@ -28,7 +28,7 @@
     },
     {
         "id": 4,
-        "photo": "https://github.com/ronnistp/portafolio/blob/5e9172a5a0e6a7b359824065c949182fb73491f8/infografia.webp?raw=true",
+        "photo": "",
         "title": "BLACK LIVES MATTER",
         "course": "Proyecto III",
         "professor": "Profesora Clarisa Menteguiaga"
