@@ -1,7 +1,7 @@
 [
   {
     "id": 1,
-    "photo": "https://github.com/martina-af/fotos/blob/main/lampara.png?raw=true",
+    "photo": "https://github.com/martina-af/fotos/blob/main/lampara..webp?raw=true",
     "title": "Lámpara de metal",
     "course": "Procesos y prototipos II",
     "professor": "Patricio Araya",
@@ -10,7 +10,7 @@
   },
   {
     "id": 2,
-    "photo": "https://github.com/martina-af/fotos/blob/main/analisis%20de%20una%20semilla.png?raw=true",
+    "photo": "https://github.com/martina-af/fotos/blob/main/semilla..webp?raw=true",
     "title": "Análisis de una semilla",
     "course": "Proyecto I",
     "professor": "Gabriela Pradenas",
@@ -19,7 +19,7 @@
   },
   {
     "id": 3,
-    "photo": "https://github.com/martina-af/fotos/blob/main/animal%20de%20metal.png?raw=true",
+    "photo": "https://github.com/martina-af/fotos/blob/main/elefante..webp?raw=true",
     "title": "Animal de metal",
     "course": "Procesos y prototipos II",
     "professor": "Patricio Araya",
@@ -28,7 +28,7 @@
   },
   {
     "id": 4,
-    "photo": "https://github.com/martina-af/fotos/blob/main/autoretrato.png?raw=true",
+    "photo": "https://github.com/martina-af/fotos/blob/main/autoretrato..webp?raw=true",
     "title": "Autorretrato de plasticina",
     "course": "Configuración visual I",
     "professor": "Carlos Ampuero",
@@ -37,7 +37,7 @@
   },
   {
     "id": 5,
-    "photo": "https://github.com/martina-af/fotos/blob/main/capsula%20de%20tiempo.png?raw=true",
+    "photo": "https://github.com/martina-af/fotos/blob/main/reloj%20de%20arena..webp?raw=true",
     "title": "Cápsula de tiempo para un objeto atesorable",
     "course": "Proyecto II",
     "professor": "Gabriela Pradenas",
@@ -46,7 +46,7 @@
   },
   {
     "id": 6,
-    "photo": "https://github.com/martina-af/fotos/blob/main/cubosoma.png?raw=true",
+    "photo": "https://github.com/martina-af/fotos/blob/main/cubosoma..webp?raw=true",
     "title": "Cubosoma",
     "course": "Configuración visual I",
     "professor": "Carlos Ampuero",
@@ -55,7 +55,7 @@
   },
   {
     "id": 7,
-    "photo": "https://github.com/martina-af/fotos/blob/main/elmentos%20basicos%20de%20la%20forma.png?raw=true",
+    "photo": "https://github.com/martina-af/fotos/blob/main/elementos%20basicos%20de%20la%20forma..webp?raw=true",
     "title": "Elementos básicos de la forma",
     "course": "Proyecto I",
     "professor": "Gabriela Pradenas",
@@ -64,7 +64,7 @@
   },
   {
     "id": 8,
-    "photo": "https://github.com/martina-af/fotos/blob/main/imagen%20de%20marca%20buddies.png?raw=true",
+    "photo": "https://github.com/martina-af/fotos/blob/main/buddies..webp?raw=true",
     "title": "Imagen de marca Buddies",
     "course": "Procesos y prototipos I",
     "professor": "Pamela Fuentes",
@@ -73,7 +73,7 @@
   },
   {
     "id": 9,
-    "photo": "https://github.com/martina-af/fotos/blob/main/infografia%20queer.png?raw=true",
+    "photo": "https://github.com/martina-af/fotos/blob/main/queer..webp?raw=true",
     "title": "Infografía movimiento Queer",
     "course": "Proyecto III",
     "professor": "Clarisa Menteguiaga",
@@ -82,7 +82,7 @@
   },
   {
     "id": 10,
-    "photo": "https://github.com/martina-af/fotos/blob/main/lenguaje%20visual.png?raw=true",
+    "photo": "https://github.com/martina-af/fotos/blob/main/fantasia..webp?raw=true",
     "title": "Lenguaje visual",
     "course": "Representación conceptual",
     "professor": "Grace Mallea",
@@ -91,7 +91,7 @@
   },
   {
     "id": 11,
-    "photo": "https://github.com/martina-af/fotos/blob/main/leyes%20de%20la%20gestalt.png?raw=true",
+    "photo": "https://github.com/martina-af/fotos/blob/main/gestalt..webp?raw=true",
     "title": "Leyes de la gestalt",
     "course": "Proyecto I",
     "professor": "Gabriela Pradenas",
@@ -100,7 +100,7 @@
   },
   {
     "id": 12,
-    "photo": "https://github.com/martina-af/fotos/blob/main/objeto%20de%20luz.png?raw=true",
+    "photo": "https://github.com/martina-af/fotos/blob/main/objeto%20de%20luz..webp?raw=true",
     "title": "Objeto de luz",
     "course": "Proyecto II",
     "professor": "Gabriela Pradenas",
@@ -109,16 +109,16 @@
   },
   {
     "id": 13,
-    "photo": "https://github.com/martina-af/fotos/blob/main/pato.png?raw=true",
+    "photo": "hthttps://github.com/martina-af/fotos/blob/main/pato..webp?raw=true",
     "title": "Superficies geométricas",
     "course": "Matemáticas aplicadas al diseño",
-    "professor": "Nicolás Meza",
+    "professor": "Nicolas Meza",
     "description": "Este proyecto abordó la observación y comprensión de cuerpos geométricos para crear un objeto de diseño, en este caso un pato de goma. La problematización de la forma y el volumen permitió formalizar un modelo coherente y funcional, evidenciando competencias para conceptualizar, representar y comunicar soluciones de diseño mediante análisis crítico, modelado físico y exploración geométrica.",
     "gallery": "https://github.com/martina-af/fotos/blob/main/pato.webp?raw=true"
   },
   {
     "id": 14,
-    "photo": "https://github.com/martina-af/fotos/blob/main/popmart.png?raw=true",
+    "photo": "https://github.com/martina-af/fotos/blob/main/bt21..webp?raw=true",
     "title": "Popmart x BT21",
     "course": "Comunicación del proyecto de diseño",
     "professor": "Felix Maldonado",
@@ -127,7 +127,7 @@
   },
   {
     "id": 15,
-    "photo": "https://github.com/martina-af/fotos/blob/main/teoria%20del%20color.png?raw=true",
+    "photo": "https://github.com/martina-af/fotos/blob/main/teoria%20del%20color..webp?raw=true",
     "title": "Teoría del color",
     "course": "Configuración Visual I",
     "professor": "Carlos Ampuero",
@@ -136,7 +136,7 @@
   },
   {
     "id": 16,
-    "photo": "https://github.com/martina-af/fotos/blob/main/taburete%20de%20madera.png?raw=true",
+    "photo": "https://github.com/martina-af/fotos/blob/main/taburete..webp?raw=true",
     "title": "Taburete de madera",
     "course": "Procesos y prototipos II",
     "professor": "Patricio Araya",
@@ -144,4 +144,6 @@
     "gallery": "https://github.com/martina-af/fotos/blob/main/taburete.webp?raw=truee"
   }
 ]
+
+
 
