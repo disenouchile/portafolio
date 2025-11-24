@@ -32,15 +32,14 @@
             <h1>Antonia Mardones</h1>
             <h2>Bachiller General, mención Humanidades y Artes</h2>
         </header>
-        <main> 
+        <main>
             <div class="container">
                 <nav class="nav">
-                    <a href="index.html" class="active">Portafolio</a>
+                    <a href="index.html">Portafolio</a>
                     <a href="about.html">Sobre mí</a>
                 </nav>
-                <section class="gallery">
-                    <div class="gallery-grid" id="aqui">
-                    </div>
+                <section class="single" id="aqui">
+                   
                 </section>
             </div>
         </main>
@@ -51,10 +50,8 @@
                 <a href="https://www.linkedin.com/in/antonia-mardones-707821392/">LinkedIn</a>
             </div>
         </footer>
-               <script>
-            const portfolio = document.querySelector("#aqui");
-
-            async function datos(raw) {
+       <script>
+            async function cargarTrabajo(raw, id) {
                 try {
                     let consulta = await fetch(raw);
                     if (consulta.status === 429) {
@@ -64,43 +61,39 @@
                     let trabajitos = await consulta.json();
                     console.log(trabajitos);
 
-                    trabajitos.forEach((t) => {
-                        const div = document.createElement("div");
-                        div.className = "gallery-item";
+                    const lugar = document.querySelector("#aqui");
+                    const trabajo = trabajitos.find((t) => t.id == id);
 
-                        const a = document.createElement("a");
-                        a.href = `single.html?id=${t.id}`;
-
-                        const img = document.createElement("img");
-                        img.src = t.photo;
-                        img.alt = t.title;
-                        img.loading = "lazy";
-
-                        const overlay = document.createElement("div");
-                        overlay.className = "gallery-overlay";
-                        overlay.innerHTML = `<h3></h3><p></p>`;
-                        overlay.querySelector("h3").textContent = t.title;
-                        overlay.querySelector("p").textContent = t.course;
-
-                        a.append(img, overlay);
-                        div.appendChild(a);
-                        portfolio.appendChild(div);
-                    });
+                    if (trabajo) {
+                        lugar.innerHTML = `
+                <h3>${trabajo.title}</h3>
+                <h4>${trabajo.course}</h4>
+                <h5>${trabajo.professor}</h5>
+                <p>${trabajo.description}</p>
+                <img src="${trabajo.gallery}" alt="${trabajo.title}" loading="lazy">
+            `;
+                    } else {
+                        lugar.innerHTML = "<h3>Trabajo no encontrado</h3><p>El trabajo solicitado no existe en el portafolio.</p>";
+                    }
                 } catch (error) {
                     console.error("Error al cargar los datos:", error);
+                    const lugar = document.querySelector("#aqui");
+                    lugar.innerHTML = "<h3>Error al cargar</h3><p>No se pudo cargar la información del trabajo.</p>";
                 }
             }
 
-            if (document.readyState === "loading") {
-                document.addEventListener("DOMContentLoaded", () => {
-                    datos("https://raw.githubusercontent.com/disenouchile/portafolio/refs/heads/main/antonia_mardones/trabajitos.json");
-                });
-            } else {
-                datos("https://raw.githubusercontent.com/disenouchile/portafolio/refs/heads/main/antonia_mardones/trabajitos.json");
-            }
+            document.addEventListener("DOMContentLoaded", () => {
+                const params = new URLSearchParams(window.location.search);
+                const id = params.get("id");
+                const lugar = document.querySelector("#aqui");
+
+                if (!id) {
+                    lugar.innerHTML = "<div id='alerta'><p>Por favor, selecciona un trabajo del <a href='index.html'>portafolio</a>.</p></div>";
+                    return;
+                }
+
+                cargarTrabajo("https://raw.githubusercontent.com/disenouchile/portafolio/refs/heads/main/antonia_mardones/trabajitos.json", id);
+            });
         </script>
-
     </body>
-
-
 </html>
