@@ -19,33 +19,33 @@
         "id": 3,
         "photo": "https://shootingstarcony.github.io/img_portafolio/photo_3.webp",
         "title": "Nebulosa de magallanes",
-        "course": "Proyecto III",
-        "description": "<p>Docente: Gabriela Pradenas .</p>Diseño de una luminaria conceptual inspirada en la atmósfera cromática de las nebulosas y las auroras boreales. El núcleo del proyecto reside en la experimentación radical con la materialidad plástica: mediante técnicas de fusión y manipulación térmica, se creó una forma orgánica y translúcida capaz de contener y proyectar la luz. Esta forma orgánica tiene la función específica de multiplicar la refracción y el reflejo del espectro lumínico, haciendo que la pieza revele una gama de colores mayor a la fuente de luz directa.<p>",
+        "course": "Proyecto II",
+        "description": "<p>Docente: Gabriela Pradenas.</p>Diseño de una luminaria conceptual inspirada en la atmósfera cromática de las nebulosas y las auroras boreales. El núcleo del proyecto reside en la experimentación radical con la materialidad plástica: mediante técnicas de fusión y manipulación térmica, se creó una forma orgánica y translúcida capaz de contener y proyectar la luz. Esta forma orgánica tiene la función específica de multiplicar la refracción y el reflejo del espectro lumínico, haciendo que la pieza revele una gama de colores mayor a la fuente de luz directa.<p>",
         "gallery": "https://shootingstarcony.github.io/img_portafolio/gallery_3.webp"
     },
     {
         "id": 4,
-        "photo": "https://milladincea.github.io/primera-nota/img/foto4.webp",
-        "title": "Autorretrato",
-        "course": "Representación Conceptual",
-        "description": "<p>Docente: .</p><p>Trabajo realizado con .</p><p>",
-        "gallery": "aqui iria un link"
+        "photo": "https://shootingstarcony.github.io/img_portafolio/photo_4.webp",
+        "title": "Trisamina",
+        "course": "Proyecto III",
+        "description": "<p>Docente: Pamela Petruska.</p>Diseño de personaje y objeto escultórico, Trisamina, concebido bajo el concepto de diseño emocional y la transferencia de carga afectiva en momentos de vulnerabilidad. El personaje surge de la metáfora del pañuelo desechado: un pequeño ser que simboliza y contiene la tristeza que se 'suelta' al llorar, actuando como un acompañante silencioso que asume la carga emocional del usuario. En cuanto a la materialidad, la pieza fue construida a partir de una estructura interna de goma EVA que proporciona ligereza y maleabilidad, y luego recubierta con porcelana fría. Esta elección material busca imitar la textura arrugada y empapada del pañuelo, ofreciendo una superficie táctil<p>",
+        "gallery": "https://shootingstarcony.github.io/img_portafolio/gallery_4.webp"
     },
     {
         "id": 5,
-        "photo": "https://raw.githubusercontent.com/FranciscoPinoAUCh/primera-nota/refs/heads/main/img/foto-3.webp",
-        "title": "Composición con recortes de cartulinas impresas con fotos de la FAU",
-        "course": "Proyecto I",
-        "description": "<p>Docente: .</p><p>Trabajo realizado con .</p><p>",
-        "gallery": "aqui iria un link"
+        "photo": "https://shootingstarcony.github.io/img_portafolio/photo_5.webp",
+        "title": "¿Acaso me miras?",
+        "course": "Proyecto III",
+        "description": "<p>Docente: Pamela petruska.</p>Escultura conceptual construida a partir de una materialidad reciclada: lentes oftálmicos recuperados y ensamblados. El proyecto aborda la tensión entre la percepción interna y la mirada externa, explorando cómo la persona siente que es vista por los demás. Además se incorpora impresiones encogibles de ojos humanos, dispuestas en la estructura para crear un efecto de vigilancia. La pieza concluye que, aunque la mirada colectiva es omnipresente, solo el individuo es consciente de esta presión. Se enfatiza la imposibilidad de acceder a la verdad detrás de la mirada del otro.<p>",
+        "gallery": "https://shootingstarcony.github.io/img_portafolio/gallery_5.webp"
     },
     {
         "id": 6,
-        "photo": "https://anaisvalentina.github.io/primera-nota/img//strawffee.webp",
-        "title": "Strawffee",
-        "course": "Proyecto II",
-        "description": "<p>Docente: .</p><p>Trabajo realizado con .</p><p>",
-        "gallery": "aqui iria un link"
+        "photo": "https://shootingstarcony.github.io/img_portafolio/photo_6.webp",
+        "title": "Mientras Yubooh Duerme",
+        "course": "Proyecto I",
+        "description": "<p>Docente: René Perea.</p>Diseño de portada ilustrada conceptualizada para un hipotético disco, inspirada en la obra Mientras Yubooh Duerme. La pieza se desarrolló con una alusión al estilo gráfico de Alex Hirsch, caracterizado por su narrativa visual distintiva y estética peculiar. La ilustración central rinde homenaje al elemento característico del libro: los peces, interpretándolos de una manera que equilibra la iconografía original con la influencia del estilo elegido.<p>",
+        "gallery": "https://shootingstarcony.github.io/img_portafolio/gallery_6.webp"
     },
     {
         "id": 7,
@@ -128,4 +128,5 @@
         "gallery": "aqui iria un link"
     }
 ]
+
 
