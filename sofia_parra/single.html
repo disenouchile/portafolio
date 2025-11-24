@@ -3,7 +3,31 @@
     <head>
         <meta charset="UTF-8" />
         <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-        <title>Sofia Parra</title>
+
+        <!-- Primary Meta Tags -->
+<title>Portafolio web Sofia Parra</title>
+<meta name="title" content="Portafolio web Sofia Parra" />
+<meta name="description" content="Portafolio de estudiante de Diseño en la Universidad de Chile. Proyectos académicos enfocados en creatividad, investigación y soluciones visuales aplicadas." />
+
+
+<!-- Open Graph / Facebook -->
+<meta property="og:type" content="website" />
+<meta property="og:url" content="https://metatags.io/" />
+<meta property="og:title" content="Portafolio web Sofia Parra" />
+<meta property="og:description" content="Portafolio de estudiante de Diseño en la Universidad de Chile. Proyectos académicos enfocados en creatividad, investigación y soluciones visuales aplicadas." />
+<meta property="og:image" content="https://metatags.io/images/meta-tags.png" />
+
+
+<!-- X (Twitter) -->
+<meta property="twitter:card" content="summary_large_image" />
+<meta property="twitter:url" content="https://metatags.io/" />
+<meta property="twitter:title" content="Portafolio web Sofia Parra" />
+<meta property="twitter:description" content="Portafolio de estudiante de Diseño en la Universidad de Chile. Proyectos académicos enfocados en creatividad, investigación y soluciones visuales aplicadas." />
+<meta property="twitter:image" content="https://metatags.io/images/meta-tags.png" />
+
+
+<!-- Meta Tags Generated with https://metatags.io -->
+
         <link href="style.css" rel="stylesheet" />
     </head>
     <body>
@@ -17,16 +41,8 @@
                     <a href="index.html">Portafolio</a>
                     <a href="about.html">Sobre mí</a>
                 </nav>
-                <section class="single" id="aqui">
-                    <h3>Lorem ipsum dolor sit amet</h3>
-                    <h4>ASIGNATURA</h4>
-                    <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Phasellus ac sem ac risus rhoncus tincidunt tempor in augue. Aenean interdum mauris nibh, ut congue nisl iaculis id. Proin leo est, finibus at aliquet non, tincidunt sed ante. Nulla id erat maximus, lacinia ex sit amet, mollis lectus. Praesent mattis elit nec accumsan pellentesque. Sed tempus, purus quis hendrerit eleifend, justo orci lacinia enim, in ultricies neque ipsum eu nunc. Pellentesque scelerisque est eu euismod malesuada. Etiam lorem est, lobortis a lacus id, malesuada gravida quam. Ut gravida velit ac sapien elementum faucibus. A continuación se indican los XXXXX:</p>
-                    <img src="https://anaisvalentina.github.io/primera-nota/img/lahora.webp" loading="lazy">
-                    <img src="https://anaisvalentina.github.io/primera-nota/img/lahora.webp" loading="lazy">
-                    <img src="https://anaisvalentina.github.io/primera-nota/img/lahora.webp" loading="lazy">
-                </section>
+                <section class="single" id="aqui">p</section>
             </div>
-        </main>
         <footer class="footer">
             <p>Sofia Parra © 2025</p>
             <div class="social-links">
@@ -52,10 +68,10 @@ if (trabajo) {
     lugar.innerHTML = `
         <h3>${trabajo.title}</h3>
         <h4>${trabajo.course}</h4>
+        <h5>${trabajo.professor}</h5>
         ${trabajo.description}
         ${trabajo.gallery
-            ? `<img src="${trabajo.gallery}" alt="${trabajo.title}" loading="lazy">`
-            : ""}
+        <img src="${trabajo.gallery}" alt="${trabajo.title}" loading="lazy">
     `;
 } else {
 
