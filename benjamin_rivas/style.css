@@ -87,7 +87,7 @@ h2 {
     letter-spacing: 2px;
     font-size: calc(0.6rem + 0.6vw);
     background-color: var(--colorMediador);
-    color: rgba(235, 230, 240, 9);
+    color: rgba(235, 230, 240, 0.9);
     border: 6px solid #000;
     padding: 25px 50px;
     text-transform: uppercase;
@@ -210,22 +210,22 @@ section.single h3{
     font-size: calc(1rem + 2vw);
     color: var(--colorMediador);
     text-transform: uppercase;
-    font-weight: 800
+    font-weight: 800;
+    line-height: 1.1;
 }
 
 section.single h4{
     text-align: center;
     font-size: calc(1rem + 1vw);
     color: var(--colorMediador);
-    font-weight: 800
+    font-weight: 800;
 }
 
 section.single h5{
     text-align: center;
     font-size: calc(1rem + 0.5vw);
-    margin-bottom: 3rem;
     color: var(--colorMediador);
-    font-weight: 800
+    font-weight: 800;
 }
 
 section.single p, section.single ul{
