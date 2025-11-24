@@ -1,0 +1,99 @@
+<!DOCTYPE html>
+<html lang="es">
+    <head>
+       <meta charset="UTF-8" />
+        <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+        <title>Camila Calquín</title>
+        <link href="style.css" rel="stylesheet" />
+        
+        <meta name="title" content="Portafolio Camila Calquín-Diseño Universidad de Chile" />
+        <meta name="description" content="Camila Calquín: Diseñadora en formación (UChile). Proyectos basados en investigación, pensamiento crítico e innovación en diseño industrial." />
+        <title>Portafolio Camila Calquín-Diseño Universidad de Chile</title>
+
+<!-- Open Graph / Facebook -->
+        <meta property="og:type" content="website" />
+        <meta property="og:url" content="https://disenouchile.github.io/portafolio/camila_calquin/" />
+        <meta property="og:title" content="Portafolio Camila Calquín-Diseño Universidad de Chile" />
+        <meta property="og:description" content="Camila Calquín: Diseñadora en formación (UChile). Proyectos basados en investigación, pensamiento crítico e innovación en diseño industrial." />
+        <meta property="og:image" content="https://camila-calquin.github.io/fotos/portafolio.webp" />
+ 
+<!-- X (Twitter) -->
+        <meta property="twitter:card" content="summary_large_image" />
+        <meta property="twitter:url" content="https://disenouchile.github.io/portafolio/camila_calquin/" />
+        <meta property="twitter:title" content="Portafolio Camila Calquín-Diseño Universidad de Chile" />
+        <meta property="twitter:description" content="Camila Calquín: Diseñadora en formación (UChile). Proyectos basados en investigación, pensamiento crítico e innovación en diseño industrial." />
+        <meta property="twitter:image" content="https://camila-calquin.github.io/fotos/portafolio.webp" />
+    </head>
+    <body>
+        <header>
+            <h1>Camila Calquín</h1>
+            <h2>Bachiller General, mención Humanidades y Artes</h2>
+        </header>
+        <main>
+            <div class="container">
+                <nav class="nav">
+                    <a href="index.html" class="active">Portafolio</a>
+                    <a href="about.html">Sobre mí</a>
+                </nav>
+                <section class="gallery">
+                    <div class="gallery-grid" id="aqui"></div>
+                </section>
+            </div>
+        </main>
+        <footer class="footer">
+            <p>Camila Calquín © 2025</p>
+            <div class="social-links">
+                <a href="https://github.com/Camila-calquin">GitHub</a>
+                <a href="https://www.linkedin.com/in/camila-calquín">LinkedIn</a>
+            </div>
+        </footer>
+        <script>
+            const portfolio = document.querySelector("#aqui");
+
+            async function datos(raw) {
+                try {
+                    let consulta = await fetch(raw);
+                    if (consulta.status === 429) {
+                        await new Promise((resolve) => setTimeout(resolve, 2000));
+                        consulta = await fetch(raw);
+                    }
+                    let trabajitos = await consulta.json();
+                    console.log(trabajitos);
+
+                    trabajitos.forEach((t) => {
+                        const div = document.createElement("div");
+                        div.className = "gallery-item";
+
+                        const a = document.createElement("a");
+                        a.href = `single.html?id=${t.id}`;
+
+                        const img = document.createElement("img");
+                        img.src = t.photo;
+                        img.alt = t.title;
+                        img.loading = "lazy";
+
+                        const overlay = document.createElement("div");
+                        overlay.className = "gallery-overlay";
+                        overlay.innerHTML = `<h3></h3><p></p>`;
+                        overlay.querySelector("h3").textContent = t.title;
+                        overlay.querySelector("p").textContent = t.course;
+
+                        a.append(img, overlay);
+                        div.appendChild(a);
+                        portfolio.appendChild(div);
+                    });
+                } catch (error) {
+                    console.error("Error al cargar los datos:", error);
+                }
+            }
+
+            if (document.readyState === "loading") {
+                document.addEventListener("DOMContentLoaded", () => {
+                    datos("https://raw.githubusercontent.com/disenouchile/portafolio/refs/heads/main/camila_calquin/trabajitos.json");
+                });
+            } else {
+                datos("https://raw.githubusercontent.com/disenouchile/portafolio/refs/heads/main/camila_calquin/trabajitos.json");
+            }
+        </script>
+    </body>
+</html>

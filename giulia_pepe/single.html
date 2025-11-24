@@ -1,0 +1,93 @@
+<!DOCTYPE html>
+<html lang="es">
+    <head>
+         <meta charset="UTF-8" />
+        <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+        <title>Camila Calquín</title>
+        <link href="style.css" rel="stylesheet" />
+        
+        <meta name="title" content="Portafolio Camila Calquín-Diseño Universidad de Chile" />
+        <meta name="description" content="Camila Calquín: Diseñadora en formación (UChile). Proyectos basados en investigación, pensamiento crítico e innovación en diseño industrial." />
+        <title>Portafolio Camila Calquín-Diseño Universidad de Chile</title>
+
+<!-- Open Graph / Facebook -->
+        <meta property="og:type" content="website" />
+        <meta property="og:url" content="https://disenouchile.github.io/portafolio/camila_calquin/" />
+        <meta property="og:title" content="Portafolio Camila Calquín-Diseño Universidad de Chile" />
+        <meta property="og:description" content="Camila Calquín: Diseñadora en formación (UChile). Proyectos basados en investigación, pensamiento crítico e innovación en diseño industrial." />
+        <meta property="og:image" content="https://camila-calquin.github.io/fotos/portafolio.webp" />
+ 
+<!-- X (Twitter) -->
+        <meta property="twitter:card" content="summary_large_image" />
+        <meta property="twitter:url" content="https://disenouchile.github.io/portafolio/camila_calquin/" />
+        <meta property="twitter:title" content="Portafolio Camila Calquín-Diseño Universidad de Chile" />
+        <meta property="twitter:description" content="Camila Calquín: Diseñadora en formación (UChile). Proyectos basados en investigación, pensamiento crítico e innovación en diseño industrial." />
+        <meta property="twitter:image" content="https://camila-calquin.github.io/fotos/portafolio.webp" />
+    </head>
+    <body>
+        <header>
+            <h1>Camila Calquín</h1>
+            <h2>Bachiller General, mención Humanidades y Artes</h2>
+        </header>
+        <main>
+            <div class="container">
+                <nav class="nav">
+                    <a href="index.html">Portafolio</a>
+                    <a href="about.html">Sobre mí</a>
+                </nav>
+                <section class="single" id="aqui"></section>
+            </div>
+        </main>
+        <footer class="footer">
+            <p>Camila Calquín © 2025</p>
+            <div class="social-links">
+                <a href="https://github.com/Camila-calquin">GitHub</a>
+                <a href="https://www.linkedin.com/in/camila-calquín">LinkedIn</a>
+            </div>
+        </footer>
+        <script>
+            async function cargarTrabajo(raw, id) {
+                try {
+                    let consulta = await fetch(raw);
+                    if (consulta.status === 429) {
+                        await new Promise((resolve) => setTimeout(resolve, 2000));
+                        consulta = await fetch(raw);
+                    }
+                    let trabajitos = await consulta.json();
+                    console.log(trabajitos);
+
+                    const lugar = document.querySelector("#aqui");
+                    const trabajo = trabajitos.find((t) => t.id == id);
+
+                    if (trabajo) {
+                        lugar.innerHTML = `
+                <h3>${trabajo.title}</h3>
+                <h4>${trabajo.course}</h4>
+                <p>${trabajo.description}</p>
+                <img src="${trabajo.gallery}" alt="${trabajo.title}" loading="lazy">
+            `;
+                    } else {
+                        lugar.innerHTML = "<h3>Trabajo no encontrado</h3><p>El trabajo solicitado no existe en el portafolio.</p>";
+                    }
+                } catch (error) {
+                    console.error("Error al cargar los datos:", error);
+                    const lugar = document.querySelector("#aqui");
+                    lugar.innerHTML = "<h3>Error al cargar</h3><p>No se pudo cargar la información del trabajo.</p>";
+                }
+            }
+
+            document.addEventListener("DOMContentLoaded", () => {
+                const params = new URLSearchParams(window.location.search);
+                const id = params.get("id");
+                const lugar = document.querySelector("#aqui");
+
+                if (!id) {
+                    lugar.innerHTML = "<div id='alerta'><p>Por favor, selecciona un trabajo del <a href='index.html'>portafolio</a>.</p></div>";
+                    return;
+                }
+
+                cargarTrabajo("https://raw.githubusercontent.com/disenouchile/portafolio/refs/heads/main/camila_calquin/trabajitos.json", id);
+            });
+        </script>
+    </body>
+</html>
