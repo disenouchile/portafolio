@@ -46,7 +46,7 @@
     },
     {
         "id": 6,
-        "photo": "https://github.com/ronnistp/portafolio/blob/dd9a228e80a9289c6bc3322af96da578eef3b43c/MY_VOICE.webp",
+        "photo": "https://github.com/ronnistp/portafolio/blob/dd9a228e80a9289c6bc3322af96da578eef3b43c/MY_VOICE.webp?raw=true",
         "title": "MY VOICE",
         "course": "Proyecto III",
         "professor": "Profesora Clarisa Menteguiaga",
@@ -55,7 +55,7 @@
     },
     {
         "id": 7,
-        "photo": "https://github.com/ronnistp/portafolio/blob/dd9a228e80a9289c6bc3322af96da578eef3b43c/BT21.webp",
+        "photo": "https://github.com/ronnistp/portafolio/blob/dd9a228e80a9289c6bc3322af96da578eef3b43c/BT21.webp?raw=true",
         "title": "POP MART X BT21",
         "course": "Comunicación del Proyecto de Diseño",
         "professor": "Profesor Felix Maldonado de la Fuente",
@@ -64,7 +64,7 @@
     },
     {
         "id": 8,
-        "photo": "https://github.com/ronnistp/portafolio/blob/d0c601037432f8214cffc1940a3868c0b6671e45/insectra.webp",
+        "photo": "https://github.com/ronnistp/portafolio/blob/d0c601037432f8214cffc1940a3868c0b6671e45/insectra.webp?raw=true",
         "title": "INSECTRA",
         "course": "Procesos y Prototipos I",
         "professor": "Profesora Pamela Fuentes",
