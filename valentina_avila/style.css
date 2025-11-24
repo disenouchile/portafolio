@@ -210,7 +210,6 @@ section.single{
 section.single h3{
     text-align: center;
     font-size: calc(1rem + 2vw);
-    text-decoration: underline;
 }
 
 section.single h4{
