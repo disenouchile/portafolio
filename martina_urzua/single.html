@@ -1,10 +1,41 @@
-<!DOCTYPE html>
+<!doctype html>
 <html lang="es">
     <head>
         <meta charset="UTF-8" />
         <meta name="viewport" content="width=device-width, initial-scale=1.0" />
         <title>@urzuando</title>
         <link href="style.css" rel="stylesheet" />
+        <!-- Primary Meta Tags -->
+        <meta name="title" content="Martina Urzúa" />
+        <meta
+            name="description"
+            content="Mi nombre es Martina Urzúa Bravo. Soy estudiante de Diseño en la Universidad de Chile. Estoy completando mi primer ciclo de formación, que considera actividades curriculares orientadas a introducirme en la formación disciplinar y profesional. Por completarlo, ya tengo el grado inicial de Bachiller General, mención Humanidades y Artes.
+
+Mi Portafolio de Bachiller se construye desde una mirada proyectual con enfoque Industrial, complementada por una fuerte exploración en Visualidad y Medios. Entiendo el diseño como una disciplina integral: no solo configuro la forma y función de los objetos, sino también su narrativa visual. Me considero una persona capaz de materializar ideas complejas, integrando la lógica constructiva con una estética que comunica y da sentido al producto final." />
+
+        <!-- Open Graph / Facebook -->
+        <meta property="og:type" content="website" />
+        <meta property="og:url" content="https://disenouchile.github.io/portafolio/martina_urzua/" />
+        <meta property="og:title" content="Martina Urzúa" />
+        <meta
+            property="og:description"
+            content="Mi nombre es Martina Urzúa Bravo. Soy estudiante de Diseño en la Universidad de Chile. Estoy completando mi primer ciclo de formación, que considera actividades curriculares orientadas a introducirme en la formación disciplinar y profesional. Por completarlo, ya tengo el grado inicial de Bachiller General, mención Humanidades y Artes.
+
+Mi Portafolio de Bachiller se construye desde una mirada proyectual con enfoque Industrial, complementada por una fuerte exploración en Visualidad y Medios. Entiendo el diseño como una disciplina integral: no solo configuro la forma y función de los objetos, sino también su narrativa visual. Me considero una persona capaz de materializar ideas complejas, integrando la lógica constructiva con una estética que comunica y da sentido al producto final." />
+        <meta property="og:image" content="https://metatags.io/images/meta-tags.png" />
+
+        <!-- X (Twitter) -->
+        <meta property="twitter:card" content="summary_large_image" />
+        <meta property="twitter:url" content="https://disenouchile.github.io/portafolio/martina_urzua/" />
+        <meta property="twitter:title" content="Martina Urzúa" />
+        <meta
+            property="twitter:description"
+            content="Mi nombre es Martina Urzúa Bravo. Soy estudiante de Diseño en la Universidad de Chile. Estoy completando mi primer ciclo de formación, que considera actividades curriculares orientadas a introducirme en la formación disciplinar y profesional. Por completarlo, ya tengo el grado inicial de Bachiller General, mención Humanidades y Artes.
+
+Mi Portafolio de Bachiller se construye desde una mirada proyectual con enfoque Industrial, complementada por una fuerte exploración en Visualidad y Medios. Entiendo el diseño como una disciplina integral: no solo configuro la forma y función de los objetos, sino también su narrativa visual. Me considero una persona capaz de materializar ideas complejas, integrando la lógica constructiva con una estética que comunica y da sentido al producto final." />
+        <meta property="twitter:image" content="https://metatags.io/images/meta-tags.png" />
+
+        <!-- Meta Tags Generated with https://metatags.io -->
     </head>
     <body>
         <header>
@@ -24,8 +55,8 @@
             <p>Martina Urzúa Bravo © 2025</p>
             <div class="social-links">
                 <a href="https://www.linkedin.com/in/martinaurzua" class="social-links">LinkedIn</a>
-    <a href="https://github.com/martinaurzua" class="social-links">GitHub</a>
-    <a href="https://www.instagram.com/urzuando/" class="social-links">Instagram</a>
+                <a href="https://github.com/martinaurzua" class="social-links">GitHub</a>
+                <a href="https://www.instagram.com/urzuando/" class="social-links">Instagram</a>
             </div>
         </footer>
         <script>
@@ -50,7 +81,8 @@
                 <img src="${trabajo.gallery}" alt="${trabajo.title}" loading="lazy">
             `;
                     } else {
-                        lugar.innerHTML = "<h3>Trabajo no encontrado</h3><p>El trabajo solicitado no existe en el portafolio.</p>";
+                        lugar.innerHTML =
+                            "<h3>Trabajo no encontrado</h3><p>El trabajo solicitado no existe en el portafolio.</p>";
                     }
                 } catch (error) {
                     console.error("Error al cargar los datos:", error);
@@ -65,11 +97,15 @@
                 const lugar = document.querySelector("#aqui");
 
                 if (!id) {
-                    lugar.innerHTML = "<div id='alerta'><p>Por favor, selecciona un trabajo del <a href='index.html'>portafolio</a>.</p></div>";
+                    lugar.innerHTML =
+                        "<div id='alerta'><p>Por favor, selecciona un trabajo del <a href='index.html'>portafolio</a>.</p></div>";
                     return;
                 }
 
-                cargarTrabajo("https://raw.githubusercontent.com/disenouchile/portafolio/refs/heads/main/martina_urzua/trabajitos.json", id);
+                cargarTrabajo(
+                    "https://raw.githubusercontent.com/disenouchile/portafolio/refs/heads/main/martina_urzua/trabajitos.json",
+                    id
+                );
             });
         </script>
     </body>
