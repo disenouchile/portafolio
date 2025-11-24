@@ -215,6 +215,12 @@ section.single p a{
 section.single h4{
     text-align: center;
     font-size: calc(1rem + 1vw);
+    margin-bottom: 0rem;
+}
+
+section.single h5{
+    text-align: center;
+    font-size: calc(1rem + 0.5vw);
     margin-bottom: 3rem;
 }
 
