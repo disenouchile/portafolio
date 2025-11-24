@@ -123,7 +123,7 @@
         "course": "Proyecto II",
         "professor": "Profesora Gabriela Pradenas",
         "description":  "Descripción pendiente del trabajo.",
-        "gallery": "https://raw.githubusercontent.com/profesorfaco/herramientas/refs/heads/main/clase-13/gallery.webp"
+        "gallery": "https://github.com/ronnistp/portafolio/blob/8b93a4fd492b160577e73b8f432f409bffc491f5/collage%20capsula.webp?raw=true"
     },
     {
         "id": 15,
@@ -132,7 +132,7 @@
         "course": "Proyecto I",
         "professor": "Profesora Gabriela Pradenas",
         "description":  "Descripción pendiente del trabajo.",
-        "gallery": "https://github.com/ronnistp/portafolio/blob/main/Desplegable.webp?raw=true"
+        "gallery": "https://github.com/ronnistp/portafolio/blob/8b93a4fd492b160577e73b8f432f409bffc491f5/collage%20desplegable.webp?raw=true"
     },
     {
         "id": 16,
@@ -141,6 +141,6 @@
         "course": "Proyecto I",
         "professor": "Profesora Gabriela Pradenas",
         "description":  "Descripción pendiente del trabajo.",
-        "gallery": "https://github.com/ronnistp/portafolio/blob/main/Gemini_Generated_Image_w2zk71w2zk71w2zk.webp?raw=true"
+        "gallery": "https://github.com/ronnistp/portafolio/blob/8b93a4fd492b160577e73b8f432f409bffc491f5/collage%20elementos.webp?raw=true"
     }
 ]
