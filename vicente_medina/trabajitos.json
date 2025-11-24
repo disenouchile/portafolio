@@ -133,7 +133,7 @@
         "course": "Herramientas Computacionales",
         "professor": "Profesor Felipe Cortez",
         "description": "<p>El encargo consistió en el Diseño y Modelado 3D de una Máscara de Halloween en el software Blender, con un enfoque riguroso en la topología del modelo.</p><p>El proceso requirió observar y diagnosticar las formas del referente para problematizar su representación, aplicando la simplicidad topológica como metodología (minimizar el número de vértices, aristas y caras).<p>El problema esencial fue lograr la eficiencia en la representación. La solución innovadora fue modelar y formalizarla máscara en Blender, demostrando el dominio de las herramientas y la aplicación del criterio de buena topología en el diseño.</p><p>El proyecto validó la capacidad para conceptualizar, modelar y comunicar propuestas de diseño 3D, priorizando la síntesis geométrica y la eficiencia técnica.</p>",
-        "gallery": "https://raw.githubusercontent.com/vicentemedinat/repo_para_imagenes/refs/heads/main/img/photo-15.webp"
+        "gallery": "https://raw.githubusercontent.com/vicentemedinat/repo_para_imagenes/refs/heads/main/img/gallery-15.webp"
     },
     {
         "id": 16,
