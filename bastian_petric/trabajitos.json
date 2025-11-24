@@ -1,7 +1,7 @@
 [
   {
     "id": 1,
-    "photo": "https://github.com/disenouchile/portafolio/blob/main/bastian_petric/IMG/TABURETE.png?raw=true",
+    "photo": "https://bastich03.github.io/Photos/photo_1.webp",
     "title": "Taburete de Madera",
     "course": "Proceso y Prototipos II",
     "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed rutrum hendrerit lorem. Curabitur sodales feugiat libero. Nullam in lorem ut sem tempor accumsan nec vitae lacus. Sed vel finibus ex, quis euismod lorem.",
@@ -9,7 +9,7 @@
   },
   {
     "id": 2,
-    "photo": "https://github.com/disenouchile/portafolio/blob/main/bastian_petric/IMG/ELEFANTE.png?raw=true",
+    "photo": "https://bastich03.github.io/Photos/photo_2.webp",
     "title": "Prototipo de Elefante de Metal",
     "course": "Proceso y Prototipo II",
     "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed rutrum hendrerit lorem. Curabitur sodales feugiat libero.",
@@ -17,7 +17,7 @@
   },
   {
     "id": 3,
-    "photo": "https://github.com/disenouchile/portafolio/blob/main/bastian_petric/IMG/Generated%20Image%20October%2006,%202025%20-%202_27AM.png?raw=true",
+    "photo": "https://bastich03.github.io/Photos/photo_3.webp",
     "title": "Artefacto para sobrevivir al presente",
     "course": "Proyecto III",
     "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed rutrum hendrerit lorem.",
@@ -25,7 +25,7 @@
   },
   {
     "id": 4,
-    "photo": "https://github.com/disenouchile/portafolio/blob/main/bastian_petric/IMG/Generated%20Image%20October%2006,%202025%20-%202_17AM.png?raw=true",
+    "photo": "https://bastich03.github.io/Photos/photo_4.webp",
     "title": "Fanzine",
     "course": "Proyecto III",
     "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed rutrum hendrerit lorem.",
@@ -33,7 +33,7 @@
   },
   {
     "id": 5,
-    "photo": "https://github.com/disenouchile/portafolio/blob/main/bastian_petric/IMG/Generated%20Image%20October%2006,%202025%20-%203_07AM.png?raw=true",
+    "photo": "https://bastich03.github.io/Photos/photo_5.webp",
     "title": "Guantes Terapelos",
     "course": "Ergonomia y Factores Humanos",
     "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed rutrum hendrerit lorem.",
@@ -41,7 +41,7 @@
   },
   {
     "id": 6,
-    "photo": "https://github.com/disenouchile/portafolio/blob/main/bastian_petric/IMG/Generated%20Image%20October%2006,%202025%20-%203_15AM.png?raw=true",
+    "photo": "https://bastich03.github.io/Photos/photo_6.webp",
     "title": "Packaging Artelier",
     "course": "Proceso y Prototipo I",
     "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed rutrum hendrerit lorem.",
@@ -49,34 +49,81 @@
   },
   {
     "id": 7,
-    "photo": "https://raw.githubusercontent.com/valentinatroncoso/Imagenes-finales/refs/heads/main/Gemini_Generated_Image_8w6nfl8w6nfl8w6n%20(1).webp",
-    "title": "Infografía",
-    "course": "Configuración Visual II",
-    "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed rutrum hendrerit lorem.",
-    "gallery": "https://github.com/catadunsmore/primera-nota/blob/main/img/foto-02.webp?raw=true"
-  },
-  {
-    "id": 8,
-    "photo": "https://raw.githubusercontent.com/valentinatroncoso/Imagenes-finales/refs/heads/main/Gemini_Generated_Image_4mlg8g4mlg8g4mlg%20(1).webp",
+    "photo": "https://bastich03.github.io/Photos/photo_7.webp",
     "title": "Taburete",
     "course": "Procesos y Prototipos II",
     "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed rutrum hendrerit lorem.",
     "gallery": "https://github.com/catadunsmore/primera-nota/blob/main/img/foto-02.webp?raw=true"
   },
   {
+    "id": 8,
+    "photo": "https://bastich03.github.io/Photos/photo_8.webp",
+    "title": "Infografía",
+    "course": "Configuración Visual II",
+    "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed rutrum hendrerit lorem.",
+    "gallery": "https://github.com/catadunsmore/primera-nota/blob/main/img/foto-02.webp?raw=true"
+  },
+  {
     "id": 9,
-    "photo": "https://raw.githubusercontent.com/valentinatroncoso/Imagenes-finales/refs/heads/main/Gemini_Generated_Image_f2ogof2ogof2ogof%20(1).webp",
-    "title": "Guante Ergonomico; ProtecMan",
-    "course": "Ergonomía y Factores Humanos",
+    "photo": "https://bastich03.github.io/Photos/photo_9.webp",
+    "title": "Ensambles de Madera",
+    "course": "Proceso y Prototipos II",
     "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed rutrum hendrerit lorem.",
     "gallery": "https://github.com/catadunsmore/primera-nota/blob/main/img/foto-02.webp?raw=true"
   },
   {
     "id": 10,
-    "photo": "https://raw.githubusercontent.com/valentinatroncoso/Imagenes-finales/refs/heads/main/Gemini_Generated_Image_dng92hdng92hdng9%20(1).webp",
-    "title": "CV",
+    "photo": "https://bastich03.github.io/Photos/photo_10.webp",
+    "title": "Texturas",
+    "course": "Proyecto I",
+    "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed rutrum hendrerit lorem.",
+    "gallery": "https://github.com/catadunsmore/primera-nota/blob/main/img/foto-02.webp?raw=true"
+  },
+  {
+    "id": 11,
+    "photo": "https://bastich03.github.io/Photos/photo_11.webp",
+    "title": "Mascara de Animal en Blender",
     "course": "Herramientas Computacionales",
     "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed rutrum hendrerit lorem.",
     "gallery": "https://github.com/catadunsmore/primera-nota/blob/main/img/foto-02.webp?raw=true"
-  }
+  },
+  {
+    "id": 12,
+    "photo": "https://bastich03.github.io/Photos/photo_12.webp",
+    "title": "Objeto de Luz",
+    "course": "Proyecto II",
+    "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed rutrum hendrerit lorem.",
+    "gallery": "https://github.com/catadunsmore/primera-nota/blob/main/img/foto-02.webp?raw=true"
+  },
+  {
+    "id": 13,
+    "photo": "https://bastich03.github.io/Photos/photo_13.webp",
+    "title": "Escalera de Conocimiento",
+    "course": "Proyecto IV",
+    "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed rutrum hendrerit lorem.",
+    "gallery": "https://github.com/catadunsmore/primera-nota/blob/main/img/foto-02.webp?raw=true"
+  },
+  {
+    "id": 14,
+    "photo": "https://bastich03.github.io/Photos/photo_14.webp",
+    "title": "Lampara de Metal",
+    "course": "Proceso y Prototipos II",
+    "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed rutrum hendrerit lorem.",
+    "gallery": "https://github.com/catadunsmore/primera-nota/blob/main/img/foto-02.webp?raw=true"
+  },
+  {
+    "id": 15,
+    "photo": "https://bastich03.github.io/Photos/photo_15.webp",
+    "title": "Proyecto de Diseño del Parque Carén; Hito 1",
+    "course": "Proyecto IV",
+    "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed rutrum hendrerit lorem.",
+    "gallery": "https://github.com/catadunsmore/primera-nota/blob/main/img/foto-02.webp?raw=true"
+  },
+  {
+    "id": 16,
+    "photo": "https://bastich03.github.io/Photos/photo_16.webp",
+    "title": "Neo Ritual",
+    "course": "Proyecto IV",
+    "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed rutrum hendrerit lorem.",
+    "gallery": "https://github.com/catadunsmore/primera-nota/blob/main/img/foto-02.webp?raw=true"
 ]

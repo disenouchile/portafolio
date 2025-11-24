@@ -4,10 +4,10 @@
    Variables y Reset
    =================== */
 :root {
-    --colorPrimario: rgba(0,255,255,1);
-    --colorOverlay: rgba(0,255,255,0.9);
-    --colorSecundario: rgba(255,255,0,1);
-    --colorMediador: rgba(255,0,255,1);
+    --colorPrimario: #ff3449;
+    --colorOverlay: rgba(219, 103, 98, 0.47);
+    --colorSecundario: #617af2;
+    --colorMediador: #a9c5ff;
 }
 
 * {
@@ -37,7 +37,7 @@ body {
    =================== */
 header,
 footer {
-    border: 7px solid black;
+    border: 7px solid #000000;
     background-color: var(--colorPrimario);
     text-align: center;
     padding: 60px 0 40px;
@@ -85,7 +85,7 @@ h2 {
     letter-spacing: 2px;
     font-size: calc(0.6rem + 0.6vw);
     background-color: var(--colorMediador);
-    color: rgba(0,0,0,.9);
+    color: rgba(0, 0, 0, 0.9);
     border: 6px solid #000;
     padding: 25px 50px;
     text-transform: uppercase;
