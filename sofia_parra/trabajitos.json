@@ -1,7 +1,7 @@
 [
-{
+    {
         "id": 1,
-        "photo": "https://SofiaParraLunaUCH.github.io/repo_para_imagenes/photo_1.webp",
+        "photo": "https://sofiaparralunauch.github.io/repo_para_imagenes/photo_1.webp",
         "title": "Acuareguante",
         "course": "Guante para pintar con acuarela",
         "description": "",
@@ -29,7 +29,7 @@
         "title": "Dulce",
         "course": "Entrega Representacion Conceptual.",
         "description": "",
-        "gallery": ""    
+        "gallery": ""
     },
     {
         "id": 5,
@@ -126,5 +126,5 @@
         "course": "Configuración Visual II",
         "description": "",
         "gallery": ""
-    }           
+    }
 ]
