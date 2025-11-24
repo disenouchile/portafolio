@@ -4,10 +4,10 @@
    Variables y Reset
    =================== */
 :root {
-    --colorPrimario: rgba(0,255,255,1);
-    --colorOverlay: rgba(0,255,255,0.9);
-    --colorSecundario: rgba(255,255,0,1);
-    --colorMediador: rgba(255,0,255,1);
+    --colorPrimario: #FFFFC0;
+    --colorOverlay: #FFFFC0;
+    --colorSecundario: #FFB63B;
+    --colorMediador: #19544C;
 }
 
 * {
@@ -22,7 +22,7 @@
 body {
     font-family: "Helvetica", "Arial", sans-serif;
     line-height: 1.6;
-    color: rgba(0,0,0,.9);
+    color: #000;
     background-color: #000;
 }
 
@@ -37,15 +37,15 @@ body {
    =================== */
 header,
 footer {
-    border: 7px solid black;
+    border: 7px solid #000;
     background-color: var(--colorPrimario);
     text-align: center;
     padding: 60px 0 40px;
 }
 
 main {
-    border-right: 7px solid black;
-    border-left: 7px solid black;
+    border-right: 7px solid #19544C;
+    border-left: 7px solid #19544C;
     background-color: var(--colorSecundario);
 }
 
