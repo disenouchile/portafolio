@@ -1,66 +1,66 @@
 [
    {
         "id": 1,
-        "photo": "https://raw.githubusercontent.com/dv29ast/img/refs/heads/main/img/1.webp",
+        "photo": "https://dv29ast.github.io/imagenes/IMG/1.webp",
         "title": "Como es arriba, es abajo",
         "course": "Configuración Visual I",
         "description": "Representacion de la <em>iluminacion y la introspección</em> por medio del uso de la contraforma en cartulinas roja y negra. Donde la figura superior representa la iluminacion con <em>disco en la cabeza</em>, triangulos con puntas hacia afuera de la circunferencia, <em>sosteniendo una esfera armilar</em>, que en el arte simboliza la <em>sabiduria</em> y la propia <em>iluminación</em>. Por otra parte, la figura inferior representa la <em>introspección</em> por medio de un diseño identico al superior, con <em>colores invertidos</em> y las puntas del disco apuntando hacia el centro y una <em>estrella contenida en una circunferencia</em>.",
-       "gallery":"https://raw.githubusercontent.com/dv29ast/img/refs/heads/main/img/1.webp"
+       "gallery":"https://dv29ast.github.io/imagenes/IMG/1.webp"
     },
     {
         "id": 2,
-        "photo": "https://raw.githubusercontent.com/dv29ast/img/refs/heads/main/img/2.png",
+        "photo": "https://dv29ast.github.io/imagenes/IMG/2.webp",
         "title": "Metamorfosis",
         "course": "Proyecto I",
         "description": "Representacion de la <em>transformación</em> que implica la metamorfosis por medio del collage. Opté por el significado más directo del concepto, con una <em>cambio físico de la forma</em> ",
-       "gallery":"https://raw.githubusercontent.com/dv29ast/img/refs/heads/main/img/2.png"
+       "gallery":"https://dv29ast.github.io/imagenes/IMG/2.webp"
     },
     {
         "id": 3,
-        "photo": "https://raw.githubusercontent.com/dv29ast/img/refs/heads/main/img/3.png",
+        "photo": "https://dv29ast.github.io/imagenes/IMG/3.webp",
         "title": "Conexión",
         "course": "Representación Conceptual",
         "description": "Representación del concepto de la <em>conexión</em> por medio de la contraforma. El trabajo esta inspirado en los <em>enlaces</em> presentes en los elementos y compuestos químicos, particularmente en los <em>rubíes</em>, donde el <em>color rojo se debe a la presencia del flúor</em>, y de la misma forma la figuras, siendo <em>octaedros</em> con sus aristas conectadas con en el centro, corresponden a la <em>estructura química</em> de los rubíes",
-       "gallery":"https://raw.githubusercontent.com/dv29ast/img/refs/heads/main/img/3.png"
+       "gallery":"https://dv29ast.github.io/imagenes/IMG/3.webp"
     },
     {
         "id": 4,
-        "photo": "https://raw.githubusercontent.com/dv29ast/img/refs/heads/main/img/4.png",
+        "photo": "https://dv29ast.github.io/imagenes/IMG/4.webp",
         "title": "Imagotipo de marca ASBOS",
         "course": "Proyecto II",
         "description": "Imagotipo de una <em>marca personal</em> con concepto de <em>transformación</em>, viendose reflejado en el uso de la <em>rosa negra</em>, que simboliza este concepto. La marca hipotetica busca <em>rediseñar ideas y objetos</em> con el objetivo de <em>personalizarlos</em> acorde al usuario. Toma inspiración del <em>arte y literatura gótica, de fantasía y fantasía oscura</em>.",
-       "gallery":"https://raw.githubusercontent.com/dv29ast/img/refs/heads/main/img/4.png"
+       "gallery":"https://dv29ast.github.io/imagenes/IMG/4.webp"
     },
     {
         "id": 5,
-        "photo": "https://raw.githubusercontent.com/dv29ast/img/refs/heads/main/img/5.png",
+        "photo": "https://dv29ast.github.io/imagenes/IMG/5.webp",
         "title": "Frente y reverso de tríptico de Don Quijote",
         "course": "Proyecto I",
         "description": "Tríptico basado en el libro de <em>Don Quijote</em>. Busca promover el libro a traves del uso de los elementos más reconocibles, como la <em>frase inicial</em> del libro, los <em>personajes más relevante</em>s.",
-       "gallery":"https://raw.githubusercontent.com/dv29ast/img/refs/heads/main/img/5.png"
+       "gallery":"https://dv29ast.github.io/imagenes/IMG/5.webp"
     },
     {
         "id": 6,
-        "photo": "https://raw.githubusercontent.com/dv29ast/img/refs/heads/main/img/6.png",
+        "photo": "https://dv29ast.github.io/imagenes/IMG/6.webp",
         "title": "a",
         "course": "a",
         "description": "a",
-       "gallery":"https://raw.githubusercontent.com/dv29ast/img/refs/heads/main/img/6.png"
+       "gallery":"https://dv29ast.github.io/imagenes/IMG/6.webp"
     },
     {
         "id": 7,
-        "photo": "https://raw.githubusercontent.com/dv29ast/img/refs/heads/main/img/7.png",
+        "photo": "https://dv29ast.github.io/imagenes/IMG/7.webp",
         "title": "a",
         "course": "a",
         "description": "a",
-       "gallery":"https://raw.githubusercontent.com/dv29ast/img/refs/heads/main/img/7.png"
+       "gallery":"https://dv29ast.github.io/imagenes/IMG/7.webp"
     },
     {
         "id": 8,
-        "photo": "https://raw.githubusercontent.com/dv29ast/img/refs/heads/main/img/8.png",
+        "photo": "https://dv29ast.github.io/imagenes/IMG/8.webp",
         "title": "a",
         "course": "a",
         "description": "a",
-       "gallery":"https://raw.githubusercontent.com/dv29ast/img/refs/heads/main/img/8.png"
+       "gallery":"https://dv29ast.github.io/imagenes/IMG/8.webp"
     }
 ]
