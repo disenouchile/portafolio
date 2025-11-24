@@ -1,130 +1,133 @@
 [
     {
         "id": 1,
-        "photo":  "https://camila-calquin.github.io/fotos/principal/foto01.webp",
-        "title": "Taburete de raulí y álamo",
-        "course": "Procesos y prototipos II",
-        "description": "<p>Docente: Antonio Marín.</p><p>Trabajo realizado en duplas con Javier Castillo.</p><p>Prototipo funcional realizado con maderas nativas (Raulí y Álamo), enfocado en la aplicación práctica de tres técnicas de unión esenciales: cola de milano, caja y espiga, y media madera entarugada. Un ejercicio de proceso constructivo que resalta la habilidad en el manejo de materiales y la comprensión de la integridad estructural para el diseño industrial.</p>",
-        "gallery": "https://camila-calquin.github.io/fotos/galeria/malla01.webp"
+        "photo":  "https://catsgugu.github.io/img/fotos/foto01.webp",
+        "title": "Objeto de luz",
+        "course": "Proyecto I",
+        "description": "<p>Docente: Reneé Perea.</p><p>Trabajo realizado en duplas con Antonia Lara.</p><p>Propuesta de objeto de luz en base a los conceptos: Agresivo, Puntiagudo y Agudo</p>",
+        "gallery": "https://catsgugu.github.io/img/galeria/galeria01.webp"
     },
     {
         "id": 2,
-        "photo": "https://camila-calquin.github.io/fotos/principal/foto02.webp",
-        "title": "Producto Moddis",
-        "course": "Comunicación del proyecto de diseño",
-        "description": "<p>Docente: Felix Maldonado.</p><p>Trabajo realizado en grupo con Ayline Marín, Giulia Pepe y Constanza Venegas.</p><p>Propuesta de nuevo producto en la línea de juguetes, centrada en la innovación social y la inclusión. El proyecto Moddis consiste en un sistema de muñecas totalmente personalizables con el objetivo de asegurar que todas las infancias puedan verse reflejadas y sentirse incluidas. Este trabajo de diseño estratégico demuestra la capacidad de investigación para identificar una necesidad social (representación) y transformarla en una solución de diseño industrial viable para una gran corporación. Se aplica la capacidad para comunicarse de manera efectiva para presentar una propuesta de valor basada en la diversidad y la modularidad.</p>",
-        "gallery": "https://camila-calquin.github.io/fotos/galeria/malla02.webp"
+        "photo": "https://catsgugu.github.io/img/fotos/foto02.webp",
+        "title": "Vinilo X Libro",
+        "course": "Proyecto II",
+     "description": "<p>Docente: Reneé Perea.</p><p>Diseño inspirado en una combinación del manga Chainsaw Man con el artista Kanye West.</p>",
+        "gallery": "https://catsgugu.github.io/img/galeria/galeria02.webp"
     },
     {
         "id": 3,
-        "photo": "https://camila-calquin.github.io/fotos/principal/foto03.webp",
-        "title": "Cápsula del tiempo",
-        "course": "Proyecto II",
-        "description": "<p>Docente: Gabriela Pradenas.</p><p>Diseño de packaging desarrollado para cumplir un doble propósito: la protección estructural de un objeto de alto valor histórico (un berbiquí) y su presentación conceptual para ser preservado por mil años. Este proyecto individual demuestra la capacidad de investigación y creación al traducir conceptos abstractos en soluciones formales.</p>",
-        "gallery": "https://camila-calquin.github.io/fotos/galeria/malla03.webp"
+        "photo": "https://catsgugu.github.io/img/fotos/foto03.webp",
+        "title": "Collage ¿Te transmito suficiente?",
+        "course": "Representación Conceptual",
+        "description": "<p>Docente: Grace Mallea</p><p>Proyecto de composición visual a través de la técnica del collage. El trabajo se centró en la síntesis conceptual de una idea o tema complejo, este ejercicio requirió la aplicación de principios de composición, jerarquía visual y teoría del color para organizar elementos dispares en un conjunto coherente y significativo.</p>",
+        "gallery": "https://catsgugu.github.io/img/galeria/galeria03.webp"
+       
     },
     {
         "id": 4,
-        "photo": "https://camila-calquin.github.io/fotos/principal/foto04.webp",
-        "title": "Identidad Floramor",
-        "course": "Procesos y prototipos I",
-        "description": "<p>Docente: Pamela Fuentes.</p><p>Trabajo realizado en grupo Giulia Pepe y Constanza Venegas.</p><p>Trabajo que abordó la creación de identidad de marca, lenguaje visual y estrategia de producto/servicio. Se demostró la capacidad de comunicación profesional al trabajar con un brief y enfocar la solución en un perfil de usuario específico. El elemento de innovación se centró en un packaging de doble propósito (transporte y florero/macetero), con énfasis en la sustentabilidad. El trabajo concluyó con la consolidación de la identidad visual a través del diseño y mockup de la página web, mostrando una visión completa del diseño aplicado a múltiples plataformas.</p>",
-        "gallery": "https://camila-calquin.github.io/fotos/galeria/malla04.webp"
+         "photo": "https://catsgugu.github.io/img/fotos/foto04.webp",
+        "title": "Collage Concepto PSICOSIS",
+        "course": "Configuración Visual II",
+        "description": "<p>Docente: Juan Calderón</p><p>Proyecto individual de collage digital que exploró el concepto de la psicosis. El trabajo se centró en la creación de una composición visualmente intensa mediante la manipulación cromática y el uso de espirales como elemento simbólico central. Se demostró la capacidad de generar una narrativa emocional profunda y aplicar técnicas de diseño digital para construir una atmósfera inquietante y vibrante.</p>",
+        "gallery": "https://catsgugu.github.io/img/galeria/galeria04.webp"
     },
     {
         "id": 5,
-        "photo": "https://camila-calquin.github.io/fotos/principal/foto05.webp",
-        "title": "Volantín con módulo",
-        "course": "Proyecto IV",
-        "description": "<p>Docente: Macarena Becas</p><p>Proyecto enfocado en la aplicación práctica de principios geométricos y de composición. El trabajo se inició con el diseño de un módulo visual en tres colores, al cual se le aplicaron leyes de simetría complejas, específicamente reflexión y rotación. Este ejercicio demuestra la capacidad de pensamiento crítico para estructurar un diseño a partir de reglas matemáticas. La fase final consistió en recrear y aplicar esta gráfica modular como el patrón de un volantín hecho a mano, consolidando la transición de la composición abstracta a la materialización en un producto artesanal.</p>",
-        "gallery": "https://camila-calquin.github.io/fotos/galeria/malla05.webp"
+         "photo": "https://catsgugu.github.io/img/fotos/foto05.webp",
+        "title": "Fotomontaje conceptual de Línea",
+        "course": "Proyecto II",
+        "description": "<p>Docente: Reneé Perea</p><p>Proyecto fotográfico centrado en la exploración y representación del concepto de la línea a través de la técnica del fotomontaje digital. El trabajo consistió en la síntesis de tres fotografías individuales que fueron editadas y unificadas para construir una nueva composición. El objetivo fue demostrar la capacidad de interpretar un concepto abstracto (la línea, en su sentido geométrico o narrativo) y materializarlo en una instalación de tres piezas que funcionan tanto de manera autónoma como integradas en un conjunto coherente.</p>",
+        "gallery": "https://catsgugu.github.io/img/galeria/galeria05.webp"
     },
     {
         "id": 6,
-        "photo": "https://camila-calquin.github.io/fotos/principal/foto06.webp",
-        "title": "Infografía kimono",
-        "course": "Proyecto III",
-        "description": "<p>Docente: Clarisa Menteguiaga</p><p>Trabajo realizado en duplas con Claudio Abarca</p><p>Proyecto de comunicación visual centrado en la investigación y el análisis del kimono japonés. La pieza principal es una infografía híbrida que combinó técnicas de producción análogas (gráfica) y digitales (texto) para presentar tres tipologías clave: línea de tiempo, clasificación y ubicación geográfica. El componente de innovación se presentó en el objeto de apoyo desarrollado: una maqueta expositiva de un proyector lumínico. Este prototipo utilizó la tipología de línea de tiempo para narrar visualmente el cambio de vestimenta en Japón a través de sus períodos históricos, demostrando la capacidad de llevar un concepto gráfico a una experiencia expositiva tridimensional y funcional.</p>",
-        "gallery": "https://camila-calquin.github.io/fotos/galeria/malla06.webp"
+         "photo": "https://catsgugu.github.io/img/fotos/foto06.webp",
+        "title": "Baraja Cartas El juicio Prohibido",
+        "course": "Representación Conceptual",
+        "description": "<p>Docente: Grace Mallea</p><p>Trabajo realizado con Constanza Venegas.</p><p>Proyecto de diseño de producto enfocado en la creación de una baraja de Memorice con temática de los Siete Pecados y Siete Virtudes Capitales. El trabajo requirió el diseño de ilustraciones duales que fueran visualmente compatibles y conceptualmente opuestas, facilitando la identificación y memorización de cada par (pecado/virtud). Este proyecto demostró la capacidad de transformar un concepto filosófico y ético complejo en un producto lúdico y didáctico, aplicando principios de diseño gráfico para asegurar la coherencia visual y la efectividad comunicativa en un formato de juego.</p>",
+        "gallery": "https://catsgugu.github.io/img/galeria/galeria06.webp"
+
     },
     {
         "id": 7,
-        "photo": "https://camila-calquin.github.io/fotos/principal/foto07.webp",
-        "title": "Composición Seco",
-        "course": "Representación conceptual",
-        "description": "<p>Docente: Camila Lobos</p><p>Proyecto individual enfocado en la traducción de un concepto abstracto (Seco) a una composición visual laminar. El trabajo, realizado con papeles de diferentes colores, demuestra la capacidad de pensamiento crítico para vincular la sensación con la materialidad. La representación se logró mediante una paleta de colores opaca y desaturada, mientras que la innovación técnica se manifestó en el uso del rasgado de papel como una forma de evocar la textura de la resequedad y la fragilidad del material. Este ejercicio resalta la habilidad para comunicar intenciones emocionales y sensoriales a través de la gráfica y la manipulación de la materialidad.</p>",
-        "gallery": "https://camila-calquin.github.io/fotos/galeria/malla07.webp"
+         "photo": "https://catsgugu.github.io/img/fotos/foto07.webp",
+        "title": "Identidad Floramor",
+        "course": "Procesos y prototipos I",
+        "description": "<p>Docente: Pamela Fuentes.</p><p>Trabajo realizado en grupo Camila Calquín y Constanza Venegas.</p><p>Este trabajo consistió en el desarrollo integral de una marca, cubriendo su identidad visual, lenguaje de comunicación y estrategia de producto/servicio. Se demostró una sólida capacidad de comunicación profesional al responder a un brief detallado y al enfocar la solución en las necesidades de un perfil de usuario específico. La innovación se centró en un packaging sustentable con doble funcionalidad (transporte y posterior uso como florero o macetero). El proyecto se completó con la consolidación de la identidad visual a través del diseño y la simulación (mockup) de la página web, ofreciendo una visión completa de la aplicación del diseño en múltiples plataformas.</p>",
+        "gallery": "https://catsgugu.github.io/img/galeria/galeria07.webp"
     },
     {
         "id": 8,
-        "photo": "https://camila-calquin.github.io/fotos/principal/foto08.webp",
-        "title": "Elementos básicos de la forma",
-        "course": "Proyecto I",
-        "description": "<p>Docente: Gabriela Pradenas</p><p>Proyecto introductorio centrado en la investigación analítica de los elementos básicos de la forma (punto, línea, plano, volumen, color, textura, entre otros) aplicados en el territorio de la FAU. El proceso demostró la capacidad de observación y pensamiento crítico al reconocer y abstraer estos elementos a partir de fotografías tomadas en el entorno. La fase final se centró en la experimentación compositiva, manipulando la escala y los porcentajes de color para generar dos composiciones visuales finales distintas. Este trabajo establece la base teórica y práctica para el manejo de la estructura visual en el diseño industrial.</p>",
-        "gallery": "https://camila-calquin.github.io/fotos/galeria/malla08.webp"
+          "photo": "https://catsgugu.github.io/img/fotos/foto08.webp",
+        "title": "Afectos Desechados",
+        "course": "Proyecto III",
+        "description": "<p>Docente: Pamela Gatica</p>Proyecto de diseño inspirado en un artefacto simbólico que encapsulaba la idea del anhelo profundo del alma. El trabajo se centró en descifrar la carga emocional y existencial de este objeto, traduciendo su forma y textura en un diseño que evocara la intensidad de una aspiración íntima e inalcanzable. Se demostró la habilidad para materializar un sentimiento abstracto a través de la interpretación de un símbolo ancestral o personal.</p>",
+        "gallery": "https://catsgugu.github.io/img/galeria/galeria08.webp"
+    
     },
     {
         "id": 9,
-        "photo": "https://camila-calquin.github.io/fotos/principal/foto09.webp",
-        "title": "Residuos de barrio",
+          "photo": "https://catsgugu.github.io/img/fotos/foto09.webp",
+        "title": "Gráficas Urgentes",
         "course": "Proyecto III",
-        "description": "<p>Docente: Clarisa Menteguiaga</p><p>Proyecto de investigación aplicada y diseño industrial centrado en la problemática de los residuos no orgánicos constantes en un entorno específico (Galería Las Rosas y Las Flores). El proceso incluyó la exploración en terreno y entrevistas a usuarios para identificar los materiales residuales clave (cartón, papel kraft, celofán y etiquetas). La innovación se manifestó en una propuesta de upcycling: el diseño y prototipado de un taburete de cartón cuya estructura y terminaciones integran todos los residuos. Se utilizó el celofán para la impermeabilización de la base, el papel kraft para la limpieza visual y las etiquetas como refuerzos estructurales, demostrando un profundo pensamiento crítico sobre la revalorización de materiales y la sustentabilidad.</p>",
-        "gallery": "https://camila-calquin.github.io/fotos/galeria/malla09.webp"
+        "description": "<p>Docente: Pamela Gatica</p><p>Diseño y producción de un afiche y un fanzine que constituyeron una crítica directa a la apatía y la postura apolítica. El proyecto utilizó el diseño gráfico para comunicar que, decir que no te interesa la política está mal, buscando provocar una reflexión en el espectador. Se demostró la capacidad de generar un mensaje contundente y memorable a través de la edición y la composición, abordando temas de relevancia social con una voz clara y bien definida.</p>",
+        "gallery": "https://catsgugu.github.io/img/galeria/galeria09.webp"
     },
     {
         "id": 10,
-        "photo": "https://camila-calquin.github.io/fotos/principal/foto10.webp",
-        "title": "Prototipo lámpara de metal",
-        "course": "Procesos y prototipos II",
-        "description": "<p>Docente: Antonio Marín</p><p>Proyecto realizado en duplas con Ayline Marín</p><p>Diseño y fabricación de una lámpara funcional, demostrando el dominio de los procesos de trabajo con materiales metálicos en el ámbito industrial. La pieza, con una forma inspirada en la silueta de un hongo, fue construida utilizando plancha de zinc galvanizado de 1.5mm y tubo de acero de 3/4. El proceso de manufactura requirió la capacidad de investigación y creación para el desarrollo de un prototipo en cartón y la posterior aplicación de técnicas industriales rigurosas: corte y plegado de plancha, curvado de tubo, y ensamblaje final mediante soldadura de punto y remachado. Este proyecto consolida las habilidades en la manipulación de metal y la integración de sistemas eléctricos.",
-        "gallery": "https://camila-calquin.github.io/fotos/galeria/malla10.webp"
+         "photo": "https://catsgugu.github.io/img/fotos/foto10.webp",
+        "title":"Producto Moddis",
+        "course": "Comunicación del proyecto de diseño",
+         "description": "<p>Docente: Felix Maldonado.</p><p>Trabajo realizado en grupo con Camila Calquín, Ayline Marín y Constanza Venegas.</p><p>Se desarrolló Moddis, una propuesta de nuevo juguete enfocada en la innovación social y la inclusión. El proyecto se basa en un sistema de muñecas totalmente personalizables que garantiza que todas las infancias encuentren una representación con la cual identificarse y sentirse incluidas. Este trabajo demuestra la capacidad de investigación estratégica para transformar una necesidad social (la falta de representación) en una solución de diseño industrial viable para una corporación. La propuesta de valor se comunica de forma efectiva, destacando la diversidad y la modularidad como elementos clave.</p>",
+        "gallery": "https://catsgugu.github.io/img/galeria/galeria10.webp"
     },
     {
         "id": 11,
-        "photo": "https://camila-calquin.github.io/fotos/principal/foto11.webp",
-        "title": "Transportador pieza única",
-        "course": "Proyecto IV",
-        "description": "<p>Docente: Macarena Becas</p><p>Proyecto realizado en duplas con Constanza Venegas</p><p>Diseño de un transportador para un picnic de manualidades, enfocado en la eficiencia constructiva y la multifuncionalidad. La estructura fue diseñada como una pieza única que se arma exclusivamente mediante ensambles, plegados y troqueles, eliminando el uso de adhesivos. La capacidad de investigación se centró en la elección material, proponiendo una recreación de Tetra Pak por su resistencia, accesibilidad y propiedades. El principal desafío técnico, superado con innovación, fue el diseño de dos retenedores superiores para asegurar el peso y el equilibrio de dos botellas de 1.5 litros, demostrando la habilidad para resolver requerimientos logísticos complejos dentro de un diseño industrial modular.</p>",
-        "gallery": "https://camila-calquin.github.io/fotos/galeria/malla11.webp"
+          "photo": "https://catsgugu.github.io/img/fotos/foto11.webp",
+        "title": "Prototipo lámpara de metal",
+        "course": "Procesos y prototipos II",
+        "description": "<p>Docente: Antonio Marín</p><p>Proyecto realizado en duplas con Constanza Venegas</p><p>Diseño y fabricación de una lámpara funcional, demostrando el dominio de los procesos de trabajo con materiales metálicos en el ámbito industrial. La pieza, con una forma inspirada en la silueta de un hongo, fue construida utilizando plancha de zinc galvanizado de 1.5mm y tubo de acero de 3/4. El proceso de manufactura requirió la capacidad de investigación y creación para el desarrollo de un prototipo en cartón y la posterior aplicación de técnicas industriales rigurosas: corte y plegado de plancha, curvado de tubo, y ensamblaje final mediante soldadura de punto y remachado. Este proyecto consolida las habilidades en la manipulación de metal y la integración de sistemas eléctricos.",
+        "gallery": "https://catsgugu.github.io/img/galeria/galeria11.webp"
     },
     {
         "id": 12,
-        "photo": "https://camila-calquin.github.io/fotos/principal/foto12.webp",
-        "title": "Ensambles en pino",
-        "course": "Procesos y prototipos II",
-        "description": "<p>Docente: Antonio Marín</p><p>Ejercicio fundamental del primer ciclo, diseñado para establecer la base del trabajo manual con madera y el manejo de herramientas. El proyecto se centró en la creación de dos ensambles clásicos de alta precisión: cola de milano y caja y espiga, utilizando listones de pino de 2x2 pulgadas. Esta tarea demostró la capacidad técnica para realizar cortes y uniones complejas de manera totalmente manual, consolidando el entendimiento de la carpintería tradicional como fundamento esencial para el diseño industrial y la integridad estructural de futuros prototipos.</p>",
-        "gallery": "https://camila-calquin.github.io/fotos/galeria/malla12.webp"
+            "photo": "https://catsgugu.github.io/img/fotos/foto12.webp",
+        "title": "Artefacto para sobrevivir al presente",
+        "course": "Proyecto III",
+        "description": "<p>Docente: Pamela Gatica</p><p>Diseño de un reloj conceptual que actuaba como un dispositivo anti-adultocentrista. Su función era castigar al adulto convirtiéndolo temporalmente en niño, alterando su percepción del tiempo y su rol. El proyecto demostró la capacidad de utilizar el diseño de producto para la crítica social, invirtiendo roles para generar empatía y reflexión sobre las jerarquías de edad.</p>",
+        "gallery": "https://catsgugu.github.io/img/galeria/galeria12.webp"
     },
     {
         "id": 13,
-        "photo": "https://camila-calquin.github.io/fotos/principal/foto13.webp",
-        "title": "Logo personal",
-        "course": "Configuración visual I",
-        "description": "<p>Docente: Leonardo Soto</p><p>Proyecto individual enfocado en la creación de identidad visual a través de la síntesis conceptual. La identidad se basó en la traducción gráfica de tres atributos clave: Hermético, Versátil y Complicado. El proceso creativo demostró la capacidad de innovación y creación mediante el desarrollo de nueve bocetos iniciales que guiaron la forma final del logotipo. La materialización industrial consistió en la producción del logo en goma eva de alta densidad para crear un timbre funcional, llevando el diseño gráfico a un objeto táctil y replicable.<p>",
-        "gallery": "https://camila-calquin.github.io/fotos/galeria/malla13.webp"
+     "photo": "https://catsgugu.github.io/img/fotos/foto13.webp",
+        "title": "Intervención Corporal Physalis",
+        "course": "Proyecto II",
+        "description": "<p>Docente: Juan Calderón</p><p>Trabajo realizado con Claudio Abarca.</p><p>Intervención corporal inspirada en la planta Physalis, buscando replicar su morfología protectora y su estructura velada. El proyecto se centró en la interpretación de la cáscara o cáliz que envuelve la fruta, transformándola en un elemento que interactúa con el cuerpo, sugiriendo fragilidad, protección y el misterio de lo oculto. Se demostró la capacidad de traducir una forma orgánica en una experiencia táctil y visual sobre el cuerpo humano.</p>",
+        "gallery": "https://catsgugu.github.io/img/galeria/galeria13.webp"
     },
     {
         "id": 14,
-        "photo": "https://camila-calquin.github.io/fotos/principal/foto14.webp",
-        "title": "Análisis de la alcachofa",
+          "photo": "https://catsgugu.github.io/img/fotos/foto14.webp",
+        "title": "Intervención Corporal Conceptual",
         "course": "Proyecto I",
-        "description": "<p>Docente: Gabriela Pradenas</p><p>Proyecto de investigación formal centrado en el análisis de las leyes de simetría presentes en la naturaleza, específicamente en la alcachofa. El proceso demostró la capacidad de abstracción y creación al generar dos módulos distintos que evocan las características del vegetal. La innovación expositiva se concentró en la creación de dos paneles gráficos de papel diamante. Estos paneles fueron montados en una caja negra con iluminación, utilizando troqueles en el segundo panel para enmarcar y comunicar las composiciones de la primera pantalla, además de incluir la opción de retirar el panel delantero para crear dos tiempos de lectura visual.</p>",
-        "gallery": "https://camila-calquin.github.io/fotos/galeria/malla14.webp"
+        "description": "<p>Docente: Reneé Perea</p><p>Trabajo realizado con Constanza Venegas.</p><p>Intervención corporal inspirada en la destrucción, utilizando el cuerpo como lienzo para explorar la deconstrucción y la fragilidad. El proyecto buscó generar una reflexión visual sobre la vulnerabilidad y la transformación, traduciendo el concepto de destrucción en una experiencia estética potente sobre la forma humana.</p>",
+        "gallery": "https://catsgugu.github.io/img/galeria/galeria14.webp"
     },
     {
         "id": 15,
-         "photo": "https://camila-calquin.github.io/fotos/principal/foto15.webp",
-        "title": "Leyes de la gestalt",
-        "course": "Proyecto I",
-        "description": "<p>Docente: Gabriela Pradenas</p><p>Proyecto fundamental para la comprensión de la composición y la percepción visual. El trabajo demostró la capacidad de análisis y pensamiento crítico mediante el reconocimiento fotográfico de las leyes de la Gestalt en el entorno de la FAU (foco en buena forma, movimiento y similitud). La fase de creación se centró en una composición laminar que utilizó pliegues y troqueles para introducir volumen. La innovación se manifestó en la creación de tres tiempos visuales diferenciados, donde se otorgó protagonismo individual a cada una de las leyes seleccionadas, logrando una narrativa visual secuencial.</p>",
-        "gallery": "https://camila-calquin.github.io/fotos/galeria/malla15.webp"
+          "photo": "https://catsgugu.github.io/img/fotos/foto15.webp",
+        "title": "Volantín con módulo",
+        "course": "Proyecto IV",
+        "description": "<p>Docente: Macarena Becas</p><p>Este proyecto se centró en la aplicación práctica de la geometría y la composición mediante el diseño de un módulo visual tricolor. Al aplicar rigurosas leyes de simetría (reflexión y rotación), se estructuró un patrón complejo. El ejercicio no solo demostró la capacidad de pensamiento crítico para seguir reglas matemáticas, sino que culminó en la materialización de este diseño abstracto como el patrón decorativo de un volantín artesanal.</p>",
+        "gallery": "https://catsgugu.github.io/img/galeria/galeria15.webp"
     },
     {
         "id": 16,
-        "photo": "https://camila-calquin.github.io/fotos/principal/foto16.webp",
-        "title": "Gráfica de teléfono",
-        "course": "Configuración visual II",
-        "description": "<p>Docente: Juan Calderón</p><p>Ejercicio fundamental de configuración visual digital enfocado en la representación fiel del volumen de un objeto (teléfono de cable y botones) utilizando las herramientas avanzadas de Illustrator. El proyecto demostró la capacidad técnica para recrear profundidad, luz y sombra en un entorno bidimensional. Posteriormente, esta representación gráfica fue seleccionada como elemento protagonista de una infografía, consolidando la habilidad para aplicar modelos digitales complejos en proyectos de comunicación visual.</p>",
-        "gallery": "https://camila-calquin.github.io/fotos/galeria/malla16.webp"
+           "photo": "https://catsgugu.github.io/img/fotos/foto16.webp",
+        "title": "Logo personal",
+        "course": "Configuración visual I",
+        "description": "<p>Docente: Leonardo Soto</p><p>Proyecto individual enfocado en la creación de identidad visual a través de la síntesis conceptual. La identidad se basó en la traducción gráfica de tres atributos clave: Hermético, Versátil y Complicado. El proceso creativo demostró la capacidad de innovación y creación mediante el desarrollo de nueve bocetos iniciales que guiaron la forma final del logotipo. La materialización industrial consistió en la producción del logo en goma eva de alta densidad para crear un timbre funcional, llevando el diseño gráfico a un objeto táctil y replicable.<p>",
+        "gallery": "https://catsgugu.github.io/img/galeria/galeria16.webp"
     }
 ]
