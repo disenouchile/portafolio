@@ -71,6 +71,11 @@ h2 {
     font-size: calc(0.9rem + 0.9vw);
     margin-bottom: 30px;
 }
+h5 {
+      text-align: center;
+    font-size: calc(0.9rem + 0.5vw);
+    margin-bottom: 30px;
+}
 
 /* ===================
    Navigation
