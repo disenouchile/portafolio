@@ -69,11 +69,11 @@ if (trabajo) {
         <h3>${trabajo.title}</h3>
         <h4>${trabajo.course}</h4>
         <h5>${trabajo.professor}</h5>
-        ${trabajo.description}
-        ${trabajo.gallery
-        <img src="${trabajo.gallery}" alt="${trabajo.title}" loading="lazy">
+        <p>${trabajo.description}</p>
+        ${trabajo.gallery.map(img => `<img src="${img}" alt="${trabajo.title}" loading="lazy">`).join('')}
     `;
-} else {
+}
+else {
 
                         lugar.innerHTML = "<h3>Trabajo no encontrado</h3><p>El trabajo solicitado no existe en el portafolio.</p>";
                     }
@@ -94,7 +94,7 @@ if (trabajo) {
                     return;
                 }
 
-                cargarTrabajo(https://raw.githubusercontent.com/disenouchile/portafolio/refs/heads/main/sofia_parra/trabajitos.json", id);
+                cargarTrabajo("https://raw.githubusercontent.com/disenouchile/portafolio/refs/heads/main/sofia_parra/trabajitos.json", id);
             });
         </script>
     </body>
