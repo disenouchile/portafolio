@@ -12,7 +12,7 @@
         "photo": "https://shootingstarcony.github.io/img_portafolio/photo_2.webp",
         "title": "Florecimiento Glaciar",
         "course": "Proyecto I",
-        "description": "<p>Docente: René Perea.</p><p>Trabajo realizado con Ayline Marín.</p></p>Diseño y construcción de una objeto tridimensional geometrizado, concebido a partir de la extracción y síntesis de un concepto abstracto llevado a la forma. La pieza se compone de un ensamble de módulos triangulares interconectados, explorando la materialidad de papeles translucidos que permitieran el juego con lo lumínico.El elemento central es la luz: un sistema interno de iluminación LED (con una placa de al menos 10 diodos de color azul, desarrollados e instalados personalmente) que interactúa con las caras internas y externas del objeto./<p>",
+        "description": "<p>Docente: René Perea.</p><p>Trabajo realizado con Ayline Marín.</p><p>Diseño y construcción de una objeto tridimensional geometrizado, concebido a partir de la extracción y síntesis de un concepto abstracto llevado a la forma. La pieza se compone de un ensamble de módulos triangulares interconectados, explorando la materialidad de papeles translucidos que permitieran el juego con lo lumínico.El elemento central es la luz: un sistema interno de iluminación LED (con una placa de al menos 10 diodos de color azul, desarrollados e instalados personalmente) que interactúa con las caras internas y externas del objeto./<p>",
         "gallery": "https://shootingstarcony.github.io/img_portafolio/gallery_2.webp"
     },
     {
@@ -128,6 +128,7 @@
         "gallery": "https://shootingstarcony.github.io/img_portafolio/gallery_16.webp"
     }
 ]
+
 
 
 
