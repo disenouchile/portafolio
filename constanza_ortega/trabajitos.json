@@ -48,36 +48,36 @@
         "gallery": "https://shootingstarcony.github.io/img_portafolio/gallery_6.webp"
     },
     {
-        "id": 7,
-        "photo": "https://milladincea.github.io/primera-nota/img/foto7.webp",
-        "title": "Imagen de Marca Frumis",
-        "course": "Procesos y Prototipos I",
-        "description": "<p>Docente: .</p><p>Trabajo realizado con .</p><p>",
-        "gallery": "aqui iria un link"
+        "id": 7
+        "photo": "https://shootingstarcony.github.io/img_portafolio/photo_7.webp",
+        "title": "Taburete escalera",
+        "course": "Procesos y Prototipos Ii",
+        "description": "<p>Docente: Antonio Marín.</p><p>Trabajo realizado con Ayline Marín.</p>Prototipo funcional de taburete escalera enfocado en la aplicación rigurosa de técnicas de unión esenciales de carpintería. El  proyecto sirvió como un ejercicio de proceso constructivo diseñado para demostrar la comprensión de la integridad estructural y la destreza manual.La materialidad seleccionada incluyó maderas nativas (Raulí y Álamo), valorando sus propiedades físicas y estéticas. El ensamblaje estructural se realizó mediante tres uniones clave: cola de milano, caja y espiga, y media madera entarugada.<p>",
+        "gallery": "https://shootingstarcony.github.io/img_portafolio/gallery_7.webp"
     },
     {
         "id": 8,
-        "photo": "https://milladincea.github.io/primera-nota/img/foto8.webp",
-        "title": "Ocarina Lune",
-        "course": "Proyecto III",
-        "description": "<p>Docente: .</p><p>Trabajo realizado con .</p><p>",
-        "gallery": "aqui iria un link"
+        "photo": "https://shootingstarcony.github.io/img_portafolio/photo_8.webp",
+        "title": "Transportador para picnic",
+        "course": "Proyecto IV",
+        "description": "<p>Docente: Macarena Becas .</p>Trabajo realizado con Camila Calquín.<p></p>Diseño de un transportador multifuncional para picnic de manualidades, centrado en la eficiencia constructiva modular. La estructura fue concebida como una pieza única sin adhesivos,  exclusivamente ensambles, plegados y troqueles para su armado. El componente clave fue la investigación material: se propuso una recreación del material Tetra Pak por su alta resistencia y accesibilidad. El principal desafío técnico superado fue el diseño innovador de dos retenedores superiores que aseguran el equilibrio y el peso de dos botellas de 1.5 litros.<p>",
+        "gallery": "https://shootingstarcony.github.io/img_portafolio/gallery_8.webp"
     },
     {
         "id": 9,
-        "photo": "https://gilicvnz.github.io/primera-nota/img/20250907_111211.webp",
-        "title": "Pavo real",
-        "course": "Procesos y Prototipos II",
-        "description": "<p>Docente: .</p><p>Trabajo realizado con .</p><p>",
-        "gallery": "aqui iria un link"
+        "photo": "https://shootingstarcony.github.io/img_portafolio/photo_9.webp",
+        "title": "Las troyanas",
+        "course": "Taller Básico II",
+        "description": "<p>Docentes: Veronica Soto y Valentina Sanjuan.</p>Diseño integral para la puesta en escena de Las Troyanas, abarcando la escenografía, planimetría detallada y propuesta de vestuario. La interpretación conceptual visualiza a las troyanas como novias sometidas, contrastando la pureza ceremonial con el trágico destino impuesto. La escenografía se explora a través de una maqueta cuya "arena" es, de hecho, arroz finamente molido.<p>",
+        "gallery": "https://shootingstarcony.github.io/img_portafolio/gallery_9.webp"
     },
     {
         "id": 10,
-        "photo": "https://martinaurzua.github.io/primera-nota/img/paulita.webp",
-        "title": "Identidad",
-        "course": "Proyecto II",
-        "description": "<p>Docente: .</p><p>Trabajo realizado con .</p><p>",
-        "gallery": "aqui iria un link"
+        "photo": "https://shootingstarcony.github.io/img_portafolio/photo_10.webp",
+        "title": "Tocado Ceremonial",
+        "course": "Proyecto I",
+        "description": "<p>Docente: René Perea.</p>Diseño y creación de un tocado que explora la simbología de la autoridad a través de la materialidad. La pieza central, una aureola de tela con textura arrugada, contrasta con un casquete liso dorado. Los detalles de borlas rojas y esferas doradas complementan la composición, añadiendo un elemento de adorno ancestral, inspirando un símbolo de realeza. Este proyecto demuestra la habilidad en el diseño de vestuario/caracterización.<p>",
+        "gallery": "https://shootingstarcony.github.io/img_portafolio/gallery_10.webp"
     },
     {
         "id": 11,
@@ -128,5 +128,6 @@
         "gallery": "aqui iria un link"
     }
 ]
+
 
 
