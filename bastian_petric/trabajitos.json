@@ -4,22 +4,25 @@
     "photo": "https://bastich03.github.io/Photos/photo_1.webp",
     "title": "Taburete de Madera",
     "course": "Proceso y Prototipos II",
+    "professor": "Patricio Bascuñan",
     "description": "<p>Este proyecto surge del objetivo fundamental de observar y comprender el entorno habitado bajo una mirada crítica, identificando en el diagnóstico inicial la necesidad de optimizar la funcionalidad en espacios domésticos reducidos. La propuesta materializa una solución innovadora que fusiona la ergonomía del descanso con la utilidad de una escalera de alcance, respondiendo a un problema esencial de uso cotidiano. A través de metodologías propias de la disciplina, se formalizó un modelo físico en madera maciza donde el contraste tonal y la visibilidad de los ensambles no solo cumplen una función estructural, sino que comunican la honestidad constructiva del diseño. Este resultado evidencia la adquisición de competencias claves para conceptualizar, representar y materializar propuestas de diseño que dialogan coherentemente con las necesidades del usuario.<p>",
-    "gallery": "https://github.com/disenouchile/portafolio/blob/main/bastian_petric/IMG/TABURETE.png?raw=true"
+    "gallery": "https://bastich03.github.io/Gallery/gallery_1.webp"
   },
   {
     "id": 2,
     "photo": "https://bastich03.github.io/Photos/photo_2.webp",
     "title": "Prototipo de Elefante de Metal",
     "course": "Proceso y Prototipo II",
+    "professor": "Patricio Bascuñan",
     "description": "<p>Este ejercicio de inducción a las herramientas de manufactura materializa el objetivo de observar y comprender el entorno productivo desde una mirada crítica. A partir de un diagnóstico inicial sobre las propiedades mecánicas de la lámina metálica, se problematizó la construcción volumétrica para idear una solución innovadora que transforma la rigidez del material en una morfología orgánica. Mediante la aplicación técnica de cortado, plegado y soldado, se formalizó un modelo físico que abstrae la figura de un elefante, demostrando la capacidad de reconocer problemas esenciales y traducir conceptos en resultados tangibles. Esta pieza evidencia la adquisición de las competencias disciplinares necesarias para conceptualizar, representar y comunicar eficazmente propuestas de diseño complejas.<p>",
-    "gallery": "https://github.com/disenouchile/portafolio/blob/main/bastian_petric/IMG/ELEFANTE.png?raw=true"
+    "gallery": "https://bastich03.github.io/Gallery/gallery_2.webp"
   },
   {
     "id": 3,
     "photo": "https://bastich03.github.io/Photos/photo_3.webp",
     "title": "Artefacto para sobrevivir al presente",
     "course": "Proyecto III",
+    "professor": "Pamela G. Petruska",
     "description": "<p>Bajo la premisa de crear un objeto para sobrevivir en el presente, este proyecto nace de una observación crítica e inmersiva del entorno urbano y sus dinámicas de interacción. Tras un diagnóstico inicial en espacios de tránsito masivo, se identificó la opacidad emocional como una barrera que aísla a los individuos y dificulta la comprensión del otro, convirtiendo la falta de empatía en una vulnerabilidad social. Como respuesta a esta problemática, se conceptualizaron y formalizaron los Lentes de Transparencia. Este dispositivo fue modelado no solo como un accesorio, sino como una herramienta técnica necesaria para filtrar las máscaras sociales y revelar las intenciones y emociones reales de quienes observamos. A través de la materialización del objeto físico y su sistema de presentación, el trabajo evidencia la capacidad de traducir un análisis abstracto del entorno en una solución de diseño innovadora, demostrando las competencias para conceptualizar, representar y comunicar una postura crítica frente a la desconexión contemporánea.<p>",
     "gallery": "https://bastich03.github.io/Gallery/gallery_3.webp"
   },
@@ -28,62 +31,70 @@
     "photo": "https://bastich03.github.io/Photos/photo_4.webp",
     "title": "Fanzine",
     "course": "Proyecto III",
+    "professor": "Pamela G. Petruska",
     "description": "<p>Este proyecto surge de una observación crítica del entorno y el análisis de dinámicas socioemocionales, enfocándose específicamente en cómo los mandatos de masculinidad hegemónica presionan el crecimiento juvenil hacia la infelicidad. A partir de este diagnóstico inicial, se desarrolló una propuesta que problematiza dicha realidad, traduciendo el conflicto en un modelo conceptual y físico bajo el formato de fanzine. La formalización de la pieza integra herramientas disciplinares de narrativa gráfica y dirección de arte —utilizando personajes antropomórficos y una paleta de alto contraste— para materializar una solución de diseño empática y comunicativa. El resultado final evidencia la competencia para detectar problemas esenciales en el contexto social y articular soluciones innovadoras que transitan eficazmente desde la idea abstracta hasta su representación tangible.<p>",
-    "gallery": ""
+    "gallery": "https://bastich03.github.io/Gallery/gallery_4.webp"
   },
   {
     "id": 5,
     "photo": "https://bastich03.github.io/Photos/photo_5.webp",
     "title": "Guantes Terapelos",
     "course": "Ergonomia y Factores Humanos",
+    "professor": "Claudio Ribalta",
     "description": "<p>Este proyecto nace de una inmersión analítica en el entorno real, cumpliendo el objetivo fundamental de observar e interactuar críticamente con el contexto de los productos para mascotas. Mediante un diagnóstico inicial en puntos de venta, se problematizó la oferta existente, identificando carencias ergonómicas que afectan tanto la comodidad del usuario como el bienestar del animal durante el aseo. Esta mirada crítica permitió detectar la oportunidad de transformar una herramienta mecánica en un vehículo para el vínculo afectivo. A partir de este hallazgo, se desarrollaron soluciones innovadoras traducidas en modelos conceptuales y físicos. Utilizando herramientas propias de la disciplina, se realizó un estudio morfológico de la mano para lograr un ajuste anatómico preciso, como una segunda piel. El proceso culminó con la formalización de prototipos funcionales que distribuyen estratégicamente las superficies de contacto, demostrando así la adquisición de competencias para conceptualizar, representar y comunicar propuestas de diseño que resuelven problemas esenciales de manera eficaz y empática.<p>",
-    "gallery": ""
+    "gallery": "https://bastich03.github.io/Gallery/gallery_5.webp"
   },
   {
     "id": 6,
     "photo": "https://bastich03.github.io/Photos/photo_6.webp",
     "title": "Packaging Artelier",
     "course": "Proceso y Prototipo I",
+    "professor": "Pamela Fuentes",
     "description": "<p>Este proyecto surge del ejercicio fundamental de observar y comprender el entorno inmediato, aplicando una mirada crítica hacia la propia trayectoria vital para problematizar cómo se construye la identidad a través del arte. A partir de un diagnóstico inicial sobre la intangibilidad del crecimiento personal, se ideó una solución innovadora que conceptualiza el autoconocimiento no como un estado, sino como un recorrido espacial. La propuesta se formaliza en un modelo físico que narra la transición desde el descubrimiento lúdico hasta la solidez de la madurez. Mediante el uso de herramientas propias de la disciplina, se tradujo la experiencia en volúmenes y atmósferas: un inicio orgánico donde la creatividad actúa como luz guía, un tránsito de contraste que invita a la introspección, y una ascensión final estructurada. De esta manera, el proyecto demuestra la competencia para reconocer problemas esenciales y representar y comunicar eficazmente una propuesta de diseño compleja, materializando lo subjetivo en una arquitectura tangible.<p>",
-    "gallery": "https://github.com/disenouchile/portafolio/blob/main/bastian_petric/IMG/Generated%20Image%20October%2006,%202025%20-%203_15AM.png?raw=true"
+    "gallery": "https://bastich03.github.io/Gallery/gallery_6.webp"
   },
   {
     "id": 7,
     "photo": "https://bastich03.github.io/Photos/photo_7.webp",
     "title": "Taburete",
     "course": "Procesos y Prototipos II",
+    "professor": "Patricio Bascuñan",
     "description": "<p>Bajo la premisa fundamental de observar y problematizar el entorno para generar soluciones innovadoras, este ejercicio proyectual aborda la concepción de un taburete mediante el prototipado en cartón estructural. La propuesta trasciende la mera representación formal para convertirse en una herramienta de diagnóstico técnico; a través de este modelo físico a escala real, se estudiaron rigurosamente las lógicas de conexión, la estabilidad y el dimensionamiento, simulando en el cartón la dirección de la fibra y la resistencia a la compresión propias de la madera. Este proceso de materialización evidencia la capacidad de sintetizar el análisis crítico en una respuesta de diseño tangible. Al resolver los desafíos de ensamblaje y firmeza en un material de prueba, se formaliza una solución metodológica que valida las competencias disciplinarias necesarias para conceptualizar, representar y traducir una idea abstracta en una propuesta constructivamente viable y comunicable.<p>",
-    "gallery": "https://github.com/catadunsmore/primera-nota/blob/main/img/foto-02.webp?raw=true"
+    "gallery": "https://bastich03.github.io/Gallery/gallery_7.webp"
   },
   {
     "id": 8,
     "photo": "https://bastich03.github.io/Photos/photo_8.webp",
     "title": "Infografía",
     "course": "Configuración Visual II",
+    "professor": "Juan Calderon",
     "description": "<p>Este proyecto nace del ejercicio fundamental de observar y comprender nuestro entorno material, tomando como caso de estudio la revolución Mirrorless de Sony. Mediante una mirada crítica y un diagnóstico profundo sobre la evolución del dispositivo, se desarrolló una propuesta integral que une la investigación histórica —sistematizada en una infografía técnica— con una intervención de diseño aplicada (recolor). El trabajo no solo cuestiona la estética tradicional del objeto, sino que materializa una solución innovadora a través de modelos conceptuales y físicos. De esta forma, el proyecto evidencia la capacidad para reconocer problemas esenciales, formalizar soluciones mediante herramientas disciplinares y comunicar propuestas de diseño complejas, validando las competencias clave de conceptualización y representación adquiridas en la etapa.<p>",
-    "gallery": "https://github.com/catadunsmore/primera-nota/blob/main/img/foto-02.webp?raw=true"
+    "gallery": "https://bastich03.github.io/Gallery/gallery_8.webp"
   },
   {
     "id": 9,
     "photo": "https://bastich03.github.io/Photos/photo_9.webp",
     "title": "Ensambles de Madera",
     "course": "Proceso y Prototipos II",
+    "professor": "Patricio Bascuñan",
     "description": "<p>Este ejercicio se enmarca en el objetivo fundamental de formar al estudiante para observar, interactuar y comprender su entorno. A través de la madera como material de estudio, se estableció una mirada crítica sobre sus propiedades físicas y mecánicas, problematizando la unión de dos elementos estructurales sin el uso de adhesivos o fijaciones externas. Mediante un análisis y diagnóstico inicial del material, se identificó la necesidad de precisión y estabilidad estructural. La solución ideada se tradujo en la formalización de modelos físicos (ensambles de caja y espiga / media madera), utilizando metodologías y herramientas propias de la disciplina (formón, sierra, gramil). El resultado no es solo una pieza de madera, sino la demostración de la adquisición de competencias básicas para conceptualizar y materializar una idea. Este ejercicio permite reconocer problemas esenciales de construcción y diseño, sirviendo como base técnica y conceptual para comunicar propuestas más complejas en el siguiente proyecto.<p>",
-    "gallery": "https://github.com/catadunsmore/primera-nota/blob/main/img/foto-02.webp?raw=true"
+    "gallery": "https://bastich03.github.io/Gallery/gallery_9.webp"
   },
   {
     "id": 10,
     "photo": "https://bastich03.github.io/Photos/photo_10.webp",
     "title": "Texturas",
     "course": "Proyecto I",
+    "professor": "Gabriela Pradenas",
     "description": "<p>Este proyecto materializa la capacidad de observar e interactuar críticamente con el entorno, tomando como punto de partida el análisis minucioso de formas y texturas presentes en nuestro hábitat. El proceso inicia con una etapa de diagnóstico y replicación manual, donde se estudia la estructura genética de los elementos observados para comprender su materialidad. Lejos de detenerse en la mimesis, la propuesta problematiza la forma original mediante un ejercicio de fragmentación deliberada: el acto de despedazar y recomponer lo creado. Esta metodología de ruptura permite transitar de lo figurativo a lo conceptual, formalizando una solución de diseño innovadora que da luz a una sintaxis visual abstracta y única. El resultado final evidencia la competencia para conceptualizar, representar y comunicar una nueva identidad gráfica, transformando la observación inicial en un modelo físico con voz propia.<p>",
-    "gallery": ""
+    "gallery": "https://bastich03.github.io/Gallery/gallery_10.webp"
   },
   {
     "id": 11,
     "photo": "https://bastich03.github.io/Photos/photo_11.webp",
     "title": "Mascara de Halloween en Blender",
     "course": "Herramientas Computacionales",
+    "professor": "Felipe Cortez",
     "description": "<p>Este proyecto surge de una observación crítica del entorno y la voluntad de reinterpretar la morfología orgánica mediante herramientas de fabricación digital. A partir de un diagnóstico inicial que problematiza la traducción de superficies curvas a soportes planos, se ideó una solución innovadora que sintetiza la fisonomía compleja de un oso panda en una estructura facetada eficiente. Utilizando Blender como eje instrumental, el proceso trascendió el mero modelado 3D para enfocarse en la lógica constructiva, empleando técnicas de Low-Poly y plugins de despliegue para asegurar la viabilidad física del objeto. El resultado es un modelo que transita de lo conceptual a lo tangible, materializado en papel y cartón, demostrando así la adquisición de competencias fundamentales para diagnosticar, representar y comunicar propuestas de diseño que dialogan coherentemente entre el espacio virtual y la realidad física.<p>",
     "gallery": "https://bastich03.github.io/Gallery/gallery_11.webp"
   },
@@ -92,38 +103,43 @@
     "photo": "https://bastich03.github.io/Photos/photo_12.webp",
     "title": "Objeto de Luz",
     "course": "Proyecto II",
+    "professor": "Gabriela Pradenas",
     "description": "<p>Este proyecto surge del objetivo fundamental de observar y comprender el entorno desde una mirada crítica, desafiando la función convencional de la luz para problematizar su capacidad de materializar conceptos abstractos. A partir de un diagnóstico inicial centrado en la representación de la firmeza, la dureza y la protección, se ideó una solución innovadora que traduce estos atributos intangibles en un modelo físico de carácter defensivo. La propuesta se formaliza mediante metodologías disciplinares que dieron lugar a una morfología rígida y facetada, cuya estructura de armadura contiene y dirige la energía lumínica. Al interactuar con el objeto, las proyecciones de luz fuertes y las sombras definidas validan la coherencia entre la forma y el concepto, demostrando la competencia adquirida para reconocer problemas esenciales y transitar exitosamente desde la conceptualización abstracta hasta la representación y comunicación de una propuesta de diseño tangible.<p>",
-    "gallery": ""
+    "gallery": "https://bastich03.github.io/Gallery/gallery_12.webp"
   },
   {
     "id": 13,
     "photo": "https://bastich03.github.io/Photos/photo_13.webp",
     "title": "Escalera de Conocimiento",
     "course": "Proyecto IV",
+    "professor": "Christian Basaez",
     "description": "<p>Este proyecto surge del ejercicio fundamental de observar y comprender el entorno inmediato, aplicando una mirada crítica hacia la propia trayectoria vital para problematizar cómo se construye la identidad a través del arte. A partir de un diagnóstico inicial sobre la intangibilidad del crecimiento personal, se ideó una solución innovadora que conceptualiza el autoconocimiento no como un estado, sino como un recorrido espacial. La propuesta se formaliza en un modelo físico que narra la transición desde el descubrimiento lúdico hasta la solidez de la madurez. Mediante el uso de herramientas propias de la disciplina, se tradujo la experiencia en volúmenes y atmósferas: un inicio orgánico donde la creatividad actúa como luz guía, un tránsito de contraste que invita a la introspección, y una ascensión final estructurada. De esta manera, el proyecto demuestra la competencia para reconocer problemas esenciales y representar y comunicar eficazmente una propuesta de diseño compleja, materializando lo subjetivo en una arquitectura tangible.<p>",
-    "gallery": "https://github.com/catadunsmore/primera-nota/blob/main/img/foto-02.webp?raw=true"
+    "gallery": "https://bastich03.github.io/Gallery/gallery_13.webp"
   },
   {
     "id": 14,
     "photo": "https://bastich03.github.io/Photos/photo_14.webp",
     "title": "Lampara de Metal",
     "course": "Proceso y Prototipos II",
+    "professor": "Patricio Bascuñan",
     "description": "<p>Este proyecto surge de una observación crítica del entorno de trabajo, con el objetivo de reinterpretar la iluminación de escritorio a través de una materialidad industrial honesta. Tras un diagnóstico inicial que problematizó la relación entre estructura y soporte, se desarrolló una solución innovadora basada en la capacidad portante del metal plegado. El proceso de diseño transitó desde la ideación conceptual hasta la validación mediante modelos físicos, permitiendo comprender el comportamiento del acero galvanizado y la tubería curvada bajo tensión. La propuesta final formaliza esta investigación técnica, exhibiendo las uniones mecánicas y el esqueleto constructivo como elementos estéticos centrales. Esta pieza no solo resuelve una necesidad funcional, sino que demuestra la adquisición de competencias para conceptualizar, representar y materializar una propuesta de diseño rigurosa, utilizando las herramientas y metodologías propias de la disciplina para transformar un problema esencial en un objeto tangible y coherente<p>",
-    "gallery": "https://github.com/catadunsmore/primera-nota/blob/main/img/foto-02.webp?raw=true"
+    "gallery": "https://bastich03.github.io/Gallery/gallery_14.webp"
   },
   {
     "id": 15,
     "photo": "https://bastich03.github.io/Photos/photo_15.webp",
     "title": "Proyecto de Diseño del Parque Carén; Hito 1",
     "course": "Proyecto IV",
+    "professor": "Christian Basaez",
     "description": "<p>El proyecto nace de una observación crítica y un diagnóstico profundo del entorno actual del Parque Carén, identificando al Paseo Ribera como una zona de tránsito desvinculada de su potencial paisajístico. Con el objetivo de problematizar esta condición y otorgarle una identidad propia equiparable al resto del parque, la propuesta busca transformar el pasar en habitar. Mediante una estética rústica que respeta la naturaleza existente, se proyecta un sistema de pasarelas elevadas y señalética integrada que enriquecen la experiencia del usuario, fomentando la pausa y la contemplación. Este ejercicio de diseño culmina en la formalización de modelos conceptuales y físicos, evidenciando la capacidad para traducir el análisis del entorno en soluciones innovadoras y tangibles que revalorizan el borde costero.<p>",
-    "gallery": ""
+    "gallery": "https://bastich03.github.io/Gallery/gallery_15.webp"
   },
   {
     "id": 16,
     "photo": "https://bastich03.github.io/Photos/photo_16.webp",
     "title": "Neo Ritual",
     "course": "Proyecto IV",
+    "professor": "Christian Basaez",
     "description": "<p>El proyecto nace de una observación crítica del entorno y un diagnóstico profundo sobre las barreras emocionales que inhiben la expresión creativa contemporánea. Con el objetivo de restablecer el Buen Vivir y el equilibrio personal, se problematizó cómo la inseguridad y la duda paralizan al individuo, detectando la necesidad de una intervención que fuese más allá de lo funcional para adentrarse en lo simbólico. A partir de este análisis, se ideó una solución innovadora: un Neo Ritual que utiliza el arquetipo del Pez Koi como metáfora de resistencia y transformación ante la adversidad. Utilizando metodologías y herramientas propias de la disciplina, se conceptualizó y formalizó una máscara que actúa como el eje central de este ritual. El diseño traduce el concepto abstracto de nadar contra la corriente en un modelo físico tangible, cuyas cualidades formales y estéticas invitan al usuario a asumir una nueva identidad, protegiéndolo de sus miedos y permitiéndole fluir artísticamente. La máscara deja de ser un simple objeto para convertirse en un dispositivo de mediación emocional, diseñado para sanar y potenciar la interacción del sujeto consigo mismo. Esta propuesta evidencia la capacidad de reconocer problemas esenciales del entorno y traducirlos en soluciones de diseño coherentes. A través de la materialización de este ritual, se demuestra la adquisición de las competencias fundamentales para diagnosticar, conceptualizar y comunicar propuestas que no solo resuelven una necesidad, sino que aportan una mirada crítica y empática hacia la experiencia humana.<p>",
     "gallery": "https://bastich03.github.io/Gallery/gallery_16.webp"
   }
