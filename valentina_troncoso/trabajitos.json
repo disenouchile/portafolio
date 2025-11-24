@@ -1,0 +1,130 @@
+[
+  {
+    "id": 1,
+    "photo": "https://raw.githubusercontent.com/valentinatroncoso/Photos/refs/heads/main/1_Cristaldearmonia.webp",
+    "title": "Cristal de Armonia",
+    "course": "Proyecto III",
+    "description": "Profesora: Pamela Gatica El proyecto se construyó a partir de los principios metodológicos del diseño, analizando el contexto, a quién va dirigido y la necesidad emocional que debía abordar. Desde ese marco se definieron los criterios formales y simbólicos del artefacto. La espada fue desarrollada como un objeto que encarna la idea de transformación interna, mientras que su packaging se diseñó como un contenedor que prolonga y refuerza ese significado. Ambos elementos conforman un sistema integrado que materializa de manera clara y coherente la intención conceptual del proyecto.",
+    "gallery": "https://raw.githubusercontent.com/valentinatroncoso/Gallery/refs/heads/main/1_espada.webp"
+  },
+  {
+    "id": 2,
+    "photo": "https://raw.githubusercontent.com/valentinatroncoso/Photos/refs/heads/main/2_BT21_Popmart.webp",
+    "title": "BT21 X POP MART",
+    "course": "Comunicación del Proyecto",
+    "description": " Profesor: Felix Maldonado La propuesta consistió en el diseño de una colección temática para POP MART, explorando la relación entre la identidad musical de BTS y el universo visual de BT21 para generar un producto con un posicionamiento distintivo. El proceso incluyó el análisis de elementos simbólicos presentes en los álbumes de BTS y en los personajes de BT21, definiendo materiales, estética y referencias visuales que sustentaran la propuesta. El resultado fue la colección blind box “BT21 Album Series”, donde cada figura conecta directamente con un álbum específico mediante atributos visuales que facilitan su reconocimiento. El proyecto demuestra la capacidad para integrar análisis de mercado con creatividad formal y comunicar una narrativa coherente y significativa. Trabajo realizado en conjunto con Martina Araos, Antonia Lara, Antonia Dinamarca, Veronica Soto y Valentina Troncoso.",
+    "gallery": "https://raw.githubusercontent.com/valentinatroncoso/Gallery/refs/heads/main/2_bt21xpopmart.webp"
+  },
+  {
+    "id": 3,
+    "photo": "https://raw.githubusercontent.com/valentinatroncoso/Photos/refs/heads/main/3cv.webp",
+    "title": "Portafolio",
+    "course": "Herramientas computacionales",
+    "description": "Profesor: Felipe Cortez El proyecto se centró en desarrollar un portafolio digital en InDesign con el propósito de organizar y presentar mis trabajos de manera profesional. Para elevar la calidad visual, se incorporaron herramientas de inteligencia artificial orientadas a mejorar y depurar imágenes. El proceso implicó definir qué información era necesario comunicar y analizar el contexto en el que el portafolio sería utilizado, permitiendo estructurar una presentación ordenada y coherente. El resultado evidencia el manejo de recursos digitales para sistematizar la práctica del diseño y construir un material claro y técnicamente sólido.",
+    "gallery": "https://raw.githubusercontent.com/valentinatroncoso/Gallery/refs/heads/main/3_cv.webp"
+  },
+  {
+    "id": 4,
+    "photo": "https://raw.githubusercontent.com/valentinatroncoso/Photos/refs/heads/main/4_dvina.webp",
+    "title": "D`vina",
+    "course": "Procesos y prototipos I",
+    "description": "Profesora: Pamela Fuentes El proyecto se enfocó en diseñar el packaging para un vino, tomando como base el análisis del contexto, del público objetivo y de la intención comunicativa. A partir de nociones como feminidad, sutileza y lujo, se establecieron los criterios formales y gráficos que guiaron la propuesta. El resultado es un envase capaz de resguardar y presentar el producto de manera coherente, integrando estructura, función e identidad visual en una solución unificada.",
+    "gallery": "https://raw.githubusercontent.com/valentinatroncoso/Gallery/refs/heads/main/4_dvina.webp"
+  },
+  {
+    "id": 5,
+    "photo": "https://raw.githubusercontent.com/valentinatroncoso/Photos/refs/heads/main/5_teselacio.webp",
+    "title": "Teselaciones",
+    "course": "Configuración Visual II",
+    "description": "Profesor: Juan Calderon El proyecto se centró en diseñar una textura modular y trasladarla a tres aplicaciones distintas: un objeto, una pieza editorial y un espacio interior. Se creó un módulo base de 3 x 3 cm y una teselación completa en Illustrator, la cual luego se adaptó a soportes digitales utilizando Photoshop. La entrega reunió el desarrollo del patrón, su uso en los tres escenarios y los referentes visuales que sustentaron el proceso.",
+    "gallery": "https://raw.githubusercontent.com/valentinatroncoso/Gallery/refs/heads/main/5_teselacion.webp"
+  },
+  {
+    "id": 6,
+    "photo": "https://raw.githubusercontent.com/valentinatroncoso/Photos/refs/heads/main/6_infografia.webp",
+    "title": "Infografía: Maquina de Escribir",
+    "course": "Configuración Visual II",
+    "description": "Profesor: Juan Calderon El proyecto tuvo como objetivo crear una infografía que permitiera explicar la máquina de escribir desde una mirada técnica y visual. La intención fue convertir un objeto complejo en un contenido claro y fácil de entender. Para ello, primero se estudió el funcionamiento interno de la maquina de escribir, identificando sus piezas clave y la secuencia de acciones que permiten su operación. A partir de esta revisión, se reconstruyó el objeto mediante ilustraciones vectoriales y se ordenó la información. El resultado es una infografía que transmite de forma precisa y didáctica cómo opera la máquina de escribir, evidenciando un manejo sólido de representación gráfica, síntesis informativa y herramientas digitales.",
+    "gallery": "https://raw.githubusercontent.com/valentinatroncoso/Gallery/refs/heads/main/6_infografia.webp"
+  },
+  {
+    "id": 7,
+    "photo": "https://raw.githubusercontent.com/valentinatroncoso/Photos/refs/heads/main/7_comosenorita.webp",
+    "title": "Como Señorita",
+    "course": "Proyecto III",
+    "description": "Profesora: Pamela Gatica La propuesta, titulada “Como señorita”, consistió en crear un artefacto simbólico con materiales de desecho para reflexionar sobre cómo la sociedad critica y moldea a las mujeres hasta que encajan en sus estándares, apagando su brillo y esencia. El proceso incluyó un análisis de materiales, colores y elementos simbólicos que aportaran sentido al proyecto. El artefacto funcionó como un modelo conceptual para comunicar una narrativa de vulnerabilidad y resistencia, mostrando mi capacidad para trabajar temas sensibles y abstractos.",
+    "gallery": "https://raw.githubusercontent.com/valentinatroncoso/Gallery/refs/heads/main/7_comosenorita%20(1).webp"
+  },
+  {
+    "id": 8,
+    "photo": "https://raw.githubusercontent.com/valentinatroncoso/Photos/refs/heads/main/8_volantin.webp",
+    "title": "Volatín",
+    "course": "Proyecto IV",
+    "description": "Profesora: Macarena Becas El ejercicio consistió en desarrollar un patrón a partir de operaciones de simetría, utilizando métodos geométricos para construir una composición. El punto de partida fue la definición de un módulo base: un cuadrado de 5x5 cm dividido en tres áreas de color, que sirvió como unidad fundamental del sistema. A partir de este módulo, se exploraron distintas transformaciones, como rotaciones, traslaciones y reflexiones, para producir un Supermódulo capaz de expandirse coherentemente. Esta etapa permitió estructurar un patrón completo desde reglas geométricas claras. Luego, el Supermódulo se aplicó en una grilla de 9x9, ampliando su lógica mediante traslaciones sucesivas. El proceso culminó en la construcción de un volantín de 45x45 cm, donde el diseño final se materializó como resultado de todas las operaciones realizadas.",
+    "gallery": "https://raw.githubusercontent.com/valentinatroncoso/Gallery/refs/heads/main/8_volantin.webp"
+  },
+  {
+    "id": 9,
+    "photo": "https://raw.githubusercontent.com/valentinatroncoso/Photos/refs/heads/main/9_color.webp",
+    "title": "Color: Dulce",
+    "course": "Representación Conceptual",
+    "description": "Profesora: Camila Lobos El encargo consistió en la elaboración de una composición visual a partir de un concepto asignado, trabajando el color como principal medio de representación. En este caso, el tema fue “dulce”, lo que implicó analizar sus asociaciones perceptuales y simbólicas para definir una paleta cromática coherente. A partir de este diagnóstico, se seleccionaron tonos naranjos y fucsias como recursos capaces de comunicar la cualidad sensorial del concepto. El proyecto permitió aplicar criterios de composición y teoría del color para formalizar una propuesta clara, expresiva y conceptualmente fundamentada.",
+    "gallery": "https://raw.githubusercontent.com/valentinatroncoso/Gallery/refs/heads/main/9_color.webp"
+  },
+  {
+    "id": 10,
+    "photo": "https://raw.githubusercontent.com/valentinatroncoso/Photos/refs/heads/main/10_logo.webp",
+    "title": "Simbolo Propio",
+    "course": "Configuración Visual I",
+    "description": "Profesor: Leonardo Soto El proyecto consistió en el desarrollo de una identidad gráfica personal a partir de tres conceptos representativos: perfeccionismo, feminidad y alegría. A través de un proceso de análisis y síntesis conceptual, se definieron los atributos visuales que permitieron traducir estas ideas en un símbolo propio. El resultado es un logotipo que integra de manera coherente la esencia de los conceptos seleccionados, formalizando una marca personal clara y significativa.",
+    "gallery": "https://raw.githubusercontent.com/valentinatroncoso/Gallery/refs/heads/main/10_logo.webp"
+  },
+   {
+    "id": 11,
+    "photo": "https://raw.githubusercontent.com/valentinatroncoso/Photos/refs/heads/main/11_movimiento.webp",
+    "title": "Movimiento",
+    "course": "Representación Conceptual",
+    "description": "Profesora: Camila Lobos El proyecto se desarrolló a partir del concepto de movimiento, buscando materializarlo mediante un artefacto capaz de evidenciarlo visualmente. La propuesta consistió en una pieza compuesta por dos elementos conectados mediante un rodamiento, lo que permite que, al accionar uno de ellos, se genere un desplazamiento continuo y visualmente hipnotizante. El encargo puso en práctica la capacidad de traducir una idea abstracta en una experiencia perceptible a través de recursos formales y mecánicos.",
+    "gallery": "https://raw.githubusercontent.com/valentinatroncoso/Gallery/refs/heads/main/11_movimiento.webp"
+  },
+  {
+    "id": 12,
+    "photo": "https://raw.githubusercontent.com/valentinatroncoso/Photos/refs/heads/main/12_taburete.webp",
+    "title": "Taburete",
+    "course": "Procesos y Prototipos II",
+    "description": "Profesor: Antonio Marin El proyecto se centró en la construcción de un taburete utilizando exclusivamente técnicas de ensamble, prescindiendo de tornillos o clavos. La estructura se desarrolló mediante uniones tradicionales ,media madera, caja y espiga, y cola de milano, trabajadas en listones de raulí y álamo de 2x2. El encargo puso énfasis en comprender el proceso completo de fabricación: elaboración de croquis, desarrollo de planimetrías, definición de medidas, cálculo de materiales y confección de un cronograma de producción. El ejercicio permitió integrar diseño, planificación y ejecución en un mismo objeto.",
+    "gallery": "https://raw.githubusercontent.com/valentinatroncoso/Gallery/refs/heads/main/12_taburete.webp"
+  },
+  {
+    "id": 13,
+    "photo": "https://raw.githubusercontent.com/valentinatroncoso/Photos/refs/heads/main/13_capsula.webp",
+    "title": "Capsula del Tiempo: Abanico",
+    "course": "Proyecto II",
+    "description": "Profesora: Gabriela Pradenas El proyecto comenzó con una fase de análisis cuyo objetivo fue identificar conceptos capaces de orientar la forma, la materialidad y la gráfica de una Cápsula del Tiempo. Para ello, se estudió en profundidad un abanico, examinando su simbolismo, su comportamiento en uso y los elementos que definen su identidad. A partir de esta observación se construyó un marco conceptual que permitió desarrollar una propuesta coherente basada en ideas de feminidad, movimiento y potencia simbólica. El diseño final tomó forma a través de una estructura de líneas curvas que expresa la relación entre el contenedor y el abanico que protege. El proceso permitió aprender a traducir significados en decisiones formales, a extraer conceptos clave desde un objeto cotidiano y a estructurar una propuesta guiada por fundamentos proyectuales, fortaleciendo la capacidad de análisis, síntesis y representación.",
+    "gallery": "https://raw.githubusercontent.com/valentinatroncoso/Gallery/refs/heads/main/13_abanico.webp"
+  },
+  {
+    "id": 14,
+    "photo": "https://raw.githubusercontent.com/valentinatroncoso/Photos/refs/heads/main/14_luz.webp",
+    "title": "Caja de Luz",
+    "course": "Proyecto I",
+    "description": "Profesora: Gabriela Pradenas El proyecto partió de la observación de una semilla para descubrir la geometría presente en la naturaleza. Se analizaron su forma y estructura mediante dibujo botánico, croquis sintético y representación geometrizada, buscando entender cómo se relacionan forma, función y contención. Se eligió el girasol por la claridad de sus simetrías y la complejidad de sus patrones. El uso secuencial del dibujo permitió registrar detalles, simplificarlos y traducirlos en una organización geométrica que luego se aplicó al diseño de una caja. El proceso me permitió aprender a interpretar patrones naturales, a abstraer información mediante el dibujo y a convertir observaciones orgánicas en decisiones formales de diseño.",
+    "gallery": "https://github.com/catadunsmore/primera-nota/blob/main/img/foto-02.webp?raw=true"
+  },
+  {
+    "id": 15,
+    "photo": "https://raw.githubusercontent.com/valentinatroncoso/Photos/refs/heads/main/15_Senaletica.webp",
+    "title": "Ekun: Propuesta de Señaléticas",
+    "course": "Ergonomía y Factores Humanos",
+    "description": "Profesor: Claudio Ribalta El proyecto comenzó con un análisis de las barreras de accesibilidad presentes en el Parque Metropolitano, identificando cómo estas limitan la experiencia de personas con discapacidad visual y auditiva. A partir de este diagnóstico, se elaboró una propuesta inclusiva basada en un sistema de señaléticas que combina contraste, texturas táctiles y recursos gráficos para facilitar la orientación.",
+    "gallery": "https://raw.githubusercontent.com/valentinatroncoso/Gallery/refs/heads/main/15_Senaletica.webp"
+  },
+  {
+    "id": 16,
+    "photo": "https://raw.githubusercontent.com/valentinatroncoso/Photos/refs/heads/main/16_mascara.webp",
+    "title": "Mascara de Gato",
+    "course": "Herramientas Computacionales",
+    "description": "Profesor: Felipe Cortez El encargo consistió en diseñar una máscara de Halloween mediante modelado 3D en Blender, centrándose en construir una estructura ordenada y liviana.  El reto principal fue obtener un modelo claro sin sobrecargar la geometría. A través del trabajo en Blender se elaboró una forma precisa y controlada, ajustándose a criterios de topología eficiente. El ejercicio fortaleció la capacidad para desarrollar objetos digitales, optimizar geometrías y comunicar ideas a través de modelos 3D.",
+    "gallery": "https://raw.githubusercontent.com/valentinatroncoso/Gallery/refs/heads/main/16_Mascara.webp"
+  }
+]
