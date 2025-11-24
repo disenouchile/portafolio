@@ -1,7 +1,7 @@
 [
 {
         "id": 1,
-        "photo": "https://raw.githubusercontent.com/SofiaParraLunaUCH/clase4/refs/heads/main/img/trabajo%203.webp",
+        "photo": "https://sofiaparralunauch.github.io/repo_para_imagenes/photo_1.webp",
         "title": "Acuareguante",
         "course": "Guante para pintar con acuarela",
         "description": "",
@@ -9,7 +9,7 @@
     },
     {
         "id": 2,
-        "photo": "https://raw.githubusercontent.com/SofiaParraLunaUCH/primera-nota/refs/heads/main/img/foto%201.webp",
+        "photo": "https://sofiaparralunauch.github.io/repo_para_imagenes/photo_2.webp",
         "title": "Fotografías Configuración Visual I",
         "course": "Fotos frio templado y calido.",
         "description": "",
@@ -17,7 +17,7 @@
     },
     {
         "id": 3,
-        "photo": "https://raw.githubusercontent.com/SofiaParraLunaUCH/fotos/refs/heads/main/fotos/foto%206.jpg",
+        "photo": "https://sofiaparralunauch.github.io/repo_para_imagenes/photo_3.webp",
         "title": "Prototipo Ornitorrinco de metal",
         "course": "Trabajo Procesos y Prototipos I.",
         "description": "",
