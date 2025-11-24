@@ -44,8 +44,8 @@ footer {
 }
 
 main {
-    border-right: 7px solid black;
-    border-left: 7px solid black;
+    border-right: 7px solid #000000;
+    border-left: 7px solid #000000;
     background-color: var(--colorSecundario);
 }
 
@@ -85,7 +85,7 @@ h2 {
     letter-spacing: 2px;
     font-size: calc(0.6rem + 0.6vw);
     background-color: var(--colorMediador);
-    color: rgba(255, 255, 255, 0.9);
+    color: rgba(0, 0, 0, 0.9);
     border: 6px solid black;
     padding: 25px 50px;
     text-transform: uppercase;
@@ -176,7 +176,7 @@ h2 {
 }
 
 .gallery-overlay h3 {
-    color: var(--colorMediador);
+    color: black;
     font-size: 1.1rem;
     font-weight: 400;
     margin-bottom: 5px;
@@ -260,7 +260,7 @@ section.single img{
 .about-text p a{
     font-weight: bolder;
     font-style: normal;
-    color:rgba(0,0,0,.75);
+    color:rgb(0, 0, 0);
 }
 
 .about-text p a:hover{
@@ -276,7 +276,7 @@ section.single img{
 }
 
 .about-image img {
-    width: 100%;
+    width: 70%;
     height: auto;
     object-fit: cover;
     filter: grayscale(20%);
