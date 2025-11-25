@@ -91,7 +91,7 @@ Mi Portafolio de Bachiller se construye desde una mirada proyectual con enfoque 
                 }
             }
 
-            document.addEventListener("DOMContentLoaded", () => {
+                        document.addEventListener("DOMContentLoaded", () => {
                 const params = new URLSearchParams(window.location.search);
                 const id = params.get("id");
                 const lugar = document.querySelector("#aqui");
@@ -102,11 +102,10 @@ Mi Portafolio de Bachiller se construye desde una mirada proyectual con enfoque 
                     return;
                 }
 
-                cargarTrabajo(
-                    "trabajitos.json",
-                    id
-                );
+                // Usamos el archivo local directamente:
+                cargarTrabajo("trabajitos.json", id); 
             });
+
         </script>
     </body>
 </html>
